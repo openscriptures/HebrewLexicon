@@ -1301,6 +1301,7 @@
 			</entry>
 			<entry id="a.cj.bf" cite="full">
 				<w strong="2419">חִיאֵל</w>
+				<v ref="x.cc.an">חִיאֵל</v>
 			</entry>
 			<entry id="a.cj.bg" cite="full">
 				<w strong="269">אָחוֹת</w>
@@ -1451,7 +1452,7 @@
 				<w>אטט</w>
 			</entry>
 			<entry id="a.cq.ab" cite="full" form="false">
-				<w strong="328">אִתִּי</w>
+				<w strong="328">אִטִּי</w>
 			</entry>
 			<entry id="a.cq.ac" cite="full">
 				<w strong="328">אַט</w>
@@ -2767,6 +2768,8 @@
 			</entry>
 			<entry id="a.fa.ad" cite="full">
 				<w strong="6323">אָפ֑וּנָה</w>
+				<w strong="6323">פּוּן</w>
+				<v ref="p.ap.aa">פּוּן</v>
 			</entry>
 		</section>
 		<section id="a.fb">
@@ -4355,6 +4358,7 @@
 			</entry>
 			<entry id="b.bj.af" cite="full">
 				<w strong="1018">בֵּית הָאֵ֫צֶל</w>
+				<v ref="a.fh.ad">אֵ֫צֶל</v>
 			</entry>
 			<entry id="b.bj.ag" cite="full">
 				<w strong="1009">בֵּית אַֽרְבֵֿאל</w>
@@ -4381,7 +4385,10 @@
 			</entry>
 			<entry id="b.bj.an" cite="full">
 				<w>בֵּית הַגָּן</w>
-				<w strong="358">אֵילוֹן בֵּית חָנָן</w>
+				<w strong="1004">בַּיִת</w>
+				<w strong="1588">גַּן</w>
+				<v ref="a">גַּן</v>
+				<sub ref="a">גנן</sub>
 			</entry>
 			<entry id="b.bj.ao" cite="full">
 				<w strong="1015">בֵּית דִּבְלָתָ֑יִם</w>
@@ -7518,7 +7525,7 @@
 				<w strong="1702">דֹּבְרוֹת</w>
 				<w src="Strong" strong="1702">דֹּבְרָה</w>
 			</entry>
-			<entry id="d.ai.ae" cite="full" form="false">
+			<entry id="d.ai.aem" cite="full" form="false">
 				<w strong="1700">דִּבְרָה</w>
 			</entry>
 			<entry id="d.ai.af" cite="full" mod="I">
@@ -9053,6 +9060,7 @@
 			<page p="228"/>
 			<entry id="h.be.ab" cite="full" form="false">
 				<w strong="1962">הַיָּה</w>
+				<v ref="h.ay.ac">הַיָּה</v>
 			</entry>
 		</section>
 		<section id="h.bf">
@@ -9900,6 +9908,7 @@
 			</entry>
 			<entry id="z.ax.ad" cite="full">
 				<w strong="2190">זַעֲוָן</w>
+				<v ref="z.bv.ad">זַעֲוָן</v>
 			</entry>
 		</section>
 		<section id="z.ay">
@@ -10014,6 +10023,7 @@
 			</entry>
 			<entry id="z.bd.aq" cite="full">
 				<w strong="2241">זֵתָם</w>
+				<v ref="z.cn.ae">זֵתָם</v>
 			</entry>
 			<page p="269"/>
 			<entry id="z.bd.ar">
@@ -10202,7 +10212,7 @@
 			<entry id="z.bp.aa" type="root" form="false" mod="II">
 				<w strong="2168">זָמַר</w>
 			</entry>
-			<entry id="z.bp.aa" cite="full" mod="II">
+			<entry id="z.bp.aam" cite="full" mod="II">
 				<w strong="2159">זָמִיר</w>
 			</entry>
 			<entry id="z.bp.ab" cite="full">
@@ -11048,7 +11058,7 @@
 		</section>
 		<section id="x.ba">
 			<entry id="x.ba.aa" type="root" mod="I">
-				<w strong="2330">חוה</w>
+				<w>חוה</w>
 				<v ref="x.cc.ae">חָיָה</v>
 			</entry>
 			<entry id="x.ba.ab" cite="full" mod="I">
@@ -11084,7 +11094,7 @@
 			</entry>
 			<entry id="x.bc.ac">
 				<w strong="2335">חוֹזַי</w>
-				<v ref="x.bq.aa">חזה</v>
+				<v ref="x.bp.ac">חזה</v>
 			</entry>
 		</section>
 		<section id="x.bd">
@@ -12137,7 +12147,7 @@
 				<w strong="2532">חֶמְדָּה</w>
 			</entry>
 			<entry id="x.dc.ad" cite="full" form="false">
-				<w strong="2530">חֲמוּדָה</w>
+				<w strong="2532">חֲמוּדָה</w>
 				<w src="Strong" strong="2530">חָמַד</w>
 			</entry>
 			<entry id="x.dc.ae" cite="full">
@@ -16187,6 +16197,7 @@
 			<entry id="y.dk.aa" type="root" cite="full" form="false">
 				<w strong="7297">יָרַהּ</w>
 				<w src="Strong" strong="7297">רָהָה</w>
+				<v ref="r.be.aa">רָהָה</v>
 			</entry>
 			<entry id="y.dk.ab">
 				<w strong="3389">יְרוּשָׁלַ֫םִ</w>
@@ -16809,7 +16820,7 @@
 			</entry>
 		</section>
 		<section id="k.ad">
-			<entry id="k.ac.aa" type="root" cite="full" form="false">
+			<entry id="k.ad.aa" type="root" cite="full" form="false">
 				<w strong="3512">כָּאָה</w>
 			</entry>
 			<entry id="k.ad.ab" cite="full" form="false">
@@ -19674,6 +19685,7 @@
 		<section id="m.ah">
 			<entry id="m.ah.aa" type="root">
 				<w strong="554">מאץ</w>
+				<v ref="a.dy.ae">אָמֹץ</v>
 			</entry>
 		</section>
 		<section id="m.ai">
@@ -20178,7 +20190,7 @@
 		</section>
 		<section id="m.au">
 			<entry id="m.au.aa" type="root" mod="I">
-				<w strong="4128">מוד</w>
+				<w>מוד</w>
 			</entry>
 			<entry id="m.au.ab" cite="full">
 				<w strong="8548">תָּמִיד</w>
@@ -22079,6 +22091,7 @@
 			<entry id="m.cs.af" cite="full">
 				<w strong="4575">מַעֲדַנּוֹת</w>
 				<w src="Strong" strong="4575">מַעֲדַנָּה</w>
+				<v ref="e.dp.ab">מַעֲדַנּוֹת</v>
 			</entry>
 			<entry id="m.cs.ag">
 				<w>מַעְדֵּר</w>
@@ -22159,6 +22172,7 @@
 			</entry>
 			<entry id="m.cw.af" cite="full">
 				<w strong="4596">מְעִי</w>
+				<v ref="e.bc.ae">מְעִי</v>
 			</entry>
 			<entry id="m.cw.ag" cite="full">
 				<w strong="4597">מָעַי</w>
@@ -22205,7 +22219,7 @@
 				<w strong="4604">מַ֫עַל</w>
 			</entry>
 			<entry id="m.cy.ac" cite="full">
-				<w strong="4598">מְ����ִיל</w>
+				<w strong="4598">מְ������ִיל</w>
 			</entry>
 			<entry id="m.cy.ad" mod="II">
 				<w>מַ֫עַל</w>
@@ -22364,7 +22378,7 @@
 			<entry id="m.cz.ay">
 				<w strong="4648">מְפִ(י)בשֶׁת</w>
 				<v ref="r.ck.al">מְרִיב׳</v>
-				<v ref="r.ck.aa">ריב</v>
+				<sub ref="r.ck.aa">ריב</sub>
 			</entry>
 			<entry id="m.cz.az" cite="full">
 				<w strong="4649">מֻפִּים</w>
@@ -24223,6 +24237,7 @@
 			</entry>
 			<entry id="n.bm.ae" cite="full">
 				<w strong="1958">הִי</w>
+				<v ref="h.bd.ab">הִי</v>
 			</entry>
 		</section>
 		<section id="n.bn">
@@ -26532,6 +26547,7 @@
 			<entry id="s.as.ad" cite="full">
 				<w strong="5515">סִוֵנִים</w>
 				<w src="Strong" strong="5515">סִינִים</w>
+				<v ref="s.ba.an">סִינִים</v>
 			</entry>
 			<entry id="s.as.ae" cite="full" mod="I">
 				<w strong="5483">סוּס</w>
@@ -26792,7 +26808,7 @@
 			</entry>
 		</section>
 		<section id="s.bf">
-			<entry id="s.bf.aa" type="root">
+			<entry id="s.bf.aa" type="root" mod="II">
 				<w strong="5533">סָכַן</w>
 			</entry>
 		</section>
@@ -28200,6 +28216,7 @@
 			<entry id="e.bk.aa" type="root" cite="full" form="false" mod="II">
 				<w strong="5774">עוּף</w>
 				<w src="BDB">עִיף</w>
+				<v ref="e.bk.af">תְּעֻפָה</v>
 			</entry>
 			<entry id="e.bk.ab" cite="full" mod="I">
 				<w strong="5890">עֵיפָה</w>
@@ -30218,7 +30235,7 @@
 			<entry id="e.fe.ab" cite="full" form="false">
 				<w strong="6170">עֲרוּגָה</w>
 			</entry>
-			<entry id="e.fe.ac" cite="full">
+			<entry id="e.fe.ac" cite="full" mod="I">
 				<w strong="6166">עֲרָד</w>
 			</entry>
 			<entry id="e.fe.ad" cite="full" mod="II">
@@ -30973,7 +30990,7 @@
 			<entry id="p.ao.ad" cite="full">
 				<w strong="6317">פּוּטִיאֵל</w>
 			</entry>
-			<entry id="p.ao.ad" cite="full">
+			<entry id="p.ao.adm" cite="full">
 				<w strong="6318">פּוֹטִיפַר</w>
 			</entry>
 			<entry id="p.ao.ae" cite="full">
@@ -35378,10 +35395,15 @@
 			<entry id="q.ct.ab" cite="full" mod="I">
 				<w strong="7110">קֶ֫צֶף</w>
 			</entry>
-			<entry id="q.ct.ac" cite="full">
+		</section>
+		<section id="q.ctm">
+			<entry id="q.ctm.aa" type="root" mod="II">
+				<w>קצף</w>
+			</entry>
+			<entry id="q.ctm.ab" cite="full">
 				<w strong="7111">קְצָפָה</w>
 			</entry>
-			<entry id="q.ct.ad" cite="full" mod="II">
+			<entry id="q.ctm.ac" cite="full" mod="II">
 				<w strong="7110">קֶ֫צֶף</w>
 			</entry>
 		</section>
@@ -35401,7 +35423,7 @@
 			</entry>
 		</section>
 		<section id="q.cv">
-			<entry id="q.cv.aa" type="root" cite="full" form="false">
+			<entry id="q.cv.aa" type="root" cite="full" form="false" mod="I">
 				<w strong="7114">קָצֵר</w>
 				<w src="BDB">קָצַר</w>
 			</entry>
@@ -36926,6 +36948,7 @@
 			<entry id="r.ch.aa" type="root" cite="full" form="false">
 				<w strong="3399">רָטָה</w>
 				<w src="Strong" strong="3399">יָרַט</w>
+				<v ref="y.dm.aa">יָרַט</v>
 			</entry>
 		</section>
 		<section id="r.ci">
@@ -39989,6 +40012,7 @@
 			</entry>
 			<entry id="j.bv.ab" cite="full" mod="I">
 				<w strong="7769">שׁוּעַ</w>
+				<v ref="y.dz.af">שׁוּעַ</v>
 			</entry>
 			<page p="1003"/>
 			<entry id="j.bv.ac" cite="full">
@@ -43034,6 +43058,7 @@
 			</entry>
 			<entry id="t.am.an" cite="full">
 				<w strong="8493">תִּירְיָא</w>
+				<v ref="y.dg.ag">תִּֽירְיָא</v>
 			</entry>
 			<entry id="t.am.ao" cite="full">
 				<w strong="8494">תִּירָ֑ס</w>
