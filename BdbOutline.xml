@@ -2561,7 +2561,7 @@
 				<w strong="859">אָ֑תָּה</w>
 			</entry>
 			<entry id="a.ep.ac">
-				<w>אתי</w>
+				<w strong="859">אתי</w>
 			</entry>
 			<entry id="a.ep.ad">
 				<w strong="859">אַתְּ</w>
@@ -19562,14 +19562,13 @@
 			<entry id="m.aa.ab" type="root">
 				<w>ם</w>
 			</entry>
-			<page p="547"/>
 			<entry id="m.aa.ac">
 				<w>מַ׳</w>
 				<v ref="m.an.aa">מָה</v>
 			</entry>
 			<entry id="m.aa.ad">
 				<w>מִ׳</w>
-				<v ref="al.ap.aa">מִן</v>
+				<v ref="m.cj.aa">מִן</v>
 			</entry>
 			<entry id="m.aa.ae">
 				<w>מֹאָב</w>
@@ -29006,6 +29005,7 @@
 			</entry>
 			<entry id="e.cp.ar">
 				<w strong="5920">עַל</w>
+				<w strong="5921">עַל</w>
 				<w src="BDB">עָ֑ל</w>
 			</entry>
 			<page p="753"/>

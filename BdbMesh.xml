@@ -535,7 +535,8 @@
 	<w strong="515">a.dt.ae</w>
 	<w strong="516">j.cr.aa</w>
 	<w strong="517">a.dw.ab</w>
-	<w strong="518">a.dt.af|k.bf.ab</w>
+	<w strong="518 a">a.dt.af</w>
+	<w strong="518 b">k.bf.ab</w>
 	<w strong="519">a.du.ab</w>
 	<w strong="520 a">a.dw.ad</w>
 	<w strong="520 b">a.dw.ae</w>
@@ -862,7 +863,10 @@
 	<w strong="831">a.ge.af</w>
 	<w strong="832">a.ge.ag</w>
 	<w strong="833">a.gf.aa</w>
-	<w strong="834">a.gg.aa|a.gg.ab|a.gg.ad|k.ab.ab</w>
+	<w strong="834 a">a.gg.aa</w>
+	<w strong="834 b">a.gg.ab</w>
+	<w strong="834 c">a.gg.ad</w>
+	<w strong="834 d">k.ab.ab</w>
 	<w strong="835">a.gf.ab</w>
 	<w strong="836">a.gf.af</w>
 	<w strong="837">a.gf.ac</w>
@@ -888,7 +892,11 @@
 	<w strong="856">a.gj.ab</w>
 	<w strong="857">a.gk.aa</w>
 	<w strong="858">aa.bi.aa</w>
-	<w strong="859">a.ep.ab|a.ep.ad|a.ep.ae|a.ep.af</w>
+	<w strong="859 a">a.ep.ab</w>
+	<w strong="859 b">a.ep.ac</w>
+	<w strong="859 c">a.ep.ad</w>
+	<w strong="859 d">a.ep.ae</w>
+	<w strong="859 e">a.ep.af</w>
 	<w strong="860">a.gl.ab</w>
 	<w strong="861">aa.bi.ac</w>
 	<w strong="862 a">a.gl.ag</w>
@@ -3770,7 +3778,9 @@
 	<w strong="3585">k.be.ab</w>
 	<w strong="3586">k.be.ac</w>
 	<w strong="3587">k.at.ab</w>
-	<w strong="3588">k.bf.aa|k.bf.ab|k.bf.ac</w>
+	<w strong="3588 a">k.bf.aa</w>
+	<w strong="3588 b">k.bf.ab</w>
+	<w strong="3588 c">k.bf.ac</w>
 	<w strong="3589">k.bf.ae</w>
 	<w strong="3590">k.an.ac</w>
 	<w strong="3591">k.bg.ab</w>
@@ -4019,7 +4029,8 @@
 	<w strong="3817">l.ag.ac</w>
 	<w strong="3818">l.ab.ac</w>
 	<w strong="3819">l.ab.ad</w>
-	<w strong="3820">l.ai.ac|l.ai.ae</w>
+	<w strong="3820 a">l.ai.ac</w>
+	<w strong="3820 b">l.ai.ae</w>
 	<w strong="3821">al.ad.ad</w>
 	<w strong="3822">l.ah.ae</w>
 	<w strong="3823 a">l.ai.af</w>
@@ -6289,7 +6300,8 @@
 	<w strong="5918">e.cn.ad</w>
 	<w strong="5919">e.cn.ae</w>
 	<w strong="5920">e.cp.ar</w>
-	<w strong="5921">k.bf.ac</w>
+	<w strong="5921 a">e.cp.ar</w>
+	<w strong="5921 b">k.bf.ac</w>
 	<w strong="5922">ae.ag.aa</w>
 	<w strong="5923">e.ct.ab</w>
 	<w strong="5924">ae.ag.ab</w>
@@ -6347,7 +6359,8 @@
 	<w strong="5971 a">e.df.ab</w>
 	<w strong="5971 b">e.dg.ad</w>
 	<w strong="5972">ae.ah.ag</w>
-	<w strong="5973">e.dg.aa|e.dg.ab</w>
+	<w strong="5973 a">e.dg.aa</w>
+	<w strong="5973 b">e.dg.ab</w>
 	<w strong="5974">ae.ai.aa</w>
 	<w strong="5975">e.dc.aa</w>
 	<w strong="5976">m.cs.aa</w>
@@ -7961,6 +7974,9 @@
 	<w strong="7448">r.dd.ab</w>
 	<w strong="7449">r.dd.ac</w>
 	<w strong="7450">r.de.aa</w>
+	<w strong="7451 a">r.do.ac</w>
+	<w strong="7451 b">r.do.ad</w>
+	<w strong="7451 c">r.do.ae</w>
 	<w strong="7451">r.do.ac|r.do.ad|r.do.ae</w>
 	<w strong="7452">r.bn.ab</w>
 	<w strong="7453">r.dj.ab</w>
