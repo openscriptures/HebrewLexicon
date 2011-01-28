@@ -2609,8 +2609,7 @@
 	<w strong="2486">x.cr.ad</w>
 	<w strong="2487">x.cv.ae</w>
 	<w strong="2488">x.cw.ab</w>
-	<w strong="2489 a">x.cp.ab</w>
-	<w strong="2489 b">k.ad.ab</w>
+	<w strong="2489">x.cp.ab</w>
 	<w strong="2490 a">x.cq.aa</w>
 	<w strong="2490 b">x.cq.af</w>
 	<w strong="2490 c">x.cr.aa</w>
@@ -3696,7 +3695,8 @@
 	<w strong="3509">y.eg.as</w>
 	<w strong="3510">k.ac.aa</w>
 	<w strong="3511">k.ac.ab</w>
-	<w strong="3512">k.ad.aa</w>
+	<w strong="3512 a">k.ad.aa</w>
+	<w strong="3512 b">k.ad.ab</w>
 	<w strong="3513">k.af.aa</w>
 	<w strong="3514">k.af.ad</w>
 	<w strong="3515">k.af.ab</w>
