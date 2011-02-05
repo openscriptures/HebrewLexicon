@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema targetNamespace="http://www.APTBibleTools.com/namespace" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.APTBibleTools.com/namespace" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	
+	<xs:annotation>
+		<xs:documentation>
+			<p>The HebrewLexicon schema is version 1.0.
+			It is released to the public domain.</p>
+		</xs:documentation>
+	</xs:annotation>
+	
+	<xs:element name="lexicon" type="lexiconCT"/>
+	
+	<!-- complex types -->
+	
+	<xs:complexType name="lexiconCT">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="entry" type="entryCT"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="entryCT">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="note" type="xs:string"/>
+			<xs:element name="source" type="sourceCT"/>
+			<xs:element name="meaning" type="meaningCT"/>
+			<xs:element name="usage" type="sourceCT"/>
+			<xs:element name="bdb" type="bdbCT"/>
+			<xs:element name="status" type="statusCT"/>
+		</xs:choice>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="wCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="pos" type="xs:string"/>
+				<xs:attribute name="pron" type="xs:string"/>
+				<xs:attribute name="xlit" type="xs:string"/>
+				<xs:attribute ref="xml:lang"/>
+				<xs:attribute name="src" type="xs:IDREF"/>
+				<xs:attribute name="origin" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="sourceCT" mixed="true">
+		<xs:choice maxOccurs="unbounded" minOccurs="0">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="note" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+		</xs:choice>
+	</xs:complexType>
+	
+	<xs:complexType name="meaningCT" mixed="true">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="def" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="bdbCT" mixed="true">
+		<xs:choice maxOccurs="unbounded" minOccurs="0">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+			<xs:element name="em" type="xs:string"/>
+			<xs:element name="sense" type="senseCT"/>
+		</xs:choice>
+		<xs:attribute name="type" type="entryType" default="entry"/>
+		<xs:attribute name="cite" type="citationType" default="partial"/>
+		<xs:attribute name="form" type="xs:boolean" default="true"/>
+		<xs:attribute name="mod" type="modList"/>
+	</xs:complexType>
+	
+	<xs:complexType name="statusCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="p" type="xs:integer"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="senseCT" mixed="true">
+		<xs:choice maxOccurs="unbounded" minOccurs="0">
+			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+			<xs:element name="em" type="xs:string"/>
+			<xs:element name="sense" type="senseCT"/>
+			<xs:element name="w" type="wCT"/>
+		</xs:choice>
+		<xs:attribute name="n" type="xs:string"/>
+	</xs:complexType>
+	
+	<!-- simple types -->
+	
+	<xs:simpleType name="entryType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="root"/>
+			<xs:enumeration value="entry"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="citationType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="full"/>
+			<xs:enumeration value="partial"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="modList">
+		<xs:list itemType="modType"/>
+	</xs:simpleType>
+	
+	<xs:simpleType name="modType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[IVXLCDM]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>
