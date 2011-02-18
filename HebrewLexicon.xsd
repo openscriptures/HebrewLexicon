@@ -5,7 +5,7 @@
 	
 	<xs:annotation>
 		<xs:documentation>
-			<p>The HebrewLexicon schema is version 1.0.
+			<p>The HebrewLexicon schema is version 1.1.
 			It is released to the public domain.</p>
 		</xs:documentation>
 	</xs:annotation>
@@ -25,7 +25,7 @@
 			<xs:element name="w" type="wCT"/>
 			<xs:element name="note" type="xs:string"/>
 			<xs:element name="source" type="sourceCT"/>
-			<xs:element name="meaning" type="meaningCT"/>
+			<xs:element name="meaning" type="sourceCT"/>
 			<xs:element name="usage" type="sourceCT"/>
 			<xs:element name="bdb" type="bdbCT"/>
 			<xs:element name="status" type="statusCT"/>
@@ -54,16 +54,12 @@
 		</xs:choice>
 	</xs:complexType>
 	
-	<xs:complexType name="meaningCT" mixed="true">
-		<xs:sequence maxOccurs="unbounded">
-			<xs:element name="def" type="xs:string"/>
-		</xs:sequence>
-	</xs:complexType>
-	
 	<xs:complexType name="bdbCT" mixed="true">
 		<xs:choice maxOccurs="unbounded" minOccurs="0">
 			<xs:element name="w" type="wCT"/>
 			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="stem" type="xs:string"/>
+			<xs:element name="asp" type="xs:string"/>
 			<xs:element name="def" type="xs:string"/>
 			<xs:element name="em" type="xs:string"/>
 			<xs:element name="sense" type="senseCT"/>
@@ -85,6 +81,8 @@
 	<xs:complexType name="senseCT" mixed="true">
 		<xs:choice maxOccurs="unbounded" minOccurs="0">
 			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="stem" type="xs:string"/>
+			<xs:element name="asp" type="xs:string"/>
 			<xs:element name="def" type="xs:string"/>
 			<xs:element name="em" type="xs:string"/>
 			<xs:element name="sense" type="senseCT"/>

@@ -4519,7 +4519,7 @@
 			</entry>
 			<entry id="b.bj.cb">
 				<w>בֵּית</w>
-				<v ref="b.bi.ac">בּ��יִן</v>
+				<v ref="b.bi.ac">בֵּין</v>
 				<sub ref="b.bi.aa">בין</sub>
 			</entry>
 			<entry id="b.bj.cc" cite="full">
@@ -8088,7 +8088,7 @@
 			<entry id="d.bn.ac" cite="full" mod="I">
 				<w strong="1803">דַּלָּה</w>
 			</entry>
-			<entry id="d.bn.ad" cite="full" form="false">
+			<entry id="d.bn.ad" cite="full" form="false" mod="II">
 				<w strong="1803">דַּלָּה</w>
 			</entry>
 			<page p="196"/>
@@ -21806,7 +21806,7 @@
 			<entry id="m.cm.aa" type="root">
 				<w>מנן</w>
 			</entry>
-			<entry id="m.cm.ab" cite="full" form="false">
+			<entry id="m.cm.ab" cite="full" form="false" mod="II">
 				<w strong="4480">מֵן</w>
 				<w src="Strong" strong="4480">מִן</w>
 			</entry>
@@ -43231,7 +43231,7 @@
 			<entry id="t.av.aa" type="root">
 				<w>תלע</w>
 			</entry>
-			<entry id="t.av.ab" cite="full">
+			<entry id="t.av.ab" cite="full" mod="I">
 				<w strong="8438">תּוֹלָע</w>
 				<w src="Strong" strong="8438">תּוֹלֵעָה</w>
 				<w src="Strong" strong="8438">תּוֹלַעַת</w>
@@ -43860,7 +43860,7 @@
 				<v ref="y.du.aa">ישׁה</v>
 			</entry>
 			<entry id="t.bo.bn">
-				<w strong="8672">תֵּ֫ש��ַע</w>
+				<w strong="8672">תֵּ֫שַׁע</w>
 				<w strong="8672">תִּשְׁעָה</w>
 			</entry>
 			<entry id="t.bo.bo">
@@ -45377,7 +45377,7 @@
 			</entry>
 			<page p="1096"/>
 			<entry id="ay.aj.ab" cite="full" form="false">
-				<w strong="3272">תָעֵט</w>
+				<w strong="3272">יָעֵט</w>
 				<w src="Strong" strong="3272">יְעַט</w>
 			</entry>
 			<entry id="ay.aj.ac" cite="full">
