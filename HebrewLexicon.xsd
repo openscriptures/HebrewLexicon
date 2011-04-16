@@ -28,6 +28,7 @@
 			<xs:element name="meaning" type="sourceCT"/>
 			<xs:element name="usage" type="sourceCT"/>
 			<xs:element name="bdb" type="bdbCT"/>
+			<xs:element name="xref" type="xrefCT"/>
 			<xs:element name="status" type="statusCT"/>
 		</xs:choice>
 		<xs:attribute name="id" type="xs:ID" use="required"/>
@@ -68,6 +69,14 @@
 		<xs:attribute name="cite" type="citationType" default="partial"/>
 		<xs:attribute name="form" type="xs:boolean" default="true"/>
 		<xs:attribute name="mod" type="modList"/>
+	</xs:complexType>
+	
+	<xs:complexType name="xrefCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="twot" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
 	</xs:complexType>
 	
 	<xs:complexType name="statusCT">
