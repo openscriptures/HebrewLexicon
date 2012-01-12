@@ -26644,8 +26644,6 @@
 			<entry id="s.az.aa" type="root" cite="full" form="false">
 				<w strong="5503">סָחַר</w>
 			</entry>
-		</section>
-		<section id="s.ba">
 			<entry id="s.ba.aa" type="root" cite="full" form="false">
 				<w strong="5505">סָ֫חַר</w>
 				<w strong="5504">סַחַר</w>
@@ -29852,8 +29850,8 @@
 				<w strong="6089">עֶ֫צֶב</w>
 			</entry>
 			<entry id="e.eg.ac" cite="full" form="false" mod="II">
-				<w strong="6091">עֹ֫צֶב</w>
-				<w src="Strong" strong="6091">עָצָב</w>
+				<w strong="6090">עֹ֫צֶב</w>
+				<w src="Strong" strong="6090">עָצָב</w>
 			</entry>
 			<entry id="e.eg.ad" cite="full" form="false">
 				<w strong="6091">עָצָב</w>
@@ -38276,7 +38274,7 @@
 			</entry>
 			<entry id="f.ak.ae">
 				<w strong="7742">שׂוּחַ</w>
-				<v mod="I" ref="s.as.ae">שׁוּט</v>
+				<v mod="I" ref="j.bs.aa">שׁוּט</v>
 			</entry>
 		</section>
 		<section id="f.al">
@@ -41719,7 +41717,7 @@
 				<v ref="j.ev.ad"/>
 			</entry>
 			<entry id="j.ev.af" cite="full">
-				<w strong="4938">מִשְׁעֶ֫נֶה</w>
+				<w strong="4938">מִשְׁעֶ֫נֶת</w>
 				<w src="Strong" strong="4938">מִשְׁעֵנָה</w>
 			</entry>
 		</section>
