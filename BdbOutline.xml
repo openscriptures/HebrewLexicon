@@ -544,13 +544,13 @@
 				<w strong="119">אָדֵם</w>
 			</entry>
 			<entry id="a.bd.ac" cite="full">
-				<w strong="122">אָדֹם</w>
+				<w strong="122" aug="a">אָדֹם</w>
 			</entry>
 			<entry id="a.bd.ad" cite="full">
 				<w strong="124">אֹ֫דֶם</w>
 			</entry>
 			<entry id="a.bd.ae" cite="full">
-				<w strong="122">אֱדֹם</w>
+				<w strong="122" aug="b">אֱדֹם</w>
 			</entry>
 			<entry id="a.bd.af">
 				<w strong="123">אֱדוֹם</w>
@@ -822,7 +822,7 @@
 			<entry id="a.bu.ab" cite="full">
 				<w strong="190">אוֹיָה</w>
 			</entry>
-			<entry id="a.bu.ac" mod="III">
+			<entry id="a.bu.ac" type="root" mod="III">
 				<w>אוה</w>
 			</entry>
 			<entry id="a.bu.ad" cite="full" form="false" mod="II">
@@ -858,10 +858,10 @@
 				<w>איל</w>
 			</entry>
 			<entry id="a.bw.ab" cite="full" form="false" mod="I">
-				<w strong="193">אוּל</w>
+				<w strong="193" aug="a">אוּל</w>
 			</entry>
 			<entry id="a.bw.ac" cite="full" form="false" mod="II">
-				<w strong="193">אוּל</w>
+				<w strong="193" aug="b">אוּל</w>
 			</entry>
 			<entry id="a.bw.ad" cite="full" mod="I">
 				<w strong="197">אוּלָם</w>
@@ -870,17 +870,17 @@
 				<w strong="198">אוּלָם</w>
 			</entry>
 			<entry id="a.bw.af" mod="I">
-				<w strong="352">אַ֫יִל</w>
+				<w strong="352" aug="a">אַ֫יִל</w>
 			</entry>
 			<page p="18"/>
 			<entry id="a.bw.ag" mod="II">
-				<w strong="352">אַ֫יִל</w>
+				<w strong="352" aug="b">אַ֫יִל</w>
 			</entry>
 			<entry id="a.bw.ah" cite="full" form="false" mod="III">
-				<w strong="352">אַ֫יִל</w>
+				<w strong="352" aug="c">אַ֫יִל</w>
 			</entry>
 			<entry id="a.bw.ai" cite="full" form="false" mod="IV">
-				<w strong="352">אַ֫יִל</w>
+				<w strong="352" aug="d">אַ֫יִל</w>
 			</entry>
 			<entry id="a.bw.aj" cite="full">
 				<w strong="364">אֵיל פָּארָן</w>
@@ -906,10 +906,10 @@
 				<w strong="440">אֵלֹנִי</w>
 			</entry>
 			<entry id="a.bw.aq" cite="full">
-				<w strong="359">אֵילַת</w>
+				<w strong="359" aug="a">אֵילַת</w>
 			</entry>
 			<entry id="a.bw.ar" cite="full">
-				<w strong="359">אֵילוֹת</w>
+				<w strong="359" aug="b">אֵילוֹת</w>
 			</entry>
 			<entry id="a.bw.as" form="false">
 				<w strong="361">אֵילָם</w>
