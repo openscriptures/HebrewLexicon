@@ -174,7 +174,7 @@
 			</entry>
 		</section>
 		<section id="a.ag">
-			<entry id="a.ag.aa">
+			<entry id="a.ag.aa" type="root">
 				<w>אבח</w>
 			</entry>
 			<entry id="a.ag.ab" form="false">
@@ -319,7 +319,7 @@
 		</section>
 		<section id="a.ao">
 			<entry id="a.ao.aa" type="root">
-				<w>אבצ</w>
+				<w>אבץ</w>
 			</entry>
 			<entry id="a.ao.ab" cite="full" form="false">
 				<w strong="77">אֶ֫בֶץ</w>
