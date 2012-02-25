@@ -5069,7 +5069,7 @@
 		</section>
 		<section id="b.cd">
 			<entry id="b.cd.aa" type="root" cite="full" form="false" mod="I">
-				<w strong="1197">בָּעַר</w>
+				<w strong="1197" aug="a">בָּעַר</w>
 			</entry>
 			<page p="129"/>
 			<entry id="b.cd.ab" cite="full">
@@ -5082,7 +5082,7 @@
 				<w strong="1165">בְּעִיר</w>
 			</entry>
 			<entry id="b.cd.ae" cite="full" form="false" mod="II">
-				<w strong="1197">בָּעַר</w>
+				<w strong="1197" aug="b">בָּעַר</w>
 			</entry>
 			<entry id="b.cd.af" cite="full">
 				<w strong="1198">בַּ֫עַר</w>
@@ -5194,7 +5194,7 @@
 				<w strong="1226">בַּצֹּרֶת</w>
 			</entry>
 			<entry id="b.ch.ao" cite="full">
-				<w strong="6869">בַּצָּרָה</w>
+				<w strong="6869" aug="a">בַּצָּרָה</w>
 			</entry>
 			<entry id="b.ch.ap" cite="full">
 				<w strong="1210">בָּצִיר</w>
@@ -5245,12 +5245,12 @@
 		</section>
 		<section id="b.ck">
 			<entry id="b.ck.aa" type="root" cite="full" form="false" mod="I">
-				<w strong="1238">בָּקַק</w>
+				<w strong="1238" aug="a">בָּקַק</w>
 			</entry>
 		</section>
 		<section id="b.cl">
 			<entry id="b.cl.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="1238">בָּקַק</w>
+				<w strong="1238" aug="b">בָּקַק</w>
 			</entry>
 			<entry id="b.cl.ab" cite="full">
 				<w strong="1228">בַּקְבֻּק</w>
@@ -5308,7 +5308,7 @@
 		</section>
 		<section id="b.co">
 			<entry id="b.co.aa" type="root" cite="full" mod="I">
-				<w strong="1254">בָּרָא</w>
+				<w strong="1254" aug="a">בָּרָא</w>
 			</entry>
 			<entry id="b.co.ab" cite="full">
 				<w strong="1278">בְּרִיאָה</w>
@@ -5319,7 +5319,7 @@
 		</section>
 		<section id="b.cp">
 			<entry id="b.cp.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="1254">בָּרָא</w>
+				<w strong="1254" aug="b">בָּרָא</w>
 			</entry>
 			<entry id="b.cp.ab" cite="full">
 				<w strong="1277">בָּרִיא</w>
@@ -5510,10 +5510,10 @@
 		<section id="b.cx">
 			<entry id="b.cx.aa" type="root" cite="full">
 				<w strong="1299">בָּרַק</w>
-				<w strong="1300">בָּרַק</w>
+				<w strong="1300" aug="a">בָּרַק</w>
 			</entry>
 			<entry id="b.cx.ab" cite="full">
-				<w strong="1300">בָּרָק</w>
+				<w strong="1300" aug="b">בָּרָק</w>
 			</entry>
 			<entry id="b.cx.ac" cite="full">
 				<w strong="1301">בָּרָק</w>
@@ -5523,10 +5523,10 @@
 				<v ref="b.bu.ao">בני ברק</v>
 			</entry>
 			<entry id="b.cx.ae" cite="full">
-				<w strong="1304">בָּרֶ֫קֶת</w>
+				<w strong="1304" aug="a">בָּרֶ֫קֶת</w>
 			</entry>
 			<entry id="b.cx.af" cite="full">
-				<w strong="1304">בָּֽרְקַת</w>
+				<w strong="1304" aug="b">בָּֽרְקַת</w>
 			</entry>
 			<entry id="b.cx.ag" cite="full">
 				<w strong="1302">בַּרְקוֹס</w>
@@ -5544,7 +5544,7 @@
 				<w strong="1249">בַּר</w>
 			</entry>
 			<entry id="b.cy.ac" cite="full" mod="III">
-				<w strong="1250">בַּר</w>
+				<w strong="1250" aug="a">בַּר</w>
 			</entry>
 			<entry id="b.cy.ad" cite="full" mod="I">
 				<w strong="1253">בֹּר</w>
@@ -5556,7 +5556,7 @@
 				<w strong="1287">בֹּרִית</w>
 			</entry>
 			<entry id="b.cy.ag" cite="full">
-				<w strong="1250">בָּר</w>
+				<w strong="1250" aug="b">בָּר</w>
 			</entry>
 			<entry id="b.cy.ah" cite="full">
 				<w strong="1257">בַּרְבֻּרִים</w>
@@ -5666,10 +5666,10 @@
 				<v ref="b.di.aa">בתת</v>
 			</entry>
 			<entry id="b.de.ae" cite="full" mod="I">
-				<w strong="1328">בְּתוּאֵל</w>
+				<w strong="1328" aug="a">בְּתוּאֵל</w>
 			</entry>
 			<entry id="b.de.af" cite="full" mod="II">
-				<w strong="1328">בְּתוּאֵל</w>
+				<w strong="1328" aug="b">בְּתוּאֵל</w>
 				<w strong="1329">בְּתוּל</w>
 			</entry>
 			<entry id="b.de.ag">
@@ -5785,10 +5785,10 @@
 		</section>
 		<section id="g.ac">
 			<entry id="g.ac.aa" type="root" cite="full" mod="I">
-				<w strong="1350">גָּאַל</w>
+				<w strong="1350" aug="a">גָּאַל</w>
 			</entry>
 			<entry id="g.ac.ab" cite="full">
-				<w strong="1350">גְּאוּלַי</w>
+				<w strong="1350" aug="b">גְּאוּלַי</w>
 			</entry>
 			<entry id="g.ac.ac" cite="full">
 				<w strong="1353">גְּאֻלָּה</w>
@@ -5850,7 +5850,7 @@
 			<entry id="g.af.ad" cite="full">
 				<w>גַּבַּי סַלָּ֑י</w>
 				<w src="Strong" strong="1373">גַּבַּי</w>
-				<w src="Strong" strong="5543">סַלַּי</w>
+				<w src="Strong" strong="5543" aug="a">סַלַּי</w>
 			</entry>
 			<entry id="g.af.ae" cite="full">
 				<w strong="1405">גִּבְּתוֹן</w>
@@ -5864,10 +5864,10 @@
 				<w strong="1357">גֵּב</w>
 			</entry>
 			<entry id="g.ag.ac" cite="full">
-				<w strong="1462">גּוֹב</w>
+				<w strong="1462" aug="a">גּוֹב</w>
 			</entry>
 			<entry id="g.ag.ad" cite="full">
-				<w strong="1462">גֹּבַי</w>
+				<w strong="1462" aug="b">גֹּבַי</w>
 				<w>גּוֹבָ֑י</w>
 			</entry>
 		</section>
