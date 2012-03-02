@@ -6155,7 +6155,7 @@
 				<w src="Strong" strong="1434">גְּדִל</w>
 			</entry>
 			<entry id="g.aq.ae">
-				<w strong="1419">גָּדוֹל</w>
+				<w strong="1419" aug="a">גָּדוֹל</w>
 			</entry>
 			<page p="153"/>
 			<entry id="g.aq.af" cite="full">
@@ -6165,18 +6165,18 @@
 				<w src="Strong" strong="1420">גְּדוּלָּה</w>
 			</entry>
 			<entry id="g.aq.ag" cite="full">
-				<w strong="1419">הַגְּדוֹלִים</w>
+				<w strong="1419" aug="b">הַגְּדוֹלִים</w>
 			</entry>
 			<entry id="g.aq.ah" cite="full">
 				<w strong="1435">גִּדֵּל</w>
 			</entry>
 			<entry id="g.aq.ai" cite="full">
-				<w strong="1436">גְּדַלְיָה</w>
+				<w strong="1436" aug="a">גְּדַלְיָה</w>
 				<w src="Strong" strong="1436">גְּדַּלְיָה</w>
 				<w src="Strong" strong="1436">גְּדַלְתָהוּ</w>
 			</entry>
 			<entry id="g.aq.aj">
-				<w strong="1436">גְּדַלְיָ֫הוּ</w>
+				<w strong="1436" aug="b">גְּדַלְיָ֫הוּ</w>
 			</entry>
 			<entry id="g.aq.ak" cite="full">
 				<w strong="1437">גִּדַּלְתִּי</w>
@@ -6199,10 +6199,10 @@
 				<w strong="4029">מִגְדַּל־עֵ֫דֶר</w>
 			</entry>
 			<entry id="g.aq.aq" cite="full">
-				<w strong="4024">מִגְדּוֹל</w>
+				<w strong="4024" aug="a">מִגְדּוֹל</w>
 			</entry>
 			<entry id="g.aq.ar" cite="full">
-				<w strong="4024">מִגְדֹּל</w>
+				<w strong="4024" aug="b">מִגְדֹּל</w>
 			</entry>
 		</section>
 		<section id="g.ar">
@@ -6277,7 +6277,7 @@
 				<w>גדשׁ</w>
 			</entry>
 			<entry id="g.au.ab" cite="full" mod="I">
-				<w strong="1430">גָּדִישׁ</w>
+				<w strong="1430" aug="a">גָּדִישׁ</w>
 			</entry>
 		</section>
 		<section id="g.av">
@@ -6285,7 +6285,7 @@
 				<w>גּדשׁ</w>
 			</entry>
 			<entry id="g.av.ab" cite="full" mod="II">
-				<w strong="1430">גָּדִישׁ</w>
+				<w strong="1430" aug="b">גָּדִישׁ</w>
 			</entry>
 			<entry id="g.av.ac" cite="full">
 				<w strong="1454">גֵּה</w>
@@ -6319,13 +6319,13 @@
 				<w strong="1461">גּוּב</w>
 			</entry>
 			<entry id="g.ay.ab" cite="full" form="false" mod="II">
-				<w strong="1356">גֵּב</w>
+				<w strong="1356" aug="a">גֵּב</w>
 			</entry>
 			<entry id="g.ay.ac" cite="full">
 				<w strong="1374">גֵּבִים</w>
 			</entry>
 			<entry id="g.ay.ad" cite="full" mod="III">
-				<w strong="1356">גֵּב</w>
+				<w strong="1356" aug="b">גֵּב</w>
 			</entry>
 			<entry id="g.ay.ae" cite="full">
 				<w strong="1463">גּוֹג</w>
@@ -6352,10 +6352,10 @@
 				<w strong="1458">גַּו</w>
 			</entry>
 			<entry id="g.ba.ac" cite="full" mod="I">
-				<w strong="1460">גֵּו</w>
+				<w strong="1460" aug="a">גֵּו</w>
 			</entry>
 			<entry id="g.ba.ad" cite="full" mod="II">
-				<w strong="1460">גֵּו</w>
+				<w strong="1460" aug="b">גֵּו</w>
 			</entry>
 			<entry id="g.ba.ae" cite="full" mod="II">
 				<w strong="1465">גֵּוָה</w>
@@ -6364,7 +6364,7 @@
 				<w strong="1472">גְּוִיָּה</w>
 			</entry>
 			<entry id="g.ba.ag">
-				<w strong="1471">גּוֹי</w>
+				<w strong="1471" aug="a">גּוֹי</w>
 				<w src="Strong" strong="1471">גֹּי</w>
 			</entry>
 		</section>
@@ -6389,7 +6389,7 @@
 				<v ref="g.ba.aa">גוה</v>
 			</entry>
 			<entry id="g.bb.af" cite="full">
-				<w strong="1471">גּוֹיִם</w>
+				<w strong="1471" aug="b">גּוֹיִם</w>
 			</entry>
 			<entry id="g.bb.ag">
 				<w>גול</w>
@@ -6425,7 +6425,7 @@
 		</section>
 		<section id="g.bf">
 			<entry id="g.bf.aa" type="root" cite="full" mod="I">
-				<w strong="1481">גּוּר</w>
+				<w strong="1481" aug="a">גּוּר</w>
 			</entry>
 			<page p="158"/>
 			<entry id="g.bf.ab" cite="full" mod="I">
@@ -6458,7 +6458,7 @@
 		</section>
 		<section id="g.bg">
 			<entry id="g.bg.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="1481">גּוּר</w>
+				<w strong="1481" aug="b">גּוּר</w>
 			</entry>
 			<entry id="g.bg.ab" cite="full" form="false">
 				<w strong="1484">גּוֹר</w>
@@ -6470,7 +6470,7 @@
 		</section>
 		<section id="g.bh">
 			<entry id="g.bh.aa" type="root" cite="full" form="false" mod="III">
-				<w strong="1481">גּוּר</w>
+				<w strong="1481" aug="c">גּוּר</w>
 			</entry>
 			<page p="159"/>
 			<entry id="g.bh.ab" cite="full">
@@ -6682,10 +6682,10 @@
 				<w strong="1523">גִּיל</w>
 			</entry>
 			<entry id="g.bw.ab" cite="full" mod="I">
-				<w strong="1524">גִּיל</w>
+				<w strong="1524" aug="a">גִּיל</w>
 			</entry>
 			<entry id="g.bw.ac" cite="full" form="false" mod="II">
-				<w strong="1524">גִּיל</w>
+				<w strong="1524" aug="b">גִּיל</w>
 			</entry>
 			<entry id="g.bw.ad" cite="full">
 				<w strong="1525">גִּילָה</w>
@@ -6835,10 +6835,10 @@
 				<w src="Strong" strong="1562">גִּלֲלַי</w>
 			</entry>
 			<entry id="g.cd.ak" cite="full" form="false" mod="I">
-				<w strong="1550">גָּלִיל</w>
+				<w strong="1550" aug="a">גָּלִיל</w>
 			</entry>
 			<entry id="g.cd.al" cite="full" mod="II">
-				<w strong="1550">גָּלִיל</w>
+				<w strong="1550" aug="b">גָּלִיל</w>
 				<w strong="1551">גָּלִיל</w>
 			</entry>
 			<entry id="g.cd.am" cite="full">
