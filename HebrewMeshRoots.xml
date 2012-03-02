@@ -13,8 +13,8 @@
 		<status p="1">done</status>
 	</entry>
 	<entry id="abe2">
-		<bdb mod="II"><w>אבה</w> (perh. at least formally justified as stem of <foreign xml:lang="heb">אָב</foreign> (cstr. אֲבִי), so Thea (cf. infr.), but existence &amp; mng. wholly dub.; as real &#x221A; Ba ZMG 1887. 609 ff. Ol §123c; acc . to DlW p. 22 אבה As. <foreign xml:lang="akk">abû</foreign> =
-<def>decide</def>, <foreign xml:lang="heb">אָב</foreign> = he who decides; Thes (so RobGes Nö ZMGxl,737 &amp; cf. Sta §186 al.) makes <foreign xml:lang="heb">אָב</foreign> nom. prim. bilit., imitating infant's speech cf. <foreign xml:lang="grc">πάππας</foreign>, pappa,
+	  <bdb mod="II"><w>אבה</w> (perh. at least formally justified as stem of <w>אָב</w> (cstr. <w>אֲבִי</w>), so Thea (cf. infr.), but existence &amp; mng. wholly dub.; as real &#x221A; Ba ZMG 1887. 609 ff. Ol §123c; acc . to DlW p. 22 <w>אבה</w> As. <foreign xml:lang="akk">abû</foreign> =
+	    <def>decide</def>, <w>אָב</w> = <def>he who decides</def>; Thes (so RobGes Nö ZMGxl,737 &amp; cf. Sta §186 al.) makes <w>אָב</w> nom. prim. bilit., imitating infant's speech cf. <foreign xml:lang="grc">πάππας</foreign>, pappa,
 papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886.404).</bdb>
 		<xref twot="4"/>
 		<status p="3">done</status>
@@ -47,7 +47,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="8">base</status>
 	</entry>
 	<entry id="acd">
-	  <bdb><w>אגד</w> (<def>bind</def>, so Talm. <foreign xml:lang="heb">אָגַד</foreign>, Aram. <foreign xml:lang="arc">אֲגַד</foreign>).</bdb>
+	  <bdb><w>אגד</w> (<def>bind</def>, so Talm. <w>אָגַד</w>, Aram. <foreign xml:lang="arc">אֲגַד</foreign>).</bdb>
 		<xref twot="15"/>
 		<status p="8">done</status>
 	</entry>
@@ -58,12 +58,12 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 	</entry>
 	<entry id="acm">
 	  <bdb><w>אגם</w> (<def>troubled, sad</def>, As. <foreign xml:lang="akk">agâmu</foreign> DlW cf. Ar.
-	    <foreign/> <def>loathe</def>; also <foreign/> <def>marshy jungle</def> v. <foreign xml:lang="heb">עגם</foreign>).</bdb>
+	    <foreign/> <def>loathe</def>; also <foreign/> <def>marshy jungle</def> v. <w>עגם</w>).</bdb>
 		<xref twot="18"/>
 		<status p="8">base</status>
 	</entry>
 	<entry id="acn">
-	  <bdb><w>אגן</w> (prob. <def>circular, round</def>, cf. Ar. <foreign/> <def>ball</def> of <def>cheek</def> &amp; v. Talm. <foreign xml:lang="heb">אוֹגֶן</foreign> <def>curved rim of a vessel</def>).</bdb>
+	  <bdb><w>אגן</w> (prob. <def>circular, round</def>, cf. Ar. <foreign/> <def>ball</def> of <def>cheek</def> &amp; v. Talm. <w>אוֹגֶן</w> <def>curved rim of a vessel</def>).</bdb>
 		<xref twot="20"/>
 		<status p="8">base</status>
 	</entry>
@@ -73,7 +73,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="8">done</status>
 	</entry>
 	<entry id="act2">
-	  <bdb mod="II"><w>אגר</w> (<def>pay, hire</def>, Ar. <foreign/>, Aram. <foreign xml:lang="arc">אֲגַר</foreign>, <foreign/>, As. <foreign xml:lang="akk">agâru</foreign> DlW, Palm. <foreign xml:lang="heb">עגר</foreign> Reck ZMG 1888, 396).</bdb>
+	  <bdb mod="II"><w>אגר</w> (<def>pay, hire</def>, Ar. <foreign/>, Aram. <foreign xml:lang="arc">אֲגַר</foreign>, <foreign/>, As. <foreign xml:lang="akk">agâru</foreign> DlW, Palm. <w>עגר</w> Reck ZMG 1888, 396).</bdb>
 		<xref twot="23"/>
 		<status p="8">base</status>
 	</entry>
@@ -92,12 +92,12 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="10">base</status>
 	</entry>
 	<entry id="adn">
-	  <bdb><w>אדן</w> (mng. disputed; (1) cf. As. [<foreign xml:lang="akk">adannu</foreign>] <def>firm, strong</def>; adv. <foreign xml:lang="akk">adanniš</foreign>, <def>strongly, exceedingly</def> DlW > (2) Fü. (a) <def>make firm, fasten</def> (cf. <foreign/>) whence <foreign xml:lang="heb">אֶדֶן</foreign>; (b) <def>determine, command, rule</def>, whence <foreign xml:lang="heb">אָדוֹן</foreign>; (3) Thes Add., MV al. (a) intr. <def>be under, low, inferior</def> (cf. <foreign xml:lang="heb">דּוּן</foreign>, <foreign/>), whence <foreign xml:lang="heb">אֶדֶן</foreign>; (b) tr. <def>put under command, rule over</def> (cf. <foreign xml:lang="heb">דִּין</foreign>) whence <foreign xml:lang="heb">אָדוֹן</foreign>; v. also (4) Lag M.i. 102, <foreign xml:lang="heb">אָדוֹן</foreign> fro. <foreign/>).</bdb>
+	  <bdb><w>אדן</w> (mng. disputed; (1) cf. As. [<foreign xml:lang="akk">adannu</foreign>] <def>firm, strong</def>; adv. <foreign xml:lang="akk">adanniš</foreign>, <def>strongly, exceedingly</def> DlW > (2) Fü. (a) <def>make firm, fasten</def> (cf. <foreign/>) whence <w>אֶדֶן</w>; (b) <def>determine, command, rule</def>, whence <w>אָדוֹן</w>; (3) Thes Add., MV al. (a) intr. <def>be under, low, inferior</def> (cf. <w>דּוּן</w>, <foreign/>), whence <w>אֶדֶן</w>; (b) tr. <def>put under command, rule over</def> (cf. <w>דִּין</w>) whence <w>אָדוֹן</w>; v. also (4) Lag M.i. 102, <w>אָדוֹן</w> fro. <foreign/>).</bdb>
 		<xref twot="27"/>
 		<status p="10">base</status>
 	</entry>
 	<entry id="aed">
-		<bdb><w>אהד</w> (= <foreign xml:lang="heb">אחד</foreign>? v. Thes.)</bdb>
+		<bdb><w>אהד</w> (= <w>אחד</w>? v. Thes.)</bdb>
 		<status p="13">done</status>
 	</entry>
 	<entry id="ael1">
@@ -105,9 +105,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="13">base</status>
 	</entry>
 	<entry id="afb">
-		<bdb><w>אוב</w></bdb>
+	  <bdb><w>אוב</w> (meaning? Thes. comp. Ar. <foreign/> <def>return</def>, <foreign/> <def>water-carrier</def>; but cf. LagBN90). MV comp. <w>אבב</w> (with conjectural sense) to get meaning <def>have a hollow sound</def>. Deriv. and signif. totally uncertain). </bdb>
 		<xref twot="37"/>
-		<status p="15">new</status>
+		<status p="15">base</status>
 	</entry>
 	<entry id="afd">
 		<bdb><w>אוד</w></bdb>
@@ -115,19 +115,19 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="15">new</status>
 	</entry>
 	<entry id="afe1">
-		<bdb mod="I"><w>אוה</w></bdb>
+	  <bdb mod="I"><w>אוה</w> 1. Ar. <foreign/> <def>betake oneself</def> to a place for dwelling, etc.; 2. id., <def>be tenderly inclined</def>.</bdb>
 		<xref twot="39"/>
-		<status p="15">new</status>
+		<status p="15">base</status>
 	</entry>
-	<entry id="afj">
-		<bdb mod="III"><w>אוה</w></bdb>
+	<entry id="af">
+	  <bdb mod="III"><w>אוה</w> (<def>to cry</def> <w>אֹוי</w>, <def>howl</w> cf. Ar <foreign/>, <def>to cry</def> <foreign/> to be assumed prob. as source of two foIl. words).</bdb>
 		<xref twot="43"/>
-		<status p="17">added</status>
+		<status p="17">base</status>
 	</entry>
 	<entry id="afl1">
-		<bdb mod="I"><w>אול</w></bdb>
+	  <bdb mod="I"><w>אול</w> (<def>be foolish</def>, cf. <w>יאל</w> Ar. <foreign/> <def>grow thick</def> (of fluids)).</bdb>
 		<xref twot="44"/>
-		<status p="17">new</status>
+		<status p="17">base</status>
 	</entry>
 	<entry id="afl2">
 		<bdb mod="II"><w>אול</w>, <w>איל</w></bdb>
