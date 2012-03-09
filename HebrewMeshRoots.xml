@@ -110,7 +110,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="15">base</status>
 	</entry>
 	<entry id="afd">
-		<bdb><w>אוד</w></bdb>
+	  <bdb><w>אוד</w> (<def>be curved, bent</def>, also trans. <def>burden, oppress</def>, cf. Ar. <foreign/>) 1).</bdb>
 		<xref twot="38"/>
 		<status p="15">new</status>
 	</entry>
@@ -119,8 +119,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<xref twot="39"/>
 		<status p="15">base</status>
 	</entry>
-	<entry id="af">
-	  <bdb mod="III"><w>אוה</w> (<def>to cry</def> <w>אֹוי</w>, <def>howl</w> cf. Ar <foreign/>, <def>to cry</def> <foreign/> to be assumed prob. as source of two foIl. words).</bdb>
+	<entry id="afj">
+	  <bdb mod="III"><w>אוה</w> (<def>to cry</def> <w>אֹוי</w>, <def>howl</def> cf. Ar <foreign/>, <def>to cry</def> <foreign/> to be assumed prob. as source of two foIl. words).</bdb>
 		<xref twot="43"/>
 		<status p="17">base</status>
 	</entry>
