@@ -8401,6 +8401,11 @@
 				<w strong="1873">דָּ֫רַע</w>
 				<v ref="d.cg.ac">דרדע</v>
 			</entry>
+		</section>
+		<section id="d.cj">
+			<entry id="d.cj.aa" type="root">
+				<w>דרק</w>
+			</entry>
 			<entry id="d.cj.ab" cite="full">
 				<w strong="1874">דַּרְקוֹן</w>
 			</entry>
@@ -8490,6 +8495,9 @@
 				<w>הֶ</w>
 			</entry>
 			<page p="210"/>
+			<entry id="h.ac.ab" cite="full">
+				<w>הַל</w>
+			</entry>
 		</section>
 		<section id="h.ad">
 			<entry id="h.ad.aa" type="root" cite="full">
@@ -8506,6 +8514,10 @@
 			</entry>
 			<entry id="h.ae.ac">
 				<w>הַב</w>
+				<v ref="y.av.aa">יהב</v>
+			</entry>
+			<entry id="h.ae.ad">
+				<w>הַבְהָבִים</w>
 				<v ref="y.av.aa">יהב</v>
 			</entry>
 		</section>
@@ -8639,7 +8651,7 @@
 				<w src="Strong" strong="1912">הֹדוּ</w>
 			</entry>
 			<entry id="h.an.ae" cite="full">
-				<w strong="1913">הֲדוֹרָם</w>
+				<w strong="1913" aug="a">הֲדוֹרָם</w>
 				<w src="Strong" strong="1913">הֲדֹרָם</w>
 			</entry>
 			<entry id="h.an.af" cite="full">
@@ -8688,7 +8700,7 @@
 				<w strong="1924">הֲדַר</w>
 			</entry>
 			<entry id="h.ar.af" cite="full">
-				<w strong="1913">הֲדֹרָם</w>
+				<w strong="1913" aug="b">הֲדֹרָם</w>
 				<w src="Strong" strong="1913">הֲדוֹרָם</w>
 			</entry>
 			<entry id="h.ar.ag" cite="full">
@@ -8722,7 +8734,7 @@
 		</section>
 		<section id="h.aw">
 			<entry id="h.aw.aa" type="root" cite="full" form="false">
-				<w strong="1933">הָוָא</w>
+				<w strong="1933" aug="a">הָוָא</w>
 			</entry>
 			<page p="217"/>
 			<entry id="h.aw.ab">
@@ -8761,7 +8773,7 @@
 		</section>
 		<section id="h.ay">
 			<entry id="h.ay.aa" type="root" cite="full" form="false">
-				<w strong="1933">הָוָה</w>
+				<w strong="1933" aug="b">הָוָה</w>
 				<w src="Strong" strong="1933">הָוָא</w>
 			</entry>
 			<entry id="h.ay.ab" cite="full">
@@ -8849,7 +8861,7 @@
 			</entry>
 			<entry id="h.ay.av" cite="full">
 				<w strong="3087">יְהוֹצָדָק</w>
-				<w strong="3136">יוֹצָדָק</w>
+				<w strong="3136" aug="a">יוֹצָדָק</w>
 			</entry>
 			<entry id="h.ay.aw" cite="full">
 				<w strong="3088">יְהוֹרָם</w>
@@ -9170,7 +9182,7 @@
 		</section>
 		<section id="h.bn">
 			<entry id="h.bn.aa" type="root" cite="full" form="false" mod="I">
-				<w strong="1984">הָלַל</w>
+				<w strong="1984" aug="a">הָלַל</w>
 			</entry>
 			<entry id="h.bn.ab" cite="full">
 				<w strong="1966">הֵילֵל</w>
@@ -9178,7 +9190,8 @@
 		</section>
 		<section id="h.bo">
 			<entry id="h.bo.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="1984">הָלַל</w>
+				<w strong="1984" aug="b">הָלַל</w>
+				<w strong="1984" aug="c">הָלַל</w>
 			</entry>
 			<page p="238"/>
 			<page p="239"/>
@@ -9261,7 +9274,7 @@
 				<w strong="1993">הָמָה</w>
 			</entry>
 			<entry id="h.bs.ab" cite="full">
-				<w strong="1995">הָמוֹן</w>
+				<w strong="1995" aug="a">הָמוֹן</w>
 				<w strong="1996">הֲמוֹן גּוֹג</w>
 			</entry>
 			<entry id="h.bs.ac" cite="full" form="false">
@@ -9290,7 +9303,7 @@
 				<w strong="1967">הֵימָם</w>
 			</entry>
 			<entry id="h.bu.ac" cite="full" form="false">
-				<w strong="1995">הָמַן</w>
+				<w strong="1995" aug="b">הָמַן</w>
 				<w src="Strong" strong="1995">הָמוֹן</w>
 			</entry>
 			<entry id="h.bu.ad">
@@ -9434,16 +9447,16 @@
 			</entry>
 			<page p="248"/>
 			<entry id="h.cc.ab" cite="full" mod="II">
-				<w strong="2030">הָרָה</w>
+				<w strong="2030" aug="a">הָרָה</w>
 				<w src="Strong" strong="2030">הָרֶה</w>
 				<w src="Strong" strong="2030">הָרָי</w>
 			</entry>
 			<entry id="h.cc.ac">
-				<w>הֵרוֹןהֵ</w>
+				<w>הֵרוֹן</w>
 				<v ref="h.cc.ae">הֵרָיוֹן</v>
 			</entry>
 			<entry id="h.cc.ad" cite="full" form="false">
-				<w strong="2030">הָרִיָּה</w>
+				<w strong="2030" aug="b">הָרִיָּה</w>
 				<w src="Strong" strong="2030">הָרֶה</w>
 				<w src="Strong" strong="2030">הָרָי</w>
 			</entry>
@@ -9539,7 +9552,7 @@
 		</section>
 		<section id="h.cf">
 			<entry id="h.cf.aa" type="root" cite="full" form="false">
-				<w strong="2048">הָתַל</w>
+				<w strong="2048" aug="a">הָתַל</w>
 			</entry>
 			<entry id="h.cf.ab" cite="full">
 				<w strong="2049">הֲתֻלִֿים</w>
