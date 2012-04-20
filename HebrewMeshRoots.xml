@@ -20,12 +20,12 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="3">done</status>
 	</entry>
 	<entry id="abl2">
-	  <bdb mod="II"><w>אבל</w> (perh.<foreign/> <def>grow green</def>, cf. <foreign/> <def>grass</def> Lag BN45 prop. <foreign/> <def>withstand</def>, hence <foreign xml:lang="he">אָבֵל</foreign> as withstanding scorching sun (protected by trees, springs, etc.), hence also (Lag) <foreign/> <def>camel</def>).</bdb>
+	  <bdb mod="II"><w>אבל</w> (perh.<foreign xml:lang="ara">Arabic</foreign> <def>grow green</def>, cf. <foreign xml:lang="syr">Syriac</foreign> <def>grass</def> Lag BN45 prop. <foreign xml:lang="ara">Arabic</foreign> <def>withstand</def>, hence <foreign xml:lang="he">אָבֵל</foreign> as withstanding scorching sun (protected by trees, springs, etc.), hence also (Lag) <foreign xml:lang="ara">Arabic</foreign> <def>camel</def>).</bdb>
 		<xref twot="7"/>
 		<status p="5">base</status>
 	</entry>
 	<entry id="abl4">
-	  <bdb mod="III"><w>אבל</w> (cf. Ar. <foreign/> <def>able to manage camels</def>, fr. <foreign/>, coll., Sab. אבל <def>camel</def> DHM ZMG 1883, 329).</bdb>
+	  <bdb mod="III"><w>אבל</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>able to manage camels</def>, fr. <foreign xml:lang="ara">Arabic</foreign>, coll., Sab. אבל <def>camel</def> DHM ZMG 1883, 329).</bdb>
 		<status p="6">base</status>
 	</entry>
 	<entry id="abr">
@@ -33,7 +33,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="7">done</status>
 	</entry>
 	<entry id="abs">
-		<bdb><w>אבק</w> (Ar. <foreign/> <def>run away</def> (cf. Lag BN51)).</bdb>
+		<bdb><w>אבק</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>run away</def> (cf. Lag BN51)).</bdb>
 		<xref twot="11"/>
 		<status p="7">base</status>
 	</entry>
@@ -43,7 +43,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="7">done</status>
 	</entry>
 	<entry id="aca">
-	  <bdb><w>אגא</w> (cf. Ar. <foreign/>, <def>flee</def> Frey).</bdb>
+	  <bdb><w>אגא</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>flee</def> Frey).</bdb>
 		<status p="8">base</status>
 	</entry>
 	<entry id="acd">
@@ -52,18 +52,18 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="8">done</status>
 	</entry>
 	<entry id="acl">
-	  <bdb><w>אגל</w> (Hoffm Hiob. 86 compo Ar. <foreign/> <def>restrict</def>, Eth. <foreign/> <def>a certain one</def> (name <def>withheld</def>), etc.)</bdb>
+	  <bdb><w>אגל</w> (Hoffm Hiob. 86 compo Ar. <foreign xml:lang="ara">Arabic</foreign> <def>restrict</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>a certain one</def> (name <def>withheld</def>), etc.)</bdb>
 		<xref twot="17"/>
 		<status p="8">base</status>
 	</entry>
 	<entry id="acm">
 	  <bdb><w>אגם</w> (<def>troubled, sad</def>, As. <foreign xml:lang="akk">agâmu</foreign> DlW cf. Ar.
-	    <foreign/> <def>loathe</def>; also <foreign/> <def>marshy jungle</def> v. <w>עגם</w>).</bdb>
+	    <foreign xml:lang="ara">Arabic</foreign> <def>loathe</def>; also <foreign xml:lang="ara">Arabic</foreign> <def>marshy jungle</def> v. <w>עגם</w>).</bdb>
 		<xref twot="18"/>
 		<status p="8">base</status>
 	</entry>
 	<entry id="acn">
-	  <bdb><w>אגן</w> (prob. <def>circular, round</def>, cf. Ar. <foreign/> <def>ball</def> of <def>cheek</def> &amp; v. Talm. <w>אוֹגֶן</w> <def>curved rim of a vessel</def>).</bdb>
+	  <bdb><w>אגן</w> (prob. <def>circular, round</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>ball</def> of <def>cheek</def> &amp; v. Talm. <w>אוֹגֶן</w> <def>curved rim of a vessel</def>).</bdb>
 		<xref twot="20"/>
 		<status p="8">base</status>
 	</entry>
@@ -73,12 +73,12 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="8">done</status>
 	</entry>
 	<entry id="act2">
-	  <bdb mod="II"><w>אגר</w> (<def>pay, hire</def>, Ar. <foreign/>, Aram. <foreign xml:lang="arc">אֲגַר</foreign>, <foreign/>, As. <foreign xml:lang="akk">agâru</foreign> DlW, Palm. <w>עגר</w> Reck ZMG 1888, 396).</bdb>
+	  <bdb mod="II"><w>אגר</w> (<def>pay, hire</def>, Ar. <foreign xml:lang="ara">Arabic</foreign>, Aram. <w>אֲגַר</w>, <foreign xml:lang="ara">Arabic</foreign>, As. <foreign xml:lang="akk">agâru</foreign> DlW, Palm. <w>עגר</w> Reck ZMG 1888, 396).</bdb>
 		<xref twot="23"/>
 		<status p="8">base</status>
 	</entry>
 	<entry id="add">
-	  <bdb><w>אדד</w> (? cf. Ar. <foreign/> <def>strength</def>).</bdb>
+	  <bdb><w>אדד</w> (? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>strength</def>).</bdb>
 		<status p="9">done</status>
 	</entry>
 	<entry id="adm1">
@@ -87,12 +87,12 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="9">done</status>
 	</entry>
 	<entry id="adm2">
-	  <bdb mod="II"><w>אדם</w> (<foreign/>, <foreign/> <def>tawny</def>, Eth. <foreign/> (only in derivatives), As. <foreign xml:lang="akk">adâmu</foreign> ? DlW; cf. Lag BN28).</bdb>
+	  <bdb mod="II"><w>אדם</w> (<foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>tawny</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> (only in derivatives), As. <foreign xml:lang="akk">adâmu</foreign> ? DlW; cf. Lag BN28).</bdb>
 		<xref twot="26"/>
 		<status p="10">base</status>
 	</entry>
 	<entry id="adn">
-	  <bdb><w>אדן</w> (mng. disputed; (1) cf. As. [<foreign xml:lang="akk">adannu</foreign>] <def>firm, strong</def>; adv. <foreign xml:lang="akk">adanniš</foreign>, <def>strongly, exceedingly</def> DlW > (2) Fü. (a) <def>make firm, fasten</def> (cf. <foreign/>) whence <w>אֶדֶן</w>; (b) <def>determine, command, rule</def>, whence <w>אָדוֹן</w>; (3) Thes Add., MV al. (a) intr. <def>be under, low, inferior</def> (cf. <w>דּוּן</w>, <foreign/>), whence <w>אֶדֶן</w>; (b) tr. <def>put under command, rule over</def> (cf. <w>דִּין</w>) whence <w>אָדוֹן</w>; v. also (4) Lag M.i. 102, <w>אָדוֹן</w> fro. <foreign/>).</bdb>
+	  <bdb><w>אדן</w> (mng. disputed; (1) cf. As. [<foreign xml:lang="akk">adannu</foreign>] <def>firm, strong</def>; adv. <foreign xml:lang="akk">adanniš</foreign>, <def>strongly, exceedingly</def> DlW > (2) Fü. (a) <def>make firm, fasten</def> (cf. <foreign xml:lang="ara">Arabic</foreign>) whence <w>אֶדֶן</w>; (b) <def>determine, command, rule</def>, whence <w>אָדוֹן</w>; (3) Thes Add., MV al. (a) intr. <def>be under, low, inferior</def> (cf. <w>דּוּן</w>, <foreign xml:lang="ara">Arabic</foreign>), whence <w>אֶדֶן</w>; (b) tr. <def>put under command, rule over</def> (cf. <w>דִּין</w>) whence <w>אָדוֹן</w>; v. also (4) Lag M.i. 102, <w>אָדוֹן</w> fro. <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="27"/>
 		<status p="10">base</status>
 	</entry>
@@ -101,4326 +101,4330 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="13">done</status>
 	</entry>
 	<entry id="ael1">
-	  <bdb mod="I"><w>אהל</w> (<def>settle down</def> (?), Ar. <foreign/> <def>be inhabited</def>, cf. As. <foreign xml:lang="akk">âlu</foreign>, <def>settlement, city</def>, <foreign xml:lang="akk">maʾâlu</foreign>, <foreign xml:lang="akk">maʾâltu</foreign>, <def>bed</def>; DlW &amp; Pr 105).</bdb>
+	  <bdb mod="I"><w>אהל</w> (<def>settle down</def> (?), Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be inhabited</def>, cf. As. <foreign xml:lang="akk">âlu</foreign>, <def>settlement, city</def>, <foreign xml:lang="akk">maʾâlu</foreign>, <foreign xml:lang="akk">maʾâltu</foreign>, <def>bed</def>; DlW &amp; Pr 105).</bdb>
 		<status p="13">base</status>
 	</entry>
 	<entry id="afb">
-	  <bdb><w>אוב</w> (meaning? Thes. comp. Ar. <foreign/> <def>return</def>, <foreign/> <def>water-carrier</def>; but cf. LagBN90). MV comp. <w>אבב</w> (with conjectural sense) to get meaning <def>have a hollow sound</def>. Deriv. and signif. totally uncertain). </bdb>
+	  <bdb><w>אוב</w> (meaning? Thes. comp. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>return</def>, <foreign xml:lang="ara">Arabic</foreign> <def>water-carrier</def>; but cf. LagBN90). MV comp. <w>אבב</w> (with conjectural sense) to get meaning <def>have a hollow sound</def>. Deriv. and signif. totally uncertain). </bdb>
 		<xref twot="37"/>
 		<status p="15">base</status>
 	</entry>
 	<entry id="afd">
-	  <bdb><w>אוד</w> (<def>be curved, bent</def>, also trans. <def>burden, oppress</def>, cf. Ar. <foreign/>) 1).</bdb>
+	  <bdb><w>אוד</w> (<def>be curved, bent</def>, also trans. <def>burden, oppress</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign>) 1).</bdb>
 		<xref twot="38"/>
-		<status p="15">new</status>
+		<status p="15">base</status>
 	</entry>
 	<entry id="afe1">
-	  <bdb mod="I"><w>אוה</w> 1. Ar. <foreign/> <def>betake oneself</def> to a place for dwelling, etc.; 2. id., <def>be tenderly inclined</def>.</bdb>
+	  <bdb mod="I"><w>אוה</w> 1. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>betake oneself</def> to a place for dwelling, etc.; 2. id., <def>be tenderly inclined</def>.</bdb>
 		<xref twot="39"/>
 		<status p="15">base</status>
 	</entry>
 	<entry id="afj">
-	  <bdb mod="III"><w>אוה</w> (<def>to cry</def> <w>אֹוי</w>, <def>howl</def> cf. Ar <foreign/>, <def>to cry</def> <foreign/> to be assumed prob. as source of two foIl. words).</bdb>
+	  <bdb mod="III"><w>אוה</w> (<def>to cry</def> <w>אֹוי</w>, <def>howl</def> cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>to cry</def> <foreign xml:lang="ara">Arabic</foreign> to be assumed prob. as source of two foIl. words).</bdb>
 		<xref twot="43"/>
 		<status p="17">base</status>
 	</entry>
 	<entry id="afl1">
-	  <bdb mod="I"><w>אול</w> (<def>be foolish</def>, cf. <w>יאל</w> Ar. <foreign/> <def>grow thick</def> (of fluids)).</bdb>
+	  <bdb mod="I"><w>אול</w> (<def>be foolish</def>, cf. <w>יאל</w> Ar. <foreign xml:lang="ara">Arabic</foreign> <def>grow thick</def> (of fluids)).</bdb>
 		<xref twot="44"/>
 		<status p="17">base</status>
 	</entry>
 	<entry id="afl2">
-		<bdb mod="II"><w>אול</w>, <w>איל</w></bdb>
+	  <bdb mod="II"><w>אול</w>, <w>איל</w> (<def>be in front of, precede, lead</def>; v.Thes NöMBA 1880. 774; 8BA 18c2 1175, who comp. Ar. <foreign xml:lang="ara">Arabic</foreign> for <foreign xml:lang="ara">Arabic</foreign>, Targ. <w>אוולא</w>; cf. Sab. <w>אול</w> DHM Epigr. Denkm.33.34; v. on the other hand LagOr ii. p. 3;
+	    M i. p. 100 &amp; sub I. <w>אלה</w> infr.)</bdb>
 		<xref twot="45"/>
-		<status p="17">new</status>
+		<status p="17">base</status>
 	</entry>
 	<entry id="afn1">
-		<bdb><w>און</w></bdb>
+	  <bdb><w>און</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> (med. <foreign xml:lang="ara">Arabic</foreign>) <def>be fatigued, tired</def>,
+	    <foreign xml:lang="ara">Arabic</foreign>, <def>weariness, sorrow, trouble</def>).</bdb>
 		<xref twot="48"/>
-		<status p="19">new</status>
+		<status p="19">base</status>
 	</entry>
 	<entry id="afn2">
-		<bdb mod="II"><w>און</w></bdb>
+	  <bdb mod="II"><w>און</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> (med. <foreign xml:lang="ara">Arabic</foreign>) <def>be at rest, at ease, enjoy life of plenty</def>; <foreign xml:lang="ara">Arabic</foreign> <def>one enjoying a life of ease, freedom from toil &amp; trouble</def>).</bdb>
 		<xref twot="49"/>
-		<status p="20">new</status>
+		<status p="20">base</status>
 	</entry>
 	<entry id="agn1">
-		<bdb mod="I"><w>אזן</w></bdb>
-		<status p="23">new</status>
+	  <bdb mod="I"><w>אזן</w> (<def>pointed, sharp</def>? cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>edge, corner, peak, pinnacle</def>; v. also As. DlW, &amp; <w>אָזֵן</w> infr.)</bdb>
+		<status p="23">base</status>
 	</entry>
 	<entry id="ahe1">
-		<bdb><w>אחה</w></bdb>
+	  <bdb><w>אחה</w> (stem assumed for <w>אָח</w>; which however perh. bilit. &amp; prim. so Thes Rob Ges al.; DlHA 59 prop. <def>surround, protect</def>; DlW comp. <foreign xml:lang="akk">aḫu</foreign>, <def>side</def>. Zehnpfnnd BAS I. 510 prop. <def>belong together</def>, cf. Schult. Thes. De Goeje in RSSem 256 N suggests connection with <foreign xml:lang="akk">ḥayy</foreign>, <def>family, clan</def>).</bdb>
 		<xref twot="62"/>
-		<status p="26">new</status>
+		<status p="26">done</status>
 	</entry>
 	<entry id="ahh1">
-		<bdb mod="I"><w>אחח</w></bdb>
+	  <bdb mod="I"><w>אחח</w> (<def>cry, howl</def>, onomat., cf. Ar. <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="65"/>
-		<status p="28">new</status>
+		<status p="28">base</status>
 	</entry>
 	<entry id="ahh2">
-		<bdb mod="II"><w>אחח</w></bdb>
+		<bdb mod="II"><w>אחח</w> ?</bdb>
 		<xref twot="66"/>
-		<status p="28">new</status>
+		<status p="28">done</status>
 	</entry>
 	<entry id="ahl">
-		<bdb><w>אחל</w></bdb>
+		<bdb><w>אחל</w> (existence &amp; meaning dub.)</bdb>
 		<xref twot="67"/>
-		<status p="29">new</status>
+		<status p="29">done</status>
 	</entry>
 	<entry id="aid">
-		<bdb><w>אטד</w></bdb>
+	  <bdb><w>אטד</w> (mug. dub.; perh. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>make
+	    firm, strong</def>, cf. Thes MV).</bdb>
 		<xref twot="71"/>
-		<status p="31">new</status>
+		<status p="31">base</status>
 	</entry>
 	<entry id="aii">
-		<bdb><w>אטט</w></bdb>
+	  <bdb><w>אטט</w> Arab. <foreign xml:lang="ara">Arabic</foreign> <def>to emit a moaning</def> or <def>creaking
+sound</def> (cf. AW Lex. 36 Ges Jes. 1. 604 f Lane 1.66).</bdb>
 		<xref twot="72"/>
-		<status p="31">new</status>
+		<status p="31">base</status>
 	</entry>
 	<entry id="ajm">
-		<bdb><w>אים</w></bdb>
+	  <bdb><w>אים</w> (cf. <targ>T</targ>, Talm. <w>אַיֵם</w> <def>terrify</def> LagBN28).</bdb>
 		<xref twot="80"/>
-		<status p="33">new</status>
+		<status p="33">base</status>
 	</entry>
 	<entry id="ajv">
-		<bdb><w>אישׁ</w>, <w>אושׁ</w></bdb>
+	  <bdb><w>אישׁ</w>, <w>אושׁ</w> (Stem assumed in Thes for <w>אִישׁ</w>; existence &amp; mng. somewhat dub. Thes (Add) &amp; most derive <w>אִישׁ</w> fr. [<w>אִנְשְׁ</w>] √<w>אנשׁ</w> (q. v.) In favour are pl. <w>אֲנָשִׁים</w>, fem. <w>אִשָּׁה</w> = [<w>אִנְשָׁה</w>], lack of proven √<w>אישׁ</w>, &amp; lack of clear parallels for <w>אישׁ</w> in cogn. lang. Against the deriv. of <w>אִישׁ</w> fr. <foreign xml:lang="akk">inš</foreign> is the vocalization (<w>י ִ</w>, and that fully written, not <w>ֵ</w>), maintained even with suff., the (rare) pl. <w>אִישִׁים</w>, the impossibility of deriving <w>אִישׁ</w> from same √ (<w>אִשָּׁה</w> fr. <foreign xml:lang="ara">Arabic</foreign>), the existence of <w>אֱנוֹשׁ</w> as parallel form, and the (exceptional) parallel Aram. <w>אישׁ</w> (Inscr. of Carpentras), also Ar. <foreign xml:lang="ara">Arabic</foreign> (cf. Frey) || <foreign xml:lang="ara">Arabic</foreign>; MI, SI, Ph. <w>אשׁ</w> are not decisive; Sab. has hoth <w>אסם</w> &amp; <w>אנסם</w>; the former app. = <w>אִישׁ</w>, the latter <w>אֱנוֹשׁ</w>; but on former cf. DHMZK 1884. 360 &amp; Sab. Den km. 37. On the whole, probability seems to favour √<w>אישׁ</w>; Thes gave mng. <def>be strong</def>; Dl HA 9. Pr 161 comp. As. <foreign xml:lang="akk">išanu</foreign>, <def>strong</def>; (Dl W. p. 244), &amp; n.pr. <w>יְהוֹאָשׁ</w>; cf. also Prät LOPh. Feb. 1884; otherwise DHM l.c. &amp; ZMG 1883, 330 &amp; esp. Nö ZMG 1886, 739 Lag BN 68; cf. also Wetzst in De Psalmen. ed. 4. p. 888 al. v. also <w>אנשׁ</w>, <w>אֱנוֹשׁ</w></bdb>
 		<xref twot="83"/>
-		<status p="35">new</status>
+		<status p="35">base</status>
 	</entry>
 	<entry id="akt">
-		<bdb><w>אכר</w></bdb>
+	  <bdb><w>אכר</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>dig, till</def> the ground).</bdb>
 		<xref twot="88"/>
-		<status p="38">new</status>
+		<status p="38">base</status>
 	</entry>
 	<entry id="al1">
-		<bdb mod="I"><w>אַל</w></bdb>
+	  <bdb mod="I"><w>אַל</w> (= <foreign xml:lang="ara">Arabic</foreign>, Ar. article, preserved perh. in following words derived by Hebrews from (or through) Arabic-speaking tribes; cf. Eng. <def>algebra, Alhambra, alkali, alcohol, alcove</def>, etc.)</bdb>
 		<xref twot="89"/>
-		<status p="38">new</status>
+		<status p="38">base</status>
 	</entry>
 	<entry id="ale">
-		<bdb mod="I"><w>אלה</w></bdb>
+		<bdb mod="I"><w>אלה</w> empty entry</bdb>
 		<xref twot="93"/>
 		<status p="42">added</status>
 	</entry>
 	<entry id="all1">
-		<bdb form="false" mod="I"><w>אלל</w></bdb>
+		<bdb form="false" mod="I"><w>אלל</w> empty entry</bdb>
 		<xref twot="99"/>
 		<status p="47">new</status>
 	</entry>
 	<entry id="all2">
-		<bdb mod="II"><w>אלל</w></bdb>
+		<bdb mod="II"><w>אלל</w> empty entry</bdb>
 		<xref twot="100"/>
 		<status p="47">new</status>
 	</entry>
 	<entry id="ame">
-		<bdb><w>אמה</w></bdb>
+		<bdb><w>אמה</w> empty entry</bdb>
 		<status p="51">new</status>
 	</entry>
 	<entry id="amm">
-		<bdb mod="I"><w>אמם</w></bdb>
+		<bdb mod="I"><w>אמם</w> empty entry</bdb>
 		<xref twot="115"/>
 		<status p="51">new</status>
 	</entry>
 	<entry id="anb">
-		<bdb><w>אנב</w></bdb>
+		<bdb><w>אנב</w> empty entry</bdb>
 		<xref twot="123"/>
 		<status p="58">new</status>
 	</entry>
 	<entry id="ane2">
-		<bdb mod="II"><w>אנה</w></bdb>
+		<bdb mod="II"><w>אנה</w> empty entry</bdb>
 		<xref twot="125"/>
 		<status p="58">new</status>
 	</entry>
 	<entry id="anv2">
-		<bdb mod="II"><w>אנשׁ</w></bdb>
+		<bdb mod="II"><w>אנשׁ</w> empty entry</bdb>
 		<xref twot="136"/>
 		<status p="60">new</status>
 	</entry>
 	<entry id="anv3">
-		<bdb mod="III"><w>אנשׁ</w></bdb>
+		<bdb mod="III"><w>אנשׁ</w> empty entry</bdb>
 		<xref twot="137"/>
 		<status p="61">new</status>
 	</entry>
 	<entry id="anw">
-		<bdb><w>אנת</w></bdb>
+		<bdb><w>אנת</w> empty entry</bdb>
 		<status p="61">new</status>
 	</entry>
 	<entry id="aoe1">
-		<bdb mod="I"><w>אסה</w></bdb>
+		<bdb mod="I"><w>אסה</w> empty entry</bdb>
 		<status p="61">new</status>
 	</entry>
 	<entry id="aoe2">
-		<bdb mod="II"><w>אסה</w></bdb>
+		<bdb mod="II"><w>אסה</w> empty entry</bdb>
 		<xref twot="138"/>
 		<status p="61">new</status>
 	</entry>
 	<entry id="aom">
-		<bdb><w>אסם</w></bdb>
+		<bdb><w>אסם</w> empty entry</bdb>
 		<xref twot="139"/>
 		<status p="62">new</status>
 	</entry>
 	<entry id="aqd">
-		<bdb><w>אפד</w></bdb>
+		<bdb><w>אפד</w> empty entry</bdb>
 		<status p="65">new</status>
 	</entry>
 	<entry id="aql1">
-		<bdb><w>אפל</w></bdb>
+		<bdb><w>אפל</w> empty entry</bdb>
 		<xref twot="145"/>
 		<status p="66">new</status>
 	</entry>
 	<entry id="aql2">
-		<bdb><w>אפל</w></bdb>
+		<bdb><w>אפל</w> empty entry</bdb>
 		<status p="66">new</status>
 	</entry>
 	<entry id="aqn">
-		<bdb><w>אפן</w></bdb>
+		<bdb><w>אפן</w> empty entry</bdb>
 		<xref twot="146"/>
 		<status p="66">new</status>
 	</entry>
 	<entry id="aqt1">
-		<bdb mod="I"><w>אפר</w></bdb>
+		<bdb mod="I"><w>אפר</w> empty entry</bdb>
 		<xref twot="150"/>
 		<status p="68">new</status>
 	</entry>
 	<entry id="aqt2">
-		<bdb mod="II"><w>אפר</w></bdb>
+		<bdb mod="II"><w>אפר</w> empty entry</bdb>
 		<xref twot="151"/>
 		<status p="68">new</status>
 	</entry>
 	<entry id="aqw">
-		<bdb><w>אפת</w></bdb>
+		<bdb><w>אפת</w> empty entry</bdb>
 		<xref twot="152"/>
 		<status p="68">new</status>
 	</entry>
 	<entry id="arl">
-		<bdb form="false"><w>אצל</w></bdb>
+		<bdb form="false"><w>אצל</w> empty entry</bdb>
 		<status p="69">new</status>
 	</entry>
 	<entry id="arm">
-		<bdb><w>אצם</w></bdb>
+		<bdb><w>אצם</w> empty entry</bdb>
 		<status p="69">new</status>
 	</entry>
 	<entry id="ate1">
-		<bdb mod="II"><w>ארה</w></bdb>
+		<bdb mod="II"><w>ארה</w> empty entry</bdb>
 		<xref twot="159"/>
 		<status p="72">new</status>
 	</entry>
 	<entry id="atg">
-		<bdb><w>ארז</w></bdb>
+		<bdb><w>ארז</w> empty entry</bdb>
 		<xref twot="160"/>
 		<status p="72">new</status>
 	</entry>
 	<entry id="atm2">
-		<bdb><w>ארם</w></bdb>
+		<bdb><w>ארם</w> empty entry</bdb>
 		<xref twot="164"/>
 		<status p="74">new</status>
 	</entry>
 	<entry id="atn1">
-		<bdb mod="I"><w>ארן</w></bdb>
+		<bdb mod="I"><w>ארן</w> empty entry</bdb>
 		<xref twot="165"/>
 		<status p="74">new</status>
 	</entry>
 	<entry id="atn2">
-		<bdb mod="II"><w>ארן</w></bdb>
+		<bdb mod="II"><w>ארן</w> empty entry</bdb>
 		<xref twot="166"/>
 		<status p="75">new</status>
 	</entry>
 	<entry id="atv">
-		<bdb><w>ארשׁ</w></bdb>
+		<bdb><w>ארשׁ</w> empty entry</bdb>
 		<xref twot="171"/>
 		<status p="77">new</status>
 	</entry>
 	<entry id="avd">
-		<bdb><w>אשׁד</w></bdb>
+		<bdb><w>אשׁד</w> empty entry</bdb>
 		<xref twot="174"/>
 		<status p="78">new</status>
 	</entry>
 	<entry id="ave">
-		<bdb><w>אשׁה</w></bdb>
+		<bdb><w>אשׁה</w> empty entry</bdb>
 		<xref twot="175"/>
 		<status p="78">new</status>
 	</entry>
 	<entry id="avk">
-		<bdb><w>אשׁך</w></bdb>
+		<bdb><w>אשׁך</w> empty entry</bdb>
 		<status p="79">added</status>
 	</entry>
 	<entry id="avl">
-		<bdb><w>אשׁל</w></bdb>
+		<bdb><w>אשׁל</w> empty entry</bdb>
 		<xref twot="179"/>
 		<status p="79">new</status>
 	</entry>
 	<entry id="avn">
-		<bdb><w>אשׁן</w></bdb>
+		<bdb><w>אשׁן</w> empty entry</bdb>
 		<status p="80">new</status>
 	</entry>
 	<entry id="avq2">
-		<bdb><w>אשׁף</w></bdb>
+		<bdb><w>אשׁף</w> empty entry</bdb>
 		<xref twot="182"/>
 		<status p="80">new</status>
 	</entry>
 	<entry id="avt">
-		<bdb><w>אשׁר</w></bdb>
+		<bdb><w>אשׁר</w> empty entry</bdb>
 		<xref twot="176"/>
 		<status p="78">added</status>
 	</entry>
 	<entry id="awn">
-		<bdb><w>אתן</w></bdb>
+		<bdb><w>אתן</w> empty entry</bdb>
 		<xref twot="190"/>
 		<status p="87">new</status>
 	</entry>
 	<entry id="aws">
-		<bdb><w>אתק</w></bdb>
+		<bdb><w>אתק</w> empty entry</bdb>
 		<xref twot="191"/>
 		<status p="87">added</status>
 	</entry>
 	<entry id="aww">
-		<bdb><w>אתת</w></bdb>
+		<bdb><w>אתת</w> empty entry</bdb>
 		<xref twot="192"/>
 		<status p="88">new</status>
 	</entry>
 	<entry id="b1">
-		<bdb><w>ב</w>, <w>בּ</w></bdb>
+		<bdb><w>ב</w>, <w>בּ</w> empty entry</bdb>
 		<status p="88">new</status>
 	</entry>
 	<entry id="b2">
-		<bdb mod="I"><w>בְּ</w></bdb>
+		<bdb mod="I"><w>בְּ</w> empty entry</bdb>
 		<status p="88">new</status>
 	</entry>
 	<entry id="bdd2">
-		<bdb mod="II"><w>בדד</w></bdb>
+		<bdb mod="II"><w>בדד</w> empty entry</bdb>
 		<xref twot="202"/>
 		<status p="95">new</status>
 	</entry>
 	<entry id="bds">
-		<bdb><w>בדק</w></bdb>
+		<bdb><w>בדק</w> empty entry</bdb>
 		<status p="96">new</status>
 	</entry>
 	<entry id="bee">
-		<bdb><w>בהה</w></bdb>
+		<bdb><w>בהה</w> empty entry</bdb>
 		<xref twot="205"/>
 		<status p="96">new</status>
 	</entry>
 	<entry id="bem">
-		<bdb><w>בהם</w></bdb>
+		<bdb><w>בהם</w> empty entry</bdb>
 		<xref twot="208"/>
 		<status p="96">new</status>
 	</entry>
 	<entry id="ben">
-		<bdb><w>בהן</w></bdb>
+		<bdb><w>בהן</w> empty entry</bdb>
 		<xref twot="209"/>
 		<status p="97">new</status>
 	</entry>
 	<entry id="bes">
-		<bdb><w>בהק</w></bdb>
+		<bdb><w>בהק</w> empty entry</bdb>
 		<xref twot="210"/>
 		<status p="97">new</status>
 	</entry>
 	<entry id="bet">
-		<bdb><w>בהר</w></bdb>
+		<bdb><w>בהר</w> empty entry</bdb>
 		<xref twot="211"/>
 		<status p="97">new</status>
 	</entry>
 	<entry id="bfp">
-		<bdb><w>בוע</w></bdb>
+		<bdb><w>בוע</w> empty entry</bdb>
 		<xref twot="217"/>
 		<status p="101">new</status>
 	</entry>
 	<entry id="bfr">
-		<bdb><w>בוץ</w>, <w>ביץ</w></bdb>
+		<bdb><w>בוץ</w>, <w>ביץ</w> empty entry</bdb>
 		<xref twot="218"/>
 		<status p="101">new</status>
 	</entry>
 	<entry id="bfs">
-		<bdb><w>בוק</w></bdb>
+		<bdb><w>בוק</w> empty entry</bdb>
 		<xref twot="220"/>
 		<status p="101">new</status>
 	</entry>
 	<entry id="bgs">
-		<bdb><w>בזק</w></bdb>
+		<bdb><w>בזק</w> empty entry</bdb>
 		<xref twot="226"/>
 		<status p="103">new</status>
 	</entry>
 	<entry id="bih2">
-		<bdb mod="II"><w>בטח</w></bdb>
+		<bdb mod="II"><w>בטח</w> empty entry</bdb>
 		<xref twot="234"/>
 		<status p="105">new</status>
 	</entry>
 	<entry id="bin1">
-		<bdb mod="I"><w>בטן</w></bdb>
+		<bdb mod="I"><w>בטן</w> empty entry</bdb>
 		<xref twot="236"/>
 		<status p="105">new</status>
 	</entry>
 	<entry id="bin2">
-		<bdb mod="II"><w>בטן</w></bdb>
+		<bdb mod="II"><w>בטן</w> empty entry</bdb>
 		<xref twot="237"/>
 		<status p="106">new</status>
 	</entry>
 	<entry id="blo">
-		<bdb><w>בלס</w></bdb>
+		<bdb><w>בלס</w> empty entry</bdb>
 		<status p="118">new</status>
 	</entry>
 	<entry id="bni">
-		<bdb><w>בנט</w></bdb>
+		<bdb><w>בנט</w> empty entry</bdb>
 		<xref twot="256"/>
 		<status p="126">new</status>
 	</entry>
 	<entry id="bot">
-		<bdb><w>בסר</w></bdb>
+		<bdb><w>בסר</w> empty entry</bdb>
 		<status p="126">new</status>
 	</entry>
 	<entry id="bpd">
-		<bdb><w>בעד</w></bdb>
+		<bdb><w>בעד</w> empty entry</bdb>
 		<xref twot="258"/>
 		<status p="126">new</status>
 	</entry>
 	<entry id="bpg">
-		<bdb><w>בעז</w></bdb>
+		<bdb><w>בעז</w> empty entry</bdb>
 		<status p="126">new</status>
 	</entry>
 	<entry id="brl">
-		<bdb><w>בצל</w></bdb>
+		<bdb><w>בצל</w> empty entry</bdb>
 		<xref twot="266"/>
 		<status p="130">new</status>
 	</entry>
 	<entry id="brr">
-		<bdb><w>בצץ</w></bdb>
+		<bdb><w>בצץ</w> empty entry</bdb>
 		<xref twot="268"/>
 		<status p="130">new</status>
 	</entry>
 	<entry id="bse">
-		<bdb><w>בקה</w></bdb>
+		<bdb><w>בקה</w> empty entry</bdb>
 		<status p="131">new</status>
 	</entry>
 	<entry id="btd">
-		<bdb><w>ברד</w></bdb>
+		<bdb><w>ברד</w> empty entry</bdb>
 		<status p="135">new</status>
 	</entry>
 	<entry id="bte2">
-		<bdb mod="II"><w>ברה</w></bdb>
+		<bdb mod="II"><w>ברה</w> empty entry</bdb>
 		<xref twot="282"/>
 		<status p="136">new</status>
 	</entry>
 	<entry id="btg">
-		<bdb><w>ברז</w></bdb>
+		<bdb><w>ברז</w> empty entry</bdb>
 		<xref twot="283"/>
 		<status p="137">new</status>
 	</entry>
 	<entry id="btm1">
-		<bdb><w>ברם</w></bdb>
+		<bdb><w>ברם</w> empty entry</bdb>
 		<xref twot="286"/>
 		<status p="140">new</status>
 	</entry>
 	<entry id="btv">
-		<bdb><w>ברשׁ</w></bdb>
+		<bdb><w>ברשׁ</w> empty entry</bdb>
 		<xref twot="289"/>
 		<status p="141">new</status>
 	</entry>
 	<entry id="bum">
-		<bdb><w>בשׂם</w></bdb>
+		<bdb><w>בשׂם</w> empty entry</bdb>
 		<xref twot="290"/>
 		<status p="141">new</status>
 	</entry>
 	<entry id="bvn">
-		<bdb><w>בשׁן</w></bdb>
+		<bdb><w>בשׁן</w> empty entry</bdb>
 		<xref twot="293"/>
 		<status p="143">new</status>
 	</entry>
 	<entry id="bwl">
-		<bdb><w>בתל</w></bdb>
+		<bdb><w>בתל</w> empty entry</bdb>
 		<xref twot="295"/>
 		<status p="143">new</status>
 	</entry>
 	<entry id="bww">
-		<bdb><w>בתת</w></bdb>
+		<bdb><w>בתת</w> empty entry</bdb>
 		<xref twot="298"/>
 		<status p="144">new</status>
 	</entry>
 	<entry id="c1">
-		<bdb><w>ג</w>, <w>גּ</w></bdb>
+		<bdb><w>ג</w>, <w>גּ</w> empty entry</bdb>
 		<status p="144">new</status>
 	</entry>
 	<entry id="cba">
-		<bdb><w>גבא</w></bdb>
+		<bdb><w>גבא</w> empty entry</bdb>
 		<xref twot="302"/>
 		<status p="146">new</status>
 	</entry>
 	<entry id="cbb">
-		<bdb><w>גבב</w></bdb>
+		<bdb><w>גבב</w> empty entry</bdb>
 		<xref twot="303"/>
 		<status p="146">new</status>
 	</entry>
 	<entry id="cbe1">
-		<bdb><w>גבה</w></bdb>
+		<bdb><w>גבה</w> empty entry</bdb>
 		<xref twot="304"/>
 		<status p="146">new</status>
 	</entry>
 	<entry id="cbh">
-		<bdb><w>גבח</w></bdb>
+		<bdb><w>גבח</w> empty entry</bdb>
 		<xref twot="306"/>
 		<status p="147">new</status>
 	</entry>
 	<entry id="cbl">
-		<bdb><w>גבל</w></bdb>
+		<bdb><w>גבל</w> empty entry</bdb>
 		<status p="147">new</status>
 	</entry>
 	<entry id="cbn">
-		<bdb><w>גבן</w></bdb>
+		<bdb><w>גבן</w> empty entry</bdb>
 		<xref twot="308"/>
 		<status p="148">new</status>
 	</entry>
 	<entry id="cbp">
-		<bdb><w>גבע</w></bdb>
+		<bdb><w>גבע</w> empty entry</bdb>
 		<xref twot="309"/>
 		<status p="148">new</status>
 	</entry>
 	<entry id="cbv">
-		<bdb><w>גבשׁ</w></bdb>
+		<bdb><w>גבשׁ</w> empty entry</bdb>
 		<xref twot="311"/>
 		<status p="150">new</status>
 	</entry>
 	<entry id="cde">
-		<bdb><w>גדה</w></bdb>
+		<bdb><w>גדה</w> empty entry</bdb>
 		<xref twot="314"/>
 		<status p="152">new</status>
 	</entry>
 	<entry id="cdv1">
-		<bdb mod="I"><w>גדשׁ</w></bdb>
+		<bdb mod="I"><w>גדשׁ</w> empty entry</bdb>
 		<xref twot="319"/>
 		<status p="155">new</status>
 	</entry>
 	<entry id="cdv2">
-		<bdb mod="II"><w>גּדשׁ</w></bdb>
+		<bdb mod="II"><w>גּדשׁ</w> empty entry</bdb>
 		<xref twot="320"/>
 		<status p="155">new</status>
 	</entry>
 	<entry id="cfe">
-		<bdb><w>גוה</w></bdb>
+		<bdb><w>גוה</w> empty entry</bdb>
 		<xref twot="326"/>
 		<status p="156">new</status>
 	</entry>
 	<entry id="cfn">
-		<bdb><w>גּון</w></bdb>
+		<bdb><w>גּון</w> empty entry</bdb>
 		<status p="157">new</status>
 	</entry>
 	<entry id="cfv">
-		<bdb><w>גושׁ</w></bdb>
+		<bdb><w>גושׁ</w> empty entry</bdb>
 		<xref twot="333"/>
 		<status p="159">new</status>
 	</entry>
 	<entry id="cgl2">
-		<bdb mod="II"><w>גזל</w></bdb>
+		<bdb mod="II"><w>גזל</w> empty entry</bdb>
 		<status p="160">new</status>
 	</entry>
 	<entry id="cgm">
-		<bdb><w>גזם</w></bdb>
+		<bdb><w>גזם</w> empty entry</bdb>
 		<xref twot="338"/>
 		<status p="160">new</status>
 	</entry>
 	<entry id="cgp">
-		<bdb><w>גזע</w></bdb>
+		<bdb><w>גזע</w> empty entry</bdb>
 		<xref twot="339"/>
 		<status p="160">new</status>
 	</entry>
 	<entry id="chl">
-		<bdb><w>גחל</w></bdb>
+		<bdb><w>גחל</w> empty entry</bdb>
 		<xref twot="341"/>
 		<status p="160">new</status>
 	</entry>
 	<entry id="chm">
-		<bdb><w>גחם</w></bdb>
+		<bdb><w>גחם</w> empty entry</bdb>
 		<status p="161">new</status>
 	</entry>
 	<entry id="chn">
-		<bdb><w>גחן</w></bdb>
+		<bdb><w>גחן</w> empty entry</bdb>
 		<xref twot="342"/>
 		<status p="161">new</status>
 	</entry>
 	<entry id="cht">
-		<bdb><w>גחר</w></bdb>
+		<bdb><w>גחר</w> empty entry</bdb>
 		<status p="161">new</status>
 	</entry>
 	<entry id="cjd">
-		<bdb><w>גיד</w></bdb>
+		<bdb><w>גיד</w> empty entry</bdb>
 		<xref twot="344"/>
 		<status p="161">new</status>
 	</entry>
 	<entry id="cjt">
-		<bdb><w>גיר</w></bdb>
+		<bdb><w>גיר</w> empty entry</bdb>
 		<xref twot="347"/>
 		<status p="162">new</status>
 	</entry>
 	<entry id="clb">
-		<bdb><w>גלב</w></bdb>
+		<bdb><w>גלב</w> empty entry</bdb>
 		<status p="162">new</status>
 	</entry>
 	<entry id="cld">
-		<bdb><w>גלד</w></bdb>
+		<bdb><w>גלד</w> empty entry</bdb>
 		<status p="162">new</status>
 	</entry>
 	<entry id="cll1">
-		<bdb mod="I"><w>גלל</w></bdb>
+		<bdb mod="I"><w>גלל</w> empty entry</bdb>
 		<status p="164">new</status>
 	</entry>
 	<entry id="cmd">
-		<bdb><w>גמד</w></bdb>
+		<bdb><w>גמד</w> empty entry</bdb>
 		<xref twot="359"/>
 		<status p="167">new</status>
 	</entry>
 	<entry id="cmm">
-		<bdb><w>גמם</w></bdb>
+		<bdb><w>גמם</w> empty entry</bdb>
 		<xref twot="361"/>
 		<status p="168">new</status>
 	</entry>
 	<entry id="cmr">
-		<bdb><w>גמץ</w></bdb>
+		<bdb><w>גמץ</w> empty entry</bdb>
 		<xref twot="362"/>
 		<status p="170">new</status>
 	</entry>
 	<entry id="cnc">
-		<bdb><w>גנג</w></bdb>
+		<bdb><w>גנג</w> empty entry</bdb>
 		<status p="150">added</status>
 	</entry>
 	<entry id="cng">
-		<bdb><w>גנז</w></bdb>
+		<bdb><w>גנז</w> empty entry</bdb>
 		<xref twot="365"/>
 		<status p="170">new</status>
 	</entry>
 	<entry id="cqn">
-		<bdb><w>גפן</w></bdb>
+		<bdb><w>גפן</w> empty entry</bdb>
 		<xref twot="372"/>
 		<status p="172">new</status>
 	</entry>
 	<entry id="cqq">
-		<bdb><w>גפף</w></bdb>
+		<bdb><w>גפף</w> empty entry</bdb>
 		<xref twot="373"/>
 		<status p="172">new</status>
 	</entry>
 	<entry id="ctb">
-		<bdb><w>גרב</w></bdb>
+		<bdb><w>גרב</w> empty entry</bdb>
 		<xref twot="376"/>
 		<status p="173">new</status>
 	</entry>
 	<entry id="ctil">
-		<bdb><w>גרטל</w></bdb>
+		<bdb><w>גרטל</w> empty entry</bdb>
 		<xref twot="380"/>
 		<status p="173">new</status>
 	</entry>
 	<entry id="ctl">
-		<bdb><w>גרל</w></bdb>
+		<bdb><w>גרל</w> empty entry</bdb>
 		<xref twot="381"/>
 		<status p="174">new</status>
 	</entry>
 	<entry id="ctn">
-		<bdb><w>גרן</w></bdb>
+		<bdb><w>גרן</w> empty entry</bdb>
 		<xref twot="383"/>
 		<status p="175">new</status>
 	</entry>
 	<entry id="ctu">
-		<bdb><w>גרשׂ</w></bdb>
+		<bdb><w>גרשׂ</w> empty entry</bdb>
 		<status p="176">new</status>
 	</entry>
 	<entry id="cvm">
-		<bdb><w>גשׁם</w></bdb>
+		<bdb><w>גשׁם</w> empty entry</bdb>
 		<status p="177">new</status>
 	</entry>
 	<entry id="cvt">
-		<bdb><w>גשׁר</w></bdb>
+		<bdb><w>גשׁר</w> empty entry</bdb>
 		<status p="178">new</status>
 	</entry>
 	<entry id="d1">
-		<bdb><w>ד</w>, <w>דּ</w></bdb>
+		<bdb><w>ד</w>, <w>דּ</w> empty entry</bdb>
 		<status p="178">new</status>
 	</entry>
 	<entry id="dba">
-		<bdb><w>דבא</w></bdb>
+		<bdb><w>דבא</w> empty entry</bdb>
 		<xref twot="395"/>
 		<status p="179">new</status>
 	</entry>
 	<entry id="dbl">
-		<bdb><w>דבל</w></bdb>
+		<bdb><w>דבל</w> empty entry</bdb>
 		<xref twot="397"/>
 		<status p="179">new</status>
 	</entry>
 	<entry id="dbv">
-		<bdb><w>דבשׁ</w></bdb>
+		<bdb><w>דבשׁ</w> empty entry</bdb>
 		<xref twot="400"/>
 		<status p="185">new</status>
 	</entry>
 	<entry id="dcn">
-		<bdb><w>דגן</w></bdb>
+		<bdb><w>דגן</w> empty entry</bdb>
 		<xref twot="403"/>
 		<status p="186">new</status>
 	</entry>
 	<entry id="dfd">
-		<bdb><w>דוד</w></bdb>
+		<bdb><w>דוד</w> empty entry</bdb>
 		<xref twot="410"/>
 		<status p="187">new</status>
 	</entry>
 	<entry id="dfm">
-		<bdb><w>דום</w></bdb>
+		<bdb><w>דום</w> empty entry</bdb>
 		<xref twot="415"/>
 		<status p="189">new</status>
 	</entry>
 	<entry id="dfs1">
-		<bdb><w>דוק</w></bdb>
+		<bdb><w>דוק</w> empty entry</bdb>
 		<xref twot="417"/>
 		<status p="189">new</status>
 	</entry>
 	<entry id="dhn">
-		<bdb><w>דחן</w></bdb>
+		<bdb><w>דחן</w> empty entry</bdb>
 		<xref twot="422"/>
 		<status p="191">new</status>
 	</entry>
 	<entry id="dkk">
-		<bdb><w>דכך</w></bdb>
+		<bdb><w>דכך</w> empty entry</bdb>
 		<xref twot="429"/>
 		<status p="194">new</status>
 	</entry>
 	<entry id="dmn">
-		<bdb><w>דמן</w></bdb>
+		<bdb><w>דמן</w> empty entry</bdb>
 		<xref twot="441"/>
 		<status p="199">new</status>
 	</entry>
 	<entry id="dnc">
-		<bdb><w>דנג</w></bdb>
+		<bdb><w>דנג</w> empty entry</bdb>
 		<xref twot="444"/>
 		<status p="200">new</status>
 	</entry>
 	<entry id="dqe">
-		<bdb><w>דפה</w></bdb>
+		<bdb><w>דפה</w> empty entry</bdb>
 		<xref twot="446"/>
 		<status p="200">new</status>
 	</entry>
 	<entry id="dsl">
-		<bdb><w>דקל</w></bdb>
+		<bdb><w>דקל</w> empty entry</bdb>
 		<status p="200">new</status>
 	</entry>
 	<entry id="dta">
-		<bdb><w>דרא</w></bdb>
+		<bdb><w>דרא</w> empty entry</bdb>
 		<xref twot="450"/>
 		<status p="201">new</status>
 	</entry>
 	<entry id="dtb">
-		<bdb><w>דרב</w></bdb>
+		<bdb><w>דרב</w> empty entry</bdb>
 		<xref twot="451"/>
 		<status p="201">new</status>
 	</entry>
 	<entry id="dtc">
-		<bdb><w>דרג</w></bdb>
+		<bdb><w>דרג</w> empty entry</bdb>
 		<xref twot="452"/>
 		<status p="201">new</status>
 	</entry>
 	<entry id="dtp1">
-		<bdb><w>דרע</w></bdb>
+		<bdb><w>דרע</w> empty entry</bdb>
 		<status p="204">new</status>
 	</entry>
 	<entry id="dtt">
-		<bdb><w>דרר</w></bdb>
+		<bdb><w>דרר</w> empty entry</bdb>
 		<xref twot="454"/>
 		<status p="204">new</status>
 	</entry>
 	<entry id="e1">
-		<bdb><w>ה</w></bdb>
+		<bdb><w>ה</w> empty entry</bdb>
 		<status p="206">new</status>
 	</entry>
 	<entry id="e2">
-		<bdb><w>הַ•</w>, <w>הַ</w>, <w>הָ</w>, <w>הֶ</w></bdb>
+		<bdb><w>הַ•</w>, <w>הַ</w>, <w>הָ</w>, <w>הֶ</w> empty entry</bdb>
 		<status p="206">new</status>
 	</entry>
 	<entry id="e3">
-		<bdb><w>הֲ</w>, <w>הַ</w>, <w>הַ•</w>, <w>הֶ</w></bdb>
+		<bdb><w>הֲ</w>, <w>הַ</w>, <w>הַ•</w>, <w>הֶ</w> empty entry</bdb>
 		<status p="209">new</status>
 	</entry>
 	<entry id="ecc">
-		<bdb><w>הגג</w></bdb>
+		<bdb><w>הגג</w> empty entry</bdb>
 		<xref twot="466"/>
 		<status p="211">new</status>
 	</entry>
 	<entry id="ecn">
-		<bdb><w>הגן</w></bdb>
+		<bdb><w>הגן</w> empty entry</bdb>
 		<xref twot="469"/>
 		<status p="212">new</status>
 	</entry>
 	<entry id="ect">
-		<bdb><w>הגר</w></bdb>
+		<bdb><w>הגר</w> empty entry</bdb>
 		<xref twot="470"/>
 		<status p="212">new</status>
 	</entry>
 	<entry id="edd">
-		<bdb><w>הדד</w></bdb>
+		<bdb><w>הדד</w> empty entry</bdb>
 		<xref twot="471"/>
 		<status p="212">new</status>
 	</entry>
 	<entry id="edm">
-		<bdb><w>הדם</w></bdb>
+		<bdb><w>הדם</w> empty entry</bdb>
 		<status p="213">new</status>
 	</entry>
 	<entry id="ef2">
-		<bdb><w>הוּ</w></bdb>
+		<bdb><w>הוּ</w> empty entry</bdb>
 		<status p="214">new</status>
 	</entry>
 	<entry id="efd">
-		<bdb><w>הוד</w></bdb>
+		<bdb><w>הוד</w> empty entry</bdb>
 		<xref twot="482"/>
 		<status p="217">new</status>
 	</entry>
 	<entry id="eml">
-		<bdb><w>המל</w></bdb>
+		<bdb><w>המל</w> empty entry</bdb>
 		<xref twot="506"/>
 		<status p="242">new</status>
 	</entry>
 	<entry id="emo">
-		<bdb><w>המס</w></bdb>
+		<bdb><w>המס</w> empty entry</bdb>
 		<xref twot="508"/>
 		<status p="243">new</status>
 	</entry>
 	<entry id="emt">
-		<bdb><w>המר</w></bdb>
+		<bdb><w>המר</w> empty entry</bdb>
 		<xref twot="509"/>
 		<status p="243">new</status>
 	</entry>
 	<entry id="ett">
-		<bdb><w>הרר</w></bdb>
+		<bdb><w>הרר</w> empty entry</bdb>
 		<status p="249">new</status>
 	</entry>
 	<entry id="f1">
-		<bdb><w>ו</w></bdb>
+		<bdb><w>ו</w> empty entry</bdb>
 		<status p="251">new</status>
 	</entry>
 	<entry id="f2">
-		<bdb><w>וְ</w>, <w>וּ</w>, <w>וָ</w></bdb>
+		<bdb><w>וְ</w>, <w>וּ</w>, <w>וָ</w> empty entry</bdb>
 		<status p="251">new</status>
 	</entry>
 	<entry id="fgt">
-		<bdb><w>וזר</w></bdb>
+		<bdb><w>וזר</w> empty entry</bdb>
 		<status p="255">new</status>
 	</entry>
 	<entry id="fvm">
-		<bdb><w>ושׁם</w></bdb>
+		<bdb><w>ושׁם</w> empty entry</bdb>
 		<status p="1051">added</status>
 	</entry>
 	<entry id="g1">
-		<bdb><w>ז</w></bdb>
+		<bdb><w>ז</w> empty entry</bdb>
 		<status p="255">new</status>
 	</entry>
 	<entry id="gab">
-		<bdb><w>זאב</w></bdb>
+		<bdb><w>זאב</w> empty entry</bdb>
 		<status p="255">new</status>
 	</entry>
 	<entry id="gbb">
-		<bdb><w>זבב</w></bdb>
+		<bdb><w>זבב</w> empty entry</bdb>
 		<xref twot="523"/>
 		<status p="256">new</status>
 	</entry>
 	<entry id="gfc">
-		<bdb><w>זוג</w>, <w>זיג</w></bdb>
+		<bdb><w>זוג</w>, <w>זיג</w> empty entry</bdb>
 		<xref twot="527"/>
 		<status p="259">new</status>
 	</entry>
 	<entry id="geb">
-		<bdb><w>זהב</w></bdb>
+		<bdb><w>זהב</w> empty entry</bdb>
 		<xref twot="529"/>
 		<status p="262">new</status>
 	</entry>
 	<entry id="gf3">
-		<bdb><w>זוֹ</w>, <w>זוּ</w></bdb>
+		<bdb><w>זוֹ</w>, <w>זוּ</w> empty entry</bdb>
 		<status p="264">new</status>
 	</entry>
 	<entry id="gfe">
-		<bdb><w>זוה</w></bdb>
+		<bdb><w>זוה</w> empty entry</bdb>
 		<xref twot="534*"/>
 		<status p="264">new</status>
 	</entry>
 	<entry id="gfg1">
-		<bdb mod="I"><w>זוז</w></bdb>
+		<bdb mod="I"><w>זוז</w> empty entry</bdb>
 		<xref twot="535"/>
 		<status p="265">new</status>
 	</entry>
 	<entry id="gfg2">
-		<bdb mod="II"><w>זוז</w></bdb>
+		<bdb mod="II"><w>זוז</w> empty entry</bdb>
 		<xref twot="536"/>
 		<status p="265">new</status>
 	</entry>
 	<entry id="gfl1">
-		<bdb mod="I"><w>זול</w></bdb>
+		<bdb mod="I"><w>זול</w> empty entry</bdb>
 		<xref twot="537"/>
 		<status p="265">new</status>
 	</entry>
 	<entry id="gla">
-		<bdb><w>זלא</w></bdb>
+		<bdb><w>זלא</w> empty entry</bdb>
 		<status p="272">new</status>
 	</entry>
 	<entry id="glc">
-		<bdb><w>זלג</w></bdb>
+		<bdb><w>זלג</w> empty entry</bdb>
 		<xref twot="552"/>
 		<status p="272">new</status>
 	</entry>
 	<entry id="glpq">
-		<bdb><w>זלעף</w></bdb>
+		<bdb><w>זלעף</w> empty entry</bdb>
 		<xref twot="555"/>
 		<status p="273">new</status>
 	</entry>
 	<entry id="glq">
-		<bdb><w>זלף</w></bdb>
+		<bdb><w>זלף</w> empty entry</bdb>
 		<status p="273">new</status>
 	</entry>
 	<entry id="gmt3">
-		<bdb mod="III"><w>זמר</w></bdb>
+		<bdb mod="III"><w>זמר</w> empty entry</bdb>
 		<xref twot="560"/>
 		<status p="275">new</status>
 	</entry>
 	<entry id="gnb">
-		<bdb><w>זנב</w></bdb>
+		<bdb><w>זנב</w> empty entry</bdb>
 		<status p="275">new</status>
 	</entry>
 	<entry id="gpt1">
-		<bdb><w>זער</w></bdb>
+		<bdb><w>זער</w> empty entry</bdb>
 		<xref twot="571"/>
 		<status p="277">new</status>
 	</entry>
 	<entry id="gsn">
-		<bdb><w>זקן</w></bdb>
+		<bdb><w>זקן</w> empty entry</bdb>
 		<status p="278">new</status>
 	</entry>
 	<entry id="gss2">
-		<bdb mod="II"><w>זקק</w></bdb>
+		<bdb mod="II"><w>זקק</w> empty entry</bdb>
 		<xref twot="577"/>
 		<status p="279">new</status>
 	</entry>
 	<entry id="gtp2">
-		<bdb mod="II"><w>זרע</w></bdb>
+		<bdb mod="II"><w>זרע</w> empty entry</bdb>
 		<xref twot="583"/>
 		<status p="283">new</status>
 	</entry>
 	<entry id="h1">
-		<bdb><w>ח</w></bdb>
+		<bdb><w>ח</w> empty entry</bdb>
 		<status p="285">new</status>
 	</entry>
 	<entry id="hbl1">
-		<bdb><w>חבל</w></bdb>
+		<bdb><w>חבל</w> empty entry</bdb>
 		<xref twot="592"/>
 		<status p="285">added</status>
 	</entry>
 	<entry id="hbl2">
-		<bdb><w>חבל</w></bdb>
+		<bdb><w>חבל</w> empty entry</bdb>
 		<xref twot="596"/>
 		<status p="285">added</status>
 	</entry>
 	<entry id="hbw">
-		<bdb><w>חבת</w></bdb>
+		<bdb><w>חבת</w> empty entry</bdb>
 		<xref twot="600"/>
 		<status p="290">new</status>
 	</entry>
 	<entry id="hcb">
-		<bdb><w>חגב</w></bdb>
+		<bdb><w>חגב</w> empty entry</bdb>
 		<xref twot="601"/>
 		<status p="290">new</status>
 	</entry>
 	<entry id="hce">
-		<bdb><w>חגה</w></bdb>
+		<bdb><w>חגה</w> empty entry</bdb>
 		<xref twot="603"/>
 		<status p="291">new</status>
 	</entry>
 	<entry id="hcl">
-		<bdb><w>חגל</w></bdb>
+		<bdb><w>חגל</w> empty entry</bdb>
 		<status p="291">new</status>
 	</entry>
 	<entry id="hds">
-		<bdb><w>חדק</w></bdb>
+		<bdb><w>חדק</w> empty entry</bdb>
 		<xref twot="611"/>
 		<status p="293">new</status>
 	</entry>
 	<entry id="hfd1">
-		<bdb mod="I"><w>חוד</w></bdb>
+		<bdb mod="I"><w>חוד</w> empty entry</bdb>
 		<status p="295">new</status>
 	</entry>
 	<entry id="hfe1">
-		<bdb mod="I"><w>חוה</w></bdb>
+		<bdb mod="I"><w>חוה</w> empty entry</bdb>
 		<status p="295">new</status>
 	</entry>
 	<entry id="hfe2">
-		<bdb mod="II"><w>חוה</w></bdb>
+		<bdb mod="II"><w>חוה</w> empty entry</bdb>
 		<xref twot="617"/>
 		<status p="295">new</status>
 	</entry>
 	<entry id="hfh">
-		<bdb><w>חוח</w></bdb>
+		<bdb><w>חוח</w> empty entry</bdb>
 		<xref twot="620"/>
 		<status p="296">new</status>
 	</entry>
 	<entry id="hfi1">
-		<bdb><w>חוט</w></bdb>
+		<bdb><w>חוט</w> empty entry</bdb>
 		<xref twot="621"/>
 		<status p="296">new</status>
 	</entry>
 	<entry id="hfm">
-		<bdb><w>חום</w></bdb>
+		<bdb><w>חום</w> empty entry</bdb>
 		<xref twot="625"/>
 		<status p="299">new</status>
 	</entry>
 	<entry id="hfr1">
-		<bdb mod="I"><w>חוץ</w></bdb>
+		<bdb mod="I"><w>חוץ</w> empty entry</bdb>
 		<xref twot="627"/>
 		<status p="299">new</status>
 	</entry>
 	<entry id="hfr2">
-		<bdb mod="II"><w>חוץ</w></bdb>
+		<bdb mod="II"><w>חוץ</w> empty entry</bdb>
 		<xref twot="628"/>
 		<status p="300">new</status>
 	</entry>
 	<entry id="hfs">
-		<bdb><w>חוק</w>, <w>חיק</w></bdb>
+		<bdb><w>חוק</w>, <w>חיק</w> empty entry</bdb>
 		<xref twot="629"/>
 		<status p="300">new</status>
 	</entry>
 	<entry id="hft2">
-		<bdb mod="II"><w>חור</w></bdb>
+		<bdb mod="II"><w>חור</w> empty entry</bdb>
 		<status p="301">new</status>
 	</entry>
 	<entry id="hge2">
-		<bdb mod="II"><w>חזה</w></bdb>
+		<bdb mod="II"><w>חזה</w> empty entry</bdb>
 		<xref twot="634"/>
 		<status p="303">new</status>
 	</entry>
 	<entry id="hgg">
-		<bdb><w>חזז</w></bdb>
+		<bdb><w>חזז</w> empty entry</bdb>
 		<xref twot="635"/>
 		<status p="304">new</status>
 	</entry>
 	<entry id="hgt">
-		<bdb><w>חזר</w></bdb>
+		<bdb><w>חזר</w> empty entry</bdb>
 		<xref twot="637"/>
 		<status p="306">new</status>
 	</entry>
 	<entry id="hib2">
-		<bdb mod="II"><w>חטב</w></bdb>
+		<bdb mod="II"><w>חטב</w> empty entry</bdb>
 		<xref twot="640"/>
 		<status p="310">new</status>
 	</entry>
 	<entry id="hii">
-		<bdb><w>חטט</w></bdb>
+		<bdb><w>חטט</w> empty entry</bdb>
 		<status p="310">new</status>
 	</entry>
 	<entry id="hil">
-		<bdb><w>חטל</w></bdb>
+		<bdb><w>חטל</w> empty entry</bdb>
 		<status p="310">new</status>
 	</entry>
 	<entry id="hit">
-		<bdb><w>חטר</w></bdb>
+		<bdb><w>חטר</w> empty entry</bdb>
 		<xref twot="643"/>
 		<status p="310">new</status>
 	</entry>
 	<entry id="hiv">
-		<bdb><w>חטשׁ</w></bdb>
+		<bdb><w>חטשׁ</w> empty entry</bdb>
 		<status p="310">new</status>
 	</entry>
 	<entry id="hkl">
-		<bdb><w>חכל</w></bdb>
+		<bdb><w>חכל</w> empty entry</bdb>
 		<xref twot="646"/>
 		<status p="314">new</status>
 	</entry>
 	<entry id="hla2">
-		<bdb mod="II"><w>חלא</w></bdb>
+		<bdb mod="II"><w>חלא</w> empty entry</bdb>
 		<xref twot="649"/>
 		<status p="316">new</status>
 	</entry>
 	<entry id="hlb1">
-		<bdb mod="I"><w>חלב</w></bdb>
+		<bdb mod="I"><w>חלב</w> empty entry</bdb>
 		<xref twot="650"/>
 		<status p="316">new</status>
 	</entry>
 	<entry id="hlb2">
-		<bdb mod="II"><w>חלב</w></bdb>
+		<bdb mod="II"><w>חלב</w> empty entry</bdb>
 		<xref twot="651"/>
 		<status p="316">new</status>
 	</entry>
 	<entry id="hld1">
-		<bdb mod="I"><w>חלד</w></bdb>
+		<bdb mod="I"><w>חלד</w> empty entry</bdb>
 		<xref twot="653"/>
 		<status p="317">new</status>
 	</entry>
 	<entry id="hld2">
-		<bdb mod="II"><w>חלד</w></bdb>
+		<bdb mod="II"><w>חלד</w> empty entry</bdb>
 		<xref twot="654"/>
 		<status p="317">new</status>
 	</entry>
 	<entry id="hle2">
-		<bdb mod="III"><w>חלה</w></bdb>
+		<bdb mod="III"><w>חלה</w> empty entry</bdb>
 		<xref twot="657"/>
 		<status p="318">new</status>
 	</entry>
 	<entry id="hlk">
-		<bdb><w>חלך</w></bdb>
+		<bdb><w>חלך</w> empty entry</bdb>
 		<xref twot="659"/>
 		<status p="319">new</status>
 	</entry>
 	<entry id="hlmv">
-		<bdb><w>חלמשׁ</w></bdb>
+		<bdb><w>חלמשׁ</w> empty entry</bdb>
 		<status p="321">new</status>
 	</entry>
 	<entry id="hma">
-		<bdb><w>חמא</w></bdb>
+		<bdb><w>חמא</w> empty entry</bdb>
 		<xref twot="672"/>
 		<status p="326">new</status>
 	</entry>
 	<entry id="hme">
-		<bdb mod="I"><w>חמה</w></bdb>
+		<bdb mod="I"><w>חמה</w> empty entry</bdb>
 		<xref twot="674"/>
 		<status p="327">new</status>
 	</entry>
 	<entry id="hmi">
-		<bdb><w>חמט</w></bdb>
+		<bdb><w>חמט</w> empty entry</bdb>
 		<xref twot="675"/>
 		<status p="328">new</status>
 	</entry>
 	<entry id="hmt2">
-		<bdb mod="III"><w>חמר</w></bdb>
+		<bdb mod="III"><w>חמר</w> empty entry</bdb>
 		<xref twot="684"/>
 		<status p="330">new</status>
 	</entry>
 	<entry id="hmv1">
-		<bdb mod="I"><w>חמשׁ</w></bdb>
+		<bdb mod="I"><w>חמשׁ</w> empty entry</bdb>
 		<status p="331">new</status>
 	</entry>
 	<entry id="hmv2">
-		<bdb mod="III"><w>חמשׁ</w></bdb>
+		<bdb mod="III"><w>חמשׁ</w> empty entry</bdb>
 		<xref twot="687"/>
 		<status p="332">new</status>
 	</entry>
 	<entry id="hmv3">
-		<bdb mod="IV"><w>חמשׁ</w></bdb>
+		<bdb mod="IV"><w>חמשׁ</w> empty entry</bdb>
 		<xref twot="688"/>
 		<status p="332">new</status>
 	</entry>
 	<entry id="hmw">
-		<bdb><w>חמת</w></bdb>
+		<bdb><w>חמת</w> empty entry</bdb>
 		<xref twot="689"/>
 		<status p="332">new</status>
 	</entry>
 	<entry id="hnk">
-		<bdb mod="I"><w>חנך</w></bdb>
+		<bdb mod="I"><w>חנך</w> empty entry</bdb>
 		<xref twot="692"/>
 		<status p="335">new</status>
 	</entry>
 	<entry id="hon1">
-		<bdb><w>חסן</w></bdb>
+		<bdb><w>חסן</w> empty entry</bdb>
 		<status p="340">new</status>
 	</entry>
 	<entry id="hoq">
-		<bdb><w>חסף</w></bdb>
+		<bdb><w>חסף</w> empty entry</bdb>
 		<status p="341">added</status>
 	</entry>
 	<entry id="hqn">
-		<bdb><w>חפן</w></bdb>
+		<bdb><w>חפן</w> empty entry</bdb>
 		<xref twot="709"/>
 		<status p="342">new</status>
 	</entry>
 	<entry id="hqq2">
-		<bdb mod="II"><w>חפף</w></bdb>
+		<bdb mod="II"><w>חפף</w> empty entry</bdb>
 		<xref twot="711"/>
 		<status p="342">new</status>
 	</entry>
 	<entry id="hrn">
-		<bdb><w>חצן</w></bdb>
+		<bdb><w>חצן</w> empty entry</bdb>
 		<xref twot="720"/>
 		<status p="346">new</status>
 	</entry>
 	<entry id="hrt1">
-		<bdb mod="I"><w>חצר</w></bdb>
+		<bdb mod="I"><w>חצר</w> empty entry</bdb>
 		<xref twot="722"/>
 		<status p="346">new</status>
 	</entry>
 	<entry id="hrt2">
-		<bdb mod="II"><w>חצר</w></bdb>
+		<bdb mod="II"><w>חצר</w> empty entry</bdb>
 		<xref twot="723"/>
 		<status p="347">new</status>
 	</entry>
 	<entry id="hrt3">
-		<bdb mod="III"><w>חצר</w></bdb>
+		<bdb mod="III"><w>חצר</w> empty entry</bdb>
 		<xref twot="724"/>
 		<status p="348">new</status>
 	</entry>
 	<entry id="hrt4">
-		<bdb mod="III"><w>חצר</w></bdb>
+		<bdb mod="III"><w>חצר</w> empty entry</bdb>
 		<xref twot="725"/>
 		<status p="348">added</status>
 	</entry>
 	<entry id="hrt5">
-		<bdb mod="IV"><w>חצר</w></bdb>
+		<bdb mod="IV"><w>חצר</w> empty entry</bdb>
 		<xref twot="726"/>
 		<status p="348">new</status>
 	</entry>
 	<entry id="hta">
-		<bdb><w>חרא</w>, <w>חרה</w></bdb>
+		<bdb><w>חרא</w>, <w>חרה</w> empty entry</bdb>
 		<xref twot="730"/>
 		<status p="351">new</status>
 	</entry>
 	<entry id="htcl">
-		<bdb><w>חרגל</w></bdb>
+		<bdb><w>חרגל</w> empty entry</bdb>
 		<xref twot="734"/>
 		<status p="353">new</status>
 	</entry>
 	<entry id="htg">
-		<bdb><w>חרז</w></bdb>
+		<bdb><w>חרז</w> empty entry</bdb>
 		<xref twot="737"/>
 		<status p="354">new</status>
 	</entry>
 	<entry id="hti1">
-		<bdb mod="I"><w>חרט</w></bdb>
+		<bdb mod="I"><w>חרט</w> empty entry</bdb>
 		<xref twot="738"/>
 		<status p="354">new</status>
 	</entry>
 	<entry id="hti2">
-		<bdb mod="II"><w>חרט</w></bdb>
+		<bdb mod="II"><w>חרט</w> empty entry</bdb>
 		<xref twot="739"/>
 		<status p="355">new</status>
 	</entry>
 	<entry id="htk2">
-		<bdb mod="II"><w>חרך</w></bdb>
+		<bdb mod="II"><w>חרך</w> empty entry</bdb>
 		<xref twot="742"/>
 		<status p="355">new</status>
 	</entry>
 	<entry id="htl">
-		<bdb><w>חרל</w></bdb>
+		<bdb><w>חרל</w> empty entry</bdb>
 		<xref twot="743"/>
 		<status p="355">new</status>
 	</entry>
 	<entry id="hto">
-		<bdb><w>חרס</w></bdb>
+		<bdb><w>חרס</w> empty entry</bdb>
 		<xref twot="748"/>
 		<status p="357">new</status>
 	</entry>
 	<entry id="htp">
-		<bdb><w>חרע</w></bdb>
+		<bdb><w>חרע</w> empty entry</bdb>
 		<status p="357">new</status>
 	</entry>
 	<entry id="htq2">
-		<bdb cite="full" mod="II"><w>חרף</w></bdb>
+		<bdb cite="full" mod="II"><w>חרף</w> empty entry</bdb>
 		<status p="358">new</status>
 	</entry>
 	<entry id="htr2">
-		<bdb mod="II"><w>חרץ</w></bdb>
+		<bdb mod="II"><w>חרץ</w> empty entry</bdb>
 		<xref twot="753"/>
 		<status p="359">new</status>
 	</entry>
 	<entry id="htrb">
-		<bdb><w>חרצב</w></bdb>
+		<bdb><w>חרצב</w> empty entry</bdb>
 		<xref twot="754"/>
 		<status p="359">new</status>
 	</entry>
 	<entry id="htt2">
-		<bdb mod="II"><w>חרר</w></bdb>
+		<bdb mod="II"><w>חרר</w> empty entry</bdb>
 		<xref twot="757"/>
 		<status p="359">new</status>
 	</entry>
 	<entry id="htt3">
-		<bdb mod="III"><w>חרר</w></bdb>
+		<bdb mod="III"><w>חרר</w> empty entry</bdb>
 		<xref twot="758"/>
 		<status p="359">new</status>
 	</entry>
 	<entry id="htu">
-		<bdb><w>חרשׂ</w></bdb>
+		<bdb><w>חרשׂ</w> empty entry</bdb>
 		<xref twot="759"/>
 		<status p="360">new</status>
 	</entry>
 	<entry id="htv3">
-		<bdb mod="III"><w>חרשׁ</w></bdb>
+		<bdb mod="III"><w>חרשׁ</w> empty entry</bdb>
 		<xref twot="762"/>
 		<status p="361">new</status>
 	</entry>
 	<entry id="htv4">
-		<bdb mod="IV"><w>חרשׁ</w></bdb>
+		<bdb mod="IV"><w>חרשׁ</w> empty entry</bdb>
 		<xref twot="763"/>
 		<status p="361">new</status>
 	</entry>
 	<entry id="hvn">
-		<bdb><w>חשׁן</w></bdb>
+		<bdb><w>חשׁן</w> empty entry</bdb>
 		<xref twot="772"/>
 		<status p="365">new</status>
 	</entry>
 	<entry id="hvt">
-		<bdb><w>חשׁר</w></bdb>
+		<bdb><w>חשׁר</w> empty entry</bdb>
 		<xref twot="774"/>
 		<status p="366">new</status>
 	</entry>
 	<entry id="hvv">
-		<bdb><w>חשׁשׁ</w></bdb>
+		<bdb><w>חשׁשׁ</w> empty entry</bdb>
 		<xref twot="775"/>
 		<status p="366">new</status>
 	</entry>
 	<entry id="hwn">
-		<bdb mod="I"><w>חתן</w></bdb>
+		<bdb mod="I"><w>חתן</w> empty entry</bdb>
 		<xref twot="781"/>
 		<status p="368">new</status>
 	</entry>
 	<entry id="i1">
-		<bdb><w>ט</w></bdb>
+		<bdb><w>ט</w> empty entry</bdb>
 		<status p="370">new</status>
 	</entry>
 	<entry id="ibl2">
-		<bdb mod="II"><w>טבל</w></bdb>
+		<bdb mod="II"><w>טבל</w> empty entry</bdb>
 		<xref twot="788"/>
 		<status p="371">new</status>
 	</entry>
 	<entry id="ibt">
-		<bdb><w>טבר</w></bdb>
+		<bdb><w>טבר</w> empty entry</bdb>
 		<xref twot="790"/>
 		<status p="371">new</status>
 	</entry>
 	<entry id="ifi">
-		<bdb><w>טוט</w>, <w>טיט</w></bdb>
+		<bdb><w>טוט</w>, <w>טיט</w> empty entry</bdb>
 		<xref twot="796"/>
 		<status p="376">new</status>
 	</entry>
 	<entry id="ift">
-		<bdb><w>טוּר</w></bdb>
+		<bdb><w>טוּר</w> empty entry</bdb>
 		<xref twot="798"/>
 		<status p="377">new</status>
 	</entry>
 	<entry id="iht">
-		<bdb><w>טחר</w></bdb>
+		<bdb><w>טחר</w> empty entry</bdb>
 		<xref twot="803"/>
 		<status p="377">new</status>
 	</entry>
 	<entry id="iiq">
-		<bdb><w>טטף</w></bdb>
+		<bdb><w>טטף</w> empty entry</bdb>
 		<xref twot="804"/>
 		<status p="377">new</status>
 	</entry>
 	<entry id="ile">
-		<bdb><w>טלה</w></bdb>
+		<bdb><w>טלה</w> empty entry</bdb>
 		<xref twot="806"/>
 		<status p="378">new</status>
 	</entry>
 	<entry id="ill1">
-		<bdb mod="I"><w>טלל</w></bdb>
+		<bdb mod="I"><w>טלל</w> empty entry</bdb>
 		<xref twot="807"/>
 		<status p="378">new</status>
 	</entry>
 	<entry id="ilm">
-		<bdb><w>טלם</w></bdb>
+		<bdb><w>טלם</w> empty entry</bdb>
 		<status p="378">new</status>
 	</entry>
 	<entry id="ina">
-		<bdb><w>טנא</w></bdb>
+		<bdb><w>טנא</w> empty entry</bdb>
 		<xref twot="812"/>
 		<status p="380">new</status>
 	</entry>
 	<entry id="ite">
-		<bdb><w>טרה</w></bdb>
+		<bdb><w>טרה</w> empty entry</bdb>
 		<xref twot="824"/>
 		<status p="382">new</status>
 	</entry>
 	<entry id="j1">
-		<bdb><w>י</w></bdb>
+		<bdb><w>י</w> empty entry</bdb>
 		<status p="383">new</status>
 	</entry>
 	<entry id="jbm">
-		<bdb><w>יבם</w></bdb>
+		<bdb><w>יבם</w> empty entry</bdb>
 		<status p="386">new</status>
 	</entry>
 	<entry id="jcn">
-		<bdb><w>יגן</w></bdb>
+		<bdb><w>יגן</w> empty entry</bdb>
 		<xref twot="841"/>
 		<status p="387">new</status>
 	</entry>
 	<entry id="jdd2">
-		<bdb mod="II"><w>ידד</w></bdb>
+		<bdb mod="II"><w>ידד</w> empty entry</bdb>
 		<xref twot="846"/>
 		<status p="391">new</status>
 	</entry>
 	<entry id="jed">
-		<bdb><w>יהד</w></bdb>
+		<bdb><w>יהד</w> empty entry</bdb>
 		<status p="421">added</status>
 	</entry>
 	<entry id="jer">
-		<bdb><w>יהץ</w></bdb>
+		<bdb><w>יהץ</w> empty entry</bdb>
 		<status p="397">new</status>
 	</entry>
 	<entry id="jet">
-		<bdb><w>יהר</w></bdb>
+		<bdb><w>יהר</w> empty entry</bdb>
 		<xref twot="851"/>
 		<status p="397">new</status>
 	</entry>
 	<entry id="jfn1">
-		<bdb mod="I"><w>יון</w></bdb>
+		<bdb mod="I"><w>יון</w> empty entry</bdb>
 		<xref twot="853"/>
 		<status p="401">new</status>
 	</entry>
 	<entry id="jfn2">
-		<bdb mod="II"><w>יון</w></bdb>
+		<bdb mod="II"><w>יון</w> empty entry</bdb>
 		<xref twot="854"/>
 		<status p="401">new</status>
 	</entry>
 	<entry id="jge">
-		<bdb><w>יזה</w></bdb>
+		<bdb><w>יזה</w> empty entry</bdb>
 		<status p="402">new</status>
 	</entry>
 	<entry id="jgp">
-		<bdb><w>יזע</w></bdb>
+		<bdb><w>יזע</w> empty entry</bdb>
 		<xref twot="857"/>
 		<status p="402">new</status>
 	</entry>
 	<entry id="jhq">
-		<bdb><w>יחף</w></bdb>
+		<bdb><w>יחף</w> empty entry</bdb>
 		<xref twot="861"/>
 		<status p="405">new</status>
 	</entry>
 	<entry id="jhu">
-		<bdb><w>יחשׂ</w></bdb>
+		<bdb><w>יחשׂ</w> empty entry</bdb>
 		<status p="405">new</status>
 	</entry>
 	<entry id="jjn">
-		<bdb><w>יין</w></bdb>
+		<bdb><w>יין</w> empty entry</bdb>
 		<status p="406">new</status>
 	</entry>
 	<entry id="jlq">
-		<bdb><w>ילף</w></bdb>
+		<bdb><w>ילף</w> empty entry</bdb>
 		<xref twot="869"/>
 		<status p="410">new</status>
 	</entry>
 	<entry id="jls">
-		<bdb><w>ילק</w></bdb>
+		<bdb><w>ילק</w> empty entry</bdb>
 		<xref twot="870"/>
 		<status p="410">new</status>
 	</entry>
 	<entry id="jmm">
-		<bdb><w>ימם</w></bdb>
+		<bdb><w>ימם</w> empty entry</bdb>
 		<xref twot="871"/>
 		<status p="410">new</status>
 	</entry>
 	<entry id="jmn">
-		<bdb><w>ימן</w></bdb>
+		<bdb><w>ימן</w> empty entry</bdb>
 		<status p="411">new</status>
 	</entry>
 	<entry id="jpl2">
-		<bdb mod="II"><w>יעל</w></bdb>
+		<bdb mod="II"><w>יעל</w> empty entry</bdb>
 		<xref twot="883"/>
 		<status p="418">new</status>
 	</entry>
 	<entry id="jpn">
-		<bdb><w>יען</w></bdb>
+		<bdb><w>יען</w> empty entry</bdb>
 		<xref twot="884"/>
 		<status p="419">new</status>
 	</entry>
 	<entry id="jpq2">
-		<bdb mod="II"><w>יעף</w></bdb>
+		<bdb mod="II"><w>יעף</w> empty entry</bdb>
 		<xref twot="886"/>
 		<status p="419">new</status>
 	</entry>
 	<entry id="jpt1">
-		<bdb mod="I"><w>יער</w></bdb>
+		<bdb mod="I"><w>יער</w> empty entry</bdb>
 		<xref twot="888"/>
 		<status p="420">new</status>
 	</entry>
 	<entry id="jpt2">
-		<bdb mod="II"><w>יער</w></bdb>
+		<bdb mod="II"><w>יער</w> empty entry</bdb>
 		<xref twot="889"/>
 		<status p="421">new</status>
 	</entry>
 	<entry id="jsb">
-		<bdb><w>יקב</w></bdb>
+		<bdb><w>יקב</w> empty entry</bdb>
 		<xref twot="900"/>
 		<status p="428">new</status>
 	</entry>
 	<entry id="jse1">
-		<bdb><w>יקה</w></bdb>
+		<bdb><w>יקה</w> empty entry</bdb>
 		<status p="429">new</status>
 	</entry>
 	<entry id="jse2">
-		<bdb><w>יקהּ</w></bdb>
+		<bdb><w>יקהּ</w> empty entry</bdb>
 		<xref twot="902"/>
 		<status p="429">new</status>
 	</entry>
 	<entry id="jth">
-		<bdb><w>ירח</w></bdb>
+		<bdb><w>ירח</w> empty entry</bdb>
 		<xref twot="913"/>
 		<status p="437">new</status>
 	</entry>
 	<entry id="jtk">
-		<bdb><w>ירך</w></bdb>
+		<bdb><w>ירך</w> empty entry</bdb>
 		<xref twot="916"/>
 		<status p="437">new</status>
 	</entry>
 	<entry id="jts1">
-		<bdb mod="I"><w>ירק</w></bdb>
+		<bdb mod="I"><w>ירק</w> empty entry</bdb>
 		<xref twot="918"/>
 		<status p="438">new</status>
 	</entry>
 	<entry id="jve">
-		<bdb><w>ישׁה</w></bdb>
+		<bdb><w>ישׁה</w> empty entry</bdb>
 		<xref twot="923"/>
 		<status p="444">new</status>
 	</entry>
 	<entry id="jvh">
-		<bdb><w>ישׁח</w></bdb>
+		<bdb><w>ישׁח</w> empty entry</bdb>
 		<status p="445">new</status>
 	</entry>
 	<entry id="jvv">
-		<bdb><w>ישׁשׁ</w></bdb>
+		<bdb><w>ישׁשׁ</w> empty entry</bdb>
 		<xref twot="931"/>
 		<status p="450">new</status>
 	</entry>
 	<entry id="jwd">
-		<bdb><w>יתד</w></bdb>
+		<bdb><w>יתד</w> empty entry</bdb>
 		<xref twot="932"/>
 		<status p="450">new</status>
 	</entry>
 	<entry id="jwh">
-		<bdb><w>יתח</w></bdb>
+		<bdb><w>יתח</w> empty entry</bdb>
 		<xref twot="933"/>
 		<status p="450">new</status>
 	</entry>
 	<entry id="jwm">
-		<bdb><w>יתם</w></bdb>
+		<bdb><w>יתם</w> empty entry</bdb>
 		<xref twot="934"/>
 		<status p="450">new</status>
 	</entry>
 	<entry id="jwn">
-		<bdb><w>יתן</w></bdb>
+		<bdb><w>יתן</w> empty entry</bdb>
 		<xref twot="935"/>
 		<status p="450">new</status>
 	</entry>
 	<entry id="k1">
-		<bdb><w>כ</w></bdb>
+		<bdb><w>כ</w> empty entry</bdb>
 		<status p="453">new</status>
 	</entry>
 	<entry id="k2">
-		<bdb><w>כּ</w></bdb>
+		<bdb><w>כּ</w> empty entry</bdb>
 		<status p="453">new</status>
 	</entry>
 	<entry id="k3">
-		<bdb><w>כְּ</w></bdb>
+		<bdb><w>כְּ</w> empty entry</bdb>
 		<status p="453">new</status>
 	</entry>
 	<entry id="kbb">
-		<bdb><w>כבב</w></bdb>
+		<bdb><w>כבב</w> empty entry</bdb>
 		<xref twot="942"/>
 		<status p="456">new</status>
 	</entry>
 	<entry id="kbl">
-		<bdb><w>כבל</w></bdb>
+		<bdb><w>כבל</w> empty entry</bdb>
 		<xref twot="945"/>
 		<status p="459">new</status>
 	</entry>
 	<entry id="kbn">
-		<bdb><w>כבן</w></bdb>
+		<bdb><w>כבן</w> empty entry</bdb>
 		<status p="460">new</status>
 	</entry>
 	<entry id="kbt2">
-		<bdb mod="II"><w>כבר</w></bdb>
+		<bdb mod="II"><w>כבר</w> empty entry</bdb>
 		<xref twot="948"/>
 		<status p="460">new</status>
 	</entry>
 	<entry id="kbu">
-		<bdb><w>כבשׂ</w></bdb>
+		<bdb><w>כבשׂ</w> empty entry</bdb>
 		<status p="461">added</status>
 	</entry>
 	<entry id="kdd">
-		<bdb><w>כדד</w></bdb>
+		<bdb><w>כדד</w> empty entry</bdb>
 		<xref twot="953"/>
 		<status p="461">new</status>
 	</entry>
 	<entry id="kdt">
-		<bdb><w>כדר</w></bdb>
+		<bdb><w>כדר</w> empty entry</bdb>
 		<xref twot="954"/>
 		<status p="461">new</status>
 	</entry>
 	<entry id="ken">
-		<bdb><w>כהן</w></bdb>
+		<bdb><w>כהן</w> empty entry</bdb>
 		<status p="462">new</status>
 	</entry>
 	<entry id="kfm">
-		<bdb><w>כום</w></bdb>
+		<bdb><w>כום</w> empty entry</bdb>
 		<xref twot="963"/>
 		<status p="465">new</status>
 	</entry>
 	<entry id="kfn">
-		<bdb><w>כון</w></bdb>
+		<bdb><w>כון</w> empty entry</bdb>
 		<status p="476">added</status>
 	</entry>
 	<entry id="kft1">
-		<bdb mod="I"><w>כור</w></bdb>
+		<bdb mod="I"><w>כור</w> empty entry</bdb>
 		<xref twot="967"/>
 		<status p="468">new</status>
 	</entry>
 	<entry id="kgt">
-		<bdb><w>כזר</w></bdb>
+		<bdb><w>כזר</w> empty entry</bdb>
 		<xref twot="971"/>
 		<status p="470">new</status>
 	</entry>
 	<entry id="khh">
-		<bdb><w>כחח</w></bdb>
+		<bdb><w>כחח</w> empty entry</bdb>
 		<xref twot="973"/>
 		<status p="470">new</status>
 	</entry>
 	<entry id="kjd">
-		<bdb><w>כיד</w></bdb>
+		<bdb><w>כיד</w> empty entry</bdb>
 		<xref twot="977"/>
 		<status p="475">new</status>
 	</entry>
 	<entry id="klb">
-		<bdb><w>כלב</w></bdb>
+		<bdb><w>כלב</w> empty entry</bdb>
 		<xref twot="981"/>
 		<status p="476">new</status>
 	</entry>
 	<entry id="kle2">
-		<bdb mod="II"><w>כלה</w></bdb>
+		<bdb mod="II"><w>כלה</w> empty entry</bdb>
 		<xref twot="983"/>
 		<status p="480">new</status>
 	</entry>
 	<entry id="klh">
-		<bdb><w>כלח</w></bdb>
+		<bdb><w>כלח</w> empty entry</bdb>
 		<xref twot="984"/>
 		<status p="480">new</status>
 	</entry>
 	<entry id="kll2">
-		<bdb mod="II"><w>כלל</w></bdb>
+		<bdb mod="II"><w>כלל</w> empty entry</bdb>
 		<xref twot="986"/>
 		<status p="483">new</status>
 	</entry>
 	<entry id="kmg">
-		<bdb><w>כמז</w></bdb>
+		<bdb><w>כמז</w> empty entry</bdb>
 		<xref twot="990"/>
 		<status p="484">new</status>
 	</entry>
 	<entry id="kmn">
-		<bdb><w>כמן</w></bdb>
+		<bdb><w>כמן</w> empty entry</bdb>
 		<xref twot="991"/>
 		<status p="484">new</status>
 	</entry>
 	<entry id="kmt2">
-		<bdb mod="II"><w>כמר</w></bdb>
+		<bdb mod="II"><w>כמר</w> empty entry</bdb>
 		<xref twot="994"/>
 		<status p="485">new</status>
 	</entry>
 	<entry id="kmt3">
-		<bdb mod="III"><w>כמר</w></bdb>
+		<bdb mod="III"><w>כמר</w> empty entry</bdb>
 		<xref twot="995"/>
 		<status p="485">new</status>
 	</entry>
 	<entry id="kmw">
-		<bdb><w>כמת</w></bdb>
+		<bdb><w>כמת</w> empty entry</bdb>
 		<status p="485">new</status>
 	</entry>
 	<entry id="knn1">
-		<bdb mod="I"><w>כנן</w></bdb>
+		<bdb mod="I"><w>כנן</w> empty entry</bdb>
 		<xref twot="998"/>
 		<status p="487">new</status>
 	</entry>
 	<entry id="knn2">
-		<bdb mod="II"><w>כנן</w></bdb>
+		<bdb mod="II"><w>כנן</w> empty entry</bdb>
 		<xref twot="999"/>
 		<status p="487">new</status>
 	</entry>
 	<entry id="knq">
-		<bdb><w>כנף</w></bdb>
+		<bdb><w>כנף</w> empty entry</bdb>
 		<status p="489">new</status>
 	</entry>
 	<entry id="knt">
-		<bdb><w>כנר</w></bdb>
+		<bdb><w>כנר</w> empty entry</bdb>
 		<xref twot="1004"/>
 		<status p="489">new</status>
 	</entry>
 	<entry id="koe2">
-		<bdb mod="II"><w>כסה</w></bdb>
+		<bdb mod="II"><w>כסה</w> empty entry</bdb>
 		<xref twot="1009"/>
 		<status p="492">new</status>
 	</entry>
 	<entry id="kqo">
-		<bdb><w>כפס</w></bdb>
+		<bdb><w>כפס</w> empty entry</bdb>
 		<xref twot="1021"/>
 		<status p="495">new</status>
 	</entry>
 	<entry id="kqt1">
-		<bdb><w>כפר</w></bdb>
+		<bdb><w>כפר</w> empty entry</bdb>
 		<status p="497">new</status>
 	</entry>
 	<entry id="kqt2">
-		<bdb mod="II"><w>כפר</w></bdb>
+		<bdb mod="II"><w>כפר</w> empty entry</bdb>
 		<status p="498">new</status>
 	</entry>
 	<entry id="kqt3">
-		<bdb mod="III"><w>כפר</w></bdb>
+		<bdb mod="III"><w>כפר</w> empty entry</bdb>
 		<xref twot="1025"/>
 		<status p="498">new</status>
 	</entry>
 	<entry id="kqt4">
-		<bdb mod="IV"><w>כפר</w></bdb>
+		<bdb mod="IV"><w>כפר</w> empty entry</bdb>
 		<xref twot="1026"/>
 		<status p="499">new</status>
 	</entry>
 	<entry id="ktg">
-		<bdb><w>כרז</w></bdb>
+		<bdb><w>כרז</w> empty entry</bdb>
 		<status p="1121">added</status>
 	</entry>
 	<entry id="ktk">
-		<bdb><w>כרך</w></bdb>
+		<bdb><w>כרך</w> empty entry</bdb>
 		<xref twot="1037"/>
 		<status p="501">new</status>
 	</entry>
 	<entry id="ktkb">
-		<bdb><w>כרכב</w></bdb>
+		<bdb><w>כרכב</w> empty entry</bdb>
 		<xref twot="1038"/>
 		<status p="501">new</status>
 	</entry>
 	<entry id="ktm">
-		<bdb><w>כרם</w></bdb>
+		<bdb><w>כרם</w> empty entry</bdb>
 		<status p="501">added</status>
 	</entry>
 	<entry id="ktu">
-		<bdb><w>כרשׂ</w></bdb>
+		<bdb><w>כרשׂ</w> empty entry</bdb>
 		<xref twot="1047"/>
 		<status p="503">new</status>
 	</entry>
 	<entry id="kvq1">
-		<bdb mod="I"><w>כשׁף</w></bdb>
+		<bdb mod="I"><w>כשׁף</w> empty entry</bdb>
 		<status p="506">new</status>
 	</entry>
 	<entry id="kvq2">
-		<bdb mod="II"><w>כשׁף</w></bdb>
+		<bdb mod="II"><w>כשׁף</w> empty entry</bdb>
 		<status p="506">new</status>
 	</entry>
 	<entry id="kwl">
-		<bdb><w>כתל</w></bdb>
+		<bdb><w>כתל</w> empty entry</bdb>
 		<xref twot="1054"/>
 		<status p="508">new</status>
 	</entry>
 	<entry id="kwm2">
-		<bdb mod="II"><w>כתם</w></bdb>
+		<bdb mod="II"><w>כתם</w> empty entry</bdb>
 		<xref twot="1056"/>
 		<status p="508">new</status>
 	</entry>
 	<entry id="kwn">
-		<bdb><w>כתן</w></bdb>
+		<bdb><w>כתן</w> empty entry</bdb>
 		<xref twot="1058"/>
 		<status p="509">new</status>
 	</entry>
 	<entry id="kwq">
-		<bdb><w>כתף</w></bdb>
+		<bdb><w>כתף</w> empty entry</bdb>
 		<status p="509">new</status>
 	</entry>
 	<entry id="l1">
-		<bdb><w>ל</w></bdb>
+		<bdb><w>ל</w> empty entry</bdb>
 		<status p="510">new</status>
 	</entry>
 	<entry id="lab">
-		<bdb><w>לאב</w></bdb>
+		<bdb><w>לאב</w> empty entry</bdb>
 		<xref twot="1065"/>
 		<status p="520">new</status>
 	</entry>
 	<entry id="lak1">
-		<bdb><w>לאך</w></bdb>
+		<bdb><w>לאך</w> empty entry</bdb>
 		<xref twot="1068"/>
 		<status p="521">new</status>
 	</entry>
 	<entry id="lam">
-		<bdb><w>לאם</w></bdb>
+		<bdb><w>לאם</w> empty entry</bdb>
 		<xref twot="1069"/>
 		<status p="522">new</status>
 	</entry>
 	<entry id="lba">
-		<bdb><w>לבא</w></bdb>
+		<bdb><w>לבא</w> empty entry</bdb>
 		<xref twot="1070"/>
 		<status p="522">new</status>
 	</entry>
 	<entry id="lbb1">
-		<bdb cite="full"><w>לבב</w></bdb>
+		<bdb cite="full"><w>לבב</w> empty entry</bdb>
 		<status p="523">new</status>
 	</entry>
 	<entry id="lbn">
-		<bdb cite="full"><w>לבן</w> = <w src="H3835a">3835a</w></bdb>
+		<bdb cite="full"><w>לבן</w> = <w src="H3835a">3835a</w> empty entry</bdb>
 		<xref twot="1074"/>
 		<status p="526">added</status>
 	</entry>
 	<entry id="leb">
-		<bdb><w>להב</w></bdb>
+		<bdb><w>להב</w> empty entry</bdb>
 		<xref twot="1077"/>
 		<status p="529">new</status>
 	</entry>
 	<entry id="lec">
-		<bdb><w>להג</w></bdb>
+		<bdb><w>להג</w> empty entry</bdb>
 		<xref twot="1078"/>
 		<status p="529">new</status>
 	</entry>
 	<entry id="lfe3">
-		<bdb mod="III"><w>לוה</w></bdb>
+		<bdb mod="III"><w>לוה</w> empty entry</bdb>
 		<xref twot="1089"/>
 		<status p="531">new</status>
 	</entry>
 	<entry id="lfh">
-		<bdb><w>לוח</w></bdb>
+		<bdb><w>לוח</w> empty entry</bdb>
 		<xref twot="1091"/>
 		<status p="531">new</status>
 	</entry>
 	<entry id="lflf">
-		<bdb><w>לולו</w></bdb>
+		<bdb><w>לולו</w> empty entry</bdb>
 		<xref twot="1095"/>
 		<status p="533">new</status>
 	</entry>
 	<entry id="lhe">
-		<bdb><w>לחה</w></bdb>
+		<bdb><w>לחה</w> empty entry</bdb>
 		<xref twot="1101"/>
 		<status p="534">new</status>
 	</entry>
 	<entry id="lhh">
-		<bdb><w>לחח</w></bdb>
+		<bdb><w>לחח</w> empty entry</bdb>
 		<xref twot="1102"/>
 		<status p="535">new</status>
 	</entry>
 	<entry id="lia">
-		<bdb><w>לטא</w></bdb>
+		<bdb><w>לטא</w> empty entry</bdb>
 		<xref twot="1109"/>
 		<status p="538">new</status>
 	</entry>
 	<entry id="ljv">
-		<bdb><w>לישׁ</w></bdb>
+		<bdb><w>לישׁ</w> empty entry</bdb>
 		<xref twot="1114"/>
 		<status p="539">new</status>
 	</entry>
 	<entry id="lqd">
-		<bdb><w>לפד</w></bdb>
+		<bdb><w>לפד</w> empty entry</bdb>
 		<xref twot="1122"/>
 		<status p="542">new</status>
 	</entry>
 	<entry id="lsv">
-		<bdb><w>לקשׁ</w></bdb>
+		<bdb><w>לקשׁ</w> empty entry</bdb>
 		<xref twot="1127"/>
 		<status p="545">new</status>
 	</entry>
 	<entry id="lvd">
-		<bdb><w>לשׁד</w></bdb>
+		<bdb><w>לשׁד</w> empty entry</bdb>
 		<xref twot="1128"/>
 		<status p="545">new</status>
 	</entry>
 	<entry id="lvk">
-		<bdb><w>לשׁך</w></bdb>
+		<bdb><w>לשׁך</w> empty entry</bdb>
 		<xref twot="1129"/>
 		<status p="545">new</status>
 	</entry>
 	<entry id="lvm">
-		<bdb><w>לשׁם</w></bdb>
+		<bdb><w>לשׁם</w> empty entry</bdb>
 		<status p="545">added</status>
 	</entry>
 	<entry id="lvn">
-		<bdb><w>לשׁן</w></bdb>
+		<bdb><w>לשׁן</w> empty entry</bdb>
 		<status p="546">new</status>
 	</entry>
 	<entry id="lwh">
-		<bdb><w>לתח</w></bdb>
+		<bdb><w>לתח</w> empty entry</bdb>
 		<xref twot="1132"/>
 		<status p="546">new</status>
 	</entry>
 	<entry id="lwk">
-		<bdb><w>לתך</w></bdb>
+		<bdb><w>לתך</w> empty entry</bdb>
 		<xref twot="1133"/>
 		<status p="547">new</status>
 	</entry>
 	<entry id="m1">
-		<bdb><w>מ</w></bdb>
+		<bdb><w>מ</w> empty entry</bdb>
 		<status p="547">new</status>
 	</entry>
 	<entry id="m2">
-		<bdb><w>ם</w></bdb>
+		<bdb><w>ם</w> empty entry</bdb>
 		<status p="547">new</status>
 	</entry>
 	<entry id="mad">
-		<bdb><w>מאד</w></bdb>
+		<bdb><w>מאד</w> empty entry</bdb>
 		<status p="547">new</status>
 	</entry>
 	<entry id="mam">
-		<bdb><w>מאם</w></bdb>
+		<bdb><w>מאם</w> empty entry</bdb>
 		<xref twot="1137"/>
 		<status p="548">new</status>
 	</entry>
 	<entry id="mcd">
-		<bdb><w>מגד</w></bdb>
+		<bdb><w>מגד</w> empty entry</bdb>
 		<xref twot="1144"/>
 		<status p="550">new</status>
 	</entry>
 	<entry id="mde">
-		<bdb><w>מדה</w></bdb>
+		<bdb><w>מדה</w> empty entry</bdb>
 		<xref twot="1148"/>
 		<status p="551">new</status>
 	</entry>
 	<entry id="met2">
-		<bdb mod="II"><w>מהר</w></bdb>
+		<bdb mod="II"><w>מהר</w> empty entry</bdb>
 		<status p="555">new</status>
 	</entry>
 	<entry id="mf">
-		<bdb mod="I"><w>מו</w></bdb>
+		<bdb mod="I"><w>מו</w> empty entry</bdb>
 		<xref twot="1154"/>
 		<status p="555">new</status>
 	</entry>
 	<entry id="mfd1">
-		<bdb mod="I"><w>מוד</w></bdb>
+		<bdb mod="I"><w>מוד</w> empty entry</bdb>
 		<status p="556">new</status>
 	</entry>
 	<entry id="mfr">
-		<bdb><w>מוץ</w></bdb>
+		<bdb><w>מוץ</w> empty entry</bdb>
 		<xref twot="1162"/>
 		<status p="558">new</status>
 	</entry>
 	<entry id="mgc">
-		<bdb><w>מזג</w></bdb>
+		<bdb><w>מזג</w> empty entry</bdb>
 		<xref twot="1170"/>
 		<status p="561">new</status>
 	</entry>
 	<entry id="mge">
-		<bdb><w>מזה</w></bdb>
+		<bdb><w>מזה</w> empty entry</bdb>
 		<xref twot="1171"/>
 		<status p="561">new</status>
 	</entry>
 	<entry id="mgh">
-		<bdb><w>מזח</w></bdb>
+		<bdb><w>מזח</w> empty entry</bdb>
 		<status p="561">added</status>
 	</entry>
 	<entry id="mgl">
-		<bdb><w>מזל</w></bdb>
+		<bdb><w>מזל</w> empty entry</bdb>
 		<status p="561">added</status>
 	</entry>
 	<entry id="mgt1">
-		<bdb mod="I"><w>מזר</w></bdb>
+		<bdb mod="I"><w>מזר</w> empty entry</bdb>
 		<xref twot="1174"/>
 		<status p="561">new</status>
 	</entry>
 	<entry id="mgt2">
-		<bdb mod="II"><w>מזר</w></bdb>
+		<bdb mod="II"><w>מזר</w> empty entry</bdb>
 		<xref twot="1175"/>
 		<status p="561">new</status>
 	</entry>
 	<entry id="mhh">
-		<bdb><w>מחח</w></bdb>
+		<bdb><w>מחח</w> empty entry</bdb>
 		<xref twot="1181"/>
 		<status p="562">new</status>
 	</entry>
 	<entry id="mht">
-		<bdb><w>מחר</w></bdb>
+		<bdb><w>מחר</w> empty entry</bdb>
 		<xref twot="1185"/>
 		<status p="563">new</status>
 	</entry>
 	<entry id="mil">
-		<bdb><w>מטל</w></bdb>
+		<bdb><w>מטל</w> empty entry</bdb>
 		<xref twot="1186"/>
 		<status p="564">new</status>
 	</entry>
 	<entry id="mjn">
-		<bdb><w>מין</w>, <w>מון</w></bdb>
+		<bdb><w>מין</w>, <w>מון</w> empty entry</bdb>
 		<xref twot="1191"/>
 		<status p="568">new</status>
 	</entry>
 	<entry id="mjr">
-		<bdb cite="full" form="false"><w>מיץ</w></bdb>
+		<bdb cite="full" form="false"><w>מיץ</w> empty entry</bdb>
 		<xref twot="1192"/>
 		<status p="568">new</status>
 	</entry>
 	<entry id="mlh2">
-		<bdb mod="II"><w>מלח</w></bdb>
+		<bdb mod="II"><w>מלח</w> empty entry</bdb>
 		<status p="571">new</status>
 	</entry>
 	<entry id="mlh3">
-		<bdb><w>מלח</w></bdb>
+		<bdb><w>מלח</w> empty entry</bdb>
 		<status p="1100">added</status>
 	</entry>
 	<entry id="mlk1">
-		<bdb mod="I"><w>מלך</w></bdb>
+		<bdb mod="I"><w>מלך</w> empty entry</bdb>
 		<status p="572">new</status>
 	</entry>
 	<entry id="mnh">
-		<bdb><w>מנח</w></bdb>
+		<bdb><w>מנח</w> empty entry</bdb>
 		<xref twot="1214"/>
 		<status p="585">new</status>
 	</entry>
 	<entry id="mnn">
-		<bdb><w>מנן</w></bdb>
+		<bdb><w>מנן</w> empty entry</bdb>
 		<xref twot="1215"/>
 		<status p="585">new</status>
 	</entry>
 	<entry id="mpe">
-		<bdb><w>מעה</w></bdb>
+		<bdb><w>מעה</w> empty entry</bdb>
 		<xref twot="1227"/>
 		<status p="588">new</status>
 	</entry>
 	<entry id="mpg">
-		<bdb><w>מעז</w></bdb>
+		<bdb><w>מעז</w> empty entry</bdb>
 		<status p="589">new</status>
 	</entry>
 	<entry id="mpr">
-		<bdb><w>מעץ</w></bdb>
+		<bdb><w>מעץ</w> empty entry</bdb>
 		<status p="591">new</status>
 	</entry>
 	<entry id="mrh">
-		<bdb><w>מצח</w></bdb>
+		<bdb><w>מצח</w> empty entry</bdb>
 		<xref twot="1233"/>
 		<status p="594">new</status>
 	</entry>
 	<entry id="mrt">
-		<bdb><w>מצר</w></bdb>
+		<bdb><w>מצר</w> empty entry</bdb>
 		<status p="595">new</status>
 	</entry>
 	<entry id="mta2">
-		<bdb mod="II"><w>מרא</w></bdb>
+		<bdb mod="II"><w>מרא</w> empty entry</bdb>
 		<xref twot="1239"/>
 		<status p="597">new</status>
 	</entry>
 	<entry id="mts2">
-		<bdb mod="II"><w>מרק</w></bdb>
+		<bdb mod="II"><w>מרק</w> empty entry</bdb>
 		<xref twot="1247"/>
 		<status p="600">new</status>
 	</entry>
 	<entry id="mtt2">
-		<bdb mod="II"><w>מרר</w></bdb>
+		<bdb mod="II"><w>מרר</w> empty entry</bdb>
 		<xref twot="1249"/>
 		<status p="601">new</status>
 	</entry>
 	<entry id="mvp">
-		<bdb><w>משׁע</w></bdb>
+		<bdb><w>משׁע</w> empty entry</bdb>
 		<xref twot="1260"/>
 		<status p="606">new</status>
 	</entry>
 	<entry id="mvs">
-		<bdb><w>משׁק</w></bdb>
+		<bdb><w>משׁק</w> empty entry</bdb>
 		<xref twot="1261"/>
 		<status p="606">new</status>
 	</entry>
 	<entry id="mwc">
-		<bdb><w>מתג</w></bdb>
+		<bdb><w>מתג</w> empty entry</bdb>
 		<xref twot="1264"/>
 		<status p="607">new</status>
 	</entry>
 	<entry id="mwn">
-		<bdb><w>מתן</w></bdb>
+		<bdb><w>מתן</w> empty entry</bdb>
 		<xref twot="1267"/>
 		<status p="608">new</status>
 	</entry>
 	<entry id="n1">
-		<bdb><w>נ</w>, <w>ן</w></bdb>
+		<bdb><w>נ</w>, <w>ן</w> empty entry</bdb>
 		<status p="609">new</status>
 	</entry>
 	<entry id="nam">
-		<bdb><w>נאם</w></bdb>
+		<bdb><w>נאם</w> empty entry</bdb>
 		<status p="610">new</status>
 	</entry>
 	<entry id="nba1">
-		<bdb><w>נבא</w></bdb>
+		<bdb><w>נבא</w> empty entry</bdb>
 		<status p="611">new</status>
 	</entry>
 	<entry id="nbl1">
-		<bdb cite="full" mod="I"><w>נבל</w></bdb>
+		<bdb cite="full" mod="I"><w>נבל</w> empty entry</bdb>
 		<xref twot="1284"/>
 		<status p="614">new</status>
 	</entry>
 	<entry id="ncb">
-		<bdb><w>נגב</w></bdb>
+		<bdb><w>נגב</w> empty entry</bdb>
 		<xref twot="1288"/>
 		<status p="616">new</status>
 	</entry>
 	<entry id="ncl">
-		<bdb><w>נגל</w></bdb>
+		<bdb><w>נגל</w> empty entry</bdb>
 		<xref twot="1292"/>
 		<status p="618">new</status>
 	</entry>
 	<entry id="ndd2">
-		<bdb mod="II"><w>נדד</w></bdb>
+		<bdb mod="II"><w>נדד</w> empty entry</bdb>
 		<xref twot="1301"/>
 		<status p="622">new</status>
 	</entry>
 	<entry id="nde2">
-		<bdb mod="II"><w>נדה</w></bdb>
+		<bdb mod="II"><w>נדה</w> empty entry</bdb>
 		<xref twot="1303"/>
 		<status p="622">new</status>
 	</entry>
 	<entry id="nfe1">
-		<bdb><w>נוהּ</w></bdb>
+		<bdb><w>נוהּ</w> empty entry</bdb>
 		<xref twot="1320"/>
 		<status p="627">new</status>
 	</entry>
 	<entry id="nfe3">
-		<bdb mod="II"><w>נוה</w></bdb>
+		<bdb mod="II"><w>נוה</w> empty entry</bdb>
 		<status p="627">new</status>
 	</entry>
 	<entry id="nfq2">
-		<bdb mod="II"><w>נוף</w></bdb>
+		<bdb mod="II"><w>נוף</w> empty entry</bdb>
 		<xref twot="1331"/>
 		<status p="632">new</status>
 	</entry>
 	<entry id="nft">
-		<bdb><w>נור</w></bdb>
+		<bdb><w>נור</w> empty entry</bdb>
 		<xref twot="1333"/>
 		<status p="632">new</status>
 	</entry>
 	<entry id="ngm">
-		<bdb><w>נזם</w></bdb>
+		<bdb><w>נזם</w> empty entry</bdb>
 		<xref twot="1338"/>
 		<status p="633">new</status>
 	</entry>
 	<entry id="nhl1">
-		<bdb mod="I"><w>נחל</w></bdb>
+		<bdb mod="I"><w>נחל</w> empty entry</bdb>
 		<status p="635">new</status>
 	</entry>
 	<entry id="nhl2">
-		<bdb mod="II"><w>נָחַל</w></bdb>
+		<bdb mod="II"><w>נָחַל</w> empty entry</bdb>
 		<xref twot="1343"/>
 		<status p="636">new</status>
 	</entry>
 	<entry id="nht">
-		<bdb><w>נחר</w></bdb>
+		<bdb><w>נחר</w> empty entry</bdb>
 		<xref twot="1346"/>
 		<status p="637">new</status>
 	</entry>
 	<entry id="nhv1">
-		<bdb mod="I"><w>נחשׁ</w></bdb>
+		<bdb mod="I"><w>נחשׁ</w> empty entry</bdb>
 		<xref twot="1347"/>
 		<status p="638">new</status>
 	</entry>
 	<entry id="nhv3">
-		<bdb mod="III"><w>נחשׁ</w></bdb>
+		<bdb mod="III"><w>נחשׁ</w> empty entry</bdb>
 		<xref twot="1349"/>
 		<status p="638">new</status>
 	</entry>
 	<entry id="nhv4">
-		<bdb mod="IV"><w>נחשׁ</w></bdb>
+		<bdb mod="IV"><w>נחשׁ</w> empty entry</bdb>
 		<xref twot="1350"/>
 		<status p="639">new</status>
 	</entry>
 	<entry id="nja">
-		<bdb><w>נִיא</w></bdb>
+		<bdb><w>נִיא</w> empty entry</bdb>
 		<xref twot="1358"/>
 		<status p="644">new</status>
 	</entry>
 	<entry id="njt2">
-		<bdb mod="II"><w>ניר</w></bdb>
+		<bdb mod="II"><w>ניר</w> empty entry</bdb>
 		<xref twot="1361"/>
 		<status p="644">new</status>
 	</entry>
 	<entry id="nkd">
-		<bdb><w>נכד</w></bdb>
+		<bdb><w>נכד</w> empty entry</bdb>
 		<xref twot="1363"/>
 		<status p="644">new</status>
 	</entry>
 	<entry id="nkh">
-		<bdb><w>נכח</w></bdb>
+		<bdb><w>נכח</w> empty entry</bdb>
 		<xref twot="1365"/>
 		<status p="647">new</status>
 	</entry>
 	<entry id="nkt2">
-		<bdb mod="II"><w>נכר</w></bdb>
+		<bdb mod="II"><w>נכר</w> empty entry</bdb>
 		<status p="648">new</status>
 	</entry>
 	<entry id="nml">
-		<bdb><w>נמל</w></bdb>
+		<bdb><w>נמל</w> empty entry</bdb>
 		<xref twot="1371"/>
 		<status p="649">new</status>
 	</entry>
 	<entry id="nmt">
-		<bdb><w>נמר</w></bdb>
+		<bdb><w>נמר</w> empty entry</bdb>
 		<xref twot="1372"/>
 		<status p="649">new</status>
 	</entry>
 	<entry id="nop2">
-		<bdb mod="II"><w>נסע</w></bdb>
+		<bdb mod="II"><w>נסע</w> empty entry</bdb>
 		<xref twot="1381"/>
 		<status p="652">new</status>
 	</entry>
 	<entry id="npm2">
-		<bdb mod="II"><w>נעם</w></bdb>
+		<bdb mod="II"><w>נעם</w> empty entry</bdb>
 		<xref twot="1385"/>
 		<status p="654">new</status>
 	</entry>
 	<entry id="npr">
-		<bdb><w>נעץ</w></bdb>
+		<bdb><w>נעץ</w> empty entry</bdb>
 		<xref twot="1386"/>
 		<status p="654">new</status>
 	</entry>
 	<entry id="npt3">
-		<bdb mod="III"><w>נער</w></bdb>
+		<bdb mod="III"><w>נער</w> empty entry</bdb>
 		<xref twot="1389"/>
 		<status p="654">new</status>
 	</entry>
 	<entry id="nql">
-		<bdb><w>נפל</w></bdb>
+		<bdb><w>נפל</w> empty entry</bdb>
 		<xref twot="1393"/>
 		<status p="658">added</status>
 	</entry>
 	<entry id="nqv">
-		<bdb><w>נפשׁ</w></bdb>
+		<bdb><w>נפשׁ</w> empty entry</bdb>
 		<status p="659">new</status>
 	</entry>
 	<entry id="nrh2">
-		<bdb mod="II"><w>נצח</w></bdb>
+		<bdb mod="II"><w>נצח</w> empty entry</bdb>
 		<xref twot="1403"/>
 		<status p="664">new</status>
 	</entry>
 	<entry id="nrr2">
-		<bdb mod="II"><w>נצץ</w></bdb>
+		<bdb mod="II"><w>נצץ</w> empty entry</bdb>
 		<xref twot="1406"/>
 		<status p="665">new</status>
 	</entry>
 	<entry id="nrt2">
-		<bdb mod="II"><w>נצר</w></bdb>
+		<bdb mod="II"><w>נצר</w> empty entry</bdb>
 		<xref twot="1408"/>
 		<status p="666">new</status>
 	</entry>
 	<entry id="nsd1">
-		<bdb mod="I"><w>נקד</w></bdb>
+		<bdb mod="I"><w>נקד</w> empty entry</bdb>
 		<xref twot="1410"/>
 		<status p="666">new</status>
 	</entry>
 	<entry id="nsd2">
-		<bdb mod="II"><w>נקד</w></bdb>
+		<bdb mod="II"><w>נקד</w> empty entry</bdb>
 		<xref twot="1411"/>
 		<status p="667">new</status>
 	</entry>
 	<entry id="nss">
-		<bdb><w>נקק</w></bdb>
+		<bdb><w>נקק</w> empty entry</bdb>
 		<xref twot="1417"/>
 		<status p="669">new</status>
 	</entry>
 	<entry id="nut">
-		<bdb><w>נשׂר</w></bdb>
+		<bdb><w>נשׂר</w> empty entry</bdb>
 		<xref twot="1423"/>
 		<status p="673">new</status>
 	</entry>
 	<entry id="nva3">
-		<bdb form="false" mod="III"><w>נָשָׁא</w></bdb>
+		<bdb form="false" mod="III"><w>נָשָׁא</w> empty entry</bdb>
 		<status p="674">new</status>
 	</entry>
 	<entry id="nwb">
-		<bdb><w>נתב</w></bdb>
+		<bdb><w>נתב</w> empty entry</bdb>
 		<xref twot="1440"/>
 		<status p="677">new</status>
 	</entry>
 	<entry id="o1">
-		<bdb><w>ס</w></bdb>
+		<bdb><w>ס</w> empty entry</bdb>
 		<status p="684">new</status>
 	</entry>
 	<entry id="oan">
-		<bdb><w>סאן</w></bdb>
+		<bdb><w>סאן</w> empty entry</bdb>
 		<status p="684">added</status>
 	</entry>
 	<entry id="ocl">
-		<bdb><w>סגל</w></bdb>
+		<bdb><w>סגל</w> empty entry</bdb>
 		<xref twot="1460"/>
 		<status p="688">new</status>
 	</entry>
 	<entry id="ocn">
-		<bdb><w>סגן</w></bdb>
+		<bdb><w>סגן</w> empty entry</bdb>
 		<status p="688">added</status>
 	</entry>
 	<entry id="oct2">
-		<bdb mod="II"><w>סגר</w></bdb>
+		<bdb mod="II"><w>סגר</w> empty entry</bdb>
 		<xref twot="1463"/>
 		<status p="689">new</status>
 	</entry>
 	<entry id="oda">
-		<bdb mod="II"><w>סדא</w></bdb>
+		<bdb mod="II"><w>סדא</w> empty entry</bdb>
 		<status p="690">added</status>
 	</entry>
 	<entry id="odt">
-		<bdb><w>סדר</w></bdb>
+		<bdb><w>סדר</w> empty entry</bdb>
 		<xref twot="1467"/>
 		<status p="690">new</status>
 	</entry>
 	<entry id="oet">
-		<bdb><w>סהר</w></bdb>
+		<bdb><w>סהר</w> empty entry</bdb>
 		<xref twot="1468"/>
 		<status p="690">new</status>
 	</entry>
 	<entry id="ofd">
-		<bdb><w>סוד</w></bdb>
+		<bdb><w>סוד</w> empty entry</bdb>
 		<xref twot="1471"/>
 		<status p="691">new</status>
 	</entry>
 	<entry id="ofe">
-		<bdb><w>סוה</w></bdb>
+		<bdb><w>סוה</w> empty entry</bdb>
 		<xref twot="1472"/>
 		<status p="691">new</status>
 	</entry>
 	<entry id="ofh">
-		<bdb><w>סוח</w></bdb>
+		<bdb><w>סוח</w> empty entry</bdb>
 		<xref twot="1473"/>
 		<status p="691">new</status>
 	</entry>
 	<entry id="ojn">
-		<bdb><w>סין</w></bdb>
+		<bdb><w>סין</w> empty entry</bdb>
 		<status p="719">added</status>
 	</entry>
 	<entry id="oll2">
-		<bdb mod="II"><w>סלל</w></bdb>
+		<bdb mod="II"><w>סלל</w> empty entry</bdb>
 		<xref twot="1507"/>
 		<status p="700">new</status>
 	</entry>
 	<entry id="olp">
-		<bdb><w>סלע</w></bdb>
+		<bdb><w>סלע</w> empty entry</bdb>
 		<xref twot="1508"/>
 		<status p="700">new</status>
 	</entry>
 	<entry id="omm">
-		<bdb><w>סמם</w></bdb>
+		<bdb><w>סמם</w> empty entry</bdb>
 		<xref twot="1516"/>
 		<status p="702">new</status>
 	</entry>
 	<entry id="opq">
-		<bdb><w>סעף</w></bdb>
+		<bdb><w>סעף</w> empty entry</bdb>
 		<xref twot="1527"/>
 		<status p="703">new</status>
 	</entry>
 	<entry id="oqa">
-		<bdb><w>ספא</w></bdb>
+		<bdb><w>ספא</w> empty entry</bdb>
 		<xref twot="1529"/>
 		<status p="704">new</status>
 	</entry>
 	<entry id="oqh2">
-		<bdb mod="II"><w>ספח</w></bdb>
+		<bdb mod="II"><w>ספח</w> empty entry</bdb>
 		<xref twot="1533"/>
 		<status p="705">new</status>
 	</entry>
 	<entry id="oqh3">
-		<bdb mod="III"><w>ספח</w></bdb>
+		<bdb mod="III"><w>ספח</w> empty entry</bdb>
 		<status p="705">new</status>
 	</entry>
 	<entry id="oqq">
-		<bdb><w>ספף</w></bdb>
+		<bdb><w>ספף</w> empty entry</bdb>
 		<xref twot="1538"/>
 		<status p="706">new</status>
 	</entry>
 	<entry id="otd">
-		<bdb><w>סרד</w></bdb>
+		<bdb><w>סרד</w> empty entry</bdb>
 		<status p="710">new</status>
 	</entry>
 	<entry id="p1">
-		<bdb><w>ע</w></bdb>
+		<bdb><w>ע</w> empty entry</bdb>
 		<status p="712">new</status>
 	</entry>
 	<entry id="pbb">
-		<bdb><w>עבב</w></bdb>
+		<bdb><w>עבב</w> empty entry</bdb>
 		<xref twot="1552"/>
 		<status p="712">new</status>
 	</entry>
 	<entry id="pbi">
-		<bdb><w>עבט</w></bdb>
+		<bdb><w>עבט</w> empty entry</bdb>
 		<status p="716">new</status>
 	</entry>
 	<entry id="pbl">
-		<bdb><w>עבל</w></bdb>
+		<bdb><w>עבל</w> empty entry</bdb>
 		<status p="716">new</status>
 	</entry>
 	<entry id="pbr">
-		<bdb><w>עבץ</w></bdb>
+		<bdb><w>עבץ</w> empty entry</bdb>
 		<status p="716">new</status>
 	</entry>
 	<entry id="pcl">
-		<bdb><w>עגל</w></bdb>
+		<bdb><w>עגל</w> empty entry</bdb>
 		<xref twot="1560"/>
 		<status p="722">new</status>
 	</entry>
 	<entry id="pct">
-		<bdb><w>עגר</w></bdb>
+		<bdb><w>עגר</w> empty entry</bdb>
 		<xref twot="1563"/>
 		<status p="723">new</status>
 	</entry>
 	<entry id="pdd">
-		<bdb><w>עדד</w></bdb>
+		<bdb><w>עדד</w> empty entry</bdb>
 		<xref twot="1564"/>
 		<status p="723">new</status>
 	</entry>
 	<entry id="pdl1">
-		<bdb mod="I"><w>עדל</w></bdb>
+		<bdb mod="I"><w>עדל</w> empty entry</bdb>
 		<status p="726">new</status>
 	</entry>
 	<entry id="pdl2">
-		<bdb mod="II"><w>עדל</w></bdb>
+		<bdb mod="II"><w>עדל</w> empty entry</bdb>
 		<status p="726">new</status>
 	</entry>
 	<entry id="pdn1">
-		<bdb mod="I"><w>עדן</w></bdb>
+		<bdb mod="I"><w>עדן</w> empty entry</bdb>
 		<status p="726">new</status>
 	</entry>
 	<entry id="pdn2">
-		<bdb mod="II"><w>עדן</w></bdb>
+		<bdb mod="II"><w>עדן</w> empty entry</bdb>
 		<status p="726">new</status>
 	</entry>
 	<entry id="pfb">
-		<bdb><w>עוב</w></bdb>
+		<bdb><w>עוב</w> empty entry</bdb>
 		<status p="727">new</status>
 	</entry>
 	<entry id="pfc">
-		<bdb><w>עוג</w></bdb>
+		<bdb><w>עוג</w> empty entry</bdb>
 		<status p="728">new</status>
 	</entry>
 	<entry id="pfe2">
-		<bdb mod="II"><w>עוה</w></bdb>
+		<bdb mod="II"><w>עוה</w> empty entry</bdb>
 		<status p="730">new</status>
 	</entry>
 	<entry id="pfl2">
-		<bdb mod="II"><w>עול</w></bdb>
+		<bdb mod="II"><w>עול</w> empty entry</bdb>
 		<status p="732">new</status>
 	</entry>
 	<entry id="pfl3">
-		<bdb mod="III"><w>עול</w></bdb>
+		<bdb mod="III"><w>עול</w> empty entry</bdb>
 		<status p="732">new</status>
 	</entry>
 	<entry id="pfq">
-		<bdb form="false" mod="II"><w>עוף</w></bdb>
+		<bdb form="false" mod="II"><w>עוף</w> empty entry</bdb>
 		<xref twot="1583"/>
 		<status p="746">new</status>
 	</entry>
 	<entry id="pft4">
-		<bdb mod="III"><w>עור</w></bdb>
+		<bdb mod="III"><w>עור</w> empty entry</bdb>
 		<xref twot="1589"/>
 		<status p="736">new</status>
 	</entry>
 	<entry id="pgb">
-		<bdb><w>עזב</w></bdb>
+		<bdb><w>עזב</w> empty entry</bdb>
 		<status p="1115">added</status>
 	</entry>
 	<entry id="pgt2">
-		<bdb mod="II"><w>עזר</w></bdb>
+		<bdb mod="II"><w>עזר</w> empty entry</bdb>
 		<xref twot="1599"/>
 		<status p="741">new</status>
 	</entry>
 	<entry id="pin">
-		<bdb><w>עטן</w></bdb>
+		<bdb><w>עטן</w> empty entry</bdb>
 		<xref twot="1604"/>
 		<status p="742">new</status>
 	</entry>
 	<entry id="piv">
-		<bdb><w>עטשׁ</w></bdb>
+		<bdb><w>עטשׁ</w> empty entry</bdb>
 		<xref twot="1609"/>
 		<status p="743">new</status>
 	</entry>
 	<entry id="pjn">
-		<bdb><w>עין</w></bdb>
+		<bdb><w>עין</w> empty entry</bdb>
 		<status p="744">added</status>
 	</entry>
 	<entry id="pjq1">
-		<bdb form="false" mod="I"><w>עִיף</w></bdb>
+		<bdb form="false" mod="I"><w>עִיף</w> empty entry</bdb>
 		<status p="746">new</status>
 	</entry>
 	<entry id="pjt">
-		<bdb><w>עיר</w></bdb>
+		<bdb><w>עיר</w> empty entry</bdb>
 		<xref twot="1616"/>
 		<status p="746">new</status>
 	</entry>
 	<entry id="pkn">
-		<bdb><w>עכן</w></bdb>
+		<bdb><w>עכן</w> empty entry</bdb>
 		<status p="747">new</status>
 	</entry>
 	<entry id="pko">
-		<bdb><w>עכס</w></bdb>
+		<bdb><w>עכס</w> empty entry</bdb>
 		<status p="747">new</status>
 	</entry>
 	<entry id="plc">
-		<bdb><w>עלג</w></bdb>
+		<bdb><w>עלג</w> empty entry</bdb>
 		<xref twot="1623"/>
 		<status p="748">new</status>
 	</entry>
 	<entry id="pll2">
-		<bdb mod="II"><w>עלל</w></bdb>
+		<bdb mod="II"><w>עלל</w> empty entry</bdb>
 		<status p="760">new</status>
 	</entry>
 	<entry id="plm2">
-		<bdb mod="II"><w>עלם</w></bdb>
+		<bdb mod="II"><w>עלם</w> empty entry</bdb>
 		<xref twot="1630"/>
 		<status p="761">new</status>
 	</entry>
 	<entry id="plm3">
-		<bdb mod="III"><w>עלם</w></bdb>
+		<bdb mod="III"><w>עלם</w> empty entry</bdb>
 		<xref twot="1631"/>
 		<status p="761">new</status>
 	</entry>
 	<entry id="pls">
-		<bdb><w>עלק</w></bdb>
+		<bdb><w>עלק</w> empty entry</bdb>
 		<xref twot="1636"/>
 		<status p="763">new</status>
 	</entry>
 	<entry id="pme">
-		<bdb><w>עמה</w></bdb>
+		<bdb><w>עמה</w> empty entry</bdb>
 		<xref twot="1638"/>
 		<status p="765">new</status>
 	</entry>
 	<entry id="pmm1">
-		<bdb mod="I"><w>עָמַם</w></bdb>
+		<bdb mod="I"><w>עָמַם</w> empty entry</bdb>
 		<xref twot="1640"/>
 		<status p="766">new</status>
 	</entry>
 	<entry id="pmt1">
-		<bdb mod="I"><w>עמר</w></bdb>
+		<bdb mod="I"><w>עמר</w> empty entry</bdb>
 		<status p="771">new</status>
 	</entry>
 	<entry id="pmt3">
-		<bdb mod="III"><w>עמר</w></bdb>
+		<bdb mod="III"><w>עמר</w> empty entry</bdb>
 		<status p="771">new</status>
 	</entry>
 	<entry id="pnb">
-		<bdb><w>ענב</w></bdb>
+		<bdb><w>ענב</w> empty entry</bdb>
 		<xref twot="1647"/>
 		<status p="772">new</status>
 	</entry>
 	<entry id="png1">
-		<bdb><w>ענז</w></bdb>
+		<bdb><w>ענז</w> empty entry</bdb>
 		<xref twot="1654"/>
 		<status p="777">new</status>
 	</entry>
 	<entry id="pnn1">
-		<bdb mod="I"><w>ענן</w></bdb>
+		<bdb mod="I"><w>ענן</w> empty entry</bdb>
 		<status p="777">new</status>
 	</entry>
 	<entry id="pnq">
-		<bdb><w>ענף</w></bdb>
+		<bdb><w>ענף</w> empty entry</bdb>
 		<xref twot="1657"/>
 		<status p="778">new</status>
 	</entry>
 	<entry id="pns">
-		<bdb><w>ענק</w></bdb>
+		<bdb><w>ענק</w> empty entry</bdb>
 		<xref twot="1658"/>
 		<status p="778">new</status>
 	</entry>
 	<entry id="pnv">
-		<bdb><w>ענשׁ</w></bdb>
+		<bdb><w>ענשׁ</w> empty entry</bdb>
 		<status p="778">new</status>
 	</entry>
 	<entry id="pqt1">
-		<bdb mod="I"><w>עפר</w></bdb>
+		<bdb mod="I"><w>עפר</w> empty entry</bdb>
 		<status p="779">new</status>
 	</entry>
 	<entry id="pqt2">
-		<bdb mod="II"><w>עפר</w></bdb>
+		<bdb mod="II"><w>עפר</w> empty entry</bdb>
 		<xref twot="1665"/>
 		<status p="780">new</status>
 	</entry>
 	<entry id="prd">
-		<bdb><w>עצד</w></bdb>
+		<bdb><w>עצד</w> empty entry</bdb>
 		<xref twot="1668"/>
 		<status p="781">new</status>
 	</entry>
 	<entry id="pre2">
-		<bdb mod="II"><w>עצה</w></bdb>
+		<bdb mod="II"><w>עצה</w> empty entry</bdb>
 		<xref twot="1670"/>
 		<status p="781">new</status>
 	</entry>
 	<entry id="pre3">
-		<bdb mod="III"><w>עצה</w></bdb>
+		<bdb mod="III"><w>עצה</w> empty entry</bdb>
 		<xref twot="1671"/>
 		<status p="782">new</status>
 	</entry>
 	<entry id="pre4">
-		<bdb mod="IV"><w>עצה</w></bdb>
+		<bdb mod="IV"><w>עצה</w> empty entry</bdb>
 		<status p="782">new</status>
 	</entry>
 	<entry id="prm3">
-		<bdb mod="III"><w>עצם</w></bdb>
+		<bdb mod="III"><w>עצם</w> empty entry</bdb>
 		<status p="783">new</status>
 	</entry>
 	<entry id="psb">
-		<bdb><w>עקב</w></bdb>
+		<bdb><w>עקב</w> empty entry</bdb>
 		<status p="784">new</status>
 	</entry>
 	<entry id="psd2">
-		<bdb mod="II"><w>עקד</w></bdb>
+		<bdb mod="II"><w>עקד</w> empty entry</bdb>
 		<xref twot="1678"/>
 		<status p="785">new</status>
 	</entry>
 	<entry id="pse">
-		<bdb><w>עקה</w></bdb>
+		<bdb><w>עקה</w> empty entry</bdb>
 		<xref twot="1679"/>
 		<status p="785">new</status>
 	</entry>
 	<entry id="pst1">
-		<bdb><w>עקר</w></bdb>
+		<bdb><w>עקר</w> empty entry</bdb>
 		<status p="785">new</status>
 	</entry>
 	<entry id="pst2">
-		<bdb><w>עקר</w></bdb>
+		<bdb><w>עקר</w> empty entry</bdb>
 		<status p="1107">added</status>
 	</entry>
 	<entry id="ptb1">
-		<bdb mod="I"><w>ערב</w></bdb>
+		<bdb mod="I"><w>ערב</w> empty entry</bdb>
 		<xref twot="1685"/>
 		<status p="786">new</status>
 	</entry>
 	<entry id="ptb4">
-		<bdb mod="IV"><w>ערב</w></bdb>
+		<bdb mod="IV"><w>ערב</w> empty entry</bdb>
 		<xref twot="1688"/>
 		<status p="787">new</status>
 	</entry>
 	<entry id="ptb5">
-		<bdb mod="V"><w>ערב</w></bdb>
+		<bdb mod="V"><w>ערב</w> empty entry</bdb>
 		<status p="787">new</status>
 	</entry>
 	<entry id="ptb6">
-		<bdb mod="VI"><w>ערב</w></bdb>
+		<bdb mod="VI"><w>ערב</w> empty entry</bdb>
 		<xref twot="1690"/>
 		<status p="788">new</status>
 	</entry>
 	<entry id="ptl">
-		<bdb><w>ערל</w></bdb>
+		<bdb><w>ערל</w> empty entry</bdb>
 		<status p="790">new</status>
 	</entry>
 	<entry id="ptm2">
-		<bdb mod="II"><w>ערם</w></bdb>
+		<bdb mod="II"><w>ערם</w> empty entry</bdb>
 		<xref twot="1697"/>
 		<status p="790">new</status>
 	</entry>
 	<entry id="pto">
-		<bdb><w>ערס</w></bdb>
+		<bdb><w>ערס</w> empty entry</bdb>
 		<xref twot="1699"/>
 		<status p="791">new</status>
 	</entry>
 	<entry id="ptq1">
-		<bdb mod="I"><w>ערף</w></bdb>
+		<bdb mod="I"><w>ערף</w> empty entry</bdb>
 		<status p="791">new</status>
 	</entry>
 	<entry id="ptt1">
-		<bdb mod="I"><w>ערר</w></bdb>
+		<bdb mod="I"><w>ערר</w> empty entry</bdb>
 		<xref twot="1704"/>
 		<status p="792">new</status>
 	</entry>
 	<entry id="ptu">
-		<bdb><w>ערשׂ</w></bdb>
+		<bdb><w>ערשׂ</w> empty entry</bdb>
 		<xref twot="1706"/>
 		<status p="793">new</status>
 	</entry>
 	<entry id="ptv">
-		<bdb><w>ערשׁ</w></bdb>
+		<bdb><w>ערשׁ</w> empty entry</bdb>
 		<status p="793">new</status>
 	</entry>
 	<entry id="pub">
-		<bdb><w>עשׂב</w></bdb>
+		<bdb><w>עשׂב</w> empty entry</bdb>
 		<xref twot="1707"/>
 		<status p="793">new</status>
 	</entry>
 	<entry id="put1">
-		<bdb><w>עשׂר</w></bdb>
+		<bdb><w>עשׂר</w> empty entry</bdb>
 		<xref twot="1711"/>
 		<status p="796">new</status>
 	</entry>
 	<entry id="pvn">
-		<bdb><w>עשׁן</w></bdb>
+		<bdb><w>עשׁן</w> empty entry</bdb>
 		<status p="798">new</status>
 	</entry>
 	<entry id="pwl">
-		<bdb><w>עתל</w></bdb>
+		<bdb><w>עתל</w> empty entry</bdb>
 		<status p="800">new</status>
 	</entry>
 	<entry id="pwt3">
-		<bdb mod="III"><w>עתר</w></bdb>
+		<bdb mod="III"><w>עתר</w> empty entry</bdb>
 		<xref twot="1724"/>
 		<status p="801">new</status>
 	</entry>
 	<entry id="q1">
-		<bdb><w>פ</w>, <w>פּ</w>, <w>ף</w></bdb>
+		<bdb><w>פ</w>, <w>פּ</w>, <w>ף</w> empty entry</bdb>
 		<status p="802">new</status>
 	</entry>
 	<entry id="qat2">
-		<bdb mod="II"><w>פאר</w></bdb>
+		<bdb mod="II"><w>פאר</w> empty entry</bdb>
 		<status p="802">new</status>
 	</entry>
 	<entry id="qcc">
-		<bdb><w>פגג</w></bdb>
+		<bdb><w>פגג</w> empty entry</bdb>
 		<xref twot="1729"/>
 		<status p="803">new</status>
 	</entry>
 	<entry id="qcl">
-		<bdb><w>פגל</w></bdb>
+		<bdb><w>פגל</w> empty entry</bdb>
 		<xref twot="1730"/>
 		<status p="803">new</status>
 	</entry>
 	<entry id="qft1">
-		<bdb mod="I"><w>פור</w></bdb>
+		<bdb mod="I"><w>פור</w> empty entry</bdb>
 		<status p="807">new</status>
 	</entry>
 	<entry id="qft2">
-		<bdb mod="II"><w>פור</w></bdb>
+		<bdb mod="II"><w>פור</w> empty entry</bdb>
 		<status p="807">new</status>
 	</entry>
 	<entry id="qhh">
-		<bdb><w>פחח</w></bdb>
+		<bdb><w>פחח</w> empty entry</bdb>
 		<status p="809">new</status>
 	</entry>
 	<entry id="qhm">
-		<bdb><w>פחם</w></bdb>
+		<bdb><w>פחם</w> empty entry</bdb>
 		<xref twot="1760"/>
 		<status p="809">new</status>
 	</entry>
 	<entry id="qhw">
-		<bdb><w>פחת</w></bdb>
+		<bdb><w>פחת</w> empty entry</bdb>
 		<xref twot="1761"/>
 		<status p="809">new</status>
 	</entry>
 	<entry id="qjd">
-		<bdb><w>פיד</w>, <w>פוד</w></bdb>
+		<bdb><w>פיד</w>, <w>פוד</w> empty entry</bdb>
 		<xref twot="1765"/>
 		<status p="810">new</status>
 	</entry>
 	<entry id="qjm">
-		<bdb><w>פים</w>, <w>פאם</w></bdb>
+		<bdb><w>פים</w>, <w>פאם</w> empty entry</bdb>
 		<xref twot="1766"/>
 		<status p="810">new</status>
 	</entry>
 	<entry id="qkk">
-		<bdb><w>פכך</w></bdb>
+		<bdb><w>פכך</w> empty entry</bdb>
 		<xref twot="1767"/>
 		<status p="810">new</status>
 	</entry>
 	<entry id="qla">
-		<bdb><w>פלא</w></bdb>
+		<bdb><w>פלא</w> empty entry</bdb>
 		<status p="810">new</status>
 	</entry>
 	<entry id="qlk">
-		<bdb><w>פלך</w></bdb>
+		<bdb><w>פלך</w> empty entry</bdb>
 		<xref twot="1775"/>
 		<status p="813">new</status>
 	</entry>
 	<entry id="qlo">
-		<bdb><w>פלס</w>, <w>פלשׂ</w></bdb>
+		<bdb><w>פלס</w>, <w>פלשׂ</w> empty entry</bdb>
 		<status p="813">new</status>
 	</entry>
 	<entry id="qnn">
-		<bdb><w>פנן</w></bdb>
+		<bdb><w>פנן</w> empty entry</bdb>
 		<xref twot="1783"/>
 		<status p="819">new</status>
 	</entry>
 	<entry id="qoo1">
-		<bdb mod="I"><w>פסס</w></bdb>
+		<bdb mod="I"><w>פסס</w> empty entry</bdb>
 		<xref twot="1789"/>
 		<status p="821">new</status>
 	</entry>
 	<entry id="qsp">
-		<bdb><w>פקע</w></bdb>
+		<bdb><w>פקע</w> empty entry</bdb>
 		<xref twot="1804"/>
 		<status p="825">new</status>
 	</entry>
 	<entry id="qta1">
-		<bdb mod="I"><w>פרא</w></bdb>
+		<bdb mod="I"><w>פרא</w> empty entry</bdb>
 		<status p="825">new</status>
 	</entry>
 	<entry id="qta2">
-		<bdb mod="II"><w>פרא</w></bdb>
+		<bdb mod="II"><w>פרא</w> empty entry</bdb>
 		<status p="825">new</status>
 	</entry>
 	<entry id="qtd2">
-		<bdb mod="II"><w>פרד</w></bdb>
+		<bdb mod="II"><w>פרד</w> empty entry</bdb>
 		<xref twot="1807"/>
 		<status p="825">new</status>
 	</entry>
 	<entry id="qtg">
-		<bdb><w>פרז</w></bdb>
+		<bdb><w>פרז</w> empty entry</bdb>
 		<xref twot="1812"/>
 		<status p="826">new</status>
 	</entry>
 	<entry id="qtk1">
-		<bdb mod="I"><w>פרך</w></bdb>
+		<bdb mod="I"><w>פרך</w> empty entry</bdb>
 		<xref twot="1817"/>
 		<status p="827">new</status>
 	</entry>
 	<entry id="qtk2">
-		<bdb mod="II"><w>פרך</w></bdb>
+		<bdb mod="II"><w>פרך</w> empty entry</bdb>
 		<xref twot="1818"/>
 		<status p="827">new</status>
 	</entry>
 	<entry id="qtp1">
-		<bdb mod="I"><w>פרע</w></bdb>
+		<bdb mod="I"><w>פרע</w> empty entry</bdb>
 		<status p="828">new</status>
 	</entry>
 	<entry id="qtp2">
-		<bdb mod="II"><w>פרע</w></bdb>
+		<bdb mod="II"><w>פרע</w> empty entry</bdb>
 		<xref twot="1823"/>
 		<status p="828">new</status>
 	</entry>
 	<entry id="qtr2">
-		<bdb mod="II"><w>פרץ</w></bdb>
+		<bdb mod="II"><w>פרץ</w> empty entry</bdb>
 		<xref twot="1827"/>
 		<status p="829">new</status>
 	</entry>
 	<entry id="qtt3">
-		<bdb mod="III"><w>פרר</w></bdb>
+		<bdb mod="III"><w>פרר</w> empty entry</bdb>
 		<xref twot="1831"/>
 		<status p="830">new</status>
 	</entry>
 	<entry id="qtv3">
-		<bdb mod="III"><w>פרשׁ</w></bdb>
+		<bdb mod="III"><w>פרשׁ</w> empty entry</bdb>
 		<xref twot="1835"/>
 		<status p="831">new</status>
 	</entry>
 	<entry id="qtv4">
-		<bdb mod="IV"><w>פרשׁ</w></bdb>
+		<bdb mod="IV"><w>פרשׁ</w> empty entry</bdb>
 		<xref twot="1836"/>
 		<status p="831">new</status>
 	</entry>
 	<entry id="qwn">
-		<bdb><w>פתן</w></bdb>
+		<bdb><w>פתן</w> empty entry</bdb>
 		<xref twot="1858"/>
 		<status p="837">new</status>
 	</entry>
 	<entry id="r1">
-		<bdb><w>צ</w>, <w>ץ</w></bdb>
+		<bdb><w>צ</w>, <w>ץ</w> empty entry</bdb>
 		<status p="838">new</status>
 	</entry>
 	<entry id="ran">
-		<bdb><w>צאן</w></bdb>
+		<bdb><w>צאן</w> empty entry</bdb>
 		<xref twot="1864"/>
 		<status p="838">new</status>
 	</entry>
 	<entry id="rbb1">
-		<bdb mod="I"><w>צבב</w></bdb>
+		<bdb mod="I"><w>צבב</w> empty entry</bdb>
 		<xref twot="1866"/>
 		<status p="839">new</status>
 	</entry>
 	<entry id="rbb2">
-		<bdb mod="II"><w>צבב</w></bdb>
+		<bdb mod="II"><w>צבב</w> empty entry</bdb>
 		<xref twot="1867"/>
 		<status p="839">new</status>
 	</entry>
 	<entry id="rbe2">
-		<bdb mod="II"><w>צבה</w></bdb>
+		<bdb mod="II"><w>צבה</w> empty entry</bdb>
 		<xref twot="1869"/>
 		<status p="839">new</status>
 	</entry>
 	<entry id="rbe3">
-		<bdb mod="III"><w>צבה</w></bdb>
+		<bdb mod="III"><w>צבה</w> empty entry</bdb>
 		<xref twot="1870"/>
 		<status p="840">new</status>
 	</entry>
 	<entry id="rbp1">
-		<bdb mod="I"><w>צבע</w></bdb>
+		<bdb mod="I"><w>צבע</w> empty entry</bdb>
 		<xref twot="1872"/>
 		<status p="840">new</status>
 	</entry>
 	<entry id="rbp2">
-		<bdb mod="II"><w>צבע</w></bdb>
+		<bdb mod="II"><w>צבע</w> empty entry</bdb>
 		<xref twot="1873"/>
 		<status p="840">new</status>
 	</entry>
 	<entry id="rbp3">
-		<bdb mod="III"><w>צבע</w></bdb>
+		<bdb mod="III"><w>צבע</w> empty entry</bdb>
 		<status p="840">new</status>
 	</entry>
 	<entry id="rbw">
-		<bdb><w>צבת</w></bdb>
+		<bdb><w>צבת</w> empty entry</bdb>
 		<xref twot="1875"/>
 		<status p="840">new</status>
 	</entry>
 	<entry id="rdd">
-		<bdb><w>צדד</w></bdb>
+		<bdb><w>צדד</w> empty entry</bdb>
 		<xref twot="1876"/>
 		<status p="841">new</status>
 	</entry>
 	<entry id="rds">
-		<bdb><w>צדק</w></bdb>
+		<bdb><w>צדק</w> empty entry</bdb>
 		<status p="841">new</status>
 	</entry>
 	<entry id="ret">
-		<bdb><w>צהר</w></bdb>
+		<bdb><w>צהר</w> empty entry</bdb>
 		<xref twot="1883"/>
 		<status p="843">new</status>
 	</entry>
 	<entry id="rfa">
-		<bdb><w>צוא</w></bdb>
+		<bdb><w>צוא</w> empty entry</bdb>
 		<status p="844">new</status>
 	</entry>
 	<entry id="rfd2">
-		<bdb mod="II"><w>צוד</w></bdb>
+		<bdb mod="II"><w>צוד</w> empty entry</bdb>
 		<xref twot="1886"/>
 		<status p="845">new</status>
 	</entry>
 	<entry id="rfl">
-		<bdb><w>צול</w></bdb>
+		<bdb><w>צול</w> empty entry</bdb>
 		<xref twot="1889"/>
 		<status p="846">new</status>
 	</entry>
 	<entry id="rfp">
-		<bdb><w>צוע</w></bdb>
+		<bdb><w>צוע</w> empty entry</bdb>
 		<xref twot="1891"/>
 		<status p="847">new</status>
 	</entry>
 	<entry id="rft1">
-		<bdb mod="I"><w>צור</w></bdb>
+		<bdb mod="I"><w>צור</w> empty entry</bdb>
 		<xref twot="1897"/>
 		<status p="848">new</status>
 	</entry>
 	<entry id="rft5">
-		<bdb mod="V"><w>צור</w></bdb>
+		<bdb mod="V"><w>צור</w> empty entry</bdb>
 		<xref twot="1901"/>
 		<status p="849">new</status>
 	</entry>
 	<entry id="rhe">
-		<bdb><w>צחה</w></bdb>
+		<bdb><w>צחה</w> empty entry</bdb>
 		<xref twot="1902"/>
 		<status p="850">new</status>
 	</entry>
 	<entry id="rhn">
-		<bdb><w>צחן</w></bdb>
+		<bdb><w>צחן</w> empty entry</bdb>
 		<xref twot="1904"/>
 		<status p="850">new</status>
 	</entry>
 	<entry id="rht">
-		<bdb><w>צחר</w></bdb>
+		<bdb><w>צחר</w> empty entry</bdb>
 		<xref twot="1906"/>
 		<status p="850">new</status>
 	</entry>
 	<entry id="rje">
-		<bdb><w>ציה</w>, <w>צוה</w></bdb>
+		<bdb><w>ציה</w>, <w>צוה</w> empty entry</bdb>
 		<xref twot="1909"/>
 		<status p="851">new</status>
 	</entry>
 	<entry id="rjr">
-		<bdb><w>ציץ</w></bdb>
+		<bdb><w>ציץ</w> empty entry</bdb>
 		<status p="851">added</status>
 	</entry>
 	<entry id="rjt1">
-		<bdb mod="I"><w>ציר</w></bdb>
+		<bdb mod="I"><w>ציר</w> empty entry</bdb>
 		<xref twot="1913"/>
 		<status p="851">new</status>
 	</entry>
 	<entry id="rjt2">
-		<bdb mod="II"><w>ציר</w></bdb>
+		<bdb mod="II"><w>ציר</w> empty entry</bdb>
 		<xref twot="1914"/>
 		<status p="852">new</status>
 	</entry>
 	<entry id="rlh3">
-		<bdb mod="III"><w>צלח</w></bdb>
+		<bdb mod="III"><w>צלח</w> empty entry</bdb>
 		<xref twot="1918"/>
 		<status p="852">new</status>
 	</entry>
 	<entry id="rll4">
-		<bdb mod="IV"><w>צלל</w></bdb>
+		<bdb mod="IV"><w>צלל</w> empty entry</bdb>
 		<xref twot="1922"/>
 		<status p="853">new</status>
 	</entry>
 	<entry id="rlm">
-		<bdb><w>צלם</w></bdb>
+		<bdb><w>צלם</w> empty entry</bdb>
 		<xref twot="1923"/>
 		<status p="853">new</status>
 	</entry>
 	<entry id="rlp1">
-		<bdb mod="I"><w>צלע</w></bdb>
+		<bdb mod="I"><w>צלע</w> empty entry</bdb>
 		<xref twot="1924"/>
 		<status p="854">new</status>
 	</entry>
 	<entry id="rmm">
-		<bdb><w>צמם</w></bdb>
+		<bdb><w>צמם</w> empty entry</bdb>
 		<xref twot="1929"/>
 		<status p="855">new</status>
 	</entry>
 	<entry id="rmt">
-		<bdb><w>צמר</w></bdb>
+		<bdb><w>צמר</w> empty entry</bdb>
 		<xref twot="1931"/>
 		<status p="856">new</status>
 	</entry>
 	<entry id="rnn1">
-		<bdb mod="I"><w>צנן</w></bdb>
+		<bdb mod="I"><w>צנן</w> empty entry</bdb>
 		<xref twot="1936"/>
 		<status p="856">new</status>
 	</entry>
 	<entry id="rnn2">
-		<bdb mod="II"><w>צנן</w></bdb>
+		<bdb mod="II"><w>צנן</w> empty entry</bdb>
 		<xref twot="1937"/>
 		<status p="856">new</status>
 	</entry>
 	<entry id="rnn3">
-		<bdb mod="III"><w>צנן</w></bdb>
+		<bdb mod="III"><w>צנן</w> empty entry</bdb>
 		<xref twot="1938"/>
 		<status p="856">new</status>
 	</entry>
 	<entry id="rns">
-		<bdb><w>צנק</w></bdb>
+		<bdb><w>צנק</w> empty entry</bdb>
 		<xref twot="1941"/>
 		<status p="857">new</status>
 	</entry>
 	<entry id="rnt">
-		<bdb><w>צנר</w></bdb>
+		<bdb><w>צנר</w> empty entry</bdb>
 		<xref twot="1942"/>
 		<status p="857">new</status>
 	</entry>
 	<entry id="rpd2">
-		<bdb mod="II"><w>צעד</w></bdb>
+		<bdb mod="II"><w>צעד</w> empty entry</bdb>
 		<status p="857">new</status>
 	</entry>
 	<entry id="rpq">
-		<bdb><w>צעף</w></bdb>
+		<bdb><w>צעף</w> empty entry</bdb>
 		<xref twot="1946"/>
 		<status p="858">new</status>
 	</entry>
 	<entry id="rqh">
-		<bdb><w>צפח</w></bdb>
+		<bdb><w>צפח</w> empty entry</bdb>
 		<xref twot="1952"/>
 		<status p="860">new</status>
 	</entry>
 	<entry id="rqp1">
-		<bdb mod="I"><w>צפע</w></bdb>
+		<bdb mod="I"><w>צפע</w> empty entry</bdb>
 		<xref twot="1954"/>
 		<status p="861">new</status>
 	</entry>
 	<entry id="rqp2">
-		<bdb mod="II"><w>צפע</w></bdb>
+		<bdb mod="II"><w>צפע</w> empty entry</bdb>
 		<xref twot="1955"/>
 		<status p="861">new</status>
 	</entry>
 	<entry id="rqp3">
-		<bdb mod="III"><w>צפע</w></bdb>
+		<bdb mod="III"><w>צפע</w> empty entry</bdb>
 		<xref twot="1956"/>
 		<status p="861">new</status>
 	</entry>
 	<entry id="rqt2">
-		<bdb mod="II"><w>צפר</w></bdb>
+		<bdb mod="II"><w>צפר</w> empty entry</bdb>
 		<xref twot="1959"/>
 		<status p="861">new</status>
 	</entry>
 	<entry id="rqt3">
-		<bdb mod="III"><w>צפר</w></bdb>
+		<bdb mod="III"><w>צפר</w> empty entry</bdb>
 		<xref twot="1960"/>
 		<status p="862">new</status>
 	</entry>
 	<entry id="rqt4">
-		<bdb mod="IV"><w>צפר</w></bdb>
+		<bdb mod="IV"><w>צפר</w> empty entry</bdb>
 		<xref twot="1961"/>
 		<status p="862">new</status>
 	</entry>
 	<entry id="rqt5">
-		<bdb mod="V"><w>צפר</w></bdb>
+		<bdb mod="V"><w>צפר</w> empty entry</bdb>
 		<xref twot="1962"/>
 		<status p="862">new</status>
 	</entry>
 	<entry id="rte">
-		<bdb><w>צרה</w></bdb>
+		<bdb><w>צרה</w> empty entry</bdb>
 		<xref twot="1967"/>
 		<status p="863">new</status>
 	</entry>
 	<entry id="rth2">
-		<bdb mod="II"><w>צרח</w></bdb>
+		<bdb mod="II"><w>צרח</w> empty entry</bdb>
 		<xref twot="1969"/>
 		<status p="863">new</status>
 	</entry>
 	<entry id="rtk">
-		<bdb><w>צרך</w></bdb>
+		<bdb><w>צרך</w> empty entry</bdb>
 		<xref twot="1970"/>
 		<status p="863">new</status>
 	</entry>
 	<entry id="rtp">
-		<bdb><w>צרע</w></bdb>
+		<bdb><w>צרע</w> empty entry</bdb>
 		<status p="863">new</status>
 	</entry>
 	<entry id="rtt3">
-		<bdb mod="III"><w>צרר</w></bdb>
+		<bdb mod="III"><w>צרר</w> empty entry</bdb>
 		<xref twot="1975"/>
 		<status p="866">new</status>
 	</entry>
 	<entry id="s1">
-		<bdb><w>ק</w></bdb>
+		<bdb><w>ק</w> empty entry</bdb>
 		<status p="866">new</status>
 	</entry>
 	<entry id="sbb1">
-		<bdb mod="I"><w>קבב</w></bdb>
+		<bdb mod="I"><w>קבב</w> empty entry</bdb>
 		<xref twot="1977"/>
 		<status p="866">new</status>
 	</entry>
 	<entry id="sbe">
-		<bdb><w>קבה</w></bdb>
+		<bdb><w>קבה</w> empty entry</bdb>
 		<xref twot="1979"/>
 		<status p="866">new</status>
 	</entry>
 	<entry id="sdd2">
-		<bdb mod="II"><w>קדד</w></bdb>
+		<bdb mod="II"><w>קדד</w> empty entry</bdb>
 		<xref twot="1986"/>
 		<status p="869">new</status>
 	</entry>
 	<entry id="sdm">
-		<bdb><w>קדם</w></bdb>
+		<bdb><w>קדם</w> empty entry</bdb>
 		<status p="869">new</status>
 	</entry>
 	<entry id="sdv1">
-		<bdb><w>קדשׁ</w></bdb>
+		<bdb><w>קדשׁ</w> empty entry</bdb>
 		<status p="871">new</status>
 	</entry>
 	<entry id="sel">
-		<bdb><w>קהל</w></bdb>
+		<bdb><w>קהל</w> empty entry</bdb>
 		<status p="874">new</status>
 	</entry>
 	<entry id="sfl1">
-		<bdb><w>קול</w></bdb>
+		<bdb><w>קול</w> empty entry</bdb>
 		<xref twot="1998"/>
 		<status p="876">new</status>
 	</entry>
 	<entry id="sfq">
-		<bdb><w>קוף</w></bdb>
+		<bdb><w>קוף</w> empty entry</bdb>
 		<xref twot="2001"/>
 		<status p="880">new</status>
 	</entry>
 	<entry id="sfr2">
-		<bdb mod="II"><w>קוץ</w></bdb>
+		<bdb mod="II"><w>קוץ</w> empty entry</bdb>
 		<xref twot="2003"/>
 		<status p="881">new</status>
 	</entry>
 	<entry id="sft2">
-		<bdb mod="II"><w>קור</w></bdb>
+		<bdb mod="II"><w>קור</w> empty entry</bdb>
 		<xref twot="2005"/>
 		<status p="881">new</status>
 	</entry>
 	<entry id="sib">
-		<bdb><w>קטב</w></bdb>
+		<bdb><w>קטב</w> empty entry</bdb>
 		<xref twot="2007"/>
 		<status p="881">new</status>
 	</entry>
 	<entry id="sit1">
-		<bdb mod="I"><w>קטר</w></bdb>
+		<bdb mod="I"><w>קטר</w> empty entry</bdb>
 		<status p="882">new</status>
 	</entry>
 	<entry id="sjn">
-		<bdb><w>קין</w></bdb>
+		<bdb><w>קין</w> empty entry</bdb>
 		<xref twot="2015"/>
 		<status p="883">new</status>
 	</entry>
 	<entry id="sjr2">
-		<bdb mod="II"><w>קיץ</w></bdb>
+		<bdb mod="II"><w>קיץ</w> empty entry</bdb>
 		<xref twot="2020"/>
 		<status p="884">new</status>
 	</entry>
 	<entry id="sli1">
-		<bdb mod="I"><w>קלט</w></bdb>
+		<bdb mod="I"><w>קלט</w> empty entry</bdb>
 		<xref twot="2026"/>
 		<status p="886">new</status>
 	</entry>
 	<entry id="smh">
-		<bdb><w>קמח</w></bdb>
+		<bdb><w>קמח</w> empty entry</bdb>
 		<xref twot="2033"/>
 		<status p="887">new</status>
 	</entry>
 	<entry id="fmu">
-		<bdb><w>ומשׂ</w></bdb>
+		<bdb><w>ומשׂ</w> empty entry</bdb>
 		<xref twot="2037"/>
 		<status p="888">new</status>
 	</entry>
 	<entry id="sna1">
-		<bdb><w>קנא</w></bdb>
+		<bdb><w>קנא</w> empty entry</bdb>
 		<status p="888">new</status>
 	</entry>
 	<entry id="sne2">
-		<bdb mod="II"><w>קנה</w></bdb>
+		<bdb mod="II"><w>קנה</w> empty entry</bdb>
 		<xref twot="2040"/>
 		<status p="889">new</status>
 	</entry>
 	<entry id="snn">
-		<bdb><w>קנן</w></bdb>
+		<bdb><w>קנן</w> empty entry</bdb>
 		<status p="890">new</status>
 	</entry>
 	<entry id="snr">
-		<bdb><w>קנץ</w></bdb>
+		<bdb><w>קנץ</w> empty entry</bdb>
 		<xref twot="2043"/>
 		<status p="890">new</status>
 	</entry>
 	<entry id="som">
-		<bdb><w>קסם</w></bdb>
+		<bdb><w>קסם</w> empty entry</bdb>
 		<status p="890">new</status>
 	</entry>
 	<entry id="spsp">
-		<bdb><w>קעקע</w></bdb>
+		<bdb><w>קעקע</w> empty entry</bdb>
 		<xref twot="2046"/>
 		<status p="891">new</status>
 	</entry>
 	<entry id="spt">
-		<bdb><w>קער</w></bdb>
+		<bdb><w>קער</w> empty entry</bdb>
 		<xref twot="2047"/>
 		<status p="891">new</status>
 	</entry>
 	<entry id="sqg">
-		<bdb><w>קפז</w></bdb>
+		<bdb><w>קפז</w> empty entry</bdb>
 		<xref twot="2050"/>
 		<status p="891">new</status>
 	</entry>
 	<entry id="sre2">
-		<bdb mod="II"><w>קצה</w></bdb>
+		<bdb mod="II"><w>קצה</w> empty entry</bdb>
 		<xref twot="2054"/>
 		<status p="892">new</status>
 	</entry>
 	<entry id="srh">
-		<bdb><w>קצח</w></bdb>
+		<bdb><w>קצח</w> empty entry</bdb>
 		<xref twot="2055"/>
 		<status p="892">new</status>
 	</entry>
 	<entry id="srp2">
-		<bdb cite="full" mod="II"><w>קצע</w></bdb>
+		<bdb cite="full" mod="II"><w>קצע</w> empty entry</bdb>
 		<status p="893">new</status>
 	</entry>
 	<entry id="srq2">
-		<bdb mod="II"><w>קצף</w></bdb>
+		<bdb mod="II"><w>קצף</w> empty entry</bdb>
 		<xref twot="2059"/>
 		<status p="893">new</status>
 	</entry>
 	<entry id="stb2">
-		<bdb mod="II"><w>קרב</w></bdb>
+		<bdb mod="II"><w>קרב</w> empty entry</bdb>
 		<xref twot="2066"/>
 		<status p="899">new</status>
 	</entry>
 	<entry id="sth2">
-		<bdb mod="II"><w>קרח</w></bdb>
+		<bdb mod="II"><w>קרח</w> empty entry</bdb>
 		<xref twot="2070"/>
 		<status p="901">new</status>
 	</entry>
 	<entry id="stn">
-		<bdb><w>קרן</w></bdb>
+		<bdb><w>קרן</w> empty entry</bdb>
 		<status p="901">new</status>
 	</entry>
 	<entry id="stv">
-		<bdb><w>קרשׁ</w></bdb>
+		<bdb><w>קרשׁ</w> empty entry</bdb>
 		<xref twot="2079"/>
 		<status p="903">new</status>
 	</entry>
 	<entry id="sue">
-		<bdb><w>קשׂה</w></bdb>
+		<bdb><w>קשׂה</w> empty entry</bdb>
 		<xref twot="2080"/>
 		<status p="903">new</status>
 	</entry>
 	<entry id="sui">
-		<bdb><w>קשׂט</w></bdb>
+		<bdb><w>קשׂט</w> empty entry</bdb>
 		<xref twot="2081"/>
 		<status p="903">new</status>
 	</entry>
 	<entry id="suu">
-		<bdb><w>קשׂשׂ</w></bdb>
+		<bdb><w>קשׂשׂ</w> empty entry</bdb>
 		<xref twot="2082"/>
 		<status p="903">new</status>
 	</entry>
 	<entry id="sva">
-		<bdb><w>קשׁא</w></bdb>
+		<bdb><w>קשׁא</w> empty entry</bdb>
 		<xref twot="2083"/>
 		<status p="903">new</status>
 	</entry>
 	<entry id="sve2">
-		<bdb mod="II"><w>קשׁה</w></bdb>
+		<bdb mod="II"><w>קשׁה</w> empty entry</bdb>
 		<xref twot="2086"/>
 		<status p="904">new</status>
 	</entry>
 	<entry id="svi">
-		<bdb><w>קשׁט</w></bdb>
+		<bdb><w>קשׁט</w> empty entry</bdb>
 		<xref twot="2089"/>
 		<status p="905">new</status>
 	</entry>
 	<entry id="svv1">
-		<bdb mod="I"><w>קשׁשׁ</w></bdb>
+		<bdb mod="I"><w>קשׁשׁ</w> empty entry</bdb>
 		<status p="905">new</status>
 	</entry>
 	<entry id="t1">
-		<bdb><w>ר</w></bdb>
+		<bdb><w>ר</w> empty entry</bdb>
 		<status p="906">new</status>
 	</entry>
 	<entry id="tbd1">
-		<bdb mod="I"><w>רבד</w></bdb>
+		<bdb mod="I"><w>רבד</w> empty entry</bdb>
 		<xref twot="2101"/>
 		<status p="914">new</status>
 	</entry>
 	<entry id="tbp1">
-		<bdb mod="I"><w>רבע</w></bdb>
+		<bdb mod="I"><w>רבע</w> empty entry</bdb>
 		<xref twot="2106"/>
 		<status p="916">new</status>
 	</entry>
 	<entry id="tbs">
-		<bdb><w>רבק</w></bdb>
+		<bdb><w>רבק</w> empty entry</bdb>
 		<xref twot="2110"/>
 		<status p="918">new</status>
 	</entry>
 	<entry id="tcb">
-		<bdb><w>רגב</w></bdb>
+		<bdb><w>רגב</w> empty entry</bdb>
 		<xref twot="2111"/>
 		<status p="918">new</status>
 	</entry>
 	<entry id="tcl">
-		<bdb><w>רגל</w></bdb>
+		<bdb><w>רגל</w> empty entry</bdb>
 		<status p="919">added</status>
 	</entry>
 	<entry id="tec">
-		<bdb><w>רהג</w></bdb>
+		<bdb><w>רהג</w> empty entry</bdb>
 		<status p="923">new</status>
 	</entry>
 	<entry id="tei1">
-		<bdb mod="I"><w>רהט</w></bdb>
+		<bdb mod="I"><w>רהט</w> empty entry</bdb>
 		<xref twot="2127"/>
 		<status p="923">new</status>
 	</entry>
 	<entry id="tei2">
-		<bdb mod="II"><w>רהט</w></bdb>
+		<bdb mod="II"><w>רהט</w> empty entry</bdb>
 		<xref twot="2128"/>
 		<status p="923">new</status>
 	</entry>
 	<entry id="tfh1">
-		<bdb><w>רוח</w></bdb>
+		<bdb><w>רוח</w> empty entry</bdb>
 		<status p="924">new</status>
 	</entry>
 	<entry id="tfq">
-		<bdb><w>רוף</w></bdb>
+		<bdb><w>רוף</w> empty entry</bdb>
 		<xref twot="2136"/>
 		<status p="930">new</status>
 	</entry>
 	<entry id="tgh">
-		<bdb><w>רזח</w></bdb>
+		<bdb><w>רזח</w> empty entry</bdb>
 		<xref twot="2140"/>
 		<status p="931">new</status>
 	</entry>
 	<entry id="the">
-		<bdb><w>רחה</w></bdb>
+		<bdb><w>רחה</w> empty entry</bdb>
 		<xref twot="2144"/>
 		<status p="932">new</status>
 	</entry>
 	<entry id="thl">
-		<bdb><w>רחל</w></bdb>
+		<bdb><w>רחל</w> empty entry</bdb>
 		<xref twot="2145"/>
 		<status p="932">new</status>
 	</entry>
 	<entry id="thm1">
-		<bdb mod="I"><w>רחם</w></bdb>
+		<bdb mod="I"><w>רחם</w> empty entry</bdb>
 		<status p="933">new</status>
 	</entry>
 	<entry id="thm2">
-		<bdb mod="II"><w>רחם</w></bdb>
+		<bdb mod="II"><w>רחם</w> empty entry</bdb>
 		<xref twot="2147"/>
 		<status p="934">new</status>
 	</entry>
 	<entry id="thn">
-		<bdb><w>רחן</w></bdb>
+		<bdb><w>רחן</w> empty entry</bdb>
 		<status p="934">new</status>
 	</entry>
 	<entry id="tii">
-		<bdb><w>רטט</w></bdb>
+		<bdb><w>רטט</w> empty entry</bdb>
 		<xref twot="2156"/>
 		<status p="936">new</status>
 	</entry>
 	<entry id="tjq">
-		<bdb><w>ריף</w></bdb>
+		<bdb><w>ריף</w> empty entry</bdb>
 		<xref twot="2160"/>
 		<status p="937">new</status>
 	</entry>
 	<entry id="tme3">
-		<bdb mod="III"><w>רמה</w></bdb>
+		<bdb mod="III"><w>רמה</w> empty entry</bdb>
 		<status p="941">new</status>
 	</entry>
 	<entry id="tml">
-		<bdb><w>רמל</w></bdb>
+		<bdb><w>רמל</w> empty entry</bdb>
 		<status p="942">new</status>
 	</entry>
 	<entry id="tmm2">
-		<bdb mod="II"><w>רמם</w></bdb>
+		<bdb mod="II"><w>רמם</w> empty entry</bdb>
 		<xref twot="2175"/>
 		<status p="942">new</status>
 	</entry>
 	<entry id="ton">
-		<bdb><w>רסן</w></bdb>
+		<bdb><w>רסן</w> empty entry</bdb>
 		<xref twot="2180"/>
 		<status p="943">new</status>
 	</entry>
 	<entry id="too2">
-		<bdb mod="II"><w>רסס</w></bdb>
+		<bdb mod="II"><w>רסס</w> empty entry</bdb>
 		<xref twot="2182"/>
 		<status p="944">new</status>
 	</entry>
 	<entry id="tpe3">
-		<bdb mod="III"><w>רעה</w></bdb>
+		<bdb mod="III"><w>רעה</w> empty entry</bdb>
 		<xref twot="2187"/>
 		<status p="946">new</status>
 	</entry>
 	<entry id="tpm">
-		<bdb><w>רעם</w></bdb>
+		<bdb><w>רעם</w> empty entry</bdb>
 		<status p="947">new</status>
 	</entry>
 	<entry id="tpp1">
-		<bdb mod="I"><w>רעע</w></bdb>
+		<bdb mod="I"><w>רעע</w> empty entry</bdb>
 		<status p="947">new</status>
 	</entry>
 	<entry id="tqv">
-		<bdb><w>רפשׁ</w></bdb>
+		<bdb><w>רפשׁ</w> empty entry</bdb>
 		<xref twot="2203"/>
 		<status p="952">new</status>
 	</entry>
 	<entry id="trq2">
-		<bdb mod="II"><w>רצף</w></bdb>
+		<bdb mod="II"><w>רצף</w> empty entry</bdb>
 		<xref twot="2211"/>
 		<status p="954">new</status>
 	</entry>
 	<entry id="tss1">
-		<bdb mod="I"><w>רקק</w></bdb>
+		<bdb mod="I"><w>רקק</w> empty entry</bdb>
 		<xref twot="2218"/>
 		<status p="956">new</status>
 	</entry>
 	<entry id="tve">
-		<bdb><w>רשׁה</w></bdb>
+		<bdb><w>רשׁה</w> empty entry</bdb>
 		<xref twot="2220"/>
 		<status p="957">new</status>
 	</entry>
 	<entry id="tvp">
-		<bdb><w>רשׁע</w></bdb>
+		<bdb><w>רשׁע</w> empty entry</bdb>
 		<status p="957">new</status>
 	</entry>
 	<entry id="tvq">
-		<bdb><w>רשׁף</w></bdb>
+		<bdb><w>רשׁף</w> empty entry</bdb>
 		<xref twot="2223"/>
 		<status p="958">new</status>
 	</entry>
 	<entry id="tww">
-		<bdb><w>רתת</w></bdb>
+		<bdb><w>רתת</w> empty entry</bdb>
 		<xref twot="2228"/>
 		<status p="958">new</status>
 	</entry>
 	<entry id="u1">
-		<bdb><w>שׂ</w></bdb>
+		<bdb><w>שׂ</w> empty entry</bdb>
 		<status p="959">new</status>
 	</entry>
 	<entry id="uab">
-		<bdb><w>שׂאב</w></bdb>
+		<bdb><w>שׂאב</w> empty entry</bdb>
 		<xref twot="2229"/>
 		<status p="959">new</status>
 	</entry>
 	<entry id="uam">
-		<bdb><w>שׂאם</w></bdb>
+		<bdb><w>שׂאם</w> empty entry</bdb>
 		<status p="969">added</status>
 	</entry>
 	<entry id="ubk">
-		<bdb><w>שׂבךְ</w></bdb>
+		<bdb><w>שׂבךְ</w> empty entry</bdb>
 		<status p="959">new</status>
 	</entry>
 	<entry id="ude">
-		<bdb><w>שׂדה</w></bdb>
+		<bdb><w>שׂדה</w> empty entry</bdb>
 		<xref twot="2236"/>
 		<status p="961">new</status>
 	</entry>
 	<entry id="uet">
-		<bdb><w>שׂהר</w></bdb>
+		<bdb><w>שׂהר</w> empty entry</bdb>
 		<xref twot="2239"/>
 		<status p="962">new</status>
 	</entry>
 	<entry id="ufk2">
-		<bdb mod="II"><w>שׂוך</w></bdb>
+		<bdb mod="II"><w>שׂוך</w> empty entry</bdb>
 		<xref twot="2242"/>
 		<status p="962">new</status>
 	</entry>
 	<entry id="ufm2">
-		<bdb mod="II"><w>שׂום</w>, <w>שׂים</w></bdb>
+		<bdb mod="II"><w>שׂום</w>, <w>שׂים</w> empty entry</bdb>
 		<xref twot="2244"/>
 		<status p="965">new</status>
 	</entry>
 	<entry id="uin">
-		<bdb><w>שׂטן</w></bdb>
+		<bdb><w>שׂטן</w> empty entry</bdb>
 		<status p="966">new</status>
 	</entry>
 	<entry id="ujd">
-		<bdb><w>שׂיד</w></bdb>
+		<bdb><w>שׂיד</w> empty entry</bdb>
 		<status p="966">new</status>
 	</entry>
 	<entry id="ujh1">
-		<bdb mod="I"><w>שׂיח</w></bdb>
+		<bdb mod="I"><w>שׂיח</w> empty entry</bdb>
 		<status p="966">new</status>
 	</entry>
 	<entry id="ujh2">
-		<bdb mod="II"><w>שׂיח</w></bdb>
+		<bdb mod="II"><w>שׂיח</w> empty entry</bdb>
 		<xref twot="2256"/>
 		<status p="967">new</status>
 	</entry>
 	<entry id="uke">
-		<bdb><w>שׂכה</w></bdb>
+		<bdb><w>שׂכה</w> empty entry</bdb>
 		<xref twot="2257"/>
 		<status p="967">new</status>
 	</entry>
 	<entry id="ukk3">
-		<bdb mod="III"><w>שׂכך</w></bdb>
+		<bdb mod="III"><w>שׂכך</w> empty entry</bdb>
 		<xref twot="2261"/>
 		<status p="968">new</status>
 	</entry>
 	<entry id="ukk4">
-		<bdb mod="IV"><w>שׂכך</w></bdb>
+		<bdb mod="IV"><w>שׂכך</w> empty entry</bdb>
 		<xref twot="2262"/>
 		<status p="968">new</status>
 	</entry>
 	<entry id="ulf">
-		<bdb><w>שׂלו</w></bdb>
+		<bdb><w>שׂלו</w> empty entry</bdb>
 		<status p="993">added</status>
 	</entry>
 	<entry id="umk">
-		<bdb><w>שׂמך</w></bdb>
+		<bdb><w>שׂמך</w> empty entry</bdb>
 		<xref twot="2269"/>
 		<status p="970">added</status>
 	</entry>
 	<entry id="uml">
-		<bdb><w>שׂמל</w></bdb>
+		<bdb><w>שׂמל</w> empty entry</bdb>
 		<xref twot="2270"/>
 		<status p="971">new</status>
 	</entry>
 	<entry id="umt">
-		<bdb><w>שׂמר</w></bdb>
+		<bdb><w>שׂמר</w> empty entry</bdb>
 		<status p="971">new</status>
 	</entry>
 	<entry id="upq">
-		<bdb><w>שׂעף</w></bdb>
+		<bdb><w>שׂעף</w> empty entry</bdb>
 		<xref twot="2273"/>
 		<status p="972">new</status>
 	</entry>
 	<entry id="upt1">
-		<bdb mod="I"><w>שׂער</w></bdb>
+		<bdb mod="I"><w>שׂער</w> empty entry</bdb>
 		<xref twot="2274"/>
 		<status p="972">new</status>
 	</entry>
 	<entry id="upt4">
-		<bdb mod="IV"><w>שׂער</w></bdb>
+		<bdb mod="IV"><w>שׂער</w> empty entry</bdb>
 		<xref twot="2277"/>
 		<status p="973">new</status>
 	</entry>
 	<entry id="uqe">
-		<bdb><w>שׂפה</w></bdb>
+		<bdb><w>שׂפה</w> empty entry</bdb>
 		<xref twot="2278"/>
 		<status p="973">new</status>
 	</entry>
 	<entry id="uss">
-		<bdb><w>שׂקק</w></bdb>
+		<bdb><w>שׂקק</w> empty entry</bdb>
 		<xref twot="2282"/>
 		<status p="974">new</status>
 	</entry>
 	<entry id="utd2">
-		<bdb mod="II"><w>שׂרד</w></bdb>
+		<bdb mod="II"><w>שׂרד</w> empty entry</bdb>
 		<xref twot="2286"/>
 		<status p="975">new</status>
 	</entry>
 	<entry id="ute2">
-		<bdb mod="II"><w>שׂרה</w></bdb>
+		<bdb mod="II"><w>שׂרה</w> empty entry</bdb>
 		<xref twot="2288"/>
 		<status p="976">new</status>
 	</entry>
 	<entry id="uts1">
-		<bdb mod="I"><w>שׂרק</w></bdb>
+		<bdb mod="I"><w>שׂרק</w> empty entry</bdb>
 		<xref twot="2293"/>
 		<status p="977">new</status>
 	</entry>
 	<entry id="uts2">
-		<bdb mod="II"><w>שׂרק</w></bdb>
+		<bdb mod="II"><w>שׂרק</w> empty entry</bdb>
 		<xref twot="2294"/>
 		<status p="977">new</status>
 	</entry>
 	<entry id="utt">
-		<bdb><w>שׂרר</w></bdb>
+		<bdb><w>שׂרר</w> empty entry</bdb>
 		<status p="977">new</status>
 	</entry>
 	<entry id="v1">
-		<bdb><w>שׁ</w></bdb>
+		<bdb><w>שׁ</w> empty entry</bdb>
 		<xref twot="2298"/>
 		<status p="979">new</status>
 	</entry>
 	<entry id="v2">
-		<bdb><w>שֶׁ</w></bdb>
+		<bdb><w>שֶׁ</w> empty entry</bdb>
 		<status p="979">new</status>
 	</entry>
 	<entry id="vat2">
-		<bdb mod="II"><w>שׁאר</w></bdb>
+		<bdb mod="II"><w>שׁאר</w> empty entry</bdb>
 		<xref twot="2308"/>
 		<status p="984">new</status>
 	</entry>
 	<entry id="vbb1">
-		<bdb mod="I"><w>שׁבב</w></bdb>
+		<bdb mod="I"><w>שׁבב</w> empty entry</bdb>
 		<xref twot="2309"/>
 		<status p="985">new</status>
 	</entry>
 	<entry id="vbb2">
-		<bdb mod="II"><w>שׁבב</w></bdb>
+		<bdb mod="II"><w>שׁבב</w> empty entry</bdb>
 		<xref twot="2310"/>
 		<status p="985">new</status>
 	</entry>
 	<entry id="vbi">
-		<bdb><w>שׁבט</w></bdb>
+		<bdb><w>שׁבט</w> empty entry</bdb>
 		<xref twot="2314"/>
 		<status p="986">new</status>
 	</entry>
 	<entry id="vbl">
-		<bdb><w>שׁבל</w></bdb>
+		<bdb><w>שׁבל</w> empty entry</bdb>
 		<xref twot="2316"/>
 		<status p="987">new</status>
 	</entry>
 	<entry id="vbn">
-		<bdb><w>שׁבן</w></bdb>
+		<bdb><w>שׁבן</w> empty entry</bdb>
 		<status p="987">new</status>
 	</entry>
 	<entry id="vbo">
-		<bdb><w>שׁבס</w></bdb>
+		<bdb><w>שׁבס</w> empty entry</bdb>
 		<xref twot="2317"/>
 		<status p="987">new</status>
 	</entry>
 	<entry id="vbs1">
-		<bdb><w>שׁבק</w></bdb>
+		<bdb><w>שׁבק</w> empty entry</bdb>
 		<status p="990">new</status>
 	</entry>
 	<entry id="vct">
-		<bdb><w>שׁגר</w></bdb>
+		<bdb><w>שׁגר</w> empty entry</bdb>
 		<xref twot="2329"/>
 		<status p="993">new</status>
 	</entry>
 	<entry id="vde">
-		<bdb><w>שׁדה</w></bdb>
+		<bdb><w>שׁדה</w> empty entry</bdb>
 		<xref twot="2332"/>
 		<status p="994">new</status>
 	</entry>
 	<entry id="vdm">
-		<bdb><w>שׁדם</w></bdb>
+		<bdb><w>שׁדם</w> empty entry</bdb>
 		<xref twot="2334"/>
 		<status p="995">new</status>
 	</entry>
 	<entry id="vdv">
-		<bdb><w>שׁדשׁ</w></bdb>
+		<bdb><w>שׁדשׁ</w> empty entry</bdb>
 		<xref twot="2336"/>
 		<status p="995">new</status>
 	</entry>
 	<entry id="vem">
-		<bdb><w>שׁהם</w></bdb>
+		<bdb><w>שׁהם</w> empty entry</bdb>
 		<status p="1019">added</status>
 	</entry>
 	<entry id="vfa1">
-		<bdb mod="I"><w>שׁוא</w></bdb>
+		<bdb mod="I"><w>שׁוא</w> empty entry</bdb>
 		<xref twot="2338"/>
 		<status p="996">new</status>
 	</entry>
 	<entry id="vfa2">
-		<bdb mod="II"><w>שׁוא</w></bdb>
+		<bdb mod="II"><w>שׁוא</w> empty entry</bdb>
 		<xref twot="2339"/>
 		<status p="996">new</status>
 	</entry>
 	<entry id="vfc">
-		<bdb><w>שׁוג</w></bdb>
+		<bdb><w>שׁוג</w> empty entry</bdb>
 		<xref twot="2341"/>
 		<status p="1000">new</status>
 	</entry>
 	<entry id="vfl">
-		<bdb><w>שׁול</w></bdb>
+		<bdb><w>שׁול</w> empty entry</bdb>
 		<xref twot="2346"/>
 		<status p="1002">new</status>
 	</entry>
 	<entry id="vfs1">
-		<bdb mod="I"><w>שׁוּק</w></bdb>
+		<bdb mod="I"><w>שׁוּק</w> empty entry</bdb>
 		<xref twot="2350"/>
 		<status p="1003">new</status>
 	</entry>
 	<entry id="vfs3">
-		<bdb mod="III"><w>שׁוק</w></bdb>
+		<bdb mod="III"><w>שׁוק</w> empty entry</bdb>
 		<xref twot="2352"/>
 		<status p="1003">new</status>
 	</entry>
 	<entry id="vft3">
-		<bdb mod="III"><w>שׁור</w></bdb>
+		<bdb mod="III"><w>שׁור</w> empty entry</bdb>
 		<xref twot="2355"/>
 		<status p="1004">new</status>
 	</entry>
 	<entry id="vhl">
-		<bdb cite="full"><w>שׁחל</w></bdb>
+		<bdb cite="full"><w>שׁחל</w> empty entry</bdb>
 		<xref twot="2363"/>
 		<status p="1006">new</status>
 	</entry>
 	<entry id="vhn">
-		<bdb><w>שׁחן</w></bdb>
+		<bdb><w>שׁחן</w> empty entry</bdb>
 		<xref twot="2364"/>
 		<status p="1006">new</status>
 	</entry>
 	<entry id="vhq">
-		<bdb><w>שׁחף</w></bdb>
+		<bdb><w>שׁחף</w> empty entry</bdb>
 		<xref twot="2365"/>
 		<status p="1006">new</status>
 	</entry>
 	<entry id="vhr">
-		<bdb><w>שׁחץ</w></bdb>
+		<bdb><w>שׁחץ</w> empty entry</bdb>
 		<xref twot="2366"/>
 		<status p="1006">new</status>
 	</entry>
 	<entry id="vht2">
-		<bdb mod="II"><w>שׁחר</w></bdb>
+		<bdb mod="II"><w>שׁחר</w> empty entry</bdb>
 		<status p="1007">new</status>
 	</entry>
 	<entry id="vit">
-		<bdb><w>שׁטר</w></bdb>
+		<bdb><w>שׁטר</w> empty entry</bdb>
 		<xref twot="2374"/>
 		<status p="1009">new</status>
 	</entry>
 	<entry id="vjn">
-		<bdb><w>שׁין</w></bdb>
+		<bdb><w>שׁין</w> empty entry</bdb>
 		<status p="1010">new</status>
 	</entry>
 	<entry id="vjt">
-		<bdb><w>שׁיר</w></bdb>
+		<bdb><w>שׁיר</w> empty entry</bdb>
 		<status p="1010">new</status>
 	</entry>
 	<entry id="vkm">
-		<bdb><w>שׁכם</w></bdb>
+		<bdb><w>שׁכם</w> empty entry</bdb>
 		<status p="1014">new</status>
 	</entry>
 	<entry id="vkt2">
-		<bdb mod="II"><w>שׁכר</w></bdb>
+		<bdb mod="II"><w>שׁכר</w> empty entry</bdb>
 		<xref twot="2389"/>
 		<status p="1016">new</status>
 	</entry>
 	<entry id="vlc">
-		<bdb><w>שׁלג</w></bdb>
+		<bdb><w>שׁלג</w> empty entry</bdb>
 		<status p="1017">new</status>
 	</entry>
 	<entry id="vlh2">
-		<bdb mod="II"><w>שׁלח</w></bdb>
+		<bdb mod="II"><w>שׁלח</w> empty entry</bdb>
 		<xref twot="2395"/>
 		<status p="1020">new</status>
 	</entry>
 	<entry id="vli2">
-		<bdb mod="II"><w>שׁלט</w></bdb>
+		<bdb mod="II"><w>שׁלט</w> empty entry</bdb>
 		<xref twot="2397"/>
 		<status p="1020">new</status>
 	</entry>
 	<entry id="vlv">
-		<bdb><w>שׁלשׁ</w></bdb>
+		<bdb><w>שׁלשׁ</w> empty entry</bdb>
 		<status p="1025">new</status>
 	</entry>
 	<entry id="vma">
-		<bdb><w>שׁמא</w></bdb>
+		<bdb><w>שׁמא</w> empty entry</bdb>
 		<status p="1029">new</status>
 	</entry>
 	<entry id="vme">
-		<bdb><w>שׁמה</w></bdb>
+		<bdb><w>שׁמה</w> empty entry</bdb>
 		<xref twot="2407"/>
 		<status p="1029">new</status>
 	</entry>
 	<entry id="vmn2">
-		<bdb mod="II"><w>שׁמן</w>, <w>שׁמני</w></bdb>
+		<bdb mod="II"><w>שׁמן</w>, <w>שׁמני</w> empty entry</bdb>
 		<xref twot="2411"/>
 		<status p="1032">new</status>
 	</entry>
 	<entry id="vmr">
-		<bdb><w>שׁמץ</w></bdb>
+		<bdb><w>שׁמץ</w> empty entry</bdb>
 		<xref twot="2413"/>
 		<status p="1036">new</status>
 	</entry>
 	<entry id="vmt2">
-		<bdb mod="II"><w>שׁמר</w></bdb>
+		<bdb mod="II"><w>שׁמר</w> empty entry</bdb>
 		<xref twot="2415"/>
 		<status p="1038">new</status>
 	</entry>
 	<entry id="vmt3">
-		<bdb mod="III"><w>שׁמר</w></bdb>
+		<bdb mod="III"><w>שׁמר</w> empty entry</bdb>
 		<xref twot="2416"/>
 		<status p="1038">new</status>
 	</entry>
 	<entry id="vmv1">
-		<bdb><w>שׁמשׁ</w></bdb>
+		<bdb><w>שׁמשׁ</w> empty entry</bdb>
 		<xref twot="2417"/>
 		<status p="1039">new</status>
 	</entry>
 	<entry id="vnb">
-		<bdb><w>שׁנב</w></bdb>
+		<bdb><w>שׁנב</w> empty entry</bdb>
 		<xref twot="2418"/>
 		<status p="1039">new</status>
 	</entry>
 	<entry id="vne2">
-		<bdb mod="II"><w>שׁנה</w></bdb>
+		<bdb mod="II"><w>שׁנה</w> empty entry</bdb>
 		<xref twot="2420"/>
 		<status p="1040">new</status>
 	</entry>
 	<entry id="vpi">
-		<bdb><w>שׁעט</w></bdb>
+		<bdb><w>שׁעט</w> empty entry</bdb>
 		<xref twot="2430"/>
 		<status p="1043">new</status>
 	</entry>
 	<entry id="vpl1">
-		<bdb mod="I"><w>שׁעל</w></bdb>
+		<bdb mod="I"><w>שׁעל</w> empty entry</bdb>
 		<xref twot="2432"/>
 		<status p="1043">new</status>
 	</entry>
 	<entry id="vpl2">
-		<bdb mod="II"><w>שׁעל</w></bdb>
+		<bdb mod="II"><w>שׁעל</w> empty entry</bdb>
 		<xref twot="2433"/>
 		<status p="1043">new</status>
 	</entry>
 	<entry id="vpt1">
-		<bdb mod="I"><w>שׁער</w></bdb>
+		<bdb mod="I"><w>שׁער</w> empty entry</bdb>
 		<xref twot="2437"/>
 		<status p="1044">new</status>
 	</entry>
 	<entry id="vpt3">
-		<bdb mod="III"><w>שׁער</w></bdb>
+		<bdb mod="III"><w>שׁער</w> empty entry</bdb>
 		<xref twot="2439"/>
 		<status p="1045">new</status>
 	</entry>
 	<entry id="vqe2">
-		<bdb mod="II"><w>שׁפה</w></bdb>
+		<bdb mod="II"><w>שׁפה</w> empty entry</bdb>
 		<xref twot="2441"/>
 		<status p="1046">new</status>
 	</entry>
 	<entry id="vqh">
-		<bdb><w>שׁפח</w></bdb>
+		<bdb><w>שׁפח</w> empty entry</bdb>
 		<xref twot="2442"/>
 		<status p="1046">new</status>
 	</entry>
 	<entry id="vqn">
-		<bdb><w>שׁפן</w></bdb>
+		<bdb><w>שׁפן</w> empty entry</bdb>
 		<xref twot="2446"/>
 		<status p="1050">new</status>
 	</entry>
 	<entry id="vqp">
-		<bdb><w>שׁפע</w></bdb>
+		<bdb><w>שׁפע</w> empty entry</bdb>
 		<xref twot="2447"/>
 		<status p="1051">new</status>
 	</entry>
 	<entry id="vqq">
-		<bdb><w>שׁפף</w></bdb>
+		<bdb><w>שׁפף</w> empty entry</bdb>
 		<xref twot="2448"/>
 		<status p="1051">new</status>
 	</entry>
 	<entry id="vsq2">
-		<bdb mod="II"><w>שׁקף</w></bdb>
+		<bdb mod="II"><w>שׁקף</w> empty entry</bdb>
 		<xref twot="2458"/>
 		<status p="1054">new</status>
 	</entry>
 	<entry id="vsr">
-		<bdb><w>שׁקץ</w></bdb>
+		<bdb><w>שׁקץ</w> empty entry</bdb>
 		<status p="1054">new</status>
 	</entry>
 	<entry id="vst">
-		<bdb><w>שׁקר</w></bdb>
+		<bdb><w>שׁקר</w> empty entry</bdb>
 		<status p="1055">new</status>
 	</entry>
 	<entry id="vtb">
-		<bdb><w>שׁרב</w></bdb>
+		<bdb><w>שׁרב</w> empty entry</bdb>
 		<xref twot="2462"/>
 		<status p="1055">new</status>
 	</entry>
 	<entry id="vte2">
-		<bdb mod="II"><w>שׁרה</w></bdb>
+		<bdb mod="II"><w>שׁרה</w> empty entry</bdb>
 		<xref twot="2464"/>
 		<status p="1056">new</status>
 	</entry>
 	<entry id="vte3">
-		<bdb mod="III"><w>שׁרה</w></bdb>
+		<bdb mod="III"><w>שׁרה</w> empty entry</bdb>
 		<xref twot="2465"/>
 		<status p="1056">new</status>
 	</entry>
 	<entry id="vte4">
-		<bdb mod="IV"><w>שׁרה</w></bdb>
+		<bdb mod="IV"><w>שׁרה</w> empty entry</bdb>
 		<xref twot="2466"/>
 		<status p="1056">new</status>
 	</entry>
 	<entry id="vtt">
-		<bdb><w>שׁרר</w></bdb>
+		<bdb><w>שׁרר</w> empty entry</bdb>
 		<status p="1057">new</status>
 	</entry>
 	<entry id="vtv1">
-		<bdb><w>שׁרשׁ</w></bdb>
+		<bdb><w>שׁרשׁ</w> empty entry</bdb>
 		<status p="1057">new</status>
 	</entry>
 	<entry id="vwe2">
-		<bdb mod="II"><w>שׁתה</w></bdb>
+		<bdb mod="II"><w>שׁתה</w> empty entry</bdb>
 		<xref twot="2478"/>
 		<status p="1059">new</status>
 	</entry>
 	<entry id="vwe3">
-		<bdb mod="III"><w>שׁתה</w></bdb>
+		<bdb mod="III"><w>שׁתה</w> empty entry</bdb>
 		<xref twot="2479"/>
 		<status p="1059">new</status>
 	</entry>
 	<entry id="w1">
-		<bdb><w>ת</w>, <w>תּ</w></bdb>
+		<bdb><w>ת</w>, <w>תּ</w> empty entry</bdb>
 		<status p="1060">new</status>
 	</entry>
 	<entry id="wam">
-		<bdb><w>תאם</w></bdb>
+		<bdb><w>תאם</w> empty entry</bdb>
 		<status p="1060">new</status>
 	</entry>
 	<entry id="wee">
-		<bdb><w>תהה</w></bdb>
+		<bdb><w>תהה</w> empty entry</bdb>
 		<xref twot="2494"/>
 		<status p="1062">new</status>
 	</entry>
 	<entry id="wem">
-		<bdb><w>תהם</w></bdb>
+		<bdb><w>תהם</w> empty entry</bdb>
 		<xref twot="2495"/>
 		<status p="1062">new</status>
 	</entry>
 	<entry id="wfe1">
-		<bdb mod="I"><w>תוה</w></bdb>
+		<bdb mod="I"><w>תוה</w> empty entry</bdb>
 		<status p="1063">new</status>
 	</entry>
 	<entry id="wfq">
-		<bdb><w>תוף</w></bdb>
+		<bdb><w>תוף</w> empty entry</bdb>
 		<xref twot="2499"/>
 		<status p="1064">new</status>
 	</entry>
 	<entry id="wkk">
-		<bdb><w>תכך</w></bdb>
+		<bdb><w>תכך</w> empty entry</bdb>
 		<status p="1067">new</status>
 	</entry>
 	<entry id="wll1">
-		<bdb mod="I"><w>תלל</w></bdb>
+		<bdb mod="I"><w>תלל</w> empty entry</bdb>
 		<xref twot="2513"/>
 		<status p="1068">new</status>
 	</entry>
 	<entry id="wlm">
-		<bdb><w>תלם</w></bdb>
+		<bdb><w>תלם</w> empty entry</bdb>
 		<xref twot="2515"/>
 		<status p="1068">new</status>
 	</entry>
 	<entry id="wlp">
-		<bdb><w>תלע</w></bdb>
+		<bdb><w>תלע</w> empty entry</bdb>
 		<xref twot="2516"/>
 		<status p="1068">new</status>
 	</entry>
 	<entry id="wmt">
-		<bdb><w>תמר</w></bdb>
+		<bdb><w>תמר</w> empty entry</bdb>
 		<xref twot="2523"/>
 		<status p="1071">new</status>
 	</entry>
 	<entry id="wnk">
-		<bdb><w>תנך</w></bdb>
+		<bdb><w>תנך</w> empty entry</bdb>
 		<xref twot="2527"/>
 		<status p="1072">added</status>
 	</entry>
 	<entry id="wnn1">
-		<bdb mod="I"><w>תנן</w></bdb>
+		<bdb mod="I"><w>תנן</w> empty entry</bdb>
 		<xref twot="2528"/>
 		<status p="1072">new</status>
 	</entry>
 	<entry id="wnn2">
-		<bdb mod="II"><w>תנן</w></bdb>
+		<bdb mod="II"><w>תנן</w> empty entry</bdb>
 		<xref twot="2529"/>
 		<status p="1072">new</status>
 	</entry>
 	<entry id="wpb">
-		<bdb><w>תעב</w></bdb>
+		<bdb><w>תעב</w> empty entry</bdb>
 		<status p="1072">new</status>
 	</entry>
 	<entry id="wql1">
-		<bdb mod="I"><w>תפל</w></bdb>
+		<bdb mod="I"><w>תפל</w> empty entry</bdb>
 		<xref twot="2534"/>
 		<status p="1074">new</status>
 	</entry>
 	<entry id="wql2">
-		<bdb mod="II"><w>תפל</w></bdb>
+		<bdb mod="II"><w>תפל</w> empty entry</bdb>
 		<xref twot="2535"/>
 		<status p="1074">new</status>
 	</entry>
 	<entry id="wqq">
-		<bdb><w>תפף</w></bdb>
+		<bdb><w>תפף</w> empty entry</bdb>
 		<status p="1074">new</status>
 	</entry>
 	<entry id="a2">
-		<bdb><w>א</w></bdb>
+		<bdb><w>א</w> empty entry</bdb>
 		<status p="1078">new</status>
 	</entry>
 	<entry id="abe3">
-		<bdb><w>אבה</w></bdb>
+		<bdb><w>אבה</w> empty entry</bdb>
 		<status p="1078">new</status>
 	</entry>
 	<entry id="afe3">
-		<bdb><w>אוה</w></bdb>
+		<bdb><w>אוה</w> empty entry</bdb>
 		<status p="1079">new</status>
 	</entry>
 	<entry id="afl3">
-		<bdb><w>אול</w></bdb>
+		<bdb><w>אול</w> empty entry</bdb>
 		<status p="1079">new</status>
 	</entry>
 	<entry id="agn3">
-		<bdb><w>אזן</w></bdb>
+		<bdb><w>אזן</w> empty entry</bdb>
 		<status p="1079">new</status>
 	</entry>
 	<entry id="ahd2">
-		<bdb><w>אחד</w></bdb>
+		<bdb><w>אחד</w> empty entry</bdb>
 		<status p="1079">new</status>
 	</entry>
 	<entry id="ahe2">
-		<bdb><w>אחה</w></bdb>
+		<bdb><w>אחה</w> empty entry</bdb>
 		<status p="1079">new</status>
 	</entry>
 	<entry id="anv4">
-		<bdb mod="I"><w>אנשׁ</w></bdb>
+		<bdb mod="I"><w>אנשׁ</w> empty entry</bdb>
 		<status p="1081">new</status>
 	</entry>
 	<entry id="anv5">
-		<bdb mod="II"><w>אנשׁ</w></bdb>
+		<bdb mod="II"><w>אנשׁ</w> empty entry</bdb>
 		<status p="1081">new</status>
 	</entry>
 	<entry id="aot2">
-		<bdb><w>אסר</w></bdb>
+		<bdb><w>אסר</w> empty entry</bdb>
 		<xref twot="2595"/>
 		<status p="1082">new</status>
 	</entry>
 	<entry id="ate2">
-		<bdb><w>ארה</w></bdb>
+		<bdb><w>ארה</w> empty entry</bdb>
 		<status p="1082">new</status>
 	</entry>
 	<entry id="atk2">
-		<bdb cite="full" mod="I"><w>ארך</w></bdb>
+		<bdb cite="full" mod="I"><w>ארך</w> empty entry</bdb>
 		<status p="1082">new</status>
 	</entry>
 	<entry id="atk3">
-		<bdb mod="II"><w>ארך</w></bdb>
+		<bdb mod="II"><w>ארך</w> empty entry</bdb>
 		<status p="1082">new</status>
 	</entry>
 	<entry id="b3">
-		<bdb><w>ב</w></bdb>
+		<bdb><w>ב</w> empty entry</bdb>
 		<status p="1083">new</status>
 	</entry>
 	<entry id="b4">
-		<bdb><w>בְּ</w></bdb>
+		<bdb><w>בְּ</w> empty entry</bdb>
 		<status p="1083">new</status>
 	</entry>
 	<entry id="bfl">
-		<bdb><w>בול</w></bdb>
+		<bdb><w>בול</w> empty entry</bdb>
 		<status p="1084">new</status>
 	</entry>
 	<entry id="btt2">
-		<bdb><w>ברר</w></bdb>
+		<bdb><w>ברר</w> empty entry</bdb>
 		<status p="1085">new</status>
 	</entry>
 	<entry id="c2">
-		<bdb><w>ג</w></bdb>
+		<bdb><w>ג</w> empty entry</bdb>
 		<status p="1085">new</status>
 	</entry>
 	<entry id="cae2">
-		<bdb><w>גאה</w></bdb>
+		<bdb><w>גאה</w> empty entry</bdb>
 		<status p="1085">new</status>
 	</entry>
 	<entry id="cbt2">
-		<bdb><w>גבר</w></bdb>
+		<bdb><w>גבר</w> empty entry</bdb>
 		<xref twot="2647"/>
 		<status p="1085">new</status>
 	</entry>
 	<entry id="cjn">
-		<bdb cite="full" form="false"><w>גין</w></bdb>
+		<bdb cite="full" form="false"><w>גין</w> empty entry</bdb>
 		<status p="1086">new</status>
 	</entry>
 	<entry id="cll3">
-		<bdb><w>גלל</w></bdb>
+		<bdb><w>גלל</w> empty entry</bdb>
 		<xref twot="2657"/>
 		<status p="1086">new</status>
 	</entry>
 	<entry id="d2">
-		<bdb><w>ד</w></bdb>
+		<bdb><w>ד</w> empty entry</bdb>
 		<status p="1086">new</status>
 	</entry>
 	<entry id="dkt">
-		<bdb><w>דכר</w></bdb>
+		<bdb><w>דכר</w> empty entry</bdb>
 		<xref twot="2677"/>
 		<status p="1088">added</status>
 	</entry>
 	<entry id="dtp2">
-		<bdb><w>דרע</w></bdb>
+		<bdb><w>דרע</w> empty entry</bdb>
 		<xref twot="2682"/>
 		<status p="1089">new</status>
 	</entry>
 	<entry id="e4">
-		<bdb><w>ה</w></bdb>
+		<bdb><w>ה</w> empty entry</bdb>
 		<status p="1089">new</status>
 	</entry>
 	<entry id="e5">
-		<bdb><w>הֲ</w></bdb>
+		<bdb><w>הֲ</w> empty entry</bdb>
 		<status p="1089">new</status>
 	</entry>
 	<entry id="etet">
-		<bdb><w>הרהר</w></bdb>
+		<bdb><w>הרהר</w> empty entry</bdb>
 		<status p="1090">new</status>
 	</entry>
 	<entry id="f3">
-		<bdb><w>ו</w></bdb>
+		<bdb><w>ו</w> empty entry</bdb>
 		<status p="1090">new</status>
 	</entry>
 	<entry id="f4">
-		<bdb><w>וְ</w>, <w>וּ</w></bdb>
+		<bdb><w>וְ</w>, <w>וּ</w> empty entry</bdb>
 		<status p="1090">new</status>
 	</entry>
 	<entry id="g2">
-		<bdb><w>ז</w></bdb>
+		<bdb><w>ז</w> empty entry</bdb>
 		<status p="1091">new</status>
 	</entry>
 	<entry id="gmt">
-		<bdb><w>זמר</w></bdb>
+		<bdb><w>זמר</w> empty entry</bdb>
 		<xref twot="2710"/>
 		<status p="1091">added</status>
 	</entry>
 	<entry id="gpt2">
-		<bdb><w>זער</w></bdb>
+		<bdb><w>זער</w> empty entry</bdb>
 		<status p="1091">new</status>
 	</entry>
 	<entry id="h2">
-		<bdb><w>ח</w></bdb>
+		<bdb><w>ח</w> empty entry</bdb>
 		<status p="1091">new</status>
 	</entry>
 	<entry id="hbt">
-		<bdb><w>חבר</w></bdb>
+		<bdb><w>חבר</w> empty entry</bdb>
 		<xref twot="2717"/>
 		<status p="1092">added</status>
 	</entry>
 	<entry id="hfd2">
-		<bdb><w>חוד</w></bdb>
+		<bdb><w>חוד</w> empty entry</bdb>
 		<status p="1092">new</status>
 	</entry>
 	<entry id="hia">
-		<bdb><w>חטא</w></bdb>
+		<bdb><w>חטא</w> empty entry</bdb>
 		<xref twot="2726"/>
 		<status p="1092">added</status>
 	</entry>
 	<entry id="hkm">
-		<bdb><w>חכם</w></bdb>
+		<bdb><w>חכם</w> empty entry</bdb>
 		<xref twot="2729"/>
 		<status p="1093">added</status>
 	</entry>
 	<entry id="hls">
-		<bdb><w>חלק</w></bdb>
+		<bdb><w>חלק</w> empty entry</bdb>
 		<xref twot="2732"/>
 		<status p="1093">added</status>
 	</entry>
 	<entry id="hvk2">
-		<bdb><w>חשׁך</w></bdb>
+		<bdb><w>חשׁך</w> empty entry</bdb>
 		<status p="1094">new</status>
 	</entry>
 	<entry id="i2">
-		<bdb><w>ט</w></bdb>
+		<bdb><w>ט</w> empty entry</bdb>
 		<status p="1094">new</status>
 	</entry>
 	<entry id="j2">
-		<bdb><w>י</w></bdb>
+		<bdb><w>י</w> empty entry</bdb>
 		<status p="1094">new</status>
 	</entry>
 	<entry id="jhm2">
-		<bdb><w>יחם</w></bdb>
+		<bdb><w>יחם</w> empty entry</bdb>
 		<status p="1095">new</status>
 	</entry>
 	<entry id="jst">
-		<bdb><w>יקר</w></bdb>
+		<bdb><w>יקר</w> empty entry</bdb>
 		<xref twot="2775"/>
 		<status p="1096">added</status>
 	</entry>
 	<entry id="jvn2">
-		<bdb><w>ישׁן</w></bdb>
+		<bdb><w>ישׁן</w> empty entry</bdb>
 		<xref twot="2778"/>
 		<status p="1096">new</status>
 	</entry>
 	<entry id="k4">
-		<bdb><w>כ</w></bdb>
+		<bdb><w>כ</w> empty entry</bdb>
 		<status p="1096">new</status>
 	</entry>
 	<entry id="k5">
-		<bdb><w>כְּ</w></bdb>
+		<bdb><w>כְּ</w> empty entry</bdb>
 		<status p="1096">new</status>
 	</entry>
 	<entry id="koa">
-		<bdb><w>כסא</w></bdb>
+		<bdb><w>כסא</w> empty entry</bdb>
 		<status p="1097">new</status>
 	</entry>
 	<entry id="ktt2">
-		<bdb><w>כרר</w></bdb>
+		<bdb><w>כרר</w> empty entry</bdb>
 		<status p="1098">new</status>
 	</entry>
 	<entry id="l2">
-		<bdb><w>ל</w></bdb>
+		<bdb><w>ל</w> empty entry</bdb>
 		<status p="1098">new</status>
 	</entry>
 	<entry id="l3">
-		<bdb><w>ל</w></bdb>
+		<bdb><w>ל</w> empty entry</bdb>
 		<status p="1098">new</status>
 	</entry>
 	<entry id="lak2">
-		<bdb><w>לאך</w></bdb>
+		<bdb><w>לאך</w> empty entry</bdb>
 		<status p="1098">new</status>
 	</entry>
 	<entry id="lbb2">
-		<bdb><w>לבב</w></bdb>
+		<bdb><w>לבב</w> empty entry</bdb>
 		<xref twot="2809"/>
 		<status p="1098">added</status>
 	</entry>
 	<entry id="m3">
-		<bdb><w>מ</w></bdb>
+		<bdb><w>מ</w> empty entry</bdb>
 		<status p="1099">new</status>
 	</entry>
 	<entry id="mlk3">
-		<bdb mod="I"><w>מלך</w></bdb>
+		<bdb mod="I"><w>מלך</w> empty entry</bdb>
 		<xref twot="2829"/>
 		<status p="1100">new</status>
 	</entry>
 	<entry id="mlk4">
-		<bdb mod="II"><w>מלך</w></bdb>
+		<bdb mod="II"><w>מלך</w> empty entry</bdb>
 		<xref twot="2830"/>
 		<status p="1100">new</status>
 	</entry>
 	<entry id="mtd">
-		<bdb><w>מרד</w></bdb>
+		<bdb><w>מרד</w> empty entry</bdb>
 		<xref twot="2840"/>
 		<status p="1101">added</status>
 	</entry>
 	<entry id="n2">
-		<bdb><w>נ</w></bdb>
+		<bdb><w>נ</w> empty entry</bdb>
 		<status p="1101">new</status>
 	</entry>
 	<entry id="net">
-		<bdb><w>נהר</w></bdb>
+		<bdb><w>נהר</w> empty entry</bdb>
 		<xref twot="2853"/>
 		<status p="1102">added</status>
 	</entry>
 	<entry id="o2">
-		<bdb><w>ס</w></bdb>
+		<bdb><w>ס</w> empty entry</bdb>
 		<status p="1103">new</status>
 	</entry>
 	<entry id="oqt">
-		<bdb><w>ספר</w></bdb>
+		<bdb><w>ספר</w> empty entry</bdb>
 		<xref twot="2891"/>
 		<status p="1104">added</status>
 	</entry>
 	<entry id="p2">
-		<bdb><w>ע</w></bdb>
+		<bdb><w>ע</w> empty entry</bdb>
 		<status p="1104">new</status>
 	</entry>
 	<entry id="ple2">
-		<bdb><w>עלה</w></bdb>
+		<bdb><w>עלה</w> empty entry</bdb>
 		<xref twot="2909"/>
 		<status p="1105">new</status>
 	</entry>
 	<entry id="pne6">
-		<bdb mod="II"><w>ענה</w></bdb>
+		<bdb mod="II"><w>ענה</w> empty entry</bdb>
 		<xref twot="2919"/>
 		<status p="1107">new</status>
 	</entry>
 	<entry id="png2">
-		<bdb><w>ענז</w></bdb>
+		<bdb><w>ענז</w> empty entry</bdb>
 		<xref twot="2920"/>
 		<status p="1107">new</status>
 	</entry>
 	<entry id="pqa">
-		<bdb><w>עפא</w></bdb>
+		<bdb><w>עפא</w> empty entry</bdb>
 		<status p="1107">new</status>
 	</entry>
 	<entry id="ptt3">
-		<bdb><w>ערר</w></bdb>
+		<bdb><w>ערר</w> empty entry</bdb>
 		<xref twot="2930"/>
 		<status p="1108">new</status>
 	</entry>
 	<entry id="q2">
-		<bdb><w>פ</w></bdb>
+		<bdb><w>פ</w> empty entry</bdb>
 		<status p="1108">new</status>
 	</entry>
 	<entry id="qoo3">
-		<bdb><w>פסס</w></bdb>
+		<bdb><w>פסס</w> empty entry</bdb>
 		<status p="1108">new</status>
 	</entry>
 	<entry id="qwa">
-		<bdb><w>פתא</w></bdb>
+		<bdb><w>פתא</w> empty entry</bdb>
 		<status p="1109">new</status>
 	</entry>
 	<entry id="r2">
-		<bdb><w>צ</w></bdb>
+		<bdb><w>צ</w> empty entry</bdb>
 		<status p="1109">new</status>
 	</entry>
 	<entry id="rbp5">
-		<bdb mod="II"><w>צבע</w></bdb>
+		<bdb mod="II"><w>צבע</w> empty entry</bdb>
 		<status p="1109">new</status>
 	</entry>
 	<entry id="s2">
-		<bdb><w>ק</w></bdb>
+		<bdb><w>ק</w> empty entry</bdb>
 		<status p="1110">new</status>
 	</entry>
 	<entry id="sbl2">
-		<bdb><w>קבל</w></bdb>
+		<bdb><w>קבל</w> empty entry</bdb>
 		<xref twot="2966"/>
 		<status p="1110">new</status>
 	</entry>
 	<entry id="sdv2">
-		<bdb><w>קדשׁ</w></bdb>
+		<bdb><w>קדשׁ</w> empty entry</bdb>
 		<status p="1110">new</status>
 	</entry>
 	<entry id="sfl2">
-		<bdb><w>קול</w></bdb>
+		<bdb><w>קול</w> empty entry</bdb>
 		<status p="1110">new</status>
 	</entry>
 	<entry id="wit">
-		<bdb><w>תטר</w></bdb>
+		<bdb><w>תטר</w> empty entry</bdb>
 		<status p="1111">new</status>
 	</entry>
 	<entry id="sra">
-		<bdb><w>קצא</w></bdb>
+		<bdb><w>קצא</w> empty entry</bdb>
 		<status p="1111">new</status>
 	</entry>
 	<entry id="t2">
-		<bdb><w>ר</w></bdb>
+		<bdb><w>ר</w> empty entry</bdb>
 		<status p="1112">new</status>
 	</entry>
 	<entry id="tae2">
-		<bdb><w>ראה</w></bdb>
+		<bdb><w>ראה</w> empty entry</bdb>
 		<status p="1112">new</status>
 	</entry>
 	<entry id="tbb3">
-		<bdb><w>רבב</w></bdb>
+		<bdb><w>רבב</w> empty entry</bdb>
 		<xref twot="2984"/>
 		<status p="1112">new</status>
 	</entry>
 	<entry id="tbp3">
-		<bdb><w>רגם</w></bdb>
+		<bdb><w>רגם</w> empty entry</bdb>
 		<xref twot="2986"/>
 		<status p="1112">new</status>
 	</entry>
 	<entry id="tcm">
-		<bdb><w>רבע</w></bdb>
+		<bdb><w>רבע</w> empty entry</bdb>
 		<status p="1076">added</status>
 	</entry>
 	<entry id="tfh3">
-		<bdb><w>רוח</w></bdb>
+		<bdb><w>רוח</w> empty entry</bdb>
 		<xref twot="2991"/>
 		<status p="1112">new</status>
 	</entry>
 	<entry id="ths2">
-		<bdb><w>רחק</w></bdb>
+		<bdb><w>רחק</w> empty entry</bdb>
 		<status p="1113">new</status>
 	</entry>
 	<entry id="tpe4">
-		<bdb><w>רעה</w></bdb>
+		<bdb><w>רעה</w> empty entry</bdb>
 		<xref twot="2998"/>
 		<status p="1113">new</status>
 	</entry>
 	<entry id="u2">
-		<bdb><w>שׂ</w></bdb>
+		<bdb><w>שׂ</w> empty entry</bdb>
 		<status p="1113">new</status>
 	</entry>
 	<entry id="v3">
-		<bdb><w>שׁ</w></bdb>
+		<bdb><w>שׁ</w> empty entry</bdb>
 		<status p="1114">new</status>
 	</entry>
 	<entry id="vbb3">
-		<bdb><w>שׁבב</w></bdb>
+		<bdb><w>שׁבב</w> empty entry</bdb>
 		<status p="1114">new</status>
 	</entry>
 	<entry id="vdw">
-		<bdb><w>שׁדת</w></bdb>
+		<bdb><w>שׁדת</w> empty entry</bdb>
 		<xref twot="3022"/>
 		<status p="1114">new</status>
 	</entry>
 	<entry id="vfs4">
-		<bdb><w>שׁוק</w></bdb>
+		<bdb><w>שׁוק</w> empty entry</bdb>
 		<status p="1114">new</status>
 	</entry>
 	<entry id="vkb2">
-		<bdb><w>שׁכב</w></bdb>
+		<bdb><w>שׁכב</w> empty entry</bdb>
 		<xref twot="3029"/>
 		<status p="1115">new</status>
 	</entry>
 	<entry id="vle4">
-		<bdb><w>שׁלה</w>, <w>שׁלו</w></bdb>
+		<bdb><w>שׁלה</w>, <w>שׁלו</w> empty entry</bdb>
 		<xref twot="3032"/>
 		<status p="1115">new</status>
 	</entry>
 	<entry id="vmv2">
-		<bdb mod="I"><w>שׁמשׁ</w></bdb>
+		<bdb mod="I"><w>שׁמשׁ</w> empty entry</bdb>
 		<status p="1116">new</status>
 	</entry>
 	<entry id="vnn2">
-		<bdb><w>שׁנן</w></bdb>
+		<bdb><w>שׁנן</w> empty entry</bdb>
 		<status p="1116">new</status>
 	</entry>
 	<entry id="vts2">
-		<bdb><w>שׁרק</w></bdb>
+		<bdb><w>שׁרק</w> empty entry</bdb>
 		<xref twot="3049"/>
 		<status p="1117">new</status>
 	</entry>
 	<entry id="vtv2">
-		<bdb><w>שׁרשׁ</w></bdb>
+		<bdb><w>שׁרשׁ</w> empty entry</bdb>
 		<xref twot="3050"/>
 		<status p="1117">added</status>
 	</entry>
 	<entry id="w2">
-		<bdb><w>ת</w></bdb>
+		<bdb><w>ת</w> empty entry</bdb>
 		<status p="1117">new</status>
 	</entry>
 	<entry id="wna">
-		<bdb><w>תנא</w></bdb>
+		<bdb><w>תנא</w> empty entry</bdb>
 		<xref twot="3061"/>
 		<status p="1118">new</status>
 	</entry>
