@@ -17308,20 +17308,20 @@
 		</section>
 		<section id="k.bf">
 			<entry id="k.bf.aa" type="root">
-				<w strong="3588">כִּי</w>
+				<w strong="3588" aug="a">כִּי</w>
 			</entry>
 			<page p="472"/>
 			<page p="473"/>
 			<page p="474"/>
 			<entry id="k.bf.ab">
 				<w>כִּי אם־</w>
-				<w src="Strong" strong="3588">כִּי</w>
+				<w src="Strong" strong="3588" aug="b">כִּי</w>
 				<w src="Strong" strong="518">אִם</w>
 			</entry>
 			<page p="475"/>
 			<entry id="k.bf.ac" cite="full">
 				<w>כִּי עַל כֵּן</w>
-				<w src="Strong" strong="3588">כִּי</w>
+				<w src="Strong" strong="3588" aug="c">כִּי</w>
 				<w src="Strong" strong="5921">עַל</w>
 				<w src="Strong" strong="3651">כֵּן</w>
 			</entry>
@@ -17579,12 +17579,12 @@
 				<w strong="3638">כִּלְמָד</w>
 			</entry>
 			<entry id="k.bo.ae" cite="full">
-				<w strong="3641">כַּלְנֵ֑ה</w>
+				<w strong="3641" aug="a">כַּלְנֵ֑ה</w>
 				<w src="Strong" strong="3641">כַּלְנֶה</w>
 				<w src="Strong" strong="3641">כַּלְנוֹ</w>
 			</entry>
 			<entry id="k.bo.af" cite="full">
-				<w strong="3641">כַּלְנֶה</w>
+				<w strong="3641" aug="b">כַּלְנֶה</w>
 				<w strong="3641">כַּלְנוֹ</w>
 				<w src="Strong" strong="3641">כַּלְנֵה</w>
 			</entry>
@@ -17673,21 +17673,21 @@
 				<w>כמר</w>
 			</entry>
 			<entry id="k.bv.ab" cite="full">
-				<w strong="4364">מִכְמָר</w>
+				<w strong="4364" aug="a">מִכְמָר</w>
 				<w src="Strong" strong="4364">מַכְמָר</w>
 				<w src="Strong" strong="4364">מִכְמֹר</w>
 			</entry>
 			<entry id="k.bv.ac" cite="full" form="false">
-				<w strong="4364">מַכְמֹר</w>
+				<w strong="4364" aug="b">מַכְמֹר</w>
 				<w src="Strong" strong="4364">מַכְמָר</w>
 				<w src="Strong" strong="4364">מִכְמֹר</w>
 			</entry>
 			<entry id="k.bv.ad" cite="full" form="false">
-				<w strong="4365">מִכְמֶ֫רֶת</w>
+				<w strong="4365" aug="a">מִכְמֶ֫רֶת</w>
 				<w src="Strong" strong="4365">מִכְמֹרֶת</w>
 			</entry>
 			<entry id="k.bv.ae" cite="full">
-				<w strong="4365">מִכְמֹ֫רֶת</w>
+				<w strong="4365" aug="b">מִכְמֹ֫רֶת</w>
 				<w src="Strong" strong="4365">מִכְמֶרֶת</w>
 			</entry>
 			<entry id="k.bv.af" cite="full" form="false">
@@ -17705,7 +17705,7 @@
 		</section>
 		<section id="k.bx">
 			<entry id="k.bx.aa" type="root" mod="I">
-				<w strong="3651">כֵּן</w>
+				<w strong="3651" aug="c">כֵּן</w>
 			</entry>
 			<page p="486"/>
 			<page p="487"/>
@@ -17803,18 +17803,18 @@
 				<w strong="3666">כִּנְעָה</w>
 			</entry>
 			<entry id="k.cc.ac" mod="I">
-				<w strong="3667">כְּנַ֫עַן</w>
+				<w strong="3667" aug="a">כְּנַ֫עַן</w>
 			</entry>
 			<entry id="k.cc.ad" cite="full" mod="II">
-				<w strong="3667">כְּנַ֫עַן</w>
+				<w strong="3667" aug="b">כְּנַ֫עַן</w>
 			</entry>
 			<page p="489"/>
 			<entry id="k.cc.ae" cite="full" mod="I">
-				<w strong="3669">כְּנַעֲנִי</w>
+				<w strong="3669" aug="a">כְּנַעֲנִי</w>
 				<w src="Strong" strong="3669">כְּנַעַנִי</w>
 			</entry>
 			<entry id="k.cc.af" cite="full" mod="II">
-				<w strong="3669">כְּנַעֲנִי</w>
+				<w strong="3669" aug="b">כְּנַעֲנִי</w>
 				<w src="Strong" strong="3669">כְּנַעַנִי</w>
 			</entry>
 			<entry id="k.cc.ag" cite="full">
@@ -17859,10 +17859,6 @@
 			<entry id="k.ce.ag">
 				<w strong="3678">כִּסֵּא</w>
 				<w strong="3678">כִּסֵּה</w>
-			</entry>
-			<entry id="k.ce.ah">
-				<w src="Strong" strong="3679">כַּסְדַּי</w>
-				<v ref="k.de.ah">כַּשְׂדִּים</v>
 			</entry>
 			<page p="491"/>
 		</section>
