@@ -18001,11 +18001,11 @@
 			</entry>
 			<page p="495"/>
 			<entry id="k.cm.ab" cite="full">
-				<w strong="3708">כַּ֫עַס</w>
+				<w strong="3708" aug="a">כַּ֫עַס</w>
 				<w src="Strong" strong="3708">כַּ֫עַשׂ</w>
 			</entry>
 			<entry id="k.cm.ac" cite="full">
-				<w strong="3708">כַּ֫עַשׂ</w>
+				<w strong="3708" aug="b">כַּ֫עַשׂ</w>
 				<w src="Strong" strong="3708">כַּעַס</w>
 			</entry>
 			<entry id="k.cm.ad">
@@ -18070,10 +18070,10 @@
 				<w>כפר</w>
 			</entry>
 			<entry id="k.cs.ab" cite="full" mod="I">
-				<w strong="3724">כֹּפֶר</w>
+				<w strong="3724" aug="a">כֹּפֶר</w>
 			</entry>
 			<entry id="k.cs.ac" cite="full">
-				<w strong="3722">כִּפֶּר</w>
+				<w strong="3722" aug="a">כִּפֶּר</w>
 				<w src="Strong" strong="3722">כָּפַר</w>
 			</entry>
 			<page p="498"/>
@@ -18090,10 +18090,10 @@
 				<w>כפר</w>
 			</entry>
 			<entry id="k.ct.ab" cite="full" mod="II">
-				<w strong="3724">כֹּ֫פֶר</w>
+				<w strong="3724" aug="b">כֹּ֫פֶר</w>
 			</entry>
 			<entry id="k.ct.ac" cite="full" form="false" mod="II">
-				<w strong="3722">כָּפַר</w>
+				<w strong="3722" aug="b">כָּפַר</w>
 			</entry>
 		</section>
 		<section id="k.cu">
@@ -18101,18 +18101,18 @@
 				<w>כפר</w>
 			</entry>
 			<entry id="k.cu.ab" cite="full">
-				<w strong="3715">כְּפִיר</w>
+				<w strong="3715" aug="a">כְּפִיר</w>
 			</entry>
 			<page p="499"/>
 			<entry id="k.cu.ac" cite="full" mod="III">
-				<w strong="3724">כֹּ֫פֶר</w>
+				<w strong="3724" aug="c">כֹּ֫פֶר</w>
 			</entry>
 			<entry id="k.cu.ad" cite="full" form="false">
 				<w strong="3723">כָּפָר</w>
 				<w src="Strong" strong="3726">כְּפַר הָעַמּוֹנִי</w>
 			</entry>
 			<entry id="k.cu.ae" cite="full" mod="IV">
-				<w strong="3724">כֹּפֶר</w>
+				<w strong="3724" aug="d">כֹּפֶר</w>
 			</entry>
 			<entry id="k.cu.af">
 				<w>כְּפַר הָעַמּוֹנִי</w>
@@ -18122,7 +18122,7 @@
 				<w strong="3716">כְּפִירָה</w>
 			</entry>
 			<entry id="k.cu.ah" cite="full">
-				<w strong="3715">כְּפִירִים</w>
+				<w strong="3715" aug="b">כְּפִירִים</w>
 				<w src="Strong" strong="3715">כְּפִיר</w>
 			</entry>
 		</section>
@@ -18131,10 +18131,10 @@
 				<w>כפר</w>
 			</entry>
 			<entry id="k.cv.ab" cite="full" mod="I">
-				<w strong="3713">כְּפוֹר</w>
+				<w strong="3713" aug="a">כְּפוֹר</w>
 			</entry>
 			<entry id="k.cv.ac" cite="full" mod="II">
-				<w strong="3713">כְּפוֹר</w>
+				<w strong="3713" aug="b">כְּפוֹר</w>
 			</entry>
 		</section>
 		<section id="k.cw">
@@ -18157,10 +18157,10 @@
 				<v ref="k.ax.aa">כור</v>
 			</entry>
 			<entry id="k.cw.af" cite="full" mod="II">
-				<w strong="3733">כַּר</w>
+				<w strong="3733" aug="b">כַּר</w>
 			</entry>
 			<entry id="k.cw.ag" cite="full">
-				<w strong="3734">כֹּר</w>
+				<w strong="3734" aug="a">כֹּר</w>
 			</entry>
 			<entry id="k.cw.ah" cite="full" form="false">
 				<w strong="3736">כרבל</w>
@@ -18170,7 +18170,7 @@
 		</section>
 		<section id="k.cx">
 			<entry id="k.cx.aa" type="root" cite="full" mod="I">
-				<w strong="3738">כָּרָה</w>
+				<w strong="3738" aug="b">כָּרָה</w>
 			</entry>
 			<entry id="k.cx.ab" cite="full" form="false">
 				<w strong="3741">כָּרָה</w>
@@ -18181,10 +18181,10 @@
 		</section>
 		<section id="k.cy">
 			<entry id="k.cy.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="3739">כָּרָה</w>
+				<w strong="3739" aug="a">כָּרָה</w>
 			</entry>
-			<entry id="k.cy.ab" cite="full" form="false" mod="III">
-				<w strong="3739">כָּרָה</w>
+			<entry id="k.cy.ab" type="root" cite="full" form="false" mod="III">
+				<w strong="3739" aug="b">כָּרָה</w>
 			</entry>
 			<entry id="k.cy.ac" cite="full">
 				<w strong="3740">כֵּרָה</w>
