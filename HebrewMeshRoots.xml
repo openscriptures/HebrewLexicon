@@ -177,8 +177,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="31">base</status>
 	</entry>
 	<entry id="aii">
-	  <bdb><w>אטט</w> Arab. <foreign xml:lang="ara">Arabic</foreign> <def>to emit a moaning</def> or <def>creaking
-sound</def> (cf. AW Lex. 36 Ges Jes. 1. 604 f Lane 1.66).</bdb>
+	  <bdb><w>אטט</w> Arab. <foreign xml:lang="ara">Arabic</foreign> <def>to emit a moaning</def> or <def>creaking sound</def> (cf. AW Lex. 36 Ges Jes. 1. 604 f Lane 1.66).</bdb>
 		<xref twot="72"/>
 		<status p="31">base</status>
 	</entry>
@@ -203,43 +202,44 @@ sound</def> (cf. AW Lex. 36 Ges Jes. 1. 604 f Lane 1.66).</bdb>
 		<status p="38">base</status>
 	</entry>
 	<entry id="ale">
-		<bdb mod="I"><w>אלה</w> empty entry</bdb>
+	  <bdb mod="I"><w>אלה</w> (assumed as √ of <w>אֵל</w>, (<w>אֱלוֹהַּ</w>) <w>אֱלֹהִים</w> <def>god, God</def>, but question intricate, &amp; conclusions dub. It is uncertain whether <w>אֵל</w> &amp; <w>אֱלֹהִים</w> are from the same √. Following are the chief theories: 1. a. Thes makes <w>אֵל</w> &amp; <w>אֱלֹהִים</w> distinct, and both really primitive, but associates <w>אֵל</w> in treatment with <w>אֵל</w> <def>strong</def>, Pt. of √<w>אול</w>; <def>strong</def>, acc. to Thes, being derived from mng. <def>be in front of</def>; (different order in Lex. Man., RobGes); b.  <w>אֵל</w> &amp; <w>אֱלֹהִים</w> distinct; former fr. <w>אול</w> <def>strong</def>; latter pl. of <w>אֱלוֹהַּ</w> from √[<w>אלהּ</w>] = <foreign xml:lang="ara">Arabic</foreign>
+	  <def>go to and fro</def> in perplexity or fear, hence <w>אֱלהַּ</w> <def>fear &amp; object of fear</def>, reverence, <def>revered one</def>; <foreign xml:lang="ara">Arabic</foreign> = <w>פחד אל</w> <def>trepide confugere ad</def> <ref r="Hos.3.5">Ho 3:5</ref>; <w>אלהים</w> = <w>פחד</w> <ref r="Gen.31.42">Gn 31:42</ref> = <w>מוֹרָא</w> <ref r="Isa.8.13">Is 8:13</ref> DeGn 1887, 48 (cf. <foreign xml:lang="grc">σέβασμα</foreign>, postB.Heb. <w>יִרְאָה</w> NHWB; Aram. <w>דַּחֲלָא</w> CWB); so De following Fl in De Gn ed. 4. 51, cf. MV. 2. <w>אֵל</w> &amp; <w>אֱלֹהִים</w> possibly connected; <w>אֵל</w> = <def>leader, lord</def>, fr. √<w>אול</w> <def>be in front</def>; so Nö M8 Ak 1880, 760f; SB Ak 1882, 1175f. 3. a. <w>אֵל</w> &amp; <w>אֱלֹהִים</w> connected, &amp; both fr. a √<w>אלה</w> (= <w>אלהּ</w>) to which is assigned mng. <def>strong</def>; so Ew §146d. 178b (v. also Jahrbücher d. bibl. Wiss., x. 11, Bibl. Theol. ii. 330). b. <w>אֵל</w> fr. √<w>אלה</w> <def>strong</def> (not <w>אלהּ</w>), &amp; <w>אֱלֹהִים</w> expanded from <w>אֵל</w>, cf. pl. <w>אֲמָהוֹת</w>; fr.  <w>אמה</w> etc.; so Di on <ref r="Gen.1.1">Gn 1:1</w>; he supports mng. <def>strong</def> by ref. to phrase <w>יֵשׁ לְאֵל יָדִי</w> <ref r="Gen.31.29">Gn 31:29</ref> al.; c. similarly, <w>אֵל</w>, being very early &amp; common Shemitic word, formed pl. <w>אלהים</w>, fr. which sing. <w>אֱלוֹהַּ</w> was afterwards inferred, Nes Theol. Stud. a. Württ. 1882. 243 (criticized by Nö SBA 1.c.). 4. <w>אֵל</w> (<w>אֱלוֹהַּ</w>, <w>אֱלֹהִים</w> disregarded) fr. √<w>אלה</w> <def>stretch out to, reach after</def> (cf. prep. <w>אֶל</w>, <w>אֱלִי</w>, also <w>אָלָה</w> <def>swear</def>), God as <def>the one whom men strive to reach</def>, 'das Ziel aller Menschensehnsucht und alles Menschenstrebens,' Lag Or. ii. 3; GN 1882. 173—M 96.—Cf. Spurrell Heb. Text of Gn. App. ii, where all these views are stated somewhat more fully, &amp; briefly criticized; on the use of <w>אֵל</w> &amp; <w>אֱלהַּ</w> in Shemitic languages vid., exhaustively, Nö MB Ak. SB Ak. i.c.).</bdb>
 		<xref twot="93"/>
-		<status p="42">added</status>
+		<status p="41">base</status>
 	</entry>
 	<entry id="all1">
-		<bdb form="false" mod="I"><w>אלל</w> empty entry</bdb>
+	  <bdb form="false" mod="I"><w>אלל</w> (<def>to be weak</def> or <def>insufficient</def>, assumed in Thes as root of <w>אֱלִיל</w> (as also of <w>אַל</w>): cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>to fail</def> in a thing).</bdb>
 		<xref twot="99"/>
-		<status p="47">new</status>
+		<status p="47">base</status>
 	</entry>
 	<entry id="all2">
-		<bdb mod="II"><w>אלל</w> empty entry</bdb>
+		<bdb mod="II"><w>אלל</w> (√ assumed for following words).</bdb>
 		<xref twot="100"/>
-		<status p="47">new</status>
+		<status p="47">done</status>
 	</entry>
 	<entry id="ame">
-		<bdb><w>אמה</w> empty entry</bdb>
-		<status p="51">new</status>
+		<bdb><w>אמה</w> (assumed as √ of foIl., which however prob. bilit. cf. Sta §188; vid. also Lag BN 82).</bdb>
+		<status p="51">done</status>
 	</entry>
 	<entry id="amm">
-		<bdb mod="I"><w>אמם</w> empty entry</bdb>
+	  <bdb mod="I"><w>אמם</w> (perh. <def>be wide, roomy</def>, As. [<foreign xml:lang="akk">amāmu</foreign>] whence <foreign xml:lang="akk">ummu</foreign>, <def>womb, mother</def> = <w>אֵם</w> cf. DlPr 109; but <w>אֵם</w> n.prim. acc. to Thes Sta §189b LagBN22).</bdb>
 		<xref twot="115"/>
-		<status p="51">new</status>
+		<status p="51">done</status>
 	</entry>
 	<entry id="anb">
-		<bdb><w>אנב</w> empty entry</bdb>
+	  <bdb><w>אנב</w> (perh. <def>spring, leap</def>, so Dl HA 65, Pr 114, inferred fr. As. <foreign xml:lang="akk">annabu</foreign>, <def>hare</def>; ag. this Nö ZMG 1886. 734).</bdb>
 		<xref twot="123"/>
-		<status p="58">new</status>
+		<status p="58">done</status>
 	</entry>
 	<entry id="ane2">
-		<bdb mod="II"><w>אנה</w> empty entry</bdb>
+	  <bdb mod="II"><w>אנה</w> (√ whence foll. nouns, cf. As. <foreign xml:lang="akk">ânu, unûtu</foreign>, <def>vessel, utensil</def>, v. Dl in Zim BP 115 Hpt in KAT 2Gloss i.; Ar. <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="125"/>
-		<status p="58">new</status>
+		<status p="58">base</status>
 	</entry>
 	<entry id="anv2">
-		<bdb mod="II"><w>אנשׁ</w> empty entry</bdb>
+	  <bdb mod="II"><w>אנשׁ</w> (d. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>be inclined to, friendly, social</def>, which however Nö ZMG 1886, 739 thinks denom., cf. <foreign xml:lang="ara">Arabic</foreign> coll. <def>men, people</def>; v. on the other hand Wetzst l.c. Zim BP 20, v. also Lag BN 68;—hence <w>אֲנָשִׁים</w> pl. of <w>אִישׁ</w>; v. also sub <w>אישׁ</w>).</bdb>
 		<xref twot="136"/>
-		<status p="60">new</status>
+		<status p="60">base</status>
 	</entry>
 	<entry id="anv3">
 		<bdb mod="III"><w>אנשׁ</w> empty entry</bdb>
@@ -3418,7 +3418,7 @@ sound</def> (cf. AW Lex. 36 Ges Jes. 1. 604 f Lane 1.66).</bdb>
 		<status p="944">new</status>
 	</entry>
 	<entry id="tpe3">
-		<bdb mod="III"><w>רעה</w> empty entry</bdb>
+	  <bdb mod="III"><w>רעה</w> (Aram. <w>רְעָא</w> <foreign xml:lang="syr">Syriac</foreign>), <def>take pleasure</def> (in), <def>desire</def>, = Ar. <foreign xml:lang="ara">Arabic</foreign> [Heb. <w>רָצָה</w>], whence Aram. <w>רְעוּתָא</w>, <def>desire</def>, <w>רַעֲיָנָא</w>, <w>רַעֲיוֹנָא</w>, <foreign xml:lang="syr">Syriac</foreign>, <def>opinion, thought, disposition</def>, and following late and Aram, words in Heb., cf. Nö ZMG liv (1900), 155; > De Siegf Qoh. 18 al. from I. <w>רעה</w> 2 b, cf. <ref r="Hos.12.2">Ho 12:2</ref>, and Ar. <foreign xml:lang="ara">Arabic</foreign> <def>watch, regard, respect</def> (Lane) [Ba WU 46f. Kau Arimaismen 82f. derive foll. from I. <w>רעה</w> = <def>observe, attend to</def>, specif, <def>tend sheep</def>, also <def>aim at, purpose</def>]).</bdb>
 		<xref twot="2187"/>
 		<status p="946">new</status>
 	</entry>
