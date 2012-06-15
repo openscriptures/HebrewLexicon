@@ -275,24 +275,24 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="66">base</status>
 	</entry>
 	<entry id="aqn">
-		<bdb><w>אפן</w> empty entry</bdb>
+	  <bdb><w>אפן</w> (meaning dub., perh. <def>turn</def>, cf. <w>פנה</w>).</bdb>
 		<xref twot="146"/>
-		<status p="66">new</status>
+		<status p="66">done</status>
 	</entry>
 	<entry id="aqt1">
-		<bdb mod="I"><w>אפר</w> empty entry</bdb>
+	  <bdb mod="I"><w>אפר</w> (cf. perh. <foreign xml:lang="ara">Arabic</foreign> <def>leap</def>, <foreign xml:lang="ara">Arabic</foreign> <def>be agile</def>; v. <w>אבק</w>).</bdb>
 		<xref twot="150"/>
-		<status p="68">new</status>
+		<status p="68">base</status>
 	</entry>
 	<entry id="aqt2">
-		<bdb mod="II"><w>אפר</w> empty entry</bdb>
+	  <bdb mod="II"><w>אפר</w> (<def>enclose, envelope</def>, As. <foreign xml:lang="akk">apâru</foreign>, <def>attire</def> Dl Pr 54; Thes comp. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>cover</def>; MV comp. Aram. <foreign xml:lang="syr">Syriac</foreign><!--?-->, <def>mantle, turban</def>; but connection of √ (<foreign xml:lang="ara">Arabic</foreign>)<w>פּ´ע</w> with <w>אפר</w> is dub.)</bdb>
 		<xref twot="151"/>
-		<status p="68">new</status>
+		<status p="68">base</status>
 	</entry>
 	<entry id="aqw">
-		<bdb><w>אפת</w> empty entry</bdb>
+	  <bdb><w>אפת</w> (meaning dub. √ whence Ar. <foreign xml:lang="ara">Arabic</foreign> <def>calamity</def>, &amp; also <def>wonder, portent</def>, acc. to Thes Ar. √ = <foreign xml:lang="ara">Arabic</foreign> <def>suffer evil</def>).</bdb>
 		<xref twot="152"/>
-		<status p="68">new</status>
+		<status p="68">base</status>
 	</entry>
 	<entry id="arl">
 		<bdb form="false"><w>אצל</w> empty entry</bdb>
