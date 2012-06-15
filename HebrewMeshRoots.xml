@@ -367,9 +367,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="80">added</status>
 	</entry>
 	<entry id="awn">
-		<bdb><w>אתן</w> empty entry</bdb>
+	  <bdb><w>אתן</w> (mng. ? Thes comps. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>take short steps</def>, but this appy. only by-form of <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="190"/>
-		<status p="87">new</status>
+		<status p="87">base</status>
 	</entry>
 	<entry id="aws">
 		<bdb><w>אתק</w></bdb>
@@ -377,9 +377,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="87">added</status>
 	</entry>
 	<entry id="aww">
-		<bdb><w>אתת</w> empty entry</bdb>
+	  <bdb><w>אתת</w> (? √ of following, meaning dubious. Lag M ii. 254 proposes √ <w>אנה</w>, whence he derives also Ar. <foreign xml:lang="ara">Arabic</foreign> a tool used in tillage).</bdb>
 		<xref twot="192"/>
-		<status p="88">new</status>
+		<status p="88">base</status>
 	</entry>
 	<entry id="b1">
 		<bdb><w>ב</w>, <w>בּ</w> empty entry</bdb>
