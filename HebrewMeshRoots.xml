@@ -242,40 +242,37 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="60">base</status>
 	</entry>
 	<entry id="anv3">
-		<bdb mod="III"><w>אנשׁ</w> empty entry</bdb>
+	  <bdb mod="III"><w>אנשׁ</w> (<def>soft, delicate</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <em>id</em>., v. Lag BS 68 Dl Pr 160, also sub I. <w>אנשׁ</w>; but cf. Nö ZMG 1886, 739 who der. this mng. fr. <em>feminine</em>).</bdb>
 		<xref twot="137"/>
-		<status p="61">new</status>
+		<status p="61">base</status>
 	</entry>
 	<entry id="anw">
-		<bdb><w>אנת</w> empty entry</bdb>
-		<status p="61">new</status>
+	  <bdb><w>אנת</w> (the root of the pron. 2 pers. in Shemitic: <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="gez">Ethiopic</foreign>, <foreign xml:lang="akk">anta</foreign>; f. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="gez">Ethiopic</foreign>, <foreign xml:lang="akk">antī</foreign>; BAram. Kt <w>אַנְתָּה<w> (m.), 𝔗<!--Not sure about this character--> <w>אַנְתְּ</w> &amp; <w>אַתְּ</w> (both m. &amp; f.); Syr. <foreign xml:lang="syr">Syriac</foreign>, f. <foreign xml:lang="syr">Syriac</foreign>, the <em>n</em> being written but not pronounced; As. <foreign xml:lang="akk">atta</foreign>, f. <foreign xml:lang="akk">atti-e</foreign> Dl §55a, the <em>nt</em> being merged in the double <em>t</em>; Heb. similarly. PI. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="gez">Ethiopic</foreign> f. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="gez">Ethiopic</foreign>
+	  Aram. <foreign xml:lang="arc">אַנְתּוּן</foreign>, <foreign xml:lang="syr">Syriac</foreign>, f. <w>אַתִּין</w>, <foreign xml:lang="syr">Syriac</foreign>; As. <foreign xml:lang="akk">attunu</foreign>).</bdb>
+		<status p="61">base</status>
 	</entry>
 	<entry id="aoe1">
-		<bdb mod="I"><w>אסה</w> empty entry</bdb>
-		<status p="61">new</status>
+	  <bdb mod="I"><w>אסה</w> (perh. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>heal</def>, Aram. <foreign xml:lang="arc">אֲסָא</foreign>, <foreign xml:lang="syr">Syriac</foreign><!--?-->).</bdb>
+		<status p="61">base</status>
 	</entry>
 	<entry id="aoe2">
-		<bdb mod="II"><w>אסה</w> empty entry</bdb>
+	  <bdb mod="II"><w>אסה</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> be sorrowful, distressed).</bdb>
 		<xref twot="138"/>
-		<status p="61">new</status>
+		<status p="61">base</status>
 	</entry>
 	<entry id="aom">
-		<bdb><w>אסם</w> empty entry</bdb>
+	  <bdb><w>אסם</w> (<def>gather, store</def>, Aram. <foreign xml:lang="ara">Arabic</foreign><!--?-->).</bdb>
 		<xref twot="139"/>
-		<status p="62">new</status>
+		<status p="62">base</status>
 	</entry>
 	<entry id="aqd">
-		<bdb><w>אפד</w> empty entry</bdb>
-		<status p="65">new</status>
+	  <bdb><w>אפד</w> (existence &amp; mng. dub. Thes MV al. identify with <w>אָפַד</w> <def>gird on</def>, but this denom. v. infr.; Lag BN 178, GN 1890, p. 15 prop <foreign xml:lang="ara">وفد</foreign><!--?-->, <def>come as ambassador</def>, as √ of <w>אֵפוֹד</w>).</bdb>
+		<status p="65">base</status>
 	</entry>
 	<entry id="aql1">
-		<bdb><w>אפל</w> empty entry</bdb>
+	  <bdb><w>אפל</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>disappear, depart, set</def> (of the sun)).</bdb>
 		<xref twot="145"/>
-		<status p="66">new</status>
-	</entry>
-	<entry id="aql2">
-		<bdb><w>אפל</w> empty entry</bdb>
-		<status p="66">new</status>
+		<status p="66">base</status>
 	</entry>
 	<entry id="aqn">
 		<bdb><w>אפן</w> empty entry</bdb>
