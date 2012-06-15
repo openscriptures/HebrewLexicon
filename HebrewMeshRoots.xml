@@ -295,75 +295,76 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="68">base</status>
 	</entry>
 	<entry id="arl">
-		<bdb form="false"><w>אצל</w> empty entry</bdb>
-		<status p="69">new</status>
+	  <bdb form="false"><w>אצל</w> prob. i.q. <foreign xml:lang="ara">Arabic</foreign> <def>to join</def> (cf. on the <w>א</w> W 8G 71).</bdb>
+		<status p="69">base</status>
 	</entry>
 	<entry id="arm">
-		<bdb><w>אצם</w> empty entry</bdb>
-		<status p="69">new</status>
+	  <bdb><w>אצם</w> (meaning dub., cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be angry</def>).</bdb>
+		<status p="69">base</status>
 	</entry>
 	<entry id="ate1">
-		<bdb mod="II"><w>ארה</w> empty entry</bdb>
+	  <bdb mod="II"><w>ארה</w> (<def>burn</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> whence <foreign xml:lang="ara">Arabic</foreign> <def>hearth</def>; Ew §163g al. v. infr.)</bdb>
 		<xref twot="159"/>
-		<status p="72">new</status>
+		<status p="72">base</status>
 	</entry>
 	<entry id="atg">
-		<bdb><w>ארז</w> empty entry</bdb>
+	  <bdb><w>ארז</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be firm</def>, also <def>withdraw, retreat</def>).</bdb>
 		<xref twot="160"/>
-		<status p="72">new</status>
+		<status p="72">base</status>
 	</entry>
 	<entry id="atm2">
-		<bdb><w>ארם</w> empty entry</bdb>
+	  <bdb><w>ארם</w> (√ of following; cf. <w>רום</w> ?).</bdb>
 		<xref twot="164"/>
-		<status p="74">new</status>
+		<status p="74">done</status>
 	</entry>
 	<entry id="atn1">
-		<bdb mod="I"><w>ארן</w> empty entry</bdb>
+		<bdb mod="I"><w>ארן</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="lat">alacer, laetus fuit</foreign>; possible √ of following).</bdb>
 		<xref twot="165"/>
-		<status p="74">new</status>
+		<status p="74">base</status>
 	</entry>
 	<entry id="atn2">
-		<bdb mod="II"><w>ארן</w> empty entry</bdb>
+	  <bdb mod="II"><w>ארן</w> (√ assumed for foll. word, cf. Sta §208c; Dl Pr 125 argues for √<w>ארה</w> (so Thes), on ground of an As. <foreign xmlênu:lang="akk">êrû</foreign>, synon. of <foreign xml:lang="akk">êrênu</foreign>).</bdb>
 		<xref twot="166"/>
-		<status p="75">new</status>
+		<status p="75">done</status>
 	</entry>
 	<entry id="atv">
-		<bdb><w>ארשׁ</w> empty entry</bdb>
+	  <bdb><w>ארשׁ</w> (<def>to desire, request</def>, As. <foreign xml:lang="akk">êrêšu</foreign> Dl Pr 55).</bdb>
 		<xref twot="171"/>
-		<status p="77">new</status>
+		<status p="77">done</status>
 	</entry>
 	<entry id="avd">
-		<bdb><w>אשׁד</w> empty entry</bdb>
+	  <bdb><w>אשׁד</w> (√ of following, cf. prob. As. <foreign xml:lang="akk">išdu</foreign>, <def>foundation</def>).</bdb>
 		<xref twot="174"/>
-		<status p="78">new</status>
+		<status p="78">done</status>
 	</entry>
 	<entry id="ave">
-		<bdb><w>אשׁה</w> empty entry</bdb>
+		<bdb><w>אשׁה</w> (support, √ whence following).</bdb>
 		<xref twot="175"/>
-		<status p="78">new</status>
+		<status p="78">done</status>
 	</entry>
 	<entry id="avk">
-		<bdb><w>אשׁך</w> empty entry</bdb>
+		<bdb><w>אשׁך</w></bdb>
 		<status p="79">added</status>
 	</entry>
 	<entry id="avl">
-		<bdb><w>אשׁל</w> empty entry</bdb>
+	  <bdb><w>אשׁל</w> (<def>be firm, firmly rooted</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be firm</def>).</bdb>
 		<xref twot="179"/>
-		<status p="79">new</status>
+		<status p="79">base</status>
 	</entry>
 	<entry id="avn">
-		<bdb><w>אשׁן</w> empty entry</bdb>
-		<status p="80">new</status>
+	  <bdb><w>אשׁן</w> (√ assumed for foll.; perh. <def>be hard,
+	    firm</def>, cf. Aram. <foreign xml:lang="arc">אֲשִׁינָא ,אֲשׁוּנָא</foreign>, something <def>firm</def>).</bdb>
+		<status p="80">done</status>
 	</entry>
 	<entry id="avq2">
-		<bdb><w>אשׁף</w> empty entry</bdb>
+		<bdb><w>אשׁף</w> (√ of dub. meaning, whence foll.)</bdb>
 		<xref twot="182"/>
-		<status p="80">new</status>
+		<status p="80">done</status>
 	</entry>
 	<entry id="avt">
-		<bdb><w>אשׁר</w> empty entry</bdb>
+	  <bdb><w>אשׁר</w></bdb>
 		<xref twot="176"/>
-		<status p="78">added</status>
+		<status p="80">added</status>
 	</entry>
 	<entry id="awn">
 		<bdb><w>אתן</w> empty entry</bdb>
@@ -371,7 +372,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="87">new</status>
 	</entry>
 	<entry id="aws">
-		<bdb><w>אתק</w> empty entry</bdb>
+		<bdb><w>אתק</w></bdb>
 		<xref twot="191"/>
 		<status p="87">added</status>
 	</entry>
@@ -679,7 +680,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="170">new</status>
 	</entry>
 	<entry id="cnc">
-		<bdb><w>גנג</w> empty entry</bdb>
+		<bdb><w>גנג</w></bdb>
 		<status p="150">added</status>
 	</entry>
 	<entry id="cng">
@@ -898,7 +899,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="255">new</status>
 	</entry>
 	<entry id="fvm">
-		<bdb><w>ושׁם</w> empty entry</bdb>
+		<bdb><w>ושׁם</w></bdb>
 		<status p="1051">added</status>
 	</entry>
 	<entry id="g1">
@@ -999,12 +1000,12 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="285">new</status>
 	</entry>
 	<entry id="hbl1">
-		<bdb><w>חבל</w> empty entry</bdb>
+		<bdb><w>חבל</w></bdb>
 		<xref twot="592"/>
 		<status p="285">added</status>
 	</entry>
 	<entry id="hbl2">
-		<bdb><w>חבל</w> empty entry</bdb>
+		<bdb><w>חבל</w></bdb>
 		<xref twot="596"/>
 		<status p="285">added</status>
 	</entry>
@@ -1209,7 +1210,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="340">new</status>
 	</entry>
 	<entry id="hoq">
-		<bdb><w>חסף</w> empty entry</bdb>
+		<bdb><w>חסף</w></bdb>
 		<status p="341">added</status>
 	</entry>
 	<entry id="hqn">
@@ -1243,7 +1244,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="348">new</status>
 	</entry>
 	<entry id="hrt4">
-		<bdb mod="III"><w>חצר</w> empty entry</bdb>
+		<bdb mod="III"><w>חצר</w></bdb>
 		<xref twot="725"/>
 		<status p="348">added</status>
 	</entry>
@@ -1432,7 +1433,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="391">new</status>
 	</entry>
 	<entry id="jed">
-		<bdb><w>יהד</w> empty entry</bdb>
+		<bdb><w>יהד</w></bdb>
 		<status p="421">added</status>
 	</entry>
 	<entry id="jer">
@@ -1615,7 +1616,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="460">new</status>
 	</entry>
 	<entry id="kbu">
-		<bdb><w>כבשׂ</w> empty entry</bdb>
+		<bdb><w>כבשׂ</w></bdb>
 		<status p="461">added</status>
 	</entry>
 	<entry id="kdd">
@@ -1638,7 +1639,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="465">new</status>
 	</entry>
 	<entry id="kfn">
-		<bdb><w>כון</w> empty entry</bdb>
+		<bdb><w>כון</w></bdb>
 		<status p="476">added</status>
 	</entry>
 	<entry id="kft1">
@@ -1753,7 +1754,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="499">new</status>
 	</entry>
 	<entry id="ktg">
-		<bdb><w>כרז</w> empty entry</bdb>
+		<bdb><w>כרז</w></bdb>
 		<status p="1121">added</status>
 	</entry>
 	<entry id="ktk">
@@ -1767,7 +1768,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="501">new</status>
 	</entry>
 	<entry id="ktm">
-		<bdb><w>כרם</w> empty entry</bdb>
+		<bdb><w>כרם</w></bdb>
 		<status p="501">added</status>
 	</entry>
 	<entry id="ktu">
@@ -1831,7 +1832,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="523">new</status>
 	</entry>
 	<entry id="lbn">
-		<bdb cite="full"><w>לבן</w> = <w src="H3835a">3835a</w> empty entry</bdb>
+		<bdb cite="full"><w>לבן</w> = <w src="H3835a">3835a</w></bdb>
 		<xref twot="1074"/>
 		<status p="526">added</status>
 	</entry>
@@ -1901,7 +1902,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="545">new</status>
 	</entry>
 	<entry id="lvm">
-		<bdb><w>לשׁם</w> empty entry</bdb>
+		<bdb><w>לשׁם</w></bdb>
 		<status p="545">added</status>
 	</entry>
 	<entry id="lvn">
@@ -1974,11 +1975,11 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="561">new</status>
 	</entry>
 	<entry id="mgh">
-		<bdb><w>מזח</w> empty entry</bdb>
+		<bdb><w>מזח</w></bdb>
 		<status p="561">added</status>
 	</entry>
 	<entry id="mgl">
-		<bdb><w>מזל</w> empty entry</bdb>
+		<bdb><w>מזל</w></bdb>
 		<status p="561">added</status>
 	</entry>
 	<entry id="mgt1">
@@ -2021,7 +2022,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="571">new</status>
 	</entry>
 	<entry id="mlh3">
-		<bdb><w>מלח</w> empty entry</bdb>
+		<bdb><w>מלח</w></bdb>
 		<status p="1100">added</status>
 	</entry>
 	<entry id="mlk1">
@@ -2240,7 +2241,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="654">new</status>
 	</entry>
 	<entry id="nql">
-		<bdb><w>נפל</w> empty entry</bdb>
+		<bdb><w>נפל</w></bdb>
 		<xref twot="1393"/>
 		<status p="658">added</status>
 	</entry>
@@ -2297,7 +2298,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="684">new</status>
 	</entry>
 	<entry id="oan">
-		<bdb><w>סאן</w> empty entry</bdb>
+		<bdb><w>סאן</w></bdb>
 		<status p="684">added</status>
 	</entry>
 	<entry id="ocl">
@@ -2306,7 +2307,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="688">new</status>
 	</entry>
 	<entry id="ocn">
-		<bdb><w>סגן</w> empty entry</bdb>
+		<bdb><w>סגן</w></bdb>
 		<status p="688">added</status>
 	</entry>
 	<entry id="oct2">
@@ -2315,7 +2316,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="689">new</status>
 	</entry>
 	<entry id="oda">
-		<bdb mod="II"><w>סדא</w> empty entry</bdb>
+		<bdb mod="II"><w>סדא</w></bdb>
 		<status p="690">added</status>
 	</entry>
 	<entry id="odt">
@@ -2344,7 +2345,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="691">new</status>
 	</entry>
 	<entry id="ojn">
-		<bdb><w>סין</w> empty entry</bdb>
+		<bdb><w>סין</w></bdb>
 		<status p="719">added</status>
 	</entry>
 	<entry id="oll2">
@@ -2473,7 +2474,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="736">new</status>
 	</entry>
 	<entry id="pgb">
-		<bdb><w>עזב</w> empty entry</bdb>
+		<bdb><w>עזב</w></bdb>
 		<status p="1115">added</status>
 	</entry>
 	<entry id="pgt2">
@@ -2492,7 +2493,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="743">new</status>
 	</entry>
 	<entry id="pjn">
-		<bdb><w>עין</w> empty entry</bdb>
+		<bdb><w>עין</w></bdb>
 		<status p="744">added</status>
 	</entry>
 	<entry id="pjq1">
@@ -2633,7 +2634,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="785">new</status>
 	</entry>
 	<entry id="pst2">
-		<bdb><w>עקר</w> empty entry</bdb>
+		<bdb><w>עקר</w></bdb>
 		<status p="1107">added</status>
 	</entry>
 	<entry id="ptb1">
@@ -2967,7 +2968,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="851">new</status>
 	</entry>
 	<entry id="rjr">
-		<bdb><w>ציץ</w> empty entry</bdb>
+		<bdb><w>ציץ</w></bdb>
 		<status p="851">added</status>
 	</entry>
 	<entry id="rjt1">
@@ -3327,7 +3328,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="918">new</status>
 	</entry>
 	<entry id="tcl">
-		<bdb><w>רגל</w> empty entry</bdb>
+		<bdb><w>רגל</w></bdb>
 		<status p="919">added</status>
 	</entry>
 	<entry id="tec">
@@ -3471,7 +3472,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="959">new</status>
 	</entry>
 	<entry id="uam">
-		<bdb><w>שׂאם</w> empty entry</bdb>
+		<bdb><w>שׂאם</w></bdb>
 		<status p="969">added</status>
 	</entry>
 	<entry id="ubk">
@@ -3531,11 +3532,11 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="968">new</status>
 	</entry>
 	<entry id="ulf">
-		<bdb><w>שׂלו</w> empty entry</bdb>
+		<bdb><w>שׂלו</w></bdb>
 		<status p="993">added</status>
 	</entry>
 	<entry id="umk">
-		<bdb><w>שׂמך</w> empty entry</bdb>
+		<bdb><w>שׂמך</w></bdb>
 		<xref twot="2269"/>
 		<status p="970">added</status>
 	</entry>
@@ -3665,7 +3666,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="995">new</status>
 	</entry>
 	<entry id="vem">
-		<bdb><w>שׁהם</w> empty entry</bdb>
+		<bdb><w>שׁהם</w></bdb>
 		<status p="1019">added</status>
 	</entry>
 	<entry id="vfa1">
@@ -3964,7 +3965,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1071">new</status>
 	</entry>
 	<entry id="wnk">
-		<bdb><w>תנך</w> empty entry</bdb>
+		<bdb><w>תנך</w></bdb>
 		<xref twot="2527"/>
 		<status p="1072">added</status>
 	</entry>
@@ -4092,7 +4093,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1086">new</status>
 	</entry>
 	<entry id="dkt">
-		<bdb><w>דכר</w> empty entry</bdb>
+		<bdb><w>דכר</w></bdb>
 		<xref twot="2677"/>
 		<status p="1088">added</status>
 	</entry>
@@ -4126,7 +4127,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1091">new</status>
 	</entry>
 	<entry id="gmt">
-		<bdb><w>זמר</w> empty entry</bdb>
+		<bdb><w>זמר</w></bdb>
 		<xref twot="2710"/>
 		<status p="1091">added</status>
 	</entry>
@@ -4139,7 +4140,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1091">new</status>
 	</entry>
 	<entry id="hbt">
-		<bdb><w>חבר</w> empty entry</bdb>
+		<bdb><w>חבר</w></bdb>
 		<xref twot="2717"/>
 		<status p="1092">added</status>
 	</entry>
@@ -4148,17 +4149,17 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1092">new</status>
 	</entry>
 	<entry id="hia">
-		<bdb><w>חטא</w> empty entry</bdb>
+		<bdb><w>חטא</w></bdb>
 		<xref twot="2726"/>
 		<status p="1092">added</status>
 	</entry>
 	<entry id="hkm">
-		<bdb><w>חכם</w> empty entry</bdb>
+		<bdb><w>חכם</w></bdb>
 		<xref twot="2729"/>
 		<status p="1093">added</status>
 	</entry>
 	<entry id="hls">
-		<bdb><w>חלק</w> empty entry</bdb>
+		<bdb><w>חלק</w></bdb>
 		<xref twot="2732"/>
 		<status p="1093">added</status>
 	</entry>
@@ -4179,7 +4180,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1095">new</status>
 	</entry>
 	<entry id="jst">
-		<bdb><w>יקר</w> empty entry</bdb>
+		<bdb><w>יקר</w></bdb>
 		<xref twot="2775"/>
 		<status p="1096">added</status>
 	</entry>
@@ -4217,7 +4218,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1098">new</status>
 	</entry>
 	<entry id="lbb2">
-		<bdb><w>לבב</w> empty entry</bdb>
+		<bdb><w>לבב</w></bdb>
 		<xref twot="2809"/>
 		<status p="1098">added</status>
 	</entry>
@@ -4236,7 +4237,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1100">new</status>
 	</entry>
 	<entry id="mtd">
-		<bdb><w>מרד</w> empty entry</bdb>
+		<bdb><w>מרד</w></bdb>
 		<xref twot="2840"/>
 		<status p="1101">added</status>
 	</entry>
@@ -4245,7 +4246,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1101">new</status>
 	</entry>
 	<entry id="net">
-		<bdb><w>נהר</w> empty entry</bdb>
+		<bdb><w>נהר</w></bdb>
 		<xref twot="2853"/>
 		<status p="1102">added</status>
 	</entry>
@@ -4254,7 +4255,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1103">new</status>
 	</entry>
 	<entry id="oqt">
-		<bdb><w>ספר</w> empty entry</bdb>
+		<bdb><w>ספר</w></bdb>
 		<xref twot="2891"/>
 		<status p="1104">added</status>
 	</entry>
@@ -4350,7 +4351,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1112">new</status>
 	</entry>
 	<entry id="tcm">
-		<bdb><w>רבע</w> empty entry</bdb>
+		<bdb><w>רבע</w></bdb>
 		<status p="1076">added</status>
 	</entry>
 	<entry id="tfh3">
@@ -4412,7 +4413,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1117">new</status>
 	</entry>
 	<entry id="vtv2">
-		<bdb><w>שׁרשׁ</w> empty entry</bdb>
+		<bdb><w>שׁרשׁ</w></bdb>
 		<xref twot="3050"/>
 		<status p="1117">added</status>
 	</entry>
