@@ -21994,7 +21994,7 @@
 				<w strong="4523">מָס</w>
 			</entry>
 			<entry id="m.cq.ac" cite="full" form="false" mod="I">
-				<w strong="4531">מַסָּה</w>
+				<w strong="4531" aug="a">מַסָּה</w>
 			</entry>
 			<entry id="m.cq.ad" cite="full">
 				<w strong="8557">תֶּ֫מֶס</w>
@@ -22117,7 +22117,7 @@
 			</entry>
 			<page p="589"/>
 			<entry id="m.cu.ac" cite="full" form="false">
-				<w strong="4579">מֶעָה</w>
+				<w strong="4579">מָעָה</w>
 				<w src="Strong" strong="4579">מֵעָה</w>
 			</entry>
 			<entry id="m.cu.ad">
@@ -22182,7 +22182,6 @@
 			</entry>
 			<entry id="m.cw.af" cite="full">
 				<w strong="4596">מְעִי</w>
-				<v ref="e.bc.ae">מְעִי</v>
 			</entry>
 			<entry id="m.cw.ag" cite="full">
 				<w strong="4597">מָעַי</w>
@@ -22229,7 +22228,7 @@
 				<w strong="4604">מַ֫עַל</w>
 			</entry>
 			<entry id="m.cy.ac" cite="full">
-				<w strong="4598">מְ������ִיל</w>
+				<w strong="4598">מְעִיל</w>
 			</entry>
 			<entry id="m.cy.ad" mod="II">
 				<w>מַ֫עַל</w>
@@ -23413,11 +23412,11 @@
 			</entry>
 			<page p="603"/>
 			<entry id="m.ds.ab" cite="full">
-				<w strong="4888">מִשְׁחָה</w>
+				<w strong="4888" aug="a">מִשְׁחָה</w>
 				<w src="Strong" strong="4888">מָשְׁחָה</w>
 			</entry>
 			<entry id="m.ds.ac" cite="full">
-				<w strong="4888">מָשְׁחָה</w>
+				<w strong="4888" aug="b">מָשְׁחָה</w>
 				<w src="Strong" strong="4888">מִשְׁחָה</w>
 			</entry>
 			<entry id="m.ds.ad" cite="full">
@@ -23469,7 +23468,7 @@
 				<w strong="4902">מֶ֫שֶׁךְ</w>
 			</entry>
 			<entry id="m.dt.ad" cite="full" form="false">
-				<w strong="4189">מֹשֶׁכֶה</w>
+				<w strong="4189">מֹשֶׁכֶת</w>
 				<w src="Strong" strong="4189">מוֹשְׁכָה</w>
 			</entry>
 			<page p="605"/>
@@ -23488,16 +23487,16 @@
 		</section>
 		<section id="m.du">
 			<entry id="m.du.aa" type="root" cite="full" form="false" mod="I">
-				<w strong="4911">מָשַׁל</w>
+				<w strong="4911" aug="a">מָשַׁל</w>
 			</entry>
 			<entry id="m.du.ab" cite="full" mod="II">
 				<w strong="4912">מָשָׁל</w>
 			</entry>
 			<entry id="m.du.ac" cite="full" mod="II">
-				<w strong="4911">מָשַׁל</w>
+				<w strong="4911" aug="b">מָשַׁל</w>
 			</entry>
 			<entry id="m.du.ad" cite="full" form="false" mod="I">
-				<w strong="4915">מֹ֫שֶׁל</w>
+				<w strong="4915" aug="a">מֹ֫שֶׁל</w>
 			</entry>
 			<entry id="m.du.ae" cite="full">
 				<w strong="4914">מְשֹׁל</w>
@@ -23509,7 +23508,7 @@
 			</entry>
 			<page p="606"/>
 			<entry id="m.dv.ab" cite="full" form="false" mod="II">
-				<w strong="4915">מֹ֫שֶׁל</w>
+				<w strong="4915" aug="b">מֹ֫שֶׁל</w>
 			</entry>
 			<entry id="m.dv.ac" cite="full">
 				<w strong="4474">מִמְשָׁל</w>
@@ -23676,7 +23675,7 @@
 				<w strong="4967">מְתוּשָׁאֵל</w>
 			</entry>
 			<entry id="m.dz.ac" cite="full">
-				<w strong="4968">מְתוּשֶׁלַח</w>
+				<w strong="4968">מְתוּשֶׁ֫לַח</w>
 			</entry>
 			<entry id="m.dz.ad">
 				<w>מַתְבֵּן</w>
@@ -23848,11 +23847,11 @@
 			</entry>
 			<page p="611"/>
 			<entry id="n.af.ab" cite="full">
-				<w strong="5007">נְאָצָה</w>
+				<w strong="5007" aug="a">נְאָצָה</w>
 				<w src="Strong" strong="5007">נֵאֻצָה</w>
 			</entry>
 			<entry id="n.af.ac" cite="full" form="false">
-				<w strong="5007">נֶאָצָה</w>
+				<w strong="5007" aug="b">נֶאָצָה</w>
 				<w src="Strong" strong="5007">נְאָצָה</w>
 			</entry>
 		</section>
@@ -23899,10 +23898,10 @@
 				<v ref="n.ah.ab">נֹב</v>
 			</entry>
 			<entry id="n.aj.ac" cite="full" mod="I">
-				<w strong="5015">נְבוֹ</w>
+				<w strong="5015" aug="a">נְבוֹ</w>
 			</entry>
 			<entry id="n.aj.ad" cite="full" mod="II">
-				<w strong="5015">נְבוֹ</w>
+				<w strong="5015" aug="b">נְבוֹ</w>
 			</entry>
 			<page p="613"/>
 			<entry id="n.aj.ae" cite="full">
@@ -23959,17 +23958,17 @@
 				<w>נבל</w>
 			</entry>
 			<entry id="n.am.ab" mod="I">
-				<w strong="5035">נֵ֫בֶל</w>
+				<w strong="5035" aug="a">נֵ֫בֶל</w>
 				<w src="Strong" strong="5035">נֶבֶל</w>
 			</entry>
 			<entry id="n.am.ac" cite="full" mod="II">
-				<w strong="5035">נֵ֫בֶל</w>
+				<w strong="5035" aug="b">נֵ֫בֶל</w>
 				<w strong="5035">נֶ֫בֶל</w>
 			</entry>
 		</section>
 		<section id="n.an">
 			<entry id="n.an.aa" type="root" cite="full" mod="II">
-				<w strong="5034">נָבֵל</w>
+				<w strong="5034" aug="a">נָבֵל</w>
 			</entry>
 			<entry id="n.an.ab" cite="full" mod="I">
 				<w strong="5036">נָבָל</w>
@@ -23987,7 +23986,7 @@
 		</section>
 		<section id="n.ao">
 			<entry id="n.ao.aa" type="root" cite="full">
-				<w strong="5034">נָבֵל</w>
+				<w strong="5034" aug="b">נָבֵל</w>
 			</entry>
 			<entry id="n.ao.ab" cite="full">
 				<w strong="5038">נְבֵלָה</w>
@@ -24119,7 +24118,7 @@
 		</section>
 		<section id="n.bb">
 			<entry id="n.bb.aa" type="root" cite="full" form="false">
-				<w strong="5077">נָדָא</w>
+				<w strong="5077" aug="a">נָדָא</w>
 				<w src="Strong" strong="5077">נָדָה</w>
 			</entry>
 		</section>
