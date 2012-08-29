@@ -473,104 +473,104 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="96">base</status>
 	</entry>
 	<entry id="ben">
-		<bdb><w>בהן</w> empty entry</bdb>
+		<bdb><w>בהן</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> IV. <def>shut, cover</def> (v. foregoing) whence also <foreign xml:lang="ara">Arabic</foreign> = <w>בֹּהֶן</w>; as closing and covering the hand, cf. Lane).</bdb>
 		<xref twot="209"/>
-		<status p="97">new</status>
+		<status p="97">base</status>
 	</entry>
 	<entry id="bes">
-		<bdb><w>בהק</w> empty entry</bdb>
+		<bdb><w>בהק</w> (NH <w>בָּהַק</w> shine, Aram. <foreign xml:lang="arc">בְּהַק</foreign>, <foreign xml:lang="syr">Syriac</foreign>, Aph. <em>id.</em>; hence <w>בַּהֲקִיתָא</w>, <foreign xml:lang="syr">Syriac</foreign>, an eruption, v. sq.)</bdb>
 		<xref twot="210"/>
-		<status p="97">new</status>
+		<status p="97">base</status>
 	</entry>
 	<entry id="bet">
-		<bdb><w>בהר</w> empty entry</bdb>
+		<bdb><w>בהר</w> (NH Hiph. <def>be bright, shine</def>; cf. Aram. <foreign xml:lang="arc">בְּהַר</foreign>, <foreign xml:lang="syr">Syriac</foreign> (not Pc.) &amp; deriv.; Eth. <foreign xml:lang="gez">Ethiopic</foreign> Ar. <foreign xml:lang="ara">Arabic</foreign> <def>surpass</def>, esp. in brightness, <def>shine brightly</def>).</bdb>
 		<xref twot="211"/>
-		<status p="97">new</status>
+		<status p="97">base</status>
 	</entry>
 	<entry id="bfp">
-		<bdb><w>בוע</w> empty entry</bdb>
+		<bdb><w>בוע</w> (assumed as √ of foll., cf. Lag BN10; but √ perh. <w>בעע</w>; acc. to Sta §257 a quadrilit. Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="lat">efferbuit et commotus fuit</foreign> (sanguis), <foreign xml:lang="ara">Arabic</foreign> <foreign xml:lang="lat">puteus cujus aqua ltaurienti propinqua</foreign>).</bdb>
 		<xref twot="217"/>
-		<status p="101">new</status>
+		<status p="101">base</status>
 	</entry>
 	<entry id="bfr">
-		<bdb><w>בוץ</w>, <w>ביץ</w> empty entry</bdb>
+		<bdb><w>בוץ</w> so Thes, better <w>ביץ</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>surpass in whiteness</def>; <foreign xml:lang="ara">Arabic</foreign> <def>whiteness</def>).</bdb>
 		<xref twot="218"/>
-		<status p="101">new</status>
+		<status p="101">base</status>
 	</entry>
 	<entry id="bfs">
-		<bdb><w>בוק</w> empty entry</bdb>
+		<bdb><w>בוק</w> (= <w>בקק</w>).</bdb>
 		<xref twot="220"/>
-		<status p="101">new</status>
+		<status p="101">done</status>
 	</entry>
 	<entry id="bgs">
-		<bdb><w>בזק</w> empty entry</bdb>
+		<bdb><w>בזק</w> (Aram. <foreign xml:lang="arc">בְּזַק</foreign>, <def>scatter</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>rise</def> (of sun) is prob. erroneous v. Lane 199).</bdb>
 		<xref twot="226"/>
-		<status p="103">new</status>
+		<status p="103">base</status>
 	</entry>
 	<entry id="bih2">
-		<bdb mod="II"><w>בטח</w> empty entry</bdb>
+		<bdb mod="II"><w>בטח</w> (√ assumed for following).</bdb>
 		<xref twot="234"/>
-		<status p="105">new</status>
+		<status p="105">done</status>
 	</entry>
 	<entry id="bin1">
-		<bdb mod="I"><w>בטן</w> empty entry</bdb>
+		<bdb mod="I"><w>בטן</w> (meaning dub.; √ of following).</bdb>
 		<xref twot="236"/>
-		<status p="105">new</status>
+		<status p="105">done</status>
 	</entry>
 	<entry id="bin2">
-		<bdb mod="II"><w>בטן</w> empty entry</bdb>
+		<bdb mod="II"><w>בטן</w> (assumed as √ of following; mng. unknown).</bdb>
 		<xref twot="237"/>
-		<status p="106">new</status>
+		<status p="106">done</status>
 	</entry>
 	<entry id="blo">
-		<bdb><w>בלס</w> empty entry</bdb>
-		<status p="118">new</status>
+		<bdb><w>בלס</w> (cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign>, Ar. <foreign xml:lang="ara">Arabic</foreign> a kind of <def>fig</def>), cf. Lag M. i. 59f. 68f. ; hence following).</bdb>
+		<status p="118">base</status>
 	</entry>
 	<entry id="bni">
-		<bdb><w>בנט</w> empty entry</bdb>
+		<bdb><w>בנט</w> (assumed as √ of <w>אַבְנֵט</w> Thes Sta §257).</bdb>
 		<xref twot="256"/>
-		<status p="126">new</status>
+		<status p="126">done</status>
 	</entry>
 	<entry id="bot">
-		<bdb><w>בסר</w> empty entry</bdb>
-		<status p="126">new</status>
+		<bdb><w>בסר</w> (<def>be too early</def>, Ar. <foreign xml:lang="ara">Arabic</foreign>, cf. Aram. <foreign xml:lang="ara">בְּסִירָה</foreign> <def>half-ripe</def>).</bdb>
+		<status p="126">base</status>
 	</entry>
 	<entry id="bpd">
-		<bdb><w>בעד</w> empty entry</bdb>
+		<bdb><w>בעד</w> (Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>be remote, distant</def>, Qor 9:42, <foreign xml:lang="ara">Arabic</foreign> distant; Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>to change</def>,  <ref r="Ps.33">Ψ 33</ref> title, <foreign xml:lang="gez">Ethiopic</foreign> <def>different, distinct</def>, <foreign xml:lang="gez">Ethiopic</foreign> another).</bdb>
 		<xref twot="258"/>
-		<status p="126">new</status>
+		<status p="126">base</status>
 	</entry>
 	<entry id="bpg">
-		<bdb><w>בעז</w> empty entry</bdb>
+		<bdb><w>בעז</w> (<def>quick</def>? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>swiftness</def> (of horse)).</bdb>
 		<status p="126">new</status>
 	</entry>
 	<entry id="brl">
-		<bdb><w>בצל</w> empty entry</bdb>
+		<bdb><w>בצל</w> (<def>strip. strip off</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> 1. 2; Ar. <foreign xml:lang="ara">Arabic</foreign>, appar. denom.)</bdb>
 		<xref twot="266"/>
-		<status p="130">new</status>
+		<status p="130">base</status>
 	</entry>
 	<entry id="brr">
-		<bdb><w>בצץ</w> empty entry</bdb>
+		<bdb><w>בצץ</w> (? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be</def> <foreign xml:lang="ara">Arabic</foreign>, i.e. <def>one soft, tender, impressible</def> in body, etc.)</bdb>
 		<xref twot="268"/>
-		<status p="130">new</status>
+		<status p="130">base</status>
 	</entry>
 	<entry id="bse">
-		<bdb><w>בקה</w> empty entry</bdb>
-		<status p="131">new</status>
+		<bdb><w>בקה</w> (<def>test, prove</def>, cf. Aram. <foreign xml:lang="arc">בְּקָא</foreign>).</bdb>
+		<status p="131">done</status>
 	</entry>
 	<entry id="btd">
-		<bdb><w>ברד</w> empty entry</bdb>
-		<status p="135">new</status>
+		<bdb><w>ברד</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be</def> or <def>become cold</def>).</bdb>
+		<status p="135">base</status>
 	</entry>
 	<entry id="bte2">
-		<bdb mod="II"><w>ברה</w> empty entry</bdb>
+		<bdb mod="II"><w>ברה</w> (cf. As. <foreign xml:lang="akk">barû</foreign>, <def>bind</def>, whence <foreign xml:lang="akk">birîtu</foreign>, <def>fetter</def> Zim BP 59.82, &amp; <def>treaty, covenant</def> Dl K 7).</bdb>
 		<xref twot="282"/>
-		<status p="136">new</status>
+		<status p="136">done</status>
 	</entry>
 	<entry id="btg">
-		<bdb><w>ברז</w> empty entry</bdb>
+		<bdb><w>ברז</w> (? cf. Aram. <foreign xml:lang="arc">ברז</foreign> <def>bore, pierce</def>, or Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>appear</def>).</bdb>
 		<xref twot="283"/>
-		<status p="137">new</status>
+		<status p="137">base</status>
 	</entry>
 	<entry id="btm1">
 		<bdb><w>ברם</w> empty entry</bdb>
