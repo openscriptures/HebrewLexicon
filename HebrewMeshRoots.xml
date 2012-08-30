@@ -542,7 +542,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 	</entry>
 	<entry id="bpg">
 		<bdb><w>בעז</w> (<def>quick</def>? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>swiftness</def> (of horse)).</bdb>
-		<status p="126">new</status>
+		<status p="126">base</status>
 	</entry>
 	<entry id="brl">
 		<bdb><w>בצל</w> (<def>strip. strip off</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> 1. 2; Ar. <foreign xml:lang="ara">Arabic</foreign>, appar. denom.)</bdb>
@@ -573,19 +573,19 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="137">base</status>
 	</entry>
 	<entry id="btm1">
-		<bdb><w>ברם</w> empty entry</bdb>
+		<bdb><w>ברם</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>twist a rope of twostrands</def>).</bdb>
 		<xref twot="286"/>
-		<status p="140">new</status>
+		<status p="140">base</status>
 	</entry>
 	<entry id="btv">
-		<bdb><w>ברשׁ</w> empty entry</bdb>
+		<bdb><w>ברשׁ</w> (√ of foll., meaning unknown).</bdb>
 		<xref twot="289"/>
-		<status p="141">new</status>
+		<status p="141">done</status>
 	</entry>
 	<entry id="bum">
-		<bdb><w>בשׂם</w> empty entry</bdb>
+	  <bdb><w>בשׂם</w> (<def>have a sweet odour</def>, cf. Aram. <foreign xml:lang="arc">בְּסִים</foreign>, <foreign xml:lang="syr">Syriac</foreign> <def>be sweet, pleasant</def>, Pa. <foreign xml:lang="syr">Syriac</foreign> <def>to delight</def>, <foreign xml:lang="arc">בַּסִּימָא</foreign> <def>sweet</def>; Palm. <foreign xml:lang="arc">בשימא</foreign> (<foreign xml:lang="arc">משחא</foreign>) Vog JAs 1883, Août. Sept. 153 l. 12. 155 l. 16, 18, 20 etc. <def>spiced (oil)</def>, cf. Reckendorf ZMG 1888. 405; As. <foreign xml:lang="akk">bašûmu</foreign>, Pa. <def>make fine, beautiful</def> COT Gloss).</bdb>
 		<xref twot="290"/>
-		<status p="141">new</status>
+		<status p="141">base</status>
 	</entry>
 	<entry id="bvn">
 		<bdb><w>בשׁן</w> empty entry</bdb>
