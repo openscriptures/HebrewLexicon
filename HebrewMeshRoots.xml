@@ -696,105 +696,105 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="160">done</status>
 	</entry>
 	<entry id="chm">
-		<bdb><w>גחם</w> empty entry</bdb>
-		<status p="161">new</status>
+		<bdb><w>גחם</w> (? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>kindle</def>, <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>burn</def>)</bdb>
+		<status p="161">base</status>
 	</entry>
 	<entry id="chn">
-		<bdb><w>גחן</w> empty entry</bdb>
+		<bdb><w>גחן</w> (cf. Aram. <w>גְּחַן</w>, Nasar. <foreign xml:lang="syr">Syriac</foreign> (Syr. <foreign xml:lang="syr">Syriac</foreign> PS) <def>curve, bend</def>).</bdb>
 		<xref twot="342"/>
-		<status p="161">new</status>
+		<status p="161">base</status>
 	</entry>
 	<entry id="cht">
-		<bdb><w>גחר</w> empty entry</bdb>
-		<status p="161">new</status>
+		<bdb><w>גחר</w> (? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>retire, retreat</def>, etc.)</bdb>
+		<status p="161">base</status>
 	</entry>
 	<entry id="cjd">
-		<bdb><w>גיד</w> empty entry</bdb>
+		<bdb><w>גיד</w> (√ of foll.; mng. dub.; ? cf. As. <foreign xml:lang="akk">gâdu</foreign>, bind, fetter, Jäger BAS I. 689f.)</bdb>
 		<xref twot="344"/>
-		<status p="161">new</status>
+		<status p="161">done</status>
 	</entry>
 	<entry id="cjt">
-		<bdb><w>גיר</w> empty entry</bdb>
+		<bdb><w>גיר</w> (<def>boil, boil up</def>? cf. Aram. <w>גִּיר</w> <def>ware</def>, NH <def>id. foam</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>quicklime</def>, also <def>heat in chest from rage or hunger</def> (Lanc); <foreign xml:lang="lat">admodum aestuans</foreign> acc. to Fl NHWB i. 433b; but cf. infr.)</bdb>
 		<xref twot="347"/>
-		<status p="162">new</status>
+		<status p="162">base</status>
 	</entry>
 	<entry id="clb">
-		<bdb><w>גלב</w> empty entry</bdb>
-		<status p="162">new</status>
+		<bdb><w>גלב</w> (= <def>shear, shave</def>, As. [<w>galâbu</w>] Hpt 8FG; Aram. <w>גְּלַב</w> id., <w>גְּלָב</w> <def>razor</def>; cf. <foreign xml:lang="syr">Syriac</foreign> <ref r="2Sam.20.8">2 S 20:8</ref> v. PS).</bdb>
+		<status p="162">base</status>
 	</entry>
 	<entry id="cld">
-		<bdb><w>גלד</w> empty entry</bdb>
-		<status p="162">new</status>
+		<bdb><w>גלד</w> √ of foll. mng. dub. perh. cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign> <foreign xml:lang="lat">obducere, inducere</foreign>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>scourge</def>).</bdb>
+		<status p="162">base</status>
 	</entry>
 	<entry id="cll1">
-		<bdb mod="I"><w>גלל</w> empty entry</bdb>
-		<status p="164">new</status>
+		<bdb mod="I"><w>גלל</w> (<foreign xml:lang="ara">Arabic</foreign> <def>be great in rank</def> or <def>dignity</def> (often of God)).</bdb>
+		<status p="164">base</status>
 	</entry>
 	<entry id="cmd">
-		<bdb><w>גמד</w> empty entry</bdb>
+		<bdb><w>גמד</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>congeal, become solid; be hard, stern</def>; also <def>cut, cut off</def>; Aram. <w>גְּמַר</w> <def>contract</def>; Aph. <def>be bold, daring</def>).</bdb>
 		<xref twot="359"/>
-		<status p="167">new</status>
+		<status p="167">base</status>
 	</entry>
 	<entry id="cmm">
-		<bdb><w>גמם</w> empty entry</bdb>
+		<bdb><w>גמם</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>become much</def> or <def>abundant</def>, <foreign xml:lang="ara">Arabic</foreign> <def>abundance, much</def>, <foreign xml:lang="ara">Arabic</foreign> <def>collection</def> (of water), <def>company</def> (of people)).</bdb>
 		<xref twot="361"/>
-		<status p="168">new</status>
+		<status p="168">base</status>
 	</entry>
 	<entry id="cmr">
-		<bdb><w>גמץ</w> empty entry</bdb>
+		<bdb><w>גמץ</w> (√ of foll., Aram. <w>גְּמַץ</w> <def>dig</def> (perh. denom.)).</bdb>
 		<xref twot="362"/>
-		<status p="170">new</status>
+		<status p="170">done</status>
 	</entry>
 	<entry id="cnc">
 		<bdb><w>גנג</w></bdb>
 		<status p="150">added</status>
 	</entry>
 	<entry id="cng">
-		<bdb><w>גנז</w> empty entry</bdb>
+		<bdb><w>גנז</w> (<def>cover up, hide</def>, cf. NH <def>hide</def>, Ar. <foreign xml:lang="ara">Arabic</foreign> <def>cover up</def>, Aram. <w>גְּגַז</w> Ithpa, <foreign xml:lang="syr">Syriac</foreign> Ethp. <def>be hidden</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>enwrap</def>).</bdb>
 		<xref twot="365"/>
-		<status p="170">new</status>
+		<status p="170">base</status>
 	</entry>
 	<entry id="cqn">
-		<bdb><w>גפן</w> empty entry</bdb>
+		<bdb><w>גפן</w> (√ of following; meaning ?).</bdb>
 		<xref twot="372"/>
-		<status p="172">new</status>
+		<status p="172">base</status>
 	</entry>
 	<entry id="cqq">
-		<bdb><w>גפף</w> empty entry</bdb>
+		<bdb><w>גפף</w> (√ of following; cf. Syr. <foreign xml:lang="syr">Syriac</foreign> in deriv., <foreign xml:lang="syr">Syriac</foreign> <def>curved, convex</def>; also Ar. <foreign xml:lang="ara">Arabic</foreign> both <def>hilly country</def> and <def>depression</def>, Frey.)</bdb>
 		<xref twot="373"/>
-		<status p="172">new</status>
+		<status p="172">base</status>
 	</entry>
 	<entry id="ctb">
-		<bdb><w>גרב</w> empty entry</bdb>
+		<bdb><w>גרב</w> (√ of foll.; Ar. <foreign xml:lang="ara">Arabic</foreign>, Aram. <foreign xml:lang="syr">Syriac</foreign> (<def>have the scab</def> etc.), are appar. denom.)</bdb>
 		<xref twot="376"/>
-		<status p="173">new</status>
+		<status p="173">base</status>
 	</entry>
 	<entry id="ctil">
-		<bdb><w>גרטל</w> empty entry</bdb>
+		<bdb><w>גרטל</w> (possibly quadrilit. √, whence foll. c. <w>א</w> prosthet. Cf. however infr.)</bdb>
 		<xref twot="380"/>
-		<status p="173">new</status>
+		<status p="173">base</status>
 	</entry>
 	<entry id="ctl">
-		<bdb><w>גרל</w> empty entry</bdb>
+		<bdb><w>גרל</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, pl. <foreign xml:lang="ara">Arabic</foreign> <def>stones</def>, or <def>stony place</def> planted with trees; <foreign xml:lang="ara">Arabic</foreign> <def>stony</def>; <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>stony ground, stones</def>; hence foll., because stones were used in casting lots; cf. Gk. <foreign xml:lang="grc">ψῆφος</foreign> <def>pebble, vote</def>; <foreign xml:lang="grc">κύαμος</foreign> <def>bean, lot</def>).</bdb>
 		<xref twot="381"/>
-		<status p="174">new</status>
+		<status p="174">base</status>
 	</entry>
 	<entry id="ctn">
-		<bdb><w>גרן</w> empty entry</bdb>
+		<bdb><w>גרן</w> (√ of foll.; ? cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>become accustomed, worn smooth</def> (of skin, garment, etc.); also <def>grind grain vehemently</def>; vid. further <foreign xml:lang="ara">Arabic</foreign> <def>what one has ground</def>, of grain; &amp; <def>place in which dates are dried</def> = <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="383"/>
-		<status p="175">new</status>
+		<status p="175">base</status>
 	</entry>
 	<entry id="ctu">
-		<bdb><w>גרשׂ</w> empty entry</bdb>
-		<status p="176">new</status>
+		<bdb><w>גרשׂ</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>bray, pound, grind coarse</def>, Aram. <w>גְּרַס</w> (rare) <def>crush</def>, <foreign xml:lang="syr">Syriac</foreign> <def>crushed</def>, <foreign xml:lang="syr">Syriac</foreign> <def>crush, destroy</def>; cf. following).</bdb>
+		<status p="176">base</status>
 	</entry>
 	<entry id="cvm">
-		<bdb><w>גשׁם</w> empty entry</bdb>
-		<status p="177">new</status>
+		<bdb><w>גשׁם</w> (√ of foll.; cf. <foreign xml:lang="ara">Arabic</foreign> <def>be bulky, massive</def>, <foreign xml:lang="ara">Arabic</foreign> <def>body</def>, Syr. <foreign xml:lang="syr">Syriac</foreign> <em>id.</em>)</bdb>
+		<status p="177">base</status>
 	</entry>
 	<entry id="cvt">
-		<bdb><w>גשׁר</w> empty entry</bdb>
-		<status p="178">new</status>
+		<bdb><w>גשׁר</w> (√ of foll. Cf. As. <foreign xml:lang="akk">gašâru</foreign>, <def>strengthen, make firm</def> Lotz TPRegister; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be bold</def>, also <def>arch a bridge</def>, cf. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>bridge</def>, NH <w>גֶּשֶׁר</w> <em>id.</em>, Aram. <w>גִּישְׁרָא</w>, <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign>).</bdb>
+		<status p="178">base</status>
 	</entry>
 	<entry id="d1">
 		<bdb><w>ד</w>, <w>דּ</w> empty entry</bdb>
