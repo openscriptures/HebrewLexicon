@@ -797,96 +797,101 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="178">base</status>
 	</entry>
 	<entry id="d1">
-		<bdb><w>ד</w>, <w>דּ</w> empty entry</bdb>
-		<status p="178">new</status>
+		<bdb><w>ד</w>, <w>דּ</w> <def>Dā̌leth</def>, fourth letter; in modern Heb. = numeral 4; <w>ד̈</w> = 4000; no evidence of this usage in OT times.</bdb>
+		<status p="178">done</status>
 	</entry>
 	<entry id="dba">
-		<bdb><w>דבא</w> empty entry</bdb>
+		<bdb><w>דבא</w> (√ of foll.; existence &amp; mng. dub.)</bdb>
 		<xref twot="395"/>
-		<status p="179">new</status>
+		<status p="179">done</status>
 	</entry>
 	<entry id="dbl">
-		<bdb><w>דבל</w> empty entry</bdb>
+		<bdb><w>דבל</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>collect</def>, also <def>make into lumps, gobbets</def> (Lane); Eth. &amp; cogn. in deriv.)</bdb>
 		<xref twot="397"/>
-		<status p="179">new</status>
+		<status p="179">base</status>
 	</entry>
 	<entry id="dbv">
-		<bdb><w>דבשׁ</w> empty entry</bdb>
+		<bdb><w>דבשׁ</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> IX. <def>become black</def> or <def>brown</def>, of a colour between black and red; vid. deriv.; so Fl v. infr.; yet vb. in this mng. perh. denom. fr. <foreign xml:lang="ara">Arabic</foreign> i.e. having the colour of <def>dibs</def>).</bdb>
 		<xref twot="400"/>
-		<status p="185">new</status>
+		<status p="185">base</status>
 	</entry>
 	<entry id="dcn">
-		<bdb><w>דגן</w> empty entry</bdb>
+		<bdb><w>דגן</w> (√ of foll. mng. dub.; NH <w>דְּגֵּן</w> Pa. <def>heap up</def> etc. seems to he denom.; Ol §215b. 4 der. <w>דָּגָן</w> fr. <w>דָּגָה</w>, cf. MV; WeSkizzen III. 170 inclines to regard <w>דָּגָן</w> as der. fro n. pv. divin. <w>דגן</w> (cf. <w>דָּגוֹן</w>), as <def>cereal</def> fr. <em>Ceres</em>).</bdb>
 		<xref twot="403"/>
-		<status p="186">new</status>
+		<status p="186">base</status>
 	</entry>
 	<entry id="dfd">
-		<bdb><w>דוד</w> empty entry</bdb>
+		<bdb><w>דוד</w> (√ assumed for foll., wh. however perh. primitive caressing word, Fl NH WB i. 439 <def>swing, rock, dandle, fondle, love</def>; > Thes Dietr Sem. Wortforsch. 277 MV, who connect with <w>דּוּד</w> (cf. infr.) cf. Syr. <foreign xml:lang="syr">Syriac</foreign> <def>disturb</def>).</bdb>
 		<xref twot="410"/>
-		<status p="187">new</status>
+		<status p="187">base</status>
 	</entry>
 	<entry id="dfm">
-		<bdb><w>דום</w> empty entry</bdb>
+		<bdb><w>דום</w> (NH <w>דום</w> <def>spread slander</def>, perh. orig. <def>whisper</def>, cf. <w>דמם</w>, <w>דממה</w>).</bdb>
 		<xref twot="415"/>
-		<status p="189">new</status>
+		<status p="189">done</status>
 	</entry>
 	<entry id="dfs1">
-		<bdb><w>דוק</w> empty entry</bdb>
+		<bdb><w>דוק</w> (? √ of foll.; mng. dub. cf. Sm <ref r="Ezek.4.2">Ez 4:2</ref> Lag Ges Abhandl. 36).</bdb>
 		<xref twot="417"/>
-		<status p="189">new</status>
+		<status p="189">done</status>
 	</entry>
 	<entry id="dhn">
-		<bdb><w>דחן</w> empty entry</bdb>
+		<bdb><w>דחן</w> (√ of following; perh. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>smoke arose</def>, hence <def>become dusky, dingy, inclining to black</def>).</bdb>
 		<xref twot="422"/>
-		<status p="191">new</status>
+		<status p="191">base</status>
 	</entry>
 	<entry id="dkk">
-		<bdb><w>דכך</w> empty entry</bdb>
+		<bdb><w>דכך</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, Aram. <w>דְּכַךְ</w>, NH in deriv.; v. also <w>דכא</w>, <w>דכה</w>).</bdb>
 		<xref twot="429"/>
-		<status p="194">new</status>
+		<status p="194">base</status>
 	</entry>
 	<entry id="dmn">
-		<bdb><w>דמן</w> empty entry</bdb>
+		<bdb><w>דמן</w> (√ of foll., mng. dub.; Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>prepare, improve, manure land</def>, appar. denom.)</bdb>
 		<xref twot="441"/>
-		<status p="199">new</status>
+		<status p="199">base</status>
 	</entry>
 	<entry id="dnc">
-		<bdb><w>דנג</w> empty entry</bdb>
+		<bdb><w>דנג</w> (√ of foll. mng. unknown).</bdb>
 		<xref twot="444"/>
-		<status p="200">new</status>
+		<status p="200">done</status>
 	</entry>
 	<entry id="dqe">
-		<bdb><w>דפה</w> empty entry</bdb>
+		<bdb><w>דפה</w> (√ of foll. mng. unknown; NH <w>דֹּופִי</w> is <def>blemish, fault</def>).</bdb>
 		<xref twot="446"/>
-		<status p="200">new</status>
+		<status p="200">done</status>
 	</entry>
 	<entry id="dsl">
-		<bdb><w>דקל</w> empty entry</bdb>
-		<status p="200">new</status>
+		<bdb><w>דקל</w> (√ of foll. cf. <foreign xml:lang="ara">Arabic</foreign> a kind of <def>palm</def>; NH <w>דֶּקֶל</w>, <def>date-tree, palm</def>, Aram. <w>דִּיקְלָא</w>, <foreign xml:lang="ara">Arabic</foreign>).</bdb>
+		<status p="200">base</status>
 	</entry>
 	<entry id="dta">
-		<bdb><w>דרא</w> empty entry</bdb>
+		<bdb><w>דרא</w> (√ of foll. cf. <foreign xml:lang="ara">Arabic</foreign> <def>repel</def>).</bdb>
 		<xref twot="450"/>
-		<status p="201">new</status>
+		<status p="201">base</status>
 	</entry>
 	<entry id="dtb">
-		<bdb><w>דרב</w> empty entry</bdb>
+		<bdb><w>דרב</w> (√ of foll. cf. <foreign xml:lang="ara">Arabic</foreign> <def>become accltstomed, trained</def>, <foreign xml:lang="ara">Arabic</foreign> <def>train</def>, cf. Fl NHWB i. 444; also Eth. <foreign xml:lang="gez">Ethiopic</foreign> (quadrilit.) <foreign xml:lang="lat">jaculando infigere</foreign>, etc.; or, since <w>דָּרְבָן</w> Aram. in form, &amp; <ref r="1Sam.13.21">I S 13:21</ref> perh. secondary, possibly regard as Aram. loan-word &amp; connect with Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be sharp, penetrating</def> (GFM, note of Apr. 1892)).</bdb>
 		<xref twot="451"/>
-		<status p="201">new</status>
+		<status p="201">base</status>
 	</entry>
 	<entry id="dtc">
-		<bdb><w>דרג</w> empty entry</bdb>
+		<bdb><w>דרג</w> (√ of foll. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>go on foot, step by step, walk</def>, <foreign xml:lang="ara">Arabic</foreign> <def>rise in grade, rank</def>; NH <w>דרג</w> Hiph. <def>raise, make high</def>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> is <def>be connected</def>; Aram. <foreign xml:lang="syr">Syriac</foreign> (verb denom. acc. to PS); also As. <foreign xml:lang="akk">darâgu</foreign>, <def>be high, lift</def>, Lyon Sargontexte 80, <foreign xml:lang="akk">durgu, daragu</foreign>, <def>path, way</def> (of steep mountain paths) COTGloss (cf. also <w>דרך</w>) ; Ar. <foreign xml:lang="ara">Arabic</foreign>; <def>a step, stair</def>, Aram. <w>דַּרְגָּא</w>, <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign>, id.)</bdb>
 		<xref twot="452"/>
-		<status p="201">new</status>
+		<status p="201">base</status>
 	</entry>
 	<entry id="dtp1">
-		<bdb><w>דרע</w> empty entry</bdb>
-		<status p="204">new</status>
+		<bdb><w>דרע</w> (acc. to Thes connected with Aram. <w>דְּרָע</w>, <w>אֶדְרָע</w> <def>arm</def>, Heb. <w>זְרֹועַ</w>, whence foll. in sense <def>strong</def>, of fortified city ; this, however, is dub.)</bdb>
+		<status p="204">done</status>
 	</entry>
 	<entry id="dtt">
-		<bdb><w>דרר</w> empty entry</bdb>
+		<bdb><w>דרר</w> (√ of foll. words: Ar. <foreign xml:lang="ara">Arabic</foreign>;—
+			<sense n="1"><def>stream, flow abundantly</def> (of milk, tears, rain, etc.), cf. I. <w>דְּרֹור</w>. </sense>
+			<sense n="2"><def>be abundant, luxuriant</def> (of herbage), cf. <foreign xml:lang="ara">Arabic</foreign> a kind of tree, now <def>elm</def> (Lane), &amp; <w>דַּרְדַּר</w>. </sense>
+			<sense n="3"><def>run vehemently, easily</def> (of horse), cf. <foreign xml:lang="ara">Arabic</foreign> <def>swift</def> horse, or other beast, &amp; II. <w>דְּרֹור</w>.</sense>
+			<sense n="4"><def>give light, shine</def> (of lamp), cf. <foreign xml:lang="ara">Arabic</foreign> <def>shining star</def>, <foreign xml:lang="ara">Arabic</foreign> <def>glistening</def> or <def>shining</def> of sword, <foreign xml:lang="ara">Arabic</foreign> <def>pearls</def> (coll.) &amp; <w>דַּר</w>; hence prob. <w>דָּרֹום</w>).</sense>
+		</bdb>
 		<xref twot="454"/>
-		<status p="204">new</status>
+		<status p="204">base</status>
 	</entry>
 	<entry id="e1">
 		<bdb><w>ה</w> empty entry</bdb>
