@@ -385,6 +385,76 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 	  <bdb><w>ב</w>, <w>בּ</w> <em>Bêth</em>, 2nd letter; post BHeh. = numeral 2 (and so in margin of printed MT); <w>ב̈</w> = 2000; no evidence of this usage in OT times.</bdb>
 		<status p="88">done</status>
 	</entry>
+	<entry id="b2">
+		<w pos="prep" xlit="bᵉ" xml:lang="heb">בְּ</w>
+		<bdb mod="I"><w>בְּ</w> <pos>prep.</pos> <sense><def>in</def> (Moab. <w>בּ</w>, Syr. <foreign xml:lang="syr">Syriac</foreign>, Ar. <foreign xml:lang="ara">Arabic</foreign>, Eth. <foreign xml:lang="gez">Ethiopic</foreign>) before tone-syllables in certain cases (Ges §102.2) <w>בָּ</w>, with suff. <w>בִּי</w>; <w>בְּךָ</w> (<ref r="Exod.7.29">Ex 7:29</ref> <ref r="2Sam.22.30">2 S 22:30</ref> <ref r="Ps.141.8">ψ 141:8</ref> <w>בְּכָה</w>) in pause and fem. <w>בָּךְ</w>; <w>בֹּו</w> (once, <ref r="Jer.17.24">Je 17:24</ref> Kt <w>בֹּה</w>) <w>בָּהּ</w>; <w>בָּנוּ</w>; <w>בָּכֶם</w>, [<w>בָּכֶן</w>]; <w>בָּהֶם</w>, <w>בָּם</w> [also <w>בָּהֵ֫מָּה</w>  †<ref r="Exod.30.4">Ex 30:4</ref> <ref r="Exod.36.1">36:1</ref> <ref r="Hab.1.16">Hb 1:16</ref>], <w>בָּהֵן</w> †<ref r="1Sam.31.7">I S 31:7</ref> <ref r="Isa.38.16">Is 38:16</ref> <ref r="Ezek.42.14">Ez 42:14</ref> [15 times <w>בָּהֵן</w> (Fr MM 235), and thrice, <ref r="Lev.5.22">Lv 5:22</ref> <ref r="Num.13.19">Nu 13:19</ref> <ref r="Jer.5.17">Je 5:17</ref>, <w>בָּהֵ֫נָּה</w>] Prep. denoting properly <def>in</def>, Gk. <foreign xml:lang="grc">ἐν</foreign>, but applied in many derived and fig. significations. The senses expressed by <w>בְּ</w> are grouped by the Rabbis in three classes, <w>בֵּית הַכּלִי</w> <foreign xml:lang="lat">Beth vasculi</foreign>, <w>בֵּית הַדִּיבּוּק וְהַגְּגִיעָה</w> <foreign xml:lang="lat">Beth coniunctionis et viciniae</foreign>, <w>בֵּית הָעֵזֶר</w> <foreign xml:lang="lat">Beth auxilii</foreign>; and the same arrangement may be followed here, though the limits between the three classes are not clearly defined, and they sometimes overlap one another.
+			<sense n="I"><def>In</def>:
+				<sense n="1">strictly, of position <def>in</def> a place (which often is expressed more precisely by <w>בְּתוֹךְ ,בְּקֶרֶב</w>), as <w>בַּבַּיִת</w> <def>in</def> the house, <w>בָּעִיר</w> <def>in</def> the city, <w>בַּדּוּד</w>, <def>in</def> the pot, <w>בָּאָרֶץ</w> <def>in</def> the land, etc. constantly. Heb. idiom also says <w>בָּהָר</w> <def>in</def> the mountain <ref r="Exod.24.18">Ex 24:18</ref> etc., even in cases where we could hardly avoid saying <em>on</em>, as <ref r="1Kgs.11.7">I K 11:7</ref> <ref r="1Kgs.19.11">19:11</ref>: so <w>בְּחֹרֵב</w> <ref r="Deut.1.16">Dt 1:16</ref> al.; <w>בְּרֹאשׁ הָהָר</w> <ref r="Exod24.17">Ex 24:17</ref> <ref r="Ps.72.16">ψ 72:16</ref>. Preceded by a verb of motion (esp. <w>עָבַר</w>) <w>בְּ</w> = <def>through</def>, as <ref r="Gen.12.6">Gn 12:6</ref> and Abram passed through <w>בָּאָרֶץ</w> <def>in</def> the land = passed through it, <ref r="Gen.13.17">13:17</ref> <ref r="2Sam.24.2">2 S 24:2</ref> +; <def>in</def> (= <def>through</def>) a gate, <ref r="Isa.62.10">Is 62:10</ref> <ref r="Jer.17.19">Je 17:19</ref> <ref r="Mic.2.13">Mi 2:13</ref>. Fig. to speak <w>בְּאַזְנֵי</w> <def>in</def> the ears of . . . ; to be good (<em>or</em> evil, etc.) <w>בּעֵינֵי</w> <def>in</def> the eyes of. . ,</sense> 
+				<sense n="2">of presence in the midst of a multitude, <def>among</def>, <ref r="Exod.14.28">Ex 14:28</ref> there was not left <w>בָּהֶם</w> <def>among</def> them even one, <ref r="Lev.26.36">Lv 26:36</ref> <ref r="2Sam.15.31">2 S 15:31</ref> Ahitophel <w>בַּקֹשְׁרִים</w> is <def>among</def> the conspirators, <ref r="2Kgs.18.5">2 K 18:5</ref> <w>בְּכֹל מַלְכֵי יְהוּדָה</w>. So <w>בְּךָ</w> <def>in</def> thee (of Israel, coll.) <ref r="Deut.7.14">Dt 7:14</ref> <ref r="Deut.15.4">15:4</ref>, <ref r="Deut.15.7">7</ref> <ref r="Deut.18.10">18:10</ref> <ref r="Deut.23.11">23:11</ref> <ref r="Deut.28.54">28:54</ref> (diff. from <w>עִמָּ֑ךְ</w> <em>beside</em> thee <ref r="Lev.25.35">Lv 25:35</ref>).—Spec. 
+					<sense n="a">of an individ., implying eminency among: <ref r="Josh.14.15">Jos 14:15</ref> <ref r="Jer.46.18">Je 46:18</ref> Tabor <def>among</def> the mountains, <ref r="Jer.49.15">49:15</ref> <ref r="Prov.30.30">Pr 30:30</ref> <ref r="Song.1.6">Ct 1:6</ref> <w>הַיָּפָה בַגָּשִׁים</w> the fair one (= the fairest) <def>among</def> women, <ref r="Lam.1.1">La 1:1</ref>: cf. <ref r="Luke.1.42">Luke 1:42</ref>. On <ref r="1Sam.17.12">I S 17:12</ref> v. Dr.</sense>
+					<sense n="b">hence with some verbs, when the action refers to only a part of the object, as <w>הִכָּה בְּ</w> to smite among . . . i.e. to smite some of . . . (diff. from <w>הִכָּה</w> with accus.); <w>הָרַג בְּ</w> <ref r="Ps.78.31">Ψ 78:31</ref>; <w>נָשָׂא בְּ</w> to bear <def>in</def>, i.e. to share in bearing, <ref r="Num.11.7">Nu 11:17</ref> al.; <w>בָּנָה בְּ</w> to build <def>in</def> or at <ref r="Zech.6.15">Zc 6:15</ref> <ref r="Neh.4.4">Ne 4:4</ref>; <w>עָשָׂה בְּ</w> <ref r="Exod.5.9">Ex 5:9</ref>; <w>אָמֵל בְּ</w> to labour <def>on</def> <ref r="Jonah.4.10">Jon 4:10</ref>; <w>אָכַל בְּ</w> to eat or drink <def>of</def> <ref r="Judg.13.16">Ju 13:16</ref> <ref r="Prov.9.5">Pr 9:5</ref>; <w>חָלַק בְּ</w> to give a share <def>in</def> <ref r="Job.39.17">Jb 39:17</ref>.</sense>
+					<sense n="c">specifying the parts of which a whole consists (esp. in P) <ref r="Gen.7.21">Gn 7:21</ref> <ref r="Gen.8.17">8:17</ref> <ref r="Gen.9.10">9:10</ref>.<ref r="Gen.9.16">16</ref> <ref r="Gen.17.23">17:23</ref> <ref r="Exod.12.19">Ex 12:19</ref> <ref r="Num.31.11">Nu 31:11</ref>.<ref r="Num.31.25">25</ref> <ref r="Hosea.4.3">Ho 4:3</ref>.</sense>
+				<sense n="3">with ref. to the limits enclosing a space, <def>within</def>: <ref r="Exod.20.10">Ex 20:10</ref> <w>בִּשְׁעָרֶיךָ</w> <def>within</def> thy gates, <ref r="Isa.56.5">Is 56:5</ref> <w>בְּחוֹמוֹתַי</w> <def>within</def> my walls. </sense>
+				<sense n="4">often pregn. with verbs of motion, when the movement <def>to</def> a place results in rest <def>in</def> it, <def>into</def>: after <w>בָּא</w> <ref r="Gen.19.8">Gn 19:8</ref> <ref r="Isa.19.23">Is 19:23</ref>; <w>נָתַן</w> <ref r="Gen.27.17">Gn 27:17</ref>; <w>שָׁלַח</w> <em>to send</em> <ref r="Lev.16.22">Lv 16:22</ref>; <def>in among</def> <ref r="Josh.23.7">Jos 23:7</ref>.12 <ref r="1Kgs.11.2">1 K 11:2</ref>.—<ref r="Hosea.12.7">Ho 12:7</ref> (an extreme case) <w>שׁוּב בְּ</w> to return (and rest) <def>in</def> thy God, <ref r="1Sam.16.3">1 Sa 16:3</ref> (unless <w>לַזָּבַ֑ח</w> should be read, as v. 7).—<w>עַיִן בְּעַיִן</w> (with) eye (looking) <def>into</def> eye † <ref r="Num.14.14">Nu 14:14</ref> <ref r="Isa.52.8">Is 52:8</ref>; <w>פָּנִים בְּפָנִים</w> †Dt 5:4; <w>עֵינֵי פְ' בְּ</w> the eyes of . . . are <def>upon</def>, both in favourable  <ref r="Deut.11.12">Dt 11:12</ref> <ref r="Ps.101.6">Ψ 101:6</ref>) and hostile  <ref r="Amos.9.8">Am 9:8</ref> <ref r="Job.7.8">Jb 7:8</ref>) sense. </sense>
+				<sense n="5">applied to <em>time</em>, as <ref r="Gen.1.1">Gn 1:1</ref> <w>בְּרֵאשִׁית</w> <def>in</def> the beginning; <ref r="Gen.2.2">2:2</ref> <w>בַּיֹּום הַשְּׁבִיעִי</w> <def>on</def> the seventh day; <ref r="Judg.10.8">Ju 10:8</ref> <w>בַּשְָּׁנָה הַהִיא</w> <def>in</def> that year; &amp; constantly. </sense>
+				<sense n="6">of a state or condition, whether material or mental, <def>in</def> which an action takes place: so oft., <w>בְּשָׁלֹום</w> <def>in</def> peace <ref r="Gen.15.15">Gn 15:15</ref>; <w>בַּצָּרָה</w> <def>in</def> distress <ref r="Ps.91.15">Ψ 91:15</ref>; <w>הָלַךְ בְּתֻמֹּו</w> to walk <def>in</def> his integrity; <ref r="Exod.5.19">Ex 5:19</ref> <w>בְּרָע</w> <def>in</def> evil case. </sense>
+				<sense n="7"><w>בְּ</w> introduces the <em>predicate</em>, denoting it as that <em>in</em> which the subj. consists, or <em>in</em> which it shews itself (the <em>Beth essentiae</em>,—common in Arabic, esp. with a ptcp. or adj. and in a negative sentence: Qor 2:79 <foreign xml:lang="ara">Arabic</foreign> and God (appears) not as one remiss; 2:7 <foreign xml:lang="ara">Arabic</foreign> and they are not believers [comp. French <foreign xml:lang="fr">en—en honnête homme</foreign>]; v. WAG II. §56a): viz. </sense>
+					<sense n="a">a primary pred., <ref r="Exod.18.4">Ex 18:4</ref> the God of my fathers <w>בְּעֶזְרִי</w> was my help, <ref r="Ps.146.6">Ψ 146:6</ref> <ref r="Hos.13.9">Ho 13:9</ref> (rd.: <w>כִּי מִי בְעֶזְרֶֽךָ</w>with &#x1D50A; &#x1D516; Che al.); <ref r="Ps.68.5">Ψ 68:5</ref> <w>בְּיָהּ שְׁמֹו</w> his name consists in Yah, <ref r="Job.23.13">Jb 23:13</ref>  <ref r="Job.37.10">37:10</ref>. With the pred. in the pl. (as <em>pl. maj.</em>) <ref r="Ps.118.7">Ψ 118:7</ref> <w>י' בְּעֹזְרָ֑י</w> J. is my great helper, <ref r="Ps.54.6">54:6</ref> (v. Che), <ref r="Judg.11.35">Ju 11:35</ref>.</sense> 
+					<sense n="b">a secondary pred., <ref r="Exod.6.3">Ex 6:3</ref> and I appeared unto them <w>בְּאֵל שַׁדָּ֑י</w> <def>as</def> God Almighty, <ref r="Num.26.53">Nu 26:53</ref> <w>בְּנַחֲלָ֖ה</w> <def>as</def> an inheritance, <ref r="Num.34.2">34:2</ref> <ref r="Ezek.46.16">Ez 46:16</ref>  <ref r="Ezek.47.14">47:14</ref> <ref r="Deut.10.22">Dt 10:22</ref>  <ref r="Deut.26.14">26:14</ref> I have not put away therefrom <w>בְּמָמֵא</w> as one unclean = while unclean, <ref r="Deut.28.62">28:62</ref> <ref r="Isa.40.10">Is 40:10</ref> <w>בְּחָזָק יָבֹוא</w> he cometh <def>as</def> a strong one, <ref r="Ps.35.2">Ψ 35:2</ref> (where v. De) and rise up as my help, v. <ref r="Ps.35.16">16</ref>, <ref r="Ps.39.7">39:7</ref> <ref r="Ps.55.19">55:19</ref> <ref r="Prov.3.26">Pr 3:26</ref> <ref r="Job.36.32">Jb 36:32</ref> (De).</sense>
+					<sense n="c">a pred. as accus., <ref r="Isa.48.10">Is 48:10</ref> I have refined thee <w>וְלֹא בְכָ֑סֶף</w> but not <def>as though</def> silver, <ref r="Ezek.20.41">Ez 20:41</ref>; <ref r="Num.18.26">Nu 18:26</ref>  <ref r="Num.36.2">36:2</ref> <ref r="Josh.13.6">Jos 13:6</ref>.<ref r="Josh.13.7">7</ref> <ref r="Josh.23.4">23:4</ref> <ref r="Ezek.45.1">Ez 45:1</ref>  <ref r="Ezek.47.22">47:22.22</ref> (rd. <w>יַפִּלוּ</w>) <ref r="Ezek.48.29">48:29</ref> (v. &#x1D50A; Co) all <w>בְּנַחֲלָה</w> (cf. b), <ref r="Ps.78.65">Ψ 78:65</ref> &amp; allotted <w>בְּחֶבֶל נַחֲלָה</w> <def>as</def> a line of inheritance (i.e. as a measured inheritance). <ref r="Isa.26.4">Is 26:4</ref> <w>כִּי בְּיָהּ יהוה צוּר עוֹלָמִים י'</w> is different—for <def>in</def> Yah there is a rock of ages (cf. Qor 4:7.47 there is sufficiency in God as a patron). </sense>
+					<sense n="d">in comparisons, <ref r="Ps.37.20">Ψ 37:20</ref> consume away <w>בֶּעָשָׁן</w> <def>in the form of, as</def>, smoke <ref r="Ps.78.33">78:33</ref> <ref r="Ps.102.4">102:4</ref> <ref r="Job.34.36">Jb 34:36</ref>  <ref r="Job.36.14">36:14</ref>.</sense>
+				</sense>
+			</sense>
+			<sense n="II">Denoting proximity—
+				<sense n="1"><def>at, by</def> (not very common): <ref r="1Sam.29.1">1 Sa 29:1</ref> <w>בָּעַיִן</w> <def>by</def> the spring; <ref r="Ezek.10.15">Ez 10:15</ref>.20 <w>בִּנְהַר כְּבָר</w> <def>by</def> the river Chebar (1:3 <w>עַל</w>).</sense>
+				<sense n="2"><def>on</def>: <ref r="Gen.8.20">Gn 8:20</ref> <ref r="Num.23.2">Nu 23:2</ref> <w>בַּמִּזְבֵּחַ</w> <def>on</def> the altar; <ref r="Judg.8.21">Ju 8:21</ref> <def>on</def> the necks of the camels; <ref r="1Kgs.2.5">1 K 2:5</ref> al. <w>בְּמָתְנָיו</w> <def>on</def> his loins; <ref r="Isa.59.17">Is 59:17</ref> a helmet <w>בְּרֹאשֹׁו</w> <def>on</def> his head.</sense> 
+				<sense n="3">often with verbs of <em>touching, approaching, taking hold of, cleaving</em>, etc., as <w>תָּפַשׂ,תָּמַךְ ,פָּגַע ,קָרַב ,נָגַשׁ,נָגַע ,חָשַׁק ,דָּבֵק ,אָחַן</w> (see these words).</sense> 
+				<sense n="4">with words expressing or implying an act of hostility—
+					<sense n="a"><def>against</def>: <ref r="Gen.16.12">Gn 16:12</ref> <w>יָדוֹ בַבֹּל וְיַד בֹּל בֹּו</w> his hand <def>against</def> all, and the hand of all <def>against</def> him; <w>הָֽיְתָה יַד פְּ' בּ</w> <ref r="Deut.13.10">Dt 13:10</ref> <ref r="1Sam.5.9">1 Sa 5:9</ref>  <ref r="1Sam.18.17">18:17</ref> +oft. Hence after verbs (q.v.) of <em>fighting</em> (<w>רִיב ,נִלחַם</w>), <em>going up</em> to invade (<w>עָלָה</w>), <em>being angry</em> (<w>חָרָה אַף ,אָנַף ,הִתְעַבֵּר</w>), <em>sinning or acting treacherously</em> (<w>כִּחֶשׁ ,כִּזֵּב ,שִׁפֵּר ,פָּשַׁע ,מָעַל ,מָרָה מָרַד ,בָּנַד ,חָטָא</w>), <em>testifying</em> (<w>הֵעִיר ,עָנָה</w>), <em>mocking</em> (<w>הֵתֵל ,הִלְעִיג</w>), <em>feeling loathing</em> (<w>קוּץ</w>), <em>rebuking</em> (<w>גָּעַר</w>: prop. to protest loudly), <em>speaking</em> (<w>דִּבֶּר</w>: <ref r="Num.12.8">Nu 12:8</ref>b), etc., &amp; even (an extreme case) <ref r="Hos.7.14">Ho 7:14</ref> <w>יָסוּרוּ בִי</w> they turn aside (so as to be) <def>against</def> me. In a weaker sense <w>מַשְׁתִּין בַּקִּיר</w> mingens <em>ad</em> parietem <ref r="1Sam.25.22">1 Sa 25:22</ref> al.</sense>
+					<sense n="b"><def>down to, upon</def> (<em>super</em> with accus.), esp. in such phrases as <w>דָּמָיו בּוֹ</w> <ref r="Lev.20.9">Lv 20:9</ref> al. his blood be <def>upon</def> him <w>דָּמֹו בְרֹאשֹׁו</w> his blood be <def>upon</def> his head <ref r="Josh.2.19">Jos 2:19</ref>; <w>בְּרֹאשֹׁו</w> (<w>הֵשִׁיב י'</w>) <w>שׁוּב</w> <ref r="Judg.8.57">Ju 8:57</ref> (<w>רָעָה</w>), <ref r="1Kgs.2.33">1 K 2:33</ref> (<w>דָּם</w>), v. 44 (<w>רָאָה</w>), <ref r="Ps.7.17">Ψ 7:17</ref> (<w>עֲמָלוֹ </w>); <w>נָתַן דֶּרֶךְ פּ' בּרֹאשׁוֹ</w> <ref r="1Kgs.8.32">1 K 8:32</ref> &amp; oft. in Ez, as 9:10 11:21.</sense>
+				</sense>
+			</sense>
+			<sense n="III">
+				<sense n="1"><def>With</def>—
+					<sense n="a">of accompaniment: Nn 20:20 <w>בְּעַם כָּבֵד</w> <def>with</def> much people, <ref r="Josh.22.8">Jos 22:8</ref> <ref r="Judg.11.34">Ju 11:34</ref> <ref r="1Kgs.10.2">1 K 10:2</ref> <ref r="2Kgs.5.9">2 K 5:9</ref> <ref r="Jer.41.15">Je 41:15</ref>; <ref r="Exod.21.22">Ex 21:22</ref> and he shall give <w>בִּפְלִלִים</w> <em>with arbitrators</em> (arbitrators being employed), <ref r="Isa.8.16">Is 8:16</ref>; <w>בְּלִמֻּדָֽי</w> <def>with</def> my disciples, i.e. having them present; <ref r="Exod.8.1">Ex 8:1</ref>.13 <ref r="Jer.11.19">Je 11:19</ref> <w>עֵץ בְּלַחְמוֹ</w> a tree <def>with</def> its sap; <ref r="1Kgs.19.19">1 K 19:19</ref> <w>וְהוּא בִּשְׁגֵים הֶעָשָׂר</w> and he <def>with</def> the 12th.</sense> 
+					<sense n="b">often of what one takes or brings with one: <ref r="Gen.32.11">Gn 32:11</ref> <w>בְּמַפקְלִי</w> <def>with</def> my staff I passed over Jordan, <ref r="Judg.11.34">Ju 11:34</ref>  <ref r="Judg.15.1">15:1</ref> <ref r="1Sam.1.24">1 Sa 1:24</ref> <ref r="Isa.7.24">Is 7:24</ref>; <ref r="Mic.6.6">Mi 6:6</ref> al. <w>קִדֵּם בְּ</w> to go to meet <def>with</def>; <w>בָּא בְּ</w> to come <def>with</def> <ref r="Lev.16.3">Lv 16:3</ref> <ref r="Ps.66.13">Ψ 66:13</ref>  <ref r="Ps.71.16">71:16</ref>. (In Arabic this usage is developed more fully than in Hebrew, and <foreign xml:lang="ara">Arabic</foreign> lit. <em>to come with</em>, <foreign xml:lang="ara">Arabic</foreign>, lit. <em>to go away with</em>, are used idiomatically in the sense of <em>to bring</em>, and <em>to take away</em> respectively: WAG II.§56b.) Hence <w>בְּאֵין ,בְּלֹא ,בִּבְלִי ,בְּאֶפֶס</w> = <em>without</em>. </sense>
+					<sense n="c">of concomitant (or surrounding) conditions, as <w>בְּחִפָּזוֹן</w> <def>with</def> (or <def>in</def>) haste; <w>בְּצֶדֶק</w> <def>with</def> (or <def>in</def>) righteousness; <w>בִּשְׁגָגָה</w> <def>in</def> error; <w>בִּתְרוּעָה וּבְקוֹל שׁוֹפָר</w> <ref r="2Sam.6.15">2 S 6:15</ref>; often; in such phrasese as <w>בְּצִדְקָֽתְךָ</w> <ref r="Ps.31.2">Ψ 31:2</ref> <def>in</def> thy righteousness; <w>בְּחַסְדְּךָ</w> <def>in</def> thy mercy <ref r="Exod.15.13">Ex 15:13</ref>;—<w>בּאָשְׁרִי</w> <def>with</def> my happiness! = happy am I <ref r="Gen.30.13">Gn 30:13</ref>; <ref r="Ps.29.4">Ψ 29:4</ref> the voice of <w>י'</w> is <w>בַּכֹּחַ</w> <def>with</def> power = is powerful; <ref r="Exod.32.12">Ex 32:12</ref> <w>בְּרָעָה</w> <def>with</def> evil purpose; <ref r="Ps.73.8">Ψ 73:8</ref> <w>בְרָע</w> <def>in</def> wickedness; <ref r="Ps.90.10">90:10</ref> <w>בִּגְבוּרֹת</w> <def>with</def> strength.</sense>
+				</sense> 
+				<sense n="2">of the instrument or means: as 
+					<sense n="a"><w>בַּחֶרֶב</w> <def>with</def> the sword <ref r="Exod.5.3">Ex 5:3</ref> etc.; <w>בְּרַגְלַיִם</w> <def>with</def> the feet <ref r="Isa.28.3">Is 28:3</ref>; . . . <w>בְּיַד</w> <def>by</def> the hand of . . . (v. sub <w>יָד</w>); to stone <w>בְּאֶבֶן</w> or <w>בָּֽאֲבָנִים</w> <def>with</def> stones <ref r="Lev.20.2">Lv 20:2</ref> <ref r="Num.14.10">Nu 14:10</ref> etc.; <w>שָׁתָה בְּ</w> to drink <def>with</def> a cup <ref r="Gen.44.5">Gn 44:5</ref> <ref r="Amos.6.6">Am 6:6</ref> (cf. in Aram. <ref r="Dan.5.2">Dn 5:2</ref>); to cry <w>בְּגָרוֹן</w> <def>with</def> the throat <ref r="Isa.58.1">Is 58:1</ref>; to burn <w>בָּאֵשׁ</w> <def>in</def> or <def>with</def> fire (oft.); to slay or to perish <w>בָּרָעָב</w> <def>through</def> hunger or <w>בַּדֶּבֶר</w> <def>through</def> pestilence <ref r="Exod.16.3">Ex 16:3</ref> <ref r="Jer.21.9">Je 21:9</ref> + oft. (cf. <ref r="Job.27.15">Jb 27:15</ref> <w>בַּמָּוֶת יִקָּבֵ֑רוּ</w>); to save <def>with</def> or <def>by</def> <ref r="Judg.7.7">Ju 7:7</ref> <ref r="1Sam.14.6">1 Sa 14:6</ref>. </sense>
+					<sense n="b">idiom., with certain verbs, as <w>שָׁחַק בְּ</w> to play <def>with</def> <ref r="Job.40.29">Jb 40:29</ref>; <w>עָבַר בְּ</w> to labour <def>with</def> a person (as with an instrument), i.e. to use him as a slave <ref r="Exod.1.14">Ex 1:14</ref> <ref r="Jer.22.13">Je 22:13</ref>  <ref r="Jer.27.7">27:7</ref> al.; <w>עָשָׂה בְּ</w> <ref r="Jer.18.23">Je 18:23</ref> <ref r="Neh.9.24">Ne 9:24</ref> Dn 11:7; <ref r="Esth.1.15">Est 1:15</ref>  <ref r="Esth.2.11">2:11</ref> 3:11 6:6; &amp; perh. <w>דִּבֶּר בְּ</w> (of God) to speak <def>with</def> one <ref r="Num.12.2">Nu 12:2</ref>.8a al. (v. Ew §217f. (3); Dr 8m ii. 23, 2). Further <w>הִתְנַבֵּא ביהוה ,בַּבַּעַל</w> to prophesy <def>with</def> or <def>by</def> <w>י'</w> or Baal, <w>י'</w> or Baal being the inspirer; <w>דָּרַשׁ ,שָׁאַל בְּ</w> to inquire or ask <def>by means of</def> a god (or oracle).</sense> 
+					<sense n="c"><w>ביהוה</w> <def>through</def> <w>י'</w>, (= by His aid) in many connexions, as <ref r="Ps.18.30">Ψ 18:30</ref>  <ref r="Ps.44.6">44:6</ref> 56:5.11 60:14 <ref r="Isa.26.13">Is 26:13</ref>  <ref r="Isa.45.25">45:25</ref> <ref r="Hos.1.7">Ho 1:7</ref> Ze 10:12; with pass. verbs <ref r="Deut.33.29">Dt 33:29</ref> <ref r="Isa.45.17">Is 45:17</ref> (to be saved): and even of the immediate cause <ref r="Num.36.2">Nu 36:2</ref> to be commanded <w>ביהוה</w> by <w>י'</w> <ref r="Gen.9.6">Gn 9:6</ref> <w>בָּאָדָם</w> <def>by</def> man shall his blood be shed (both unusual), <ref r="Hos.14.4">Ho 14:4</ref>.</sense>
+					<sense n="d">allied is the use of <w>בְּ</w> in such phrases as to bless, swear, speak, prophesy, etc., <w>בְּשֵׁם</w> <def>in</def> the name of . . . (i.e. the name being used or appealed to in the act) <ref r="Deut.6.13">Dt 6:13</ref> <ref r="Jer.11.21">Je 11:21</ref>, etc. (so to swear  <w>ביהוה</w> <def>by</def> <w>י'</w>, <ref r="Josh.2.12">Jos 2:12</ref> etc., <w>בִּימִינוֹ</w> <ref r="Isa.62.8">Is 62:8</ref>; to bless <w>בְּךָ</w> <em>with thee</em> <ref r="Gen.48.20">Gn 48:20</ref>, to swear <em>with me</em> <ref r="Ps.102.9">Ψ 102:9</ref>, i.e. using my name in oath, <ref r="Jer.29.22">Je 29:22</ref>); almost = in the authority and power of <ref r="1Sam.17.45">1 Sa 17:45</ref>  <ref r="1Sam.25.5">25:5</ref> <ref r="1Kgs.21.8">1 K 21:8</ref> <ref r="Mic.4.5">Mi 4:5</ref> Zc 10:12 <ref r="Ps.20.6">Ψ 20:6</ref>  <ref r="Ps.44.6">44:6</ref> <ref r="Ps.89.25">89:25</ref>. </sense>
+					<sense n="e"><w>בַּמָּה</w> or <w>בַּמֶּה</w> <def>by means of what? how?</def> <ref r="Gen.15.8">Gn 15:8</ref> <ref r="Judg.6.15">Ju 6:15</ref>  <ref r="Judg.16.5">16:5</ref>.6.10 <ref r="1Kgs.22.21">1 K 22:21</ref> <ref r="Mal.2.17">Mal 2:17</ref>. <w>בְּזֹאת</w> <def>by means of this</def> <ref r="Gen.42.15">Gn 42:15</ref>.33 <ref r="Exod.7.17">Ex 7:17</ref> <ref r="Num.16.28">Nu 16:28</ref>; <def>with this</def> = <def>on this condition</def> <ref r="Gen.34.15">Gn 34:15</ref>.22 <ref r="1Sam.11.2">1 Sa 11:2</ref> <ref r="Isa.27.9">Is 27:9</ref>.</sense>
+				</sense>
+				<sense n="3">of cost or price (the <foreign xml:lang="lat">Beth pretii</foreign>), the price, whether given or received, being treated as the instrumental means by which the act is accomplished, <def>with, for, at the cost of</def>: thus regularly 
+					<sense n="a">with <w>שָׂכַר</w> <em>hire</em> <ref r="Gen.30.16">Gn 30:16</ref>, <w>פָּדָה</w> <em>redeem</em> <ref r="Exod.34.20">Ex 34:20</ref>, <w>אֵרֵשׂ</w> <em>betroth</em> <ref r="2Sam.3.14">2 S 3:14</ref>, <w>קָנָה</w> <em>buy</em> <ref r="2Sam.24.24">2 S 24:24</ref>; <ref r="1Kgs.2.23">1 K 2:23</ref> <w>בְּגַפְשׁוֹ</w> <em>at the cost of</em> his life hath A. spoken this word, <ref r="2Sam.23.17">2 S 23:17</ref> who went <w>בְּנַפְשׂוֹתָם</w> <em>at peril of</em> their lives, <ref r="Prov.7.23">Pr 7:23</ref> <ref r="Lam.5.9">La 5:9</ref> <ref r="Josh.6.26">Jos 6:26</ref> <w>בִּכְכֹרוֹ יְיַסְּדֶנָּה</w> <em>at the price of</em> his firstborn shall he lay its foundations, <ref r="1Chr.12.19">1 Ch 12:19</ref> <w>בְּרָאשֵׁינוּ</w> <em>to the jeopardy of</em> our heads he will fall away, etc.</sense>
+					<sense n="b">with <w>מָכַר</w> <em>sell</em> <ref r="Deut.21.14">Dt 21:14</ref>; <w>עָבַד</w> <em>serve</em> <ref r="Gen.29.18">Gn 29:18</ref>.20 <ref r="Hos.12.13">Ho 12:13</ref>; <w>הֵמִיר</w> <em>exchange</em> <ref r="Lev.27.10">Lv 27:10</ref> <ref r="Hos.4.7">Ho 4:7</ref> their glory I will exchange <def>for</def> ignominy, <ref r="Ps.106.20">Ψ 106:20</ref>; <w>נָתַן בְּנֶשֶׁךְ</w> to give <def>for</def> interest <ref r="Lev.25.37">Lv 25:37</ref> <ref r="Ps.15.5">Ψ 15:5</ref>; in other connexions <ref r="Gen.23.9">Gn 23:9</ref>  <ref r="Gen.47.15">47:15</ref>f. <ref r="Isa.45.13">Is 45:13</ref> <ref r="Lam.1.11">La 1:11</ref> <ref r="Song.8.7">Ct 8:7</ref>.11; <ref r="Deut.19.21">Dt 19:21</ref> <w>נֶפֶשׁ בְּנֶפֶשׁ עַיִן בְּעַיִן</w> life <def>for</def> life, eye <def>for</def> eye; <ref r="Isa.2.22">Is 2:22</ref> <w></w> <em>at what</em> is he to be accounted? <ref r="Isa.7.23">7:23</ref> a thousand vines <w>בְּאֶלֶף כָּ֑סֶף</w> <def>at</def> a thousand (shekels of) silver.—Hence (perhaps) the idiom. usages <w>שָׁנָה בְשָׁנָה</w> year <def>for</def> year, one year like another, annually <ref r="Deut.15.20">Dt 15:20</ref> al.; <w>יוֹם בְּיוֹם</w> (late), <w>בְּיוֹם בְּיוֹם</w> † <ref r="1Sam.18.10">1 Sa 18:10</ref>; <w>בְּפַעַם בְּפַעַם</w> (v. <w>פַּעַם ,יוֹם</w>); <w>חֹדֶשׁ בּחֹדֶשׁ</w> † <ref r="1Chr.27.1">1 Ch 27:1</ref>.</sense>
+				</sense>
+				<sense n="4">rather peculiarly, in certain cases where the object of an action may be treated as the <em>instrument</em> by which it is accomplishcd: as <w>הֵנַיעַ בְּרֹאשׁ</w> to shake <def>with</def> the head <ref r="Jer.18.6">Je 18:6</ref> <ref r="Job.16.4">Jb 16:4</ref> (as well as <w>הֵנִיעַ רֹאשׁ</w> <ref r="Ps.22.8">Ψ 22:8</ref>); to open <def>with</def> the mouth <ref r="Job.16.10">Jb 16:10</ref>, <def>with</def> the lips <ref r="Ps.22.8">Ψ 22:8</ref>; to gnash <def>with</def> the teeth <ref r="Job.16.9">Jb 16:9</ref> (to gnash the teeth <ref r="Ps.35.16">Ψ 35:16</ref>); to wink <def>with</def> the eye <ref r="Prov.6.13">Pr 6:13</ref> (to wink the eye, <em>ib.</em> 10:10); <w>נָתַן בְּקוֹל</w> to utter <def>with</def> the voice <ref r="Ps.46.7">Ψ 46:7</ref>  <ref r="Ps.68.34">68:34</ref> <ref r="Jer.12.8">Je 12:8</ref> (but <w>נָתַן קוֹל</w> is more common); to stretch out <def>with</def> the hand <ref r="Lam.1.17">La 1:17</ref>; <w>הֵרִים בַּמַּשׂטֶּה</w> (unusual) <ref r="Exod.7.20">Ex 7:20</ref>. So <w>קָרָא בְּשֵׁם</w> to call <def>with</def> the name—in diff. senses, acc. to the context, viz. to <em>proclaim</em> <ref r="Exod.33.19">Ex 33:19</ref>  <ref r="Exod.34.5">34:5</ref> <ref r="Isa.44.5">Is 44:5</ref> <ref r="Ps.49.12">Ψ 49:12</ref>; to <em>invoke</em> <ref r="Gen.4.26">Gn 4:26</ref>  <ref r="Gen.12.8">12:8</ref> <ref r="1Kgs.18.24">1 K 18:24</ref>-26 <ref r="Isa.12.4">Is 12:4</ref>; to <em>name honourably</em> <ref r="Isa.43.1">Is 43:1</ref>  <ref r="Isa.45.3">45:3</ref>. Cf. Ew §282d Ges §119.8b R. W AGii. §56bβ De <ref r="Job.31.12">Jb 31:12</ref>; <ref r="Prov.29.30">Pr 29:30</ref>.</sense> 
+				<sense n="5">with a causal force, <def>through, on account of</def>: <ref r="Gen.18.28">Gn 18:28</ref> <w>הֲתַשְׁחִית בַּחֲמִשָּׁה</w> wilt thou destroy <def>on account of</def> five the whole city? <ref r="Lev.26.89">Lv 26:89</ref> <ref r="Num.16.26">Nu 16:26</ref> <ref r="Deut.9.4">Dt 9:4</ref>.<ref r="Deut.9.5">5</ref> <ref r="Deut.24.15">24:15</ref>: <w>אִישׁ בְּחֶטְאוֹ יוּמָֽתוּ</w> they shall be put to death, each <def>because of</def> his own sin (cf. <ref r="Jer.31.30">Je 31:30</ref> <ref r="Ezek.3.18">Ez 3:18</ref>, v. 18:17) <ref r="2Sam.3.27">2 S 3:27</ref>  <ref r="2Sam.14.7">14:7</ref> (cf. <ref r="Jonah.1.14">Jon 1:14</ref>) <ref r="Isa.7.4">Is 7:4</ref> (|| <w>מִן</w>) <ref r="Isa.28.7">28:7</ref> (|| <w>מִן</w>) <ref r="Isa.50.1">50:1</ref> <ref r="Isa.53.5">53:5</ref> <ref r="Isa.57.17">57:17</ref> <ref r="Jer.51.46">Je 51:46</ref> <ref r="Ps.5.8">Ψ 5:8</ref>.<ref r="Ps.5.11">11</ref> <ref r="Ps.6.8">6:8</ref> (|| <w>מִן</w>) <ref r="Ps.31.10">31:10</ref> <ref r="Ps.32.3">32:3</ref> <ref r="Ps.42.10">42:10</ref> <ref r="Ps.90.9">90:9</ref> <ref r="Ps.94.23">94:23</ref>. So in <w>בִּגְלַל , בַּאֲשֶׁר</w> (v. <w>גָּלָל , אֲשֶׁר</w>) &amp; (sts.) in <w>בִּדְבַר</w> <def>at, through</def>, the word of. . . .</sense> 
+				<sense n="6">of the material <def>with</def> which a work is wrought, both absol. <w>עָשָׂה בַזָּהָב</w> to work with gold <ref r="Exod.31.4">Ex 31:4</ref> <ref r="1Kgs.7.14">1 K 7:14</ref>; and to make a thing <def>with</def> (in our idiom, <em>of</em>) gold <ref r="Exod.38.8">Ex 38:8</ref> <ref r="Ezek.7.20">Ez 7:20</ref> <ref r="1Kgs.15.22">1 K 15:22</ref> (<w>בָּגָה</w>). Without a verb <ref r="Lev.13.62">Lv 13:62</ref> <ref r="2Chr.9.18">2 Ch 9:18</ref>.</sense>
+				<sense n="7"><def>with</def> for <def>falthough, in spite of</def> (cf. Germ. <em>bei</em> alle dem): <ref r="Lev.26.27">Lv 26:27</ref> <ref r="Num.14.11">Nu 14:11</ref> <w>בְּכֹל הָאֹתוֹת</w> <def>in spite of</def> all the signs that I have wrought, <ref r="Deut.1.32">Dt 1:32</ref> <ref r="Isa.47.9">Is 47:9</ref> <ref r="Ps.27.3">Ψ 27:3</ref>; esp. in the phrase <w>בְּכָל־זֹאת</w> for all this <ref r="Isa.5.25">Is 5:25</ref>  <ref r="Isa.9.11">9:11</ref>.<ref r="Isa.9.16">16</ref>.<ref r="Isa.9.20">20</ref> <ref r="Isa.10.4">10:4</ref> <ref r="Ps.78.32">Ψ 78:32</ref> al. (Cf. in Ar. <foreign xml:lang="ara">Arabic</foreign> Qor 9:25.)</sense>
+				<sense n="8">of a standard of measurement or computation, <def>with, by</def>: <ref r="Exod.12.4">Ex 12:4</ref> <w>בְּמִכְסַת נְפָשֹׁת</w> <def>by</def> the computation of souls; <ref r="Lev.5.25">Lv 5:25</ref> al. <w>בְּעֶרְכְּךָ</w> <def>by</def> thy reckoning; <ref r="Ezek.4.10">Ez 4:10</ref>; <w>בְּמִסְפָּר</w> <def>by</def> number <ref r="Deut.25.2">Dt 25:2</ref> +; . . . <w>בְּמִסְפַּר</w> <def>by</def> the number of . . . <ref r="Lev.25.15">Lv 25:15</ref>.<ref r="Lev.25.50">50</ref> <ref r="Num.1.2">Nu 1:2</ref>, etc.; <w>בְּשֶׁקֶל הַקֹּדֶשׁ</w> <ref r="Exod.30.13">Ex 30:13</ref> al. (in P); <w>בָּאַמָּה</w> often (v. <w>אַמָּה</w>); <ref r="Deut.3.11">Dt 3:11</ref> <w>בְּאַמַּת אִישׁ</w> <def>by</def> the cubit of a man; <ref r="2Sam.14.26">2 S 14:26</ref> <w>בְּאֶבֶן הַמֶּלֶךְ</w>. Of a model <ref r="Gen.1.26">Gn 1:26</ref> <w>בְּצַלְמֵנוּ</w> <def>in</def> our image, <ref r="Gen.5.1">5:1</ref>.<ref r="Gen.5.3">3</ref> <ref r="Exod.25.40">Ex 25:40</ref>; <w>בְּדֶרֶךְ</w> <def>with</def> the way (= in the manner) of . . . <ref r="Isa.10.24">Is 10:24</ref>.<ref r="Isa.10.26">26</ref> <ref r="Amos.4.10">Am 4:10</ref>.</sense>
+			</sense>
+		</sense>
+		<sense n="IV"><w>בְּ</w> is used also with certain classes of verbs, though the explanation of its use may be sometimes doubtful: viz. 
+			<sense n="a">with verbs of <em>taking refuge, trusting, relying</em>, as <w>בָּטַח ,הֶאֱמִין ,חָסָה ,נִשְׁעַן</w>. </sense>
+			<sense n="b">with verbs of <em>ruling, governing, restraining</em>, as <w>שָׁלַט ,רָדָה ,עָצַר ,נָגַשׂ ,מָשַׁל ,מָלַךְ</w>.</sense>
+			<sense n="c">with verbs of <em>rejoicing, feeling pleasure</em> or <em>satisfaction</em>, etc., as <w>שָׂבַע ,רָצָה ,חָפֵץ ,שָׂמֵחַ ,שׂוּשׂ,עָלַץ ,גִּיל</w> (but with this verb <w>מִן</w> is more common). [Prob. a case of III. 5.]</sense>
+			<sense n="d">with verbs expressive of sensible perception, to denote the pleasurable or attentive exercise of the faculty concerned, as <w>שָׁמַע בְּ</w> to listen <def>to</def>, <w>חָזָה ,רָאָה ,הִבִּיט בְּ</w>, to look <def>upon</def>, <w>הֵרִיחַ בְּ</w> to smell <def>at</def> (see these words).</sense> 
+			<sense n="e">occasionally also with verbs of <em>speaking, thinking, mentioning, knowing</em>, to denote the object of the action, as <w>דִּבֶּר בְּ</w> to speak <def>about</def> <ref r="Deut.6.7">Dt 6:7</ref> <ref r="Ps.87.3">Ψ 87:3</ref> al. (v. sub <w>דִּבֶּר</w>); <w>שִׂיחַ ,הָגָה ,הִלֵּל בְּ</w> <ref r="Ps.44.9">Ψ 44:9</ref>  <ref r="Ps.63.7">63:7</ref> <ref r="Ps.69.13">69:13</ref>; <w>יָדַע</w> <ref r="Jer.38.24">Je 38:24</ref>; <w>זָכַר</w> once <ref r="Jer.3.16">Je 3:16</ref>, <w></w> oft.; <ref r="Ps.71.6">Ψ 71:6</ref> <w>בְּךָ תְהִלָּתִי</w> <def>of</def> thee is my praise.</sense>
+ 		</sense>
+		<sense n="V">Followed by an inf. c., <w>בְּ</w> forms a periphrasis for the gerund, though in English it is commonly to be rendered by a verb and conj., viz.:—
+			<sense n="1">as a <em>temporal</em> conj., as <ref r="Gen.2.4">Gn 2:4</ref> <w>בְּהִבָּֽרְאָם</w> <def>in</def> their <em>being created</em> = <def>when</def> they <em>were</em> created, 4:8 <w>בִּהְיוֹתָם</w> <def>in</def> their <em>being</em> (= <def>when</def> they <em>were</em>) in the field; and constantly. Sometimes it has in appearance the force of <def>after that</def>, as <ref r="Gen.33.18">Gn 33:18</ref> <ref r="Exod.3.12">Ex 3:12</ref>  <ref r="Exod.13.17">13:17</ref>; but as a rule this is really due to the action denoted by the inf. being treated as extending over a period <def>within</def> which the action of the principal verb takes place: so esp. in the phrase <w>בְּצֵאת יִשׂרָאֵל מִמִּצְרַיִם</w>, even of events at the close of the 40 years, <ref r="Deut.4.45">Dt 4:45</ref>  <ref r="Deut.23.5">23:5</ref> <ref r="Josh.5.4">Jos 5:4</ref>, the whole period being treated as that in which Egypt was left (comp. <ref r="2Kgs.2.1">2 K 2:1</ref> where the time included is future). Cases, however, occur in which this explanation will hardly apply, as <ref r="Deut.27.4">Dt 27:4</ref>.12.</sense>
+			<sense n="2">as a <em>causal</em> conj. (cf. above III. 5), as <ref r="Gen.19.16">Gn 19:16</ref> <w>בְּחֶמְלַת י' עָלָיו</w> <def>through</def> J.'s having compassion upon him, <ref r="Exod.16.7">Ex 16:7</ref>  <ref r="Exod.33.16">33:16</ref> 34:29 <ref r="Deut.1.27">Dt 1:27</ref> <w>בְּשִׂנְאַת י' אֹתָנוּ</w> <def>through</def> J.'s hating us, etc. (<ref r="Deut.9.28">9:28</ref> similarly <w>מִן</w>), <ref r="1Kgs.18.18">1 K 18:18</ref> (= <def>in that</def> ye have . . .) <ref r="Ezek.9.8">Ez 9:8</ref>  <ref r="Ezek.43.8">43:8</ref> 44:7 <ref r="2Chr.28.6">2 Ch 28:6</ref>.
+			<sense n="3">as a <em>concessive</em> conj., <def>when</def> = <def>though</def>: <ref r="Isa.1.15">Is 1:15</ref> <ref r="Ps.46.3">Ψ 46:3</ref>     <w>בְּהָמִיר אָרֶץ</w> <def>though</def> the earth do change. </sense>
+		<lb/><em>Note</em>.—Ex 10:12 <w>בָּאַרְבֶּה</w> can only be rendered 'with the locusts,' the locusts being conceived as implicit in Moses' uplifted hand: but prob. <w>לָאַרְבֶּה</w> should be read. Thrice in late Heb. <w>בְּ</w> is used peculiarly: <ref r="1Chr.7.23">1 Ch 7:23</ref> for <def>with</def> misfortune was it in his house (<w>בְּרָעָה</w> chosen for the purpose of explaining <w>בְּרִיעָה</w>); <ref r="1Chr.9.33">9:33</ref> <w>עֲלֵיהֶם בַּמְּלָאכָה</w>, it devolved upon them <def>with</def> the work; <ref r="Ezra.3.3">Ezr 3:3</ref> for <def>with</def> terror (was it) upon them from the peoples of the countries (the sentence without a verb as oft. in Chr.: Dr Intr. 504f.): cf. <ref r="Ezra.8.34">8:34</ref>. Compo Ew §295f.</sense></sense>
+		</bdb>
+		<source><w src="b2">ב</w></source>
+		<xref twot="2621"/>
+		<status p="88">base</status>
+	</entry>
 	<entry id="bdd2">
 	  <bdb mod="II"><w>בדד</w> (prob. i. q. <w>בָּדָא</w> q. v. <def>talk idly</def>).</bdb>
 		<xref twot="202"/>
@@ -520,303 +590,308 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="141">base</status>
 	</entry>
 	<entry id="bvn">
-		<bdb><w>בשׁן</w> empty entry</bdb>
+		<bdb><w>בשׁן</w> (√ of foll. = <def>smooth, soft</def>? cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>soft and smooth ground</def></bdb>
 		<xref twot="293"/>
-		<status p="143">new</status>
+		<status p="143">base</status>
 	</entry>
 	<entry id="bwl">
-		<bdb><w>בתל</w> empty entry</bdb>
+		<bdb><w>בתל</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>sever, separate</def>).</bdb>
 		<xref twot="295"/>
-		<status p="143">new</status>
+		<status p="143">base</status>
 	</entry>
 	<entry id="bww">
-		<bdb><w>בתת</w> empty entry</bdb>
+		<bdb><w>בתת</w> (? <def>cut off, sever</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, secuit<foreign xml:lang="lat">, resecuit, abrupit</foreign>).</bdb>
 		<xref twot="298"/>
-		<status p="144">new</status>
+		<status p="144">base</status>
 	</entry>
 	<entry id="c1">
-		<bdb><w>ג</w>, <w>גּ</w> empty entry</bdb>
-		<status p="144">new</status>
+		<bdb><w>ג</w>, <w>גּ</w> <def>Gîmel</def>, third letter; in postB Heb. = numeral 3 (and so margin of printed MT); <w>ג̈</w> = 3000 ; no evidence of this usage in OT times.</bdb>
+		<status p="144">done</status>
 	</entry>
 	<entry id="cba">
-		<bdb><w>גבא</w> empty entry</bdb>
+		<bdb><w>גבא</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>restrain</def> or <def>withhold oneself</def>; perh. = <foreign xml:lang="ara">Arabic</foreign> <def>collect</def> (water in a cistern, also tribute), so Lane <foreign xml:lang="ara">Arabic</foreign> I. ad fin., Fl NHWB 1. 431; v. also NH <w>גָּבָשׁה ,גבי</w> Aram <w>גְּבָא</w>, <foreign xml:lang="ara">Arabic</foreign> <def>collect</def> debts, taxes, etc.)</bdb>
 		<xref twot="302"/>
-		<status p="146">new</status>
+		<status p="146">base</status>
 	</entry>
 	<entry id="cbb">
-		<bdb><w>גבב</w> empty entry</bdb>
+		<bdb><w>גבב</w> (prob. <def>be curved, convex, elevated</def>, Aram. <w>גִּבְּבָא</w> <def>hill</def>; <def>be</def> or <def>make hollow, dig</def>, Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>cut off</def> or <def>out</def>, <foreign xml:lang="ara">Arabic</foreign>, Aram. <w>גֹּב</w>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> As. <foreign xml:lang="akk">gubbu</foreign>,—all=<def>cistern</def>; cf. e.g. As. <foreign xml:lang="akk">gubbâni ša mê </foreign>, <def>cisterns of water</def> Asrb Annals Col. viii. 102, KB ii. 220; v. n.pr. <w>גֹּב</w> infr.)</bdb>
 		<xref twot="303"/>
-		<status p="146">new</status>
+		<status p="146">base</status>
 	</entry>
 	<entry id="cbe1">
-		<bdb><w>גבה</w> empty entry</bdb>
+		<bdb><w>גבה</w> (<def>collect</def>, Ar. <foreign xml:lang="ara">Arabic</foreign> (= <foreign xml:lang="ara">Arabic</foreign>?, cf. <w>גבא</w> supr.), NH <w>גָּבָה ,גְּבי</w>, Aram. <w>גְּבָא</w>, <foreign xml:lang="syr">Syriac</foreign>; || form <w>גבא</w> q.v.)</bdb>
 		<xref twot="304"/>
-		<status p="146">new</status>
+		<status p="146">base</status>
 	</entry>
 	<entry id="cbh">
-		<bdb><w>גבח</w> empty entry</bdb>
+		<bdb><w>גבח</w> (only in foll. derivatives found in P; cf. also NH <w>גִּבֵּחַ</w>, <def>giant</def>) .</bdb>
 		<xref twot="306"/>
-		<status p="147">new</status>
+		<status p="147">done</status>
 	</entry>
 	<entry id="cbl">
-		<bdb><w>גבל</w> empty entry</bdb>
-		<status p="147">new</status>
+		<bdb><w>גבל</w> (acc. to Thes orig. <def>twist, wind</def>, whence not only <w>מִגְבָּלֹת ,גַּבְלֻת</w>, but also <w>גְּבוּל</w> (<def>cord</def> and then) <def>boundary</def>, as determined by measuring cord, or line, whence vb. denom. <w>גָּבַל</w> <def>bound, border</def>, q. v. infr.; NH <w>גָּבַל</w>, Aram. <w>גְּבַל</w> mean <def>mix, knead</def>; Ar. <foreign xml:lang="ara">Arabic</foreign>, Syr. <foreign xml:lang="syr">Syriac</foreign> = <def>create, fashion</def>; MV assume meaning <def>massive</def>, whence Ar. <foreign xml:lang="ara">Arabic</foreign> <def>mountain</def> (cf. As. <foreign xml:lang="akk">gablu</foreign> HA 48), and <w></w> as originally earth-wall, etc., serving as boundary; this explains <w>גַּבְלֶת</w> etc. less well).</bdb>
+		<status p="147">base</status>
 	</entry>
 	<entry id="cbn">
-		<bdb><w>גבן</w> empty entry</bdb>
+		<bdb><w>גבן</w> (prob. <def>be curved, contracted, coagulated</def>; Syr. Pa. <foreign xml:lang="syr">Syriac</foreign> <def>coagulate</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> is <def>be timid</def>, perh. from <def>shrinking, cowering</def>).</bdb>
 		<xref twot="308"/>
-		<status p="148">new</status>
+		<status p="148">base</status>
 	</entry>
 	<entry id="cbp">
-		<bdb><w>גבע</w> empty entry</bdb>
+		<bdb><w>גבע</w> (<def>convex, projecting, high</def>; cf. Aram. Pa. <w>גַּבַּע</w> <def>swell, swell up</def>, <w>גְּבִיעַ</w> <def>hump-backed</def>, <w>גִּבְעֲתָא</w> <def>hill</def>; v. also I. <w>גִּבְעָה</w> infr.).</bdb>
 		<xref twot="309"/>
-		<status p="148">new</status>
+		<status p="148">base</status>
 	</entry>
 	<entry id="cbv">
-		<bdb><w>גבשׁ</w> empty entry</bdb>
+		<bdb><w>גבשׁ</w> (<def>be firm, massive</def>, cf. As. <foreign xml:lang="akk">gabâšu</foreign>, <def>be thick, massive</def>, Zim BP 76, &amp; deriv.; cf. also Aram. <w>גַּבֵּשׁ</w> Pa. <def>heap up</def>, &amp; <w>גַּבְשׁוּשִׁית</w> <def>height, hill</def>).</bdb>
 		<xref twot="311"/>
-		<status p="150">new</status>
+		<status p="150">done</status>
 	</entry>
 	<entry id="cde">
-		<bdb><w>גדה</w> empty entry</bdb>
+		<bdb><w>גדה</w>  (<def>cut, cut</def> or <def>tear away</def>?).</bdb>
 		<xref twot="314"/>
-		<status p="152">new</status>
+		<status p="152">done</status>
 	</entry>
 	<entry id="cdv1">
-		<bdb mod="I"><w>גדשׁ</w> empty entry</bdb>
+		<bdb mod="I"><w>גדשׁ</w> (NH <w>גָּרַשׁ</w>, Aram. <w>גְּדַשׁ</w>, <def>heap up</def>; cf. also Ar. <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="319"/>
-		<status p="155">new</status>
+		<status p="155">base</status>
 	</entry>
 	<entry id="cdv2">
-		<bdb mod="II"><w>גּדשׁ</w> empty entry</bdb>
+		<bdb mod="II"><w>גּדשׁ</w> (= <foreign xml:lang="ara">Arabic</foreign>*; exact mng. unknown).</bdb>
 		<xref twot="320"/>
-		<status p="155">new</status>
+		<status p="155">base</status>
 	</entry>
 	<entry id="cfe">
-		<bdb><w>גוה</w> empty entry</bdb>
+		<bdb><w>גוה</w> (<def>project, be convex</def>?).</bdb>
 		<xref twot="326"/>
-		<status p="156">new</status>
+		<status p="156">done</status>
 	</entry>
 	<entry id="cfn">
-		<bdb><w>גּון</w> empty entry</bdb>
-		<status p="157">new</status>
+		<bdb><w>גּון</w> (mng. dub., cf. perh. Aram. <w>גַּוֵּן</w> <def>tinge</def>, <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>reddish black</def>, cf. Hommel Stugethiere 64).</bdb>
+		<status p="157">base</status>
 	</entry>
 	<entry id="cfv">
-		<bdb><w>גושׁ</w> empty entry</bdb>
+		<bdb><w>גושׁ</w> (<def>be hard</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be hard</def>, of hands, from toil).</bdb>
 		<xref twot="333"/>
-		<status p="159">new</status>
+		<status p="159">base</status>
 	</entry>
 	<entry id="cgl2">
-		<bdb mod="II"><w>גזל</w> empty entry</bdb>
-		<status p="160">new</status>
+		<bdb mod="II"><w>גזל</w> (√ of foll., mng. dub.; acc. to Fl NHWB l. 433 onomatop. cf. <foreign xml:lang="ara">Arabic</foreign> Frey <foreign xml:lang="lat">crassa vox, vox columbi</foreign>, v. also Frä 115).</bdb>
+		<status p="160">base</status>
 	</entry>
 	<entry id="cgm">
-		<bdb><w>גזם</w> empty entry</bdb>
+		<bdb><w>גזם</w> (<def>cut off</def>, NH <em>id.</em>, Eth. <foreign xml:lang="gez">Ethiopic</foreign>: cf. Ar. <foreign xml:lang="ara">Arabic</foreign> [=Aram. <foreign xml:lang="syr">Syriac</foreign>] ; or possibly <foreign xml:lang="ara">Arabic</foreign> [=Aram. <foreign xml:lang="syr">Syriac</foreign>]).</bdb>
 		<xref twot="338"/>
-		<status p="160">new</status>
+		<status p="160">base</status>
 	</entry>
 	<entry id="cgp">
-		<bdb><w>גזע</w> empty entry</bdb>
+		<bdb><w>גזע</w> (√ of foll., cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>cut off</def>, &amp; Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>saw in two</def>).</bdb>
 		<xref twot="339"/>
-		<status p="160">new</status>
+		<status p="160">base</status>
 	</entry>
 	<entry id="chl">
-		<bdb><w>גחל</w> empty entry</bdb>
+		<bdb><w>גחל</w> (prob. = <def>kindle, burn</def>).</bdb>
 		<xref twot="341"/>
-		<status p="160">new</status>
+		<status p="160">done</status>
 	</entry>
 	<entry id="chm">
-		<bdb><w>גחם</w> empty entry</bdb>
-		<status p="161">new</status>
+		<bdb><w>גחם</w> (? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>kindle</def>, <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>burn</def>)</bdb>
+		<status p="161">base</status>
 	</entry>
 	<entry id="chn">
-		<bdb><w>גחן</w> empty entry</bdb>
+		<bdb><w>גחן</w> (cf. Aram. <w>גְּחַן</w>, Nasar. <foreign xml:lang="syr">Syriac</foreign> (Syr. <foreign xml:lang="syr">Syriac</foreign> PS) <def>curve, bend</def>).</bdb>
 		<xref twot="342"/>
-		<status p="161">new</status>
+		<status p="161">base</status>
 	</entry>
 	<entry id="cht">
-		<bdb><w>גחר</w> empty entry</bdb>
-		<status p="161">new</status>
+		<bdb><w>גחר</w> (? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>retire, retreat</def>, etc.)</bdb>
+		<status p="161">base</status>
 	</entry>
 	<entry id="cjd">
-		<bdb><w>גיד</w> empty entry</bdb>
+		<bdb><w>גיד</w> (√ of foll.; mng. dub.; ? cf. As. <foreign xml:lang="akk">gâdu</foreign>, bind, fetter, Jäger BAS I. 689f.)</bdb>
 		<xref twot="344"/>
-		<status p="161">new</status>
+		<status p="161">done</status>
 	</entry>
 	<entry id="cjt">
-		<bdb><w>גיר</w> empty entry</bdb>
+		<bdb><w>גיר</w> (<def>boil, boil up</def>? cf. Aram. <w>גִּיר</w> <def>ware</def>, NH <def>id. foam</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>quicklime</def>, also <def>heat in chest from rage or hunger</def> (Lanc); <foreign xml:lang="lat">admodum aestuans</foreign> acc. to Fl NHWB i. 433b; but cf. infr.)</bdb>
 		<xref twot="347"/>
-		<status p="162">new</status>
+		<status p="162">base</status>
 	</entry>
 	<entry id="clb">
-		<bdb><w>גלב</w> empty entry</bdb>
-		<status p="162">new</status>
+		<bdb><w>גלב</w> (= <def>shear, shave</def>, As. [<w>galâbu</w>] Hpt 8FG; Aram. <w>גְּלַב</w> id., <w>גְּלָב</w> <def>razor</def>; cf. <foreign xml:lang="syr">Syriac</foreign> <ref r="2Sam.20.8">2 S 20:8</ref> v. PS).</bdb>
+		<status p="162">base</status>
 	</entry>
 	<entry id="cld">
-		<bdb><w>גלד</w> empty entry</bdb>
-		<status p="162">new</status>
+		<bdb><w>גלד</w> √ of foll. mng. dub. perh. cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign> <foreign xml:lang="lat">obducere, inducere</foreign>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>scourge</def>).</bdb>
+		<status p="162">base</status>
 	</entry>
 	<entry id="cll1">
-		<bdb mod="I"><w>גלל</w> empty entry</bdb>
-		<status p="164">new</status>
+		<bdb mod="I"><w>גלל</w> (<foreign xml:lang="ara">Arabic</foreign> <def>be great in rank</def> or <def>dignity</def> (often of God)).</bdb>
+		<status p="164">base</status>
 	</entry>
 	<entry id="cmd">
-		<bdb><w>גמד</w> empty entry</bdb>
+		<bdb><w>גמד</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>congeal, become solid; be hard, stern</def>; also <def>cut, cut off</def>; Aram. <w>גְּמַר</w> <def>contract</def>; Aph. <def>be bold, daring</def>).</bdb>
 		<xref twot="359"/>
-		<status p="167">new</status>
+		<status p="167">base</status>
 	</entry>
 	<entry id="cmm">
-		<bdb><w>גמם</w> empty entry</bdb>
+		<bdb><w>גמם</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>become much</def> or <def>abundant</def>, <foreign xml:lang="ara">Arabic</foreign> <def>abundance, much</def>, <foreign xml:lang="ara">Arabic</foreign> <def>collection</def> (of water), <def>company</def> (of people)).</bdb>
 		<xref twot="361"/>
-		<status p="168">new</status>
+		<status p="168">base</status>
 	</entry>
 	<entry id="cmr">
-		<bdb><w>גמץ</w> empty entry</bdb>
+		<bdb><w>גמץ</w> (√ of foll., Aram. <w>גְּמַץ</w> <def>dig</def> (perh. denom.)).</bdb>
 		<xref twot="362"/>
-		<status p="170">new</status>
+		<status p="170">done</status>
 	</entry>
 	<entry id="cnc">
 		<bdb><w>גנג</w></bdb>
 		<status p="150">added</status>
 	</entry>
 	<entry id="cng">
-		<bdb><w>גנז</w> empty entry</bdb>
+		<bdb><w>גנז</w> (<def>cover up, hide</def>, cf. NH <def>hide</def>, Ar. <foreign xml:lang="ara">Arabic</foreign> <def>cover up</def>, Aram. <w>גְּגַז</w> Ithpa, <foreign xml:lang="syr">Syriac</foreign> Ethp. <def>be hidden</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>enwrap</def>).</bdb>
 		<xref twot="365"/>
-		<status p="170">new</status>
+		<status p="170">base</status>
 	</entry>
 	<entry id="cqn">
-		<bdb><w>גפן</w> empty entry</bdb>
+		<bdb><w>גפן</w> (√ of following; meaning ?).</bdb>
 		<xref twot="372"/>
-		<status p="172">new</status>
+		<status p="172">base</status>
 	</entry>
 	<entry id="cqq">
-		<bdb><w>גפף</w> empty entry</bdb>
+		<bdb><w>גפף</w> (√ of following; cf. Syr. <foreign xml:lang="syr">Syriac</foreign> in deriv., <foreign xml:lang="syr">Syriac</foreign> <def>curved, convex</def>; also Ar. <foreign xml:lang="ara">Arabic</foreign> both <def>hilly country</def> and <def>depression</def>, Frey.)</bdb>
 		<xref twot="373"/>
-		<status p="172">new</status>
+		<status p="172">base</status>
 	</entry>
 	<entry id="ctb">
-		<bdb><w>גרב</w> empty entry</bdb>
+		<bdb><w>גרב</w> (√ of foll.; Ar. <foreign xml:lang="ara">Arabic</foreign>, Aram. <foreign xml:lang="syr">Syriac</foreign> (<def>have the scab</def> etc.), are appar. denom.)</bdb>
 		<xref twot="376"/>
-		<status p="173">new</status>
+		<status p="173">base</status>
 	</entry>
 	<entry id="ctil">
-		<bdb><w>גרטל</w> empty entry</bdb>
+		<bdb><w>גרטל</w> (possibly quadrilit. √, whence foll. c. <w>א</w> prosthet. Cf. however infr.)</bdb>
 		<xref twot="380"/>
-		<status p="173">new</status>
+		<status p="173">base</status>
 	</entry>
 	<entry id="ctl">
-		<bdb><w>גרל</w> empty entry</bdb>
+		<bdb><w>גרל</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, pl. <foreign xml:lang="ara">Arabic</foreign> <def>stones</def>, or <def>stony place</def> planted with trees; <foreign xml:lang="ara">Arabic</foreign> <def>stony</def>; <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>stony ground, stones</def>; hence foll., because stones were used in casting lots; cf. Gk. <foreign xml:lang="grc">ψῆφος</foreign> <def>pebble, vote</def>; <foreign xml:lang="grc">κύαμος</foreign> <def>bean, lot</def>).</bdb>
 		<xref twot="381"/>
-		<status p="174">new</status>
+		<status p="174">base</status>
 	</entry>
 	<entry id="ctn">
-		<bdb><w>גרן</w> empty entry</bdb>
+		<bdb><w>גרן</w> (√ of foll.; ? cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>become accustomed, worn smooth</def> (of skin, garment, etc.); also <def>grind grain vehemently</def>; vid. further <foreign xml:lang="ara">Arabic</foreign> <def>what one has ground</def>, of grain; &amp; <def>place in which dates are dried</def> = <foreign xml:lang="ara">Arabic</foreign>).</bdb>
 		<xref twot="383"/>
-		<status p="175">new</status>
+		<status p="175">base</status>
 	</entry>
 	<entry id="ctu">
-		<bdb><w>גרשׂ</w> empty entry</bdb>
-		<status p="176">new</status>
+		<bdb><w>גרשׂ</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>bray, pound, grind coarse</def>, Aram. <w>גְּרַס</w> (rare) <def>crush</def>, <foreign xml:lang="syr">Syriac</foreign> <def>crushed</def>, <foreign xml:lang="syr">Syriac</foreign> <def>crush, destroy</def>; cf. following).</bdb>
+		<status p="176">base</status>
 	</entry>
 	<entry id="cvm">
-		<bdb><w>גשׁם</w> empty entry</bdb>
-		<status p="177">new</status>
+		<bdb><w>גשׁם</w> (√ of foll.; cf. <foreign xml:lang="ara">Arabic</foreign> <def>be bulky, massive</def>, <foreign xml:lang="ara">Arabic</foreign> <def>body</def>, Syr. <foreign xml:lang="syr">Syriac</foreign> <em>id.</em>)</bdb>
+		<status p="177">base</status>
 	</entry>
 	<entry id="cvt">
-		<bdb><w>גשׁר</w> empty entry</bdb>
-		<status p="178">new</status>
+		<bdb><w>גשׁר</w> (√ of foll. Cf. As. <foreign xml:lang="akk">gašâru</foreign>, <def>strengthen, make firm</def> Lotz TPRegister; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be bold</def>, also <def>arch a bridge</def>, cf. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>bridge</def>, NH <w>גֶּשֶׁר</w> <em>id.</em>, Aram. <w>גִּישְׁרָא</w>, <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign>).</bdb>
+		<status p="178">base</status>
 	</entry>
 	<entry id="d1">
-		<bdb><w>ד</w>, <w>דּ</w> empty entry</bdb>
-		<status p="178">new</status>
+		<bdb><w>ד</w>, <w>דּ</w> <def>Dā̌leth</def>, fourth letter; in modern Heb. = numeral 4; <w>ד̈</w> = 4000; no evidence of this usage in OT times.</bdb>
+		<status p="178">done</status>
 	</entry>
 	<entry id="dba">
-		<bdb><w>דבא</w> empty entry</bdb>
+		<bdb><w>דבא</w> (√ of foll.; existence &amp; mng. dub.)</bdb>
 		<xref twot="395"/>
-		<status p="179">new</status>
+		<status p="179">done</status>
 	</entry>
 	<entry id="dbl">
-		<bdb><w>דבל</w> empty entry</bdb>
+		<bdb><w>דבל</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>collect</def>, also <def>make into lumps, gobbets</def> (Lane); Eth. &amp; cogn. in deriv.)</bdb>
 		<xref twot="397"/>
-		<status p="179">new</status>
+		<status p="179">base</status>
 	</entry>
 	<entry id="dbv">
-		<bdb><w>דבשׁ</w> empty entry</bdb>
+		<bdb><w>דבשׁ</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> IX. <def>become black</def> or <def>brown</def>, of a colour between black and red; vid. deriv.; so Fl v. infr.; yet vb. in this mng. perh. denom. fr. <foreign xml:lang="ara">Arabic</foreign> i.e. having the colour of <def>dibs</def>).</bdb>
 		<xref twot="400"/>
-		<status p="185">new</status>
+		<status p="185">base</status>
 	</entry>
 	<entry id="dcn">
-		<bdb><w>דגן</w> empty entry</bdb>
+		<bdb><w>דגן</w> (√ of foll. mng. dub.; NH <w>דְּגֵּן</w> Pa. <def>heap up</def> etc. seems to he denom.; Ol §215b. 4 der. <w>דָּגָן</w> fr. <w>דָּגָה</w>, cf. MV; WeSkizzen III. 170 inclines to regard <w>דָּגָן</w> as der. fro n. pv. divin. <w>דגן</w> (cf. <w>דָּגוֹן</w>), as <def>cereal</def> fr. <em>Ceres</em>).</bdb>
 		<xref twot="403"/>
-		<status p="186">new</status>
+		<status p="186">base</status>
 	</entry>
 	<entry id="dfd">
-		<bdb><w>דוד</w> empty entry</bdb>
+		<bdb><w>דוד</w> (√ assumed for foll., wh. however perh. primitive caressing word, Fl NH WB i. 439 <def>swing, rock, dandle, fondle, love</def>; > Thes Dietr Sem. Wortforsch. 277 MV, who connect with <w>דּוּד</w> (cf. infr.) cf. Syr. <foreign xml:lang="syr">Syriac</foreign> <def>disturb</def>).</bdb>
 		<xref twot="410"/>
-		<status p="187">new</status>
+		<status p="187">base</status>
 	</entry>
 	<entry id="dfm">
-		<bdb><w>דום</w> empty entry</bdb>
+		<bdb><w>דום</w> (NH <w>דום</w> <def>spread slander</def>, perh. orig. <def>whisper</def>, cf. <w>דמם</w>, <w>דממה</w>).</bdb>
 		<xref twot="415"/>
-		<status p="189">new</status>
+		<status p="189">done</status>
 	</entry>
 	<entry id="dfs1">
-		<bdb><w>דוק</w> empty entry</bdb>
+		<bdb><w>דוק</w> (? √ of foll.; mng. dub. cf. Sm <ref r="Ezek.4.2">Ez 4:2</ref> Lag Ges Abhandl. 36).</bdb>
 		<xref twot="417"/>
-		<status p="189">new</status>
+		<status p="189">done</status>
 	</entry>
 	<entry id="dhn">
-		<bdb><w>דחן</w> empty entry</bdb>
+		<bdb><w>דחן</w> (√ of following; perh. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>smoke arose</def>, hence <def>become dusky, dingy, inclining to black</def>).</bdb>
 		<xref twot="422"/>
-		<status p="191">new</status>
+		<status p="191">base</status>
 	</entry>
 	<entry id="dkk">
-		<bdb><w>דכך</w> empty entry</bdb>
+		<bdb><w>דכך</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, Aram. <w>דְּכַךְ</w>, NH in deriv.; v. also <w>דכא</w>, <w>דכה</w>).</bdb>
 		<xref twot="429"/>
-		<status p="194">new</status>
+		<status p="194">base</status>
 	</entry>
 	<entry id="dmn">
-		<bdb><w>דמן</w> empty entry</bdb>
+		<bdb><w>דמן</w> (√ of foll., mng. dub.; Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>prepare, improve, manure land</def>, appar. denom.)</bdb>
 		<xref twot="441"/>
-		<status p="199">new</status>
+		<status p="199">base</status>
 	</entry>
 	<entry id="dnc">
-		<bdb><w>דנג</w> empty entry</bdb>
+		<bdb><w>דנג</w> (√ of foll. mng. unknown).</bdb>
 		<xref twot="444"/>
-		<status p="200">new</status>
+		<status p="200">done</status>
 	</entry>
 	<entry id="dqe">
-		<bdb><w>דפה</w> empty entry</bdb>
+		<bdb><w>דפה</w> (√ of foll. mng. unknown; NH <w>דֹּופִי</w> is <def>blemish, fault</def>).</bdb>
 		<xref twot="446"/>
-		<status p="200">new</status>
+		<status p="200">done</status>
 	</entry>
 	<entry id="dsl">
-		<bdb><w>דקל</w> empty entry</bdb>
-		<status p="200">new</status>
+		<bdb><w>דקל</w> (√ of foll. cf. <foreign xml:lang="ara">Arabic</foreign> a kind of <def>palm</def>; NH <w>דֶּקֶל</w>, <def>date-tree, palm</def>, Aram. <w>דִּיקְלָא</w>, <foreign xml:lang="ara">Arabic</foreign>).</bdb>
+		<status p="200">base</status>
 	</entry>
 	<entry id="dta">
-		<bdb><w>דרא</w> empty entry</bdb>
+		<bdb><w>דרא</w> (√ of foll. cf. <foreign xml:lang="ara">Arabic</foreign> <def>repel</def>).</bdb>
 		<xref twot="450"/>
-		<status p="201">new</status>
+		<status p="201">base</status>
 	</entry>
 	<entry id="dtb">
-		<bdb><w>דרב</w> empty entry</bdb>
+		<bdb><w>דרב</w> (√ of foll. cf. <foreign xml:lang="ara">Arabic</foreign> <def>become accltstomed, trained</def>, <foreign xml:lang="ara">Arabic</foreign> <def>train</def>, cf. Fl NHWB i. 444; also Eth. <foreign xml:lang="gez">Ethiopic</foreign> (quadrilit.) <foreign xml:lang="lat">jaculando infigere</foreign>, etc.; or, since <w>דָּרְבָן</w> Aram. in form, &amp; <ref r="1Sam.13.21">I S 13:21</ref> perh. secondary, possibly regard as Aram. loan-word &amp; connect with Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be sharp, penetrating</def> (GFM, note of Apr. 1892)).</bdb>
 		<xref twot="451"/>
-		<status p="201">new</status>
+		<status p="201">base</status>
 	</entry>
 	<entry id="dtc">
-		<bdb><w>דרג</w> empty entry</bdb>
+		<bdb><w>דרג</w> (√ of foll. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>go on foot, step by step, walk</def>, <foreign xml:lang="ara">Arabic</foreign> <def>rise in grade, rank</def>; NH <w>דרג</w> Hiph. <def>raise, make high</def>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> is <def>be connected</def>; Aram. <foreign xml:lang="syr">Syriac</foreign> (verb denom. acc. to PS); also As. <foreign xml:lang="akk">darâgu</foreign>, <def>be high, lift</def>, Lyon Sargontexte 80, <foreign xml:lang="akk">durgu, daragu</foreign>, <def>path, way</def> (of steep mountain paths) COTGloss (cf. also <w>דרך</w>) ; Ar. <foreign xml:lang="ara">Arabic</foreign>; <def>a step, stair</def>, Aram. <w>דַּרְגָּא</w>, <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign>, id.)</bdb>
 		<xref twot="452"/>
-		<status p="201">new</status>
+		<status p="201">base</status>
 	</entry>
 	<entry id="dtp1">
-		<bdb><w>דרע</w> empty entry</bdb>
-		<status p="204">new</status>
+		<bdb><w>דרע</w> (acc. to Thes connected with Aram. <w>דְּרָע</w>, <w>אֶדְרָע</w> <def>arm</def>, Heb. <w>זְרֹועַ</w>, whence foll. in sense <def>strong</def>, of fortified city ; this, however, is dub.)</bdb>
+		<status p="204">done</status>
 	</entry>
 	<entry id="dtt">
-		<bdb><w>דרר</w> empty entry</bdb>
+		<bdb><w>דרר</w> (√ of foll. words: Ar. <foreign xml:lang="ara">Arabic</foreign>;—
+			<sense n="1"><def>stream, flow abundantly</def> (of milk, tears, rain, etc.), cf. I. <w>דְּרֹור</w>. </sense>
+			<sense n="2"><def>be abundant, luxuriant</def> (of herbage), cf. <foreign xml:lang="ara">Arabic</foreign> a kind of tree, now <def>elm</def> (Lane), &amp; <w>דַּרְדַּר</w>. </sense>
+			<sense n="3"><def>run vehemently, easily</def> (of horse), cf. <foreign xml:lang="ara">Arabic</foreign> <def>swift</def> horse, or other beast, &amp; II. <w>דְּרֹור</w>.</sense>
+			<sense n="4"><def>give light, shine</def> (of lamp), cf. <foreign xml:lang="ara">Arabic</foreign> <def>shining star</def>, <foreign xml:lang="ara">Arabic</foreign> <def>glistening</def> or <def>shining</def> of sword, <foreign xml:lang="ara">Arabic</foreign> <def>pearls</def> (coll.) &amp; <w>דַּר</w>; hence prob. <w>דָּרֹום</w>).</sense>
+		</bdb>
 		<xref twot="454"/>
-		<status p="204">new</status>
+		<status p="204">base</status>
 	</entry>
 	<entry id="e1">
 		<bdb><w>ה</w> empty entry</bdb>
