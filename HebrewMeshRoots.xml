@@ -958,16 +958,16 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="249">done</status>
 	</entry>
 	<entry id="f1">
-		<bdb><w>ו</w> empty entry</bdb>
-		<status p="251">new</status>
+		<bdb><w>ו</w> <def>Wāw</def>, sixth letter; in modern Heb. = numeral 6; no evidence of this usage in OT times.</bdb>
+		<status p="251">done</status>
 	</entry>
 	<entry id="f2">
-		<bdb><w>וְ</w>, <w>וּ</w>, <w>וָ</w> empty entry</bdb>
-		<status p="251">new</status>
+		<bdb><w>וְ</w>, <w>וּ</w>, <w>וָ</w> </bdb>
+		<status p="251">see id="c" in HebrewMesh.xml</status>
 	</entry>
 	<entry id="fgt">
-		<bdb><w>וזר</w> empty entry</bdb>
-		<status p="255">new</status>
+		<bdb><w>וזר</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>bear a burden</def>, or <foreign xml:lang="ara">Arabic</foreign> <def>be guilty</def>, yet v. Fl in De <ref r="Prov.21.8">Pr 21:8</ref>).</bdb>
+		<status p="255">base</status>
 	</entry>
 	<entry id="fvm">
 		<bdb><w>ושׁם</w></bdb>
