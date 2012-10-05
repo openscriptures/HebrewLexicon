@@ -974,97 +974,97 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="1051">added</status>
 	</entry>
 	<entry id="g1">
-		<bdb><w>ז</w> empty entry</bdb>
-		<status p="255">new</status>
+		<bdb><w>ז</w>, <def>Zâyin</def>, seventh letter; used as numeral 7 in modern Heb.; no evidence of this usage in OT times.</bdb>
+		<status p="255">done</status>
 	</entry>
 	<entry id="gab">
-		<bdb><w>זאב</w> empty entry</bdb>
-		<status p="255">new</status>
+		<bdb><w>זאב</w> (√ of foll.; acc. to Fl Bericht d. sächs G. d. w. i. (1846–47) 430f. = Kleinere Schriften iii. 221f. i.q. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>drive away and despise, drive</def> or <def>frighten away</def>, whence <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign>, <w>זְאֵב</w> wolf, as <def>driven</def> or <def>chased away</def>; cf. Hom NS 304 MV al.)</bdb>
+		<status p="255">base</status>
 	</entry>
 	<entry id="gbb">
-		<bdb><w>זבב</w> empty entry</bdb>
+		<bdb><w>זבב</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>go hither and thither</def> (of a man); <foreign xml:lang="ara">Arabic</foreign> <def>make to dangle</def>, or <def>move to and fro</def>, of a thing suspended in the air; but in this sense perhaps denom.)</bdb>
 		<xref twot="523"/>
-		<status p="256">new</status>
+		<status p="256">base</status>
 	</entry>
 	<entry id="gfc">
-		<bdb><w>זוג</w>, <w>זיג</w> empty entry</bdb>
+		<bdb><w>זוג</w>, <w>זיג</w> (appar. √ of foll.; &#x1D517; NH <w>זוג</w>, <w>זיג</w> is <def>be clear, bright, transparent</def> (ChWB Jastr 391a); others (so Thes) derive foll. from √ <w>זגג</w> with same meaning, v. infr. &amp; Fl NHWB i. 560b).</bdb>
 		<xref twot="527"/>
-		<status p="259">new</status>
+		<status p="259">base</status>
 	</entry>
 	<entry id="geb">
-		<bdb><w>זהב</w> empty entry</bdb>
+		<bdb><w>זהב</w> (√ of foll.; meaning dubious; cf. Lag BN 55 Anm).</bdb>
 		<xref twot="529"/>
-		<status p="262">new</status>
+		<status p="262">done</status>
 	</entry>
 	<entry id="gf3">
-		<bdb><w>זוֹ</w>, <w>זוּ</w> empty entry</bdb>
-		<status p="264">new</status>
+		<bdb><w>זוֹ</w>, <w>זוּ</w>, v. p. 262.</bdb>
+		<status p="264">done</status>
 	</entry>
 	<entry id="gfe">
-		<bdb><w>זוה</w> empty entry</bdb>
+		<bdb><w>זוה</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>put aside</def> or <def>away, draw together, contract</def>).</bdb>
 		<xref twot="534*"/>
-		<status p="264">new</status>
+		<status p="264">base</status>
 	</entry>
 	<entry id="gfg1">
-		<bdb mod="I"><w>זוז</w> empty entry</bdb>
+		<bdb mod="I"><w>זוז</w> (NH <w>זוז</w> <def>move</def>, As. <foreign xml:lang="akk">zâzu</foreign>, <def>move, rise, come forth</def> cf. COT gloss.; also <def>be agitated, enraged</def>, V R 64, i, 1. 11).</bdb>
 		<xref twot="535"/>
-		<status p="265">new</status>
+		<status p="265">done</status>
 	</entry>
 	<entry id="gfg2">
-		<bdb mod="II"><w>זוז</w> empty entry</bdb>
+		<bdb mod="II"><w>זוז</w> (<def>be abundant</def>, cf. esp. As. <foreign xml:lang="akk">zâzu</foreign>, <def>abundance</def>, Dl Pr. 67f. Zim BP 94, 97; only as √ of foll.; perhaps related to I. <w>זוז</w> (cf. Thes), but this very dubious).</bdb>
 		<xref twot="536"/>
-		<status p="265">new</status>
+		<status p="265">done</status>
 	</entry>
 	<entry id="gfl1">
-		<bdb mod="I"><w>זול</w> empty entry</bdb>
+		<bdb mod="I"><w>זול</w> (prob. √ of foll., Ar. <foreign xml:lang="ara">Arabic</foreign> <def>remove, depart</def>).</bdb>
 		<xref twot="537"/>
-		<status p="265">new</status>
+		<status p="265">base</status>
 	</entry>
 	<entry id="gla">
-		<bdb><w>זלא</w> empty entry</bdb>
-		<status p="272">new</status>
+		<bdb><w>זלא</w> (√ of foll.; mng. unknown).</bdb>
+		<status p="272">done</status>
 	</entry>
 	<entry id="glc">
-		<bdb><w>זלג</w> empty entry</bdb>
+		<bdb><w>זלג</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>glide, slip</def>; of arrow, <def>skim, slide along</def>; <foreign xml:lang="ara">Arabic</foreign> a kind of <def>latch, sliding bolt</def>; Aram. <w>זְלַג</w> is <def>pour forth</def> (tears), <def>flow down</def>).</bdb>
 		<xref twot="552"/>
-		<status p="272">new</status>
+		<status p="272">base</status>
 	</entry>
 	<entry id="glpq">
-		<bdb><w>זלעף</w> empty entry</bdb>
+		<bdb><w>זלעף</w> (quadrilit. √ of foll.; v. reff. infr.)</bdb>
 		<xref twot="555"/>
-		<status p="273">new</status>
+		<status p="273">done</status>
 	</entry>
 	<entry id="glq">
-		<bdb><w>זלף</w> empty entry</bdb>
-		<status p="273">new</status>
+		<bdb><w>זלף</w> (√ of foll.; Thes comp. Aram. <w>זְלַף</w> Pa. <def>drop, drip</def>; cf. <foreign xml:lang="syr">Syriac</foreign>; also NH <w>זִלּוּף</w> <def>sprinkling</def>, <foreign xml:lang="syr">Syriac</foreign> <def>dropping, pouring</def>, <foreign xml:lang="ara">Arabic</foreign> a <def>full bowl</def>, etc.)</bdb>
+		<status p="273">base</status>
 	</entry>
 	<entry id="gmt3">
-		<bdb mod="III"><w>זמר</w> empty entry</bdb>
+		<bdb mod="III"><w>זמר</w> (√ of foll.; mng, dub.; DHM in MV 10, 983 comp. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>thing to be protected, thing sacred, inviolable</def>, Lane 978, Sab. <w>דֿמר</w> <def>protect</def>; Aram. <foreign xml:lang="syr">Syriac</foreign> <def>wonder at, admire</def>, <foreign xml:lang="syr">Syriac</foreign> <foreign xml:lang="lat">mirus, admirabilis</foreign>, etc.; hence <w>זמרת</w> Gn 43:11 'die Merkwürdigkeiten des Landes').</bdb>
 		<xref twot="560"/>
-		<status p="275">new</status>
+		<status p="275">base</status>
 	</entry>
 	<entry id="gnb">
-		<bdb><w>זנב</w> empty entry</bdb>
-		<status p="275">new</status>
+		<bdb><w>זנב</w> (√ of foll.; meaning unknown).</bdb>
+		<status p="275">done</status>
 	</entry>
 	<entry id="gpt1">
-		<bdb><w>זער</w> empty entry</bdb>
+		<bdb><w>זער</w> (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be scanty</def>, of hair, plumage, etc.; Aram. <foreign xml:lang="syr">Syriac</foreign>, <w>זְעַר</w> <def>be</def> or <def>grow small</def>; cf. <w>צער</w>).</bdb>
 		<xref twot="571"/>
-		<status p="277">new</status>
+		<status p="277">base</status>
 	</entry>
 	<entry id="gsn">
-		<bdb><w>זקן</w> empty entry</bdb>
-		<status p="278">new</status>
+		<bdb><w>זקן</w> (√ of foll.; meaning dubious).</bdb>
+		<status p="278">done</status>
 	</entry>
 	<entry id="gss2">
-		<bdb mod="II"><w>זקק</w> empty entry</bdb>
+		<bdb mod="II"><w>זקק</w> (NH <w>זָקַק</w> <def>bind, fetter</def>, Aram. <w>זְקַק</w> <em>id.</em>; comp. (perh. fr. idea of <def>restraint</def>) Ar. <foreign xml:lang="ara">Arabic</foreign>, Aram. <foreign xml:lang="syr">Syriac</foreign>, <w>זִיקָּא</w>, <w>זִיקוּקָא</w>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> all = (wine-)<def>skin</def>, etc.; also NH <w>זִיקָה</w>, <def>obligation</def>; Aram. <foreign xml:lang="syr">Syriac</foreign> <def>ring</def>).</bdb>
 		<xref twot="577"/>
-		<status p="279">new</status>
+		<status p="279">base</status>
 	</entry>
 	<entry id="gtp2">
-		<bdb mod="II"><w>זרע</w> empty entry</bdb>
+		<bdb mod="II"><w>זרע</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>stretch out, extend</def>, esp. arm or leg; <foreign xml:lang="ara">Arabic</foreign> <def>power</def>, <foreign xml:lang="ara">Arabic</foreign> <def>forearm</def>).</bdb>
 		<xref twot="583"/>
-		<status p="283">new</status>
+		<status p="283">base</status>
 	</entry>
 	<entry id="h1">
 		<bdb><w>ח</w> empty entry</bdb>
