@@ -894,68 +894,68 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="204">base</status>
 	</entry>
 	<entry id="e1">
-		<bdb><w>ה</w> empty entry</bdb>
-		<status p="206">new</status>
+		<bdb><w>ה</w> <def>Hē</def>, fifth letter; = numeral 5 in postB. Heb.; no evidence of this usage in OT times.</bdb>
+		<status p="206">done</status>
 	</entry>
 	<entry id="e2">
-		<bdb><w>הַ•</w>, <w>הַ</w>, <w>הָ</w>, <w>הֶ</w> empty entry</bdb>
-		<status p="206">new</status>
+		<bdb><w>הַ•</w>, <w>הַ</w>, <w>הָ</w>, <w>הֶ</w> </bdb>
+		<status p="206">see id="d" in HebrewMesh.xml</status>
 	</entry>
 	<entry id="e3">
-		<bdb><w>הֲ</w>, <w>הַ</w>, <w>הַ•</w>, <w>הֶ</w> empty entry</bdb>
-		<status p="209">new</status>
+		<bdb><w>הֲ</w>, <w>הַ</w>, <w>הַ•</w>, <w>הֶ</w> </bdb>
+		<status p="209">see id="i" in HebrewMesh.xml</status>
 	</entry>
 	<entry id="ecc">
-		<bdb><w>הגג</w> empty entry</bdb>
+		<bdb><w>הגג</w> (<def>murmur</def>, then <def>muse</def>; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>burn, blaze</def> (of fire), <def>make a murmuring noise</def> in burning; PS gives Syr. <foreign xml:lang="syr">Syriac</foreign> <foreign xml:lang="lat">phantasma vidit, somniavit</foreign>,. Ethpe. &amp; esp. Ethpa. <foreign xml:lang="lat">mente concepit, imaginatus est</foreign>; cf. also <w>הָגָה</w>).</bdb>
 		<xref twot="466"/>
-		<status p="211">new</status>
+		<status p="211">base</status>
 	</entry>
 	<entry id="ecn">
-		<bdb><w>הגן</w> empty entry</bdb>
+		<bdb><w>הגן</w> (NH <w>הָגַן</w>, Aram. <w>הֲגַן</w> <def>be suitable, fit, worthy</def>: on orig. mng. cf. Fl in NHWB, s.v.)</bdb>
 		<xref twot="469"/>
-		<status p="212">new</status>
+		<status p="212">done</status>
 	</entry>
 	<entry id="ect">
-		<bdb><w>הגר</w> empty entry</bdb>
+		<bdb><w>הגר</w> (√ of foll.; ? cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>forsake, retire</def>; <foreign xml:lang="ara">Arabic</foreign> <def>emigration, Hegira</def>).</bdb>
 		<xref twot="470"/>
-		<status p="212">new</status>
+		<status p="212">base</status>
 	</entry>
 	<entry id="edd">
-		<bdb><w>הדד</w> empty entry</bdb>
+		<bdb><w>הדד</w> (perh. <def>make a loud noise</def>: so Ar. <foreign xml:lang="ara">Arabic</foreign> (of a falling building, rain, the sea, a braying camel); <foreign xml:lang="ara">Arabic</foreign> <def>crash</def> (of a falling wall, etc.), <foreign xml:lang="ara">Arabic</foreign> <def>thunder</def>).</bdb>
 		<xref twot="471"/>
-		<status p="212">new</status>
+		<status p="212">base</status>
 	</entry>
 	<entry id="edm">
-		<bdb><w>הדם</w> empty entry</bdb>
-		<status p="213">new</status>
+		<bdb><w>הדם</w> (√ of foll., cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>overthrow, overturn, cast down</def>).</bdb>
+		<status p="213">base</status>
 	</entry>
 	<entry id="ef2">
-		<bdb><w>הוּ</w> empty entry</bdb>
-		<status p="214">new</status>
+		<bdb><w>הוּ</w> <ref r="Jer.29.23">Je 29:23</ref> Kt, v. <w>הוּא</w>.</bdb>
+		<status p="214">done</status>
 	</entry>
 	<entry id="efd">
-		<bdb><w>הוד</w> empty entry</bdb>
+		<bdb><w>הוד</w> (√ of foll.; De <ref r="Job.39.20">Jb 39:20</ref> compo Bed. <foreign xml:lang="ara">Arabic</foreign> <def>crash, roar, resonance</def>; 'weithin hallende Selbstverkündigung' Id. <ref r="Ps.8.6">Ψ 8:6</ref>; but <foreign xml:lang="ara">Arabic</foreign> ordinarily means <def>be gentle, quiet</def>, esp. in speech).</bdb>
 		<xref twot="482"/>
-		<status p="217">new</status>
+		<status p="217">base</status>
 	</entry>
 	<entry id="eml">
-		<bdb><w>המל</w> empty entry</bdb>
+		<bdb><w>המל</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>shed tears</def> (sc. the eye); <def>rain steadily</def> (sc. the sky)).</bdb>
 		<xref twot="506"/>
-		<status p="242">new</status>
+		<status p="242">base</status>
 	</entry>
 	<entry id="emo">
-		<bdb><w>המס</w> empty entry</bdb>
+		<bdb><w>המס</w> (√ of foll.; meaning dubious).</bdb>
 		<xref twot="508"/>
-		<status p="243">new</status>
+		<status p="243">done</status>
 	</entry>
 	<entry id="emt">
-		<bdb><w>המר</w> empty entry</bdb>
+		<bdb><w>המר</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>pour, pour out</def>).</bdb>
 		<xref twot="509"/>
-		<status p="243">new</status>
+		<status p="243">base</status>
 	</entry>
 	<entry id="ett">
-		<bdb><w>הרר</w> empty entry</bdb>
-		<status p="249">new</status>
+		<bdb><w>הרר</w> (√ of foll.; meaning dubious).</bdb>
+		<status p="249">done</status>
 	</entry>
 	<entry id="f1">
 		<bdb><w>ו</w> empty entry</bdb>
