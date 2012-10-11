@@ -38756,7 +38756,7 @@
 				<w>שׂעף</w>
 			</entry>
 			<entry id="f.bp.ab" cite="full">
-				<w strong="5587">שְׂעִפִּים</w>
+				<w strong="5587" aug="b">שְׂעִפִּים</w>
 				<w src="Strong" strong="5587">סָעִף</w>
 				<w src="Strong" strong="5587">שָׂעִף</w>
 			</entry>
@@ -38777,17 +38777,17 @@
 				<w strong="8185">שַׂעֲרָה</w>
 			</entry>
 			<entry id="f.bq.ad" cite="full" form="false">
-				<w strong="8175">שָׂעַר</w>
+				<w strong="8175" aug="a">שָׂעַר</w>
 			</entry>
 			<entry id="f.bq.ae" cite="full" mod="I">
-				<w strong="8178">שַׂ֫עַר</w>
+				<w strong="8178" aug="a">שַׂ֫עַר</w>
 			</entry>
 			<entry id="f.bq.af" cite="full" mod="I">
-				<w strong="8163">שָׂעִר</w>
+				<w strong="8163" aug="a">שָׂעִר</w>
 				<w src="Strong" strong="8163">שָׂעִיר</w>
 			</entry>
 			<entry id="f.bq.ag" mod="II">
-				<w strong="8163">שָׂעִיר</w>
+				<w strong="8163" aug="b">שָׂעִיר</w>
 				<w src="Strong" strong="8163">שָׂעִר</w>
 			</entry>
 			<entry id="f.bq.ah" cite="full" form="false" mod="I">
@@ -38797,7 +38797,7 @@
 				<w strong="8167">שְׂעִירָה</w>
 			</entry>
 			<entry id="f.bq.aj" cite="full" mod="III">
-				<w strong="8163">שָׂעִיר</w>
+				<w strong="8163" aug="c">שָׂעִיר</w>
 				<w src="Strong" strong="8163">שָׂעִר</w>
 			</entry>
 			<entry id="f.bq.ak" cite="full">
@@ -38809,15 +38809,15 @@
 			</entry>
 			<page p="973"/>
 			<entry id="f.bq.am" cite="full">
-				<w strong="8165">שֵׂעִיר</w>
+				<w strong="8165" aug="a">שֵׂעִיר</w>
 			</entry>
 		</section>
 		<section id="f.br">
 			<entry id="f.br.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="8175">שָׂעַר</w>
+				<w strong="8175" aug="b">שָׂעַר</w>
 			</entry>
 			<entry id="f.br.ab" cite="full" mod="II">
-				<w strong="8178">שַׂ֫עַר</w>
+				<w strong="8178" aug="b">שַׂ֫עַר</w>
 			</entry>
 			<entry id="f.br.ac" cite="full">
 				<w strong="8183">שְׂעָרָה</w>
@@ -38825,7 +38825,7 @@
 		</section>
 		<section id="f.bs">
 			<entry id="f.bs.aa" type="root" cite="full" form="false" mod="III">
-				<w strong="8175">שָׂעַר</w>
+				<w strong="8175" aug="c">שָׂעַר</w>
 			</entry>
 		</section>
 		<section id="f.bt">
@@ -38878,11 +38878,11 @@
 		</section>
 		<section id="f.bv">
 			<entry id="f.bv.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="5606">שָׂפַק</w>
+				<w strong="5606" aug="b">שָׂפַק</w>
 				<w src="Strong" strong="5606">סָפַק</w>
 			</entry>
 			<entry id="f.bv.ab" cite="full" form="false">
-				<w strong="5607">שֵׂ֫פֶק</w>
+				<w strong="5607" aug="b">שֵׂ֫פֶק</w>
 				<w src="Strong" strong="5607">סֵפֶק</w>
 				<w src="Strong" strong="5607">שֶׂפֶק</w>
 			</entry>
@@ -38988,11 +38988,11 @@
 				<w strong="8295">שָׂרַט</w>
 			</entry>
 			<entry id="f.ce.ab" cite="full">
-				<w strong="8296">שֶׂ֫רֶט</w>
+				<w strong="8296" aug="a">שֶׂ֫רֶט</w>
 				<w src="Strong" strong="8296">שָׂרֶטֶת</w>
 			</entry>
 			<entry id="f.ce.ac" cite="full" form="false">
-				<w strong="8296">שָׂרֶ֫טֶת</w>
+				<w strong="8296" aug="b">שָׂרֶ֫טֶת</w>
 				<w src="Strong" strong="8296">שֶׂרֶט</w>
 			</entry>
 			<entry id="f.ce.ad">
@@ -39035,10 +39035,10 @@
 			</entry>
 			<page p="977"/>
 			<entry id="f.ch.ab" cite="full" mod="I">
-				<w strong="8314">שָׂרָף</w>
+				<w strong="8314" aug="a">שָׂרָף</w>
 			</entry>
 			<entry id="f.ch.ac" cite="full" form="false" mod="II">
-				<w strong="8314">שָׂרָף</w>
+				<w strong="8314" aug="b">שָׂרָף</w>
 				<w src="BDB">שְׂרָפִים</w>
 			</entry>
 			<entry id="f.ch.ad" cite="full" mod="III">
@@ -39077,7 +39077,7 @@
 				<w src="Strong" strong="8291">שָׂרוּק</w>
 			</entry>
 			<entry id="f.cj.ad" cite="full" mod="I">
-				<w strong="8321">שֹׂרֵק</w>
+				<w strong="8321" aug="a">שֹׂרֵק</w>
 				<w src="Strong" strong="8321">שׂוֹרֵק</w>
 				<w src="Strong" strong="8321">שֹׂרֵקָה</w>
 			</entry>
@@ -39086,7 +39086,7 @@
 				<w src="Strong" strong="7796">שׂוֹרֵק</w>
 			</entry>
 			<entry id="f.cj.af" cite="full">
-				<w strong="8321">שֹׂרֵקָה</w>
+				<w strong="8321" aug="b">שֹׂרֵקָה</w>
 				<w src="Strong" strong="8321">שֹׂרֵק</w>
 				<w src="Strong" strong="8321">שׂוֹרֵק</w>
 			</entry>
@@ -39129,10 +39129,10 @@
 		</section>
 		<section id="f.cl">
 			<entry id="f.cl.aa" type="root" cite="full">
-				<w strong="5640">שָׂתַם</w>
+				<w strong="5640" aug="b">שָׂתַם</w>
 				<w src="Strong" strong="5640">סָתַם</w>
 			</entry>
-			<entry id="f.cl.ab" cite="full" form="false">
+			<entry id="f.cl.ab" type="root" cite="full" form="false">
 				<w strong="8368">שָׂתַר</w>
 			</entry>
 		</section>
@@ -39236,7 +39236,7 @@
 				<w strong="4862">מִשְׁאָלָה</w>
 			</entry>
 			<entry id="j.ag.ah" cite="full">
-				<w strong="7597">שְׁאַלְתִּיאֵל</w>
+				<w strong="7597" aug="a">שְׁאַלְתִּיאֵל</w>
 				<w src="Strong" strong="7597">שַׁלְתִּיאֵל</w>
 			</entry>
 			<entry id="j.ag.ai" cite="full">
@@ -39265,12 +39265,12 @@
 		</section>
 		<section id="j.ai">
 			<entry id="j.ai.aa" type="root" cite="full" mod="I">
-				<w strong="7602">שָׁאַף</w>
+				<w strong="7602" aug="a">שָׁאַף</w>
 			</entry>
 		</section>
 		<section id="j.aj">
 			<entry id="j.aj.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="7602">שָׁאַף</w>
+				<w strong="7602" aug="b">שָׁאַף</w>
 			</entry>
 		</section>
 		<section id="j.ak">
@@ -39340,10 +39340,10 @@
 				<w strong="7617">שָׁבָה</w>
 			</entry>
 			<entry id="j.ao.ab" cite="full">
-				<w strong="7628">שְׁבִי</w>
+				<w strong="7628" aug="a">שְׁבִי</w>
 			</entry>
 			<entry id="j.ao.ac" cite="full" form="false">
-				<w strong="7628">שָׁבִי</w>
+				<w strong="7628" aug="b">שָׁבִי</w>
 				<w src="BDB">שְׁבִיָּה</w>
 				<w src="Strong" strong="7628">שְׁבִי</w>
 			</entry>
@@ -39356,7 +39356,7 @@
 				<w strong="7622">שְׁבוּת</w>
 			</entry>
 			<entry id="j.ao.af" cite="full">
-				<w strong="7618">שְׁבוּ</w>
+				<w strong="7618">שְׁבוֹ</w>
 			</entry>
 			<entry id="j.ao.ag" cite="full">
 				<w strong="7629">שֹׁבִי</w>
@@ -39371,7 +39371,7 @@
 				<w src="Strong" strong="7619">שׁוּבָאֵל</w>
 			</entry>
 			<entry id="j.ao.aj" cite="full" form="false">
-				<w strong="8453">תִּשְׁבֶּה</w>
+				<w strong="8453" aug="b">תִּשְׁבֶּה</w>
 				<w src="Strong" strong="8453">תּוֹשָׁב</w>
 				<w src="Strong" strong="8453">תֹּשָׁב</w>
 			</entry>
@@ -39381,12 +39381,12 @@
 		</section>
 		<section id="j.ap">
 			<entry id="j.ap.aa" type="root" cite="full" form="false" mod="I">
-				<w strong="7623">שָׁבַח</w>
+				<w strong="7623" aug="a">שָׁבַח</w>
 			</entry>
 		</section>
 		<section id="j.aq">
 			<entry id="j.aq.aa" type="root" cite="full" form="false" mod="II">
-				<w strong="7623">שָׁבַח</w>
+				<w strong="7623" aug="b">שָׁבַח</w>
 			</entry>
 			<entry id="j.aq.ab" cite="full">
 				<w strong="3431">יִשְׁבַּח</w>
@@ -39421,14 +39421,14 @@
 				<w strong="7640">שֹׁבֶל</w>
 			</entry>
 			<entry id="j.as.ac" cite="full" mod="I">
-				<w strong="7641">שִׁבֹּ֫לֶת</w>
+				<w strong="7641" aug="a">שִׁבֹּ֫לֶת</w>
 				<w src="Strong" strong="7641">שִׁבֹּל</w>
 			</entry>
 			<entry id="j.as.ad" cite="full" mod="II">
-				<w strong="7641">שִׁבֹּ֫לֶת</w>
+				<w strong="7641" aug="b">שִׁבֹּ֫לֶת</w>
 			</entry>
 			<entry id="j.as.ae" cite="full">
-				<w strong="7635">שָׁבוּל</w>
+				<w strong="7635">שְׁבוּל</w>
 				<w src="BDB">שְׁבִיל</w>
 				<w src="Strong" strong="7635">שָׁבִיל</w>
 			</entry>
@@ -39495,10 +39495,10 @@
 				<w strong="7650">שָׁבַע</w>
 			</entry>
 			<entry id="j.av.ai" cite="full" mod="II">
-				<w strong="7652">שֶׁ֫בַע</w>
+				<w strong="7652" aug="a">שֶׁ֫בַע</w>
 			</entry>
 			<entry id="j.av.aj" cite="full" mod="III">
-				<w strong="7652">שֶׁבַע</w>
+				<w strong="7652" aug="b">שֶׁבַע</w>
 			</entry>
 			<entry id="j.av.ak">
 				<w>שֶׁבַע</w>
@@ -39576,7 +39576,7 @@
 		</section>
 		<section id="j.az">
 			<entry id="j.az.aa" type="root">
-				<w strong="7673">שָׁבַת</w>
+				<w strong="7673" aug="a">שָׁבַת</w>
 			</entry>
 			<page p="992"/>
 			<entry id="j.az.ab" cite="full" mod="II">
@@ -39586,7 +39586,7 @@
 				<w strong="7676">שַׁבָּת</w>
 			</entry>
 			<entry id="j.az.ad" cite="full" form="false">
-				<w strong="7673">שָׁבַת</w>
+				<w strong="7673" aug="b">שָׁבַת</w>
 			</entry>
 			<entry id="j.az.ae" cite="full">
 				<w strong="7677">שַׁבָּתוֹן</w>
@@ -39695,11 +39695,11 @@
 				<w>שׁדה</w>
 			</entry>
 			<entry id="j.bh.ab" cite="full" form="false">
-				<w strong="7699">שַׁד</w>
+				<w strong="7699" aug="a">שַׁד</w>
 				<w src="Strong" strong="7699">שֹׁד</w>
 			</entry>
 			<entry id="j.bh.ac" cite="full" mod="II">
-				<w strong="7699">שֹׁד</w>
+				<w strong="7699" aug="b">שֹׁד</w>
 				<w src="Strong" strong="7699">שַׁד</w>
 			</entry>
 			<entry id="j.bh.ad" cite="full">
@@ -39731,11 +39731,11 @@
 				<w strong="7710">שָׁדַף</w>
 			</entry>
 			<entry id="j.bj.ab" cite="full">
-				<w strong="7711">שְׁדֵפָה</w>
+				<w strong="7711" aug="a">שְׁדֵפָה</w>
 				<w src="Strong" strong="7711">שִׁדָּפוֹן</w>
 			</entry>
 			<entry id="j.bj.ac" cite="full">
-				<w strong="7711">שִׁדָּפוֹן</w>
+				<w strong="7711" aug="b">שִׁדָּפוֹן</w>
 				<w src="Strong" strong="7711">שְׁדֵפָה</w>
 			</entry>
 			<entry id="j.bj.ad" cite="full">
@@ -39792,12 +39792,12 @@
 				<w>שׁוא</w>
 			</entry>
 			<entry id="j.bm.ab" cite="full" form="false">
-				<w strong="7722">שׁוֹא</w>
+				<w strong="7722" aug="a">שׁוֹא</w>
 				<w src="Strong" strong="7722">שׁוֹאָה</w>
 				<w src="Strong" strong="7722">שֹׁאָה</w>
 			</entry>
 			<entry id="j.bm.ac" cite="full">
-				<w strong="7722">שׁוֹאָה</w>
+				<w strong="7722" aug="b">שׁוֹאָה</w>
 				<w strong="7722">שֹׁאָה</w>
 				<w src="Strong" strong="7722">שׁוֹא</w>
 			</entry>
@@ -39873,7 +39873,7 @@
 			<entry id="j.bn.ar">
 				<w>שׁוֹבָק</w>
 				<w>שׁוֹבֵק</w>
-				<v ref="j.ax.aa">שׁב��</v>
+				<v ref="j.ax.aa">שׁבק</v>
 			</entry>
 		</section>
 		<section id="j.bo">
@@ -39897,7 +39897,7 @@
 		</section>
 		<section id="j.bp">
 			<entry id="j.bp.aa" type="root" cite="full" mod="I">
-				<w strong="7737">שָׁוָה</w>
+				<w strong="7737" aug="a">שָׁוָה</w>
 			</entry>
 			<page p="1001"/>
 			<entry id="j.bp.ab" cite="full" mod="I">
