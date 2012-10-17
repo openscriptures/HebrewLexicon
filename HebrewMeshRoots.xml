@@ -4,7 +4,7 @@
 			 xmlns="http://www.APTBibleTools.com/namespace">
 	<entry id="a1">
 		<w xlit="aleph" xml:lang="heb">א</w>
-		<bdb><w>א</w> <def>Āleph</def>, first letter; in post B Heb.=numeral 1 (and so in margin of printed MT); <w>אֿ</w> = 1000; no evidence of this usage in OT times.</bdb>
+		<bdb><w>א</w> <def>Āleph</def>, first letter; in post B Heb. = numeral 1 (and so in margin of printed MT); <w>אֿ</w> = 1000; no evidence of this usage in OT times.</bdb>
 		<status p="1">done</status>
 	</entry>
 	<entry id="abb">
@@ -203,7 +203,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 	</entry>
 	<entry id="ale">
 	  <bdb mod="I"><w>אלה</w> (assumed as √ of <w>אֵל</w>, (<w>אֱלוֹהַּ</w>) <w>אֱלֹהִים</w> <def>god, God</def>, but question intricate, &amp; conclusions dub. It is uncertain whether <w>אֵל</w> &amp; <w>אֱלֹהִים</w> are from the same √. Following are the chief theories: 1. a. Thes makes <w>אֵל</w> &amp; <w>אֱלֹהִים</w> distinct, and both really primitive, but associates <w>אֵל</w> in treatment with <w>אֵל</w> <def>strong</def>, Pt. of √<w>אול</w>; <def>strong</def>, acc. to Thes, being derived from mng. <def>be in front of</def>; (different order in Lex. Man., RobGes); b.  <w>אֵל</w> &amp; <w>אֱלֹהִים</w> distinct; former fr. <w>אול</w> <def>strong</def>; latter pl. of <w>אֱלוֹהַּ</w> from √[<w>אלהּ</w>] = <foreign xml:lang="ara">Arabic</foreign> 
-	  <def>go to and fro</def> in perplexity or fear, hence <w>אֱלהַּ</w> <def>fear &amp; object of fear</def>, reverence, <def>revered one</def>; <foreign xml:lang="ara">Arabic</foreign> = <w>פחד אל</w> <def>trepide confugere ad</def> <ref r="Hos.3.5">Ho 3:5</ref>; <w>אלהים</w> = <w>פחד</w> <ref r="Gen.31.42">Gn 31:42</ref> = <w>מוֹרָא</w> <ref r="Isa.8.13">Is 8:13</ref> DeGn 1887, 48 (cf. <foreign xml:lang="grc">σέβασμα</foreign>, postB.Heb. <w>יִרְאָה</w> NHWB; Aram. <w>דַּחֲלָא</w> CWB); so De following Fl in De Gn ed. 4. 51, cf. MV. 2. <w>אֵל</w> &amp; <w>אֱלֹהִים</w> possibly connected; <w>אֵל</w> = <def>leader, lord</def>, fr. √<w>אול</w> <def>be in front</def>; so Nö M8 Ak 1880, 760f; SB Ak 1882, 1175f. 3. a. <w>אֵל</w> &amp; <w>אֱלֹהִים</w> connected, &amp; both fr. a √<w>אלה</w> (= <w>אלהּ</w>) to which is assigned mng. <def>strong</def>; so Ew §146d. 178b (v. also Jahrbücher d. bibl. Wiss., x. 11, Bibl. Theol. ii. 330). b. <w>אֵל</w> fr. √<w>אלה</w> <def>strong</def> (not <w>אלהּ</w>), &amp; <w>אֱלֹהִים</w> expanded from <w>אֵל</w>, cf. pl. <w>אֲמָהוֹת</w>; fr.  <w>אמה</w> etc.; so Di on <ref r="Gen.1.1">Gn 1:1</ref>; he supports mng. <def>strong</def> by ref. to phrase <w>יֵשׁ לְאֵל יָדִי</w> <ref r="Gen.31.29">Gn 31:29</ref> al.; c. similarly, <w>אֵל</w>, being very early &amp; common Shemitic word, formed pl. <w>אלהים</w>, fr. which sing. <w>אֱלוֹהַּ</w> was afterwards inferred, Nes Theol. Stud. a. Württ. 1882. 243 (criticized by Nö SBA 1.c.). 4. <w>אֵל</w> (<w>אֱלוֹהַּ</w>, <w>אֱלֹהִים</w> disregarded) fr. √<w>אלה</w> <def>stretch out to, reach after</def> (cf. prep. <w>אֶל</w>, <w>אֱלִי</w>, also <w>אָלָה</w> <def>swear</def>), God as <def>the one whom men strive to reach</def>, 'das Ziel aller Menschensehnsucht und alles Menschenstrebens,' Lag Or. ii. 3; GN 1882. 173—M 96.—Cf. Spurrell Heb. Text of Gn. App. ii, where all these views are stated somewhat more fully, &amp; briefly criticized; on the use of <w>אֵל</w> &amp; <w>אֱלהַּ</w> in Shemitic languages vid., exhaustively, Nö MB Ak. SB Ak. i.c.).</bdb>
+	  <def>go to and fro</def> in perplexity or fear, hence <w>אֱלהַּ</w> <def>fear &amp; object of fear</def>, reverence, <def>revered one</def>; <foreign xml:lang="ara">Arabic</foreign> = <w>פחד אל</w> <def>trepide confugere ad</def> <ref r="Hos.3.5">Ho 3:5</ref>; <w>אלהים</w> = <w>פחד</w> <ref r="Gen.31.42">Gn 31:42</ref> = <w>מוֹרָא</w> <ref r="Isa.8.13">Is 8:13</ref> DeGn 1887, 48 (cf. <foreign xml:lang="grc">σέβασμα</foreign>, post B Heb. <w>יִרְאָה</w> NHWB; Aram. <w>דַּחֲלָא</w> CWB); so De following Fl in De Gn ed. 4. 51, cf. MV. 2. <w>אֵל</w> &amp; <w>אֱלֹהִים</w> possibly connected; <w>אֵל</w> = <def>leader, lord</def>, fr. √<w>אול</w> <def>be in front</def>; so Nö M8 Ak 1880, 760f; SB Ak 1882, 1175f. 3. a. <w>אֵל</w> &amp; <w>אֱלֹהִים</w> connected, &amp; both fr. a √<w>אלה</w> (= <w>אלהּ</w>) to which is assigned mng. <def>strong</def>; so Ew §146d. 178b (v. also Jahrbücher d. bibl. Wiss., x. 11, Bibl. Theol. ii. 330). b. <w>אֵל</w> fr. √<w>אלה</w> <def>strong</def> (not <w>אלהּ</w>), &amp; <w>אֱלֹהִים</w> expanded from <w>אֵל</w>, cf. pl. <w>אֲמָהוֹת</w>; fr.  <w>אמה</w> etc.; so Di on <ref r="Gen.1.1">Gn 1:1</ref>; he supports mng. <def>strong</def> by ref. to phrase <w>יֵשׁ לְאֵל יָדִי</w> <ref r="Gen.31.29">Gn 31:29</ref> al.; c. similarly, <w>אֵל</w>, being very early &amp; common Shemitic word, formed pl. <w>אלהים</w>, fr. which sing. <w>אֱלוֹהַּ</w> was afterwards inferred, Nes Theol. Stud. a. Württ. 1882. 243 (criticized by Nö SBA 1.c.). 4. <w>אֵל</w> (<w>אֱלוֹהַּ</w>, <w>אֱלֹהִים</w> disregarded) fr. √<w>אלה</w> <def>stretch out to, reach after</def> (cf. prep. <w>אֶל</w>, <w>אֱלִי</w>, also <w>אָלָה</w> <def>swear</def>), God as <def>the one whom men strive to reach</def>, 'das Ziel aller Menschensehnsucht und alles Menschenstrebens,' Lag Or. ii. 3; GN 1882. 173—M 96.—Cf. Spurrell Heb. Text of Gn. App. ii, where all these views are stated somewhat more fully, &amp; briefly criticized; on the use of <w>אֵל</w> &amp; <w>אֱלהַּ</w> in Shemitic languages vid., exhaustively, Nö MB Ak. SB Ak. i.c.).</bdb>
 		<xref twot="93"/>
 		<status p="41">base</status>
 	</entry>
@@ -382,7 +382,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="88">base</status>
 	</entry>
 	<entry id="b1">
-	  <bdb><w>ב</w>, <w>בּ</w> <em>Bêth</em>, 2nd letter; post BHeh. = numeral 2 (and so in margin of printed MT); <w>ב̈</w> = 2000; no evidence of this usage in OT times.</bdb>
+	  <bdb><w>ב</w>, <w>בּ</w> <em>Bêth</em>, 2nd letter; post B Heb. = numeral 2 (and so in margin of printed MT); <w>ב̈</w> = 2000; no evidence of this usage in OT times.</bdb>
 		<status p="88">done</status>
 	</entry>
 	<entry id="b2">
@@ -605,7 +605,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="144">base</status>
 	</entry>
 	<entry id="c1">
-		<bdb><w>ג</w>, <w>גּ</w> <def>Gîmel</def>, third letter; in postB Heb. = numeral 3 (and so margin of printed MT); <w>ג̈</w> = 3000 ; no evidence of this usage in OT times.</bdb>
+		<bdb><w>ג</w>, <w>גּ</w> <def>Gîmel</def>, third letter; in post B Heb. = numeral 3 (and so margin of printed MT); <w>ג̈</w> = 3000 ; no evidence of this usage in OT times.</bdb>
 		<status p="144">done</status>
 	</entry>
 	<entry id="cba">
@@ -894,7 +894,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="204">base</status>
 	</entry>
 	<entry id="e1">
-		<bdb><w>ה</w> <def>Hē</def>, fifth letter; = numeral 5 in postB. Heb.; no evidence of this usage in OT times.</bdb>
+		<bdb><w>ה</w> <def>Hē</def>, fifth letter; = numeral 5 in post B Heb.; no evidence of this usage in OT times.</bdb>
 		<status p="206">done</status>
 	</entry>
 	<entry id="e2">
@@ -1067,7 +1067,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="283">base</status>
 	</entry>
 	<entry id="h1">
-		<bdb><w>ח</w> <def>Ḥêth</def>, 8th letter; = numeral 8 in post BHeb.</bdb>
+		<bdb><w>ח</w> <def>Ḥêth</def>, 8th letter; = numeral 8 in post B Heb.</bdb>
 		<status p="285">done</status>
 	</entry>
 	<entry id="hbl1">
@@ -1428,62 +1428,62 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="368">base</status>
 	</entry>
 	<entry id="i1">
-		<bdb><w>ט</w> empty entry</bdb>
-		<status p="370">new</status>
+		<bdb><w>ט</w> <def>Ṭêth</def>, ninth letter; = numeral 9 in post B Heb.; <w>ט´´ו</w> = 15(9 + 6), <w>ט´´ז</w> = 16(9 + 7), to avoid <w>י´´ה</w> and <w>י´´ו</w> v. <w>י</w> Ges §5. 4, R 3 Nes ZAW 1884. 249.</bdb>
+		<status p="370">done</status>
 	</entry>
 	<entry id="ibl2">
-		<bdb mod="II"><w>טבל</w> empty entry</bdb>
+		<bdb mod="II"><w>טבל</w> (perh. to be assumed as √ of foll.; cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>wind about, wrap up</def>; As. <foreign xml:lang="akk">ṭublu</foreign>, <def>turban</def>, Dl in Baer's Ezech xii).</bdb>
 		<xref twot="788"/>
-		<status p="371">new</status>
+		<status p="371">base</status>
 	</entry>
 	<entry id="ibt">
-		<bdb><w>טבר</w> empty entry</bdb>
+		<bdb><w>טבר</w> (√ of foll.; meaning dubious).</bdb>
 		<xref twot="790"/>
-		<status p="371">new</status>
+		<status p="371">done</status>
 	</entry>
 	<entry id="ifi">
-		<bdb><w>טוט</w>, <w>טיט</w> empty entry</bdb>
+		<bdb><w>טוט</w>, <w>טיט</w> (√ of foll.; meaning unknown).</bdb>
 		<xref twot="796"/>
-		<status p="376">new</status>
+		<status p="376">done</status>
 	</entry>
 	<entry id="ift">
-		<bdb><w>טוּר</w> empty entry</bdb>
+		<bdb><w>טוּר</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <def>go</def> or <def>hover about, approach</def>, <foreign xml:lang="ara">Arabic</foreign> <def>limit, border</def>).</bdb>
 		<xref twot="798"/>
-		<status p="377">new</status>
+		<status p="377">base</status>
 	</entry>
 	<entry id="iht">
-		<bdb><w>טחר</w> empty entry</bdb>
+		<bdb><w>טחר</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>eject</def>; Aram. <w>טְחַר</w>, <foreign xml:lang="syr">Syriac</foreign> <def>strain at stool</def>, <foreign xml:lang="syr">Syriac</foreign> <def>dysentery</def>).</bdb>
 		<xref twot="803"/>
-		<status p="377">new</status>
+		<status p="377">base</status>
 	</entry>
 	<entry id="iiq">
-		<bdb><w>טטף</w> empty entry</bdb>
+		<bdb><w>טטף</w> (perh. √ of foll.; meaning dub.; Dl Pr 46 comp. As. <foreign xml:lang="akk">ṭaṭâpu</foreign>, <def>surround, encircle</def>; Thes Di prop. √<w>טוף</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>go around</def>), whence <w>טפמפות=טוטפות</w>; Kn., foll. by Klein JPTh 1881, 673 al., assumes √<w>טפף</w> <def>tap, strike</def>, comp. <foreign xml:lang="grc">στίγμα</foreign>, and thinks of actual sign or mark in the flesh as orig. meant).</bdb>
 		<xref twot="804"/>
-		<status p="377">new</status>
+		<status p="377">base</status>
 	</entry>
 	<entry id="ile">
-		<bdb><w>טלה</w> empty entry</bdb>
+		<bdb><w>טלה</w> (√ of foll.; mng. dub.; Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> is <def>tie a lamb</def> to a stake, <def>confine</def>; Syr. <foreign xml:lang="syr">Syriac</foreign> is <def>make young</def>, both appar. denom.; Lag Armen. Stud. §2229 finds earlier form of <w>טָלֶה</w> in Armenian).</bdb>
 		<xref twot="806"/>
-		<status p="378">new</status>
+		<status p="378">base</status>
 	</entry>
 	<entry id="ill1">
-		<bdb mod="I"><w>טלל</w> empty entry</bdb>
+		<bdb mod="I"><w>טלל</w> (√ of foll.; mng. dub.; perh. denom. are Ar. <foreign xml:lang="ara">Arabic</foreign> (the sky) <def>rained fine rain</def>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>be (moist), fat</def>, II. <def>fertilize</def>).</bdb>
 		<xref twot="807"/>
-		<status p="378">new</status>
+		<status p="378">base</status>
 	</entry>
 	<entry id="ilm">
-		<bdb><w>טלם</w> empty entry</bdb>
-		<status p="378">new</status>
+		<bdb><w>טלם</w> (√ of foll.; perh. cf. Ar. <foreign xml:lang="ara">Arabic</foreign>; Aram. <w>טְלַם</w>, <foreign xml:lang="syr">Syriac</foreign>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> all <def>oppress, injure</def>; in this case <w>טַלְמֹן ,טֶלֶם</w> will be Aramaic names, since <foreign xml:lang="syr">Syriac</foreign> = Heb. <w>צ</w>).</bdb>
+		<status p="378">base</status>
 	</entry>
 	<entry id="ina">
-		<bdb><w>טנא</w> empty entry</bdb>
+		<bdb><w>טנא</w> (√ of foll.; Ph. <w>טנא</w> is <def>set up, erect</def>, also <def>offer, present</def>, acc. to DHM in MV10, 983).</bdb>
 		<xref twot="812"/>
-		<status p="380">new</status>
+		<status p="380">done</status>
 	</entry>
 	<entry id="ite">
-		<bdb><w>טרה</w> empty entry</bdb>
+		<bdb><w>טרה</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>be fresh, juicy, moist</def>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> raw).</bdb>
 		<xref twot="824"/>
-		<status p="382">new</status>
+		<status p="382">base</status>
 	</entry>
 	<entry id="j1">
 		<bdb><w>י</w> empty entry</bdb>
