@@ -1656,223 +1656,223 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="450">base</status>
 	</entry>
 	<entry id="k1">
-		<bdb><w>כ</w> empty entry</bdb>
-		<status p="453">new</status>
+		<bdb><w>כ</w>, <w>כּ</w> eleventh letter ; used as numeral 20 in postBHeb.; <w>כא</w> = 21, <w>כב</w> = 22, etc.</bdb>
+		<status p="453">done</status>
 	</entry>
 	<entry id="k2">
-		<bdb><w>כּ</w> empty entry</bdb>
-		<status p="453">new</status>
+		<bdb><w>כּ</w></bdb>
+		<status p="453">See k1; k1 and k2 are the same entry in BDB.</status>
 	</entry>
 	<entry id="k3">
-		<bdb><w>כְּ</w> empty entry</bdb>
-		<status p="453">new</status>
+		<bdb><w>כְּ</w></bdb>
+		<status p="453">See k in HebrewMesh.xml.</status>
 	</entry>
 	<entry id="kbb">
-		<bdb><w>כבב</w> empty entry</bdb>
+		<bdb><w>כבב</w> (√ of foll., cf. Sta §116, 3; meaning not wholly clear; Ar. <foreign xml:lang="ara">Arabic</foreign> is <def>roll threads into a ball</def>, <foreign xml:lang="ara">Arabic</foreign> <def>ball</def> of thread, but also <def>troop</def> of horses, <def>band</def> of men, etc.; Eth. <foreign xml:lang="gez">Ethiopic</foreign> is <foreign xml:lang="lat">in orbem circumsistere</foreign>, <foreign xml:lang="gez">Ethiopic</foreign> <foreign xml:lang="lat">orbis, circulus</foreign>, etc.; hence perh. <def>star</def>, as <def>round</def>, or as collected in <def>bands, clusters, constellations</def>; As. <foreign xml:lang="akk">kabâbu</foreign> = <def>burn</def>; <foreign xml:lang="akk">kabâbê</foreign>, <def>shields</def>, is written <foreign xml:lang="akk">kabâbê</foreign> by Dl HWB 578).</bdb>
 		<xref twot="942"/>
-		<status p="456">new</status>
+		<status p="456">base</status>
 	</entry>
 	<entry id="kbl">
-		<bdb><w>כבל</w> empty entry</bdb>
+		<bdb><w>כבל</w> (√ of foll. = <def>bind</def>; NH <w>כָּבַל</w> <def>bind</def>, <w>כֶּבֶל</w> <def>fetter</def>; Aram. <w>כְּבַל</w> <em>id.</em>, <w>כַּבְלָא</w> <em>id.</em>, <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>bind</def>, <foreign xml:lang="ara">Arabic</foreign> <def>fetter</def>).</bdb>
 		<xref twot="945"/>
-		<status p="459">new</status>
+		<status p="459">base</status>
 	</entry>
 	<entry id="kbn">
-		<bdb><w>כבן</w> empty entry</bdb>
-		<status p="460">new</status>
+		<bdb><w>כבן</w> (√ of foll., mng. dub.; NH <w>כָּבַן</w>, Aram. <w>כבן</w>, <foreign xml:lang="syr">Syriac</foreign> = <def>wrap round, wrap up</def>).</bdb>
+		<status p="460">base</status>
 	</entry>
 	<entry id="kbt2">
-		<bdb mod="II"><w>כבר</w> empty entry</bdb>
+		<bdb mod="II"><w>כבר</w> (√ of foll.; ? <def>to intertwine, net</def>; NH <w>כָּבַר</w> <def>sift</def> is denom. fr. <w>כְּבָרָה</w>).</bdb>
 		<xref twot="948"/>
-		<status p="460">new</status>
+		<status p="460">done</status>
 	</entry>
 	<entry id="kbu">
 		<bdb><w>כבשׂ</w></bdb>
 		<status p="461">added</status>
 	</entry>
 	<entry id="kdd">
-		<bdb><w>כדד</w> empty entry</bdb>
+		<bdb><w>כדד</w> (√ of foll.; Ar. <foreign xml:lang="ara">Arabic</foreign> is <def>toil severely</def>; <foreign xml:lang="ara">Arabic</foreign> <def>fatigue, weary, harass, tread</def>; <foreign xml:lang="ara">Arabic</foreign> <def>mortar</def> in which things are <def>pounded, bruised</def>; <foreign xml:lang="ara">Arabic</foreign> <def>what remains in bottom of cooking-pot</def>).</bdb>
 		<xref twot="953"/>
-		<status p="461">new</status>
+		<status p="461">base</status>
 	</entry>
 	<entry id="kdt">
-		<bdb><w>כדר</w> empty entry</bdb>
+		<bdb><w>כדר</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> VII. <def>shoot</def> or <def>rush down</def> (of hawk, star, etc.; also of an attacking force) so Thes Fl in De Job 15, 24 Buhl Di al.; v. also mod. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>annoy, vex, reprimand</def>, Spiro Vocab.; <foreign xml:lang="ara">Arabic</foreign> oftener <def>be dark, gloomy, turbid</def>, whence &gt; <w>כידור</w> = <def>seething</def> tumult, of battle, cf. Kö ii. 147,  §71, 1).</bdb>
 		<xref twot="954"/>
-		<status p="461">new</status>
+		<status p="461">base</status>
 	</entry>
 	<entry id="ken">
-		<bdb><w>כהן</w> empty entry</bdb>
-		<status p="462">new</status>
+		<bdb><w>כהן</w> (√ of foll; mng. dub., v. Dr 28 6, 18; Ar. vb. <foreign xml:lang="ara">Arabic</foreign> is <def>divine</def>, and <foreign xml:lang="ara">Arabic</foreign> (Qor 52:29) is <def>a seer</def>, the organ (mostly) of a jinn, rarely of a god: the <foreign xml:lang="ara">Arabic</foreign> and the <w>כֹּהֵן</w> must have been orig. identical (both alike being guardians of an oracle, at a sanctuary); but their functions diverged: the <foreign xml:lang="ara">Arabic</foreign> gradually lost his connexion with the sanctuary, and sank to be a mere diviner; the <w>כהן</w> acquired fuller sacrif. functions: v. RS Enc. Brit. ed. 9, xix, 727; We Skizzen iii. 130f., 167; Now Arch ili. 89f.; Ph <w>כהן</w> is <def>priest</def> <w>כהנת</w> <def>priestess</def>).</bdb>
+		<status p="462">base</status>
 	</entry>
 	<entry id="kfm">
-		<bdb><w>כום</w> empty entry</bdb>
+		<bdb><w>כום</w> (√ of foll.; Ar. <foreign xml:lang="ara">Arabic</foreign> II. is <def>heap up, accumulate</def>; <foreign xml:lang="ara">Arabic</foreign> <def>heap</def>; <foreign xml:lang="ara">Arabic</foreign> <def>herd</def> of camels, hence perh. <w>כִּימָה</w> as a <def>group, herd</def>, or <def>flock</def> of stars, but uncertain (v. <w>כִּימָה</w>)).</bdb>
 		<xref twot="963"/>
-		<status p="465">new</status>
+		<status p="465">base</status>
 	</entry>
 	<entry id="kfn">
 		<bdb><w>כון</w></bdb>
 		<status p="476">added</status>
 	</entry>
 	<entry id="kft1">
-		<bdb mod="I"><w>כור</w> empty entry</bdb>
+		<bdb mod="I"><w>כור</w> (√ of foll.; perh. <def>be</def> or <def>make round</def>, hence <def>furnace, pot, basin</def>, fr. shape; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>wind about</def> (e.g. a turban), <foreign xml:lang="ara">Arabic</foreign> <def>turn</def> or <def>twist</def> (of turban), <foreign xml:lang="ara">Arabic</foreign> <def>blacksmith's fire-place, hornets'</def> or <def>bees' nest</def>, <foreign xml:lang="ara">Arabic</foreign> <def>bundle</def>; &gt; Thes comp. Syr. <foreign xml:lang="syr">Syriac</foreign> <foreign xml:lang="lat">incaluit</foreign> (Lexx. <foreign xml:lang="lat">aestuavit, calefactus est</foreign>)).</bdb>
 		<xref twot="967"/>
-		<status p="468">new</status>
+		<status p="468">base</status>
 	</entry>
 	<entry id="kgt">
-		<bdb><w>כזר</w> empty entry</bdb>
+		<bdb><w>כזר</w> (√ of foll.; Aram. Ethpe. <def>be cruel</def> (&#x1D517; <ref r="Job.10.1">Jb 10:1</ref> ), cf. Syr. <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="lat">miles, vir strenuus</foreign> PS 1718, who comp. Pers. <foreign xml:lang="peo">Persian</foreign> <foreign xml:lang="lat">athleta, heros</foreign> (Vullers)).</bdb>
 		<xref twot="971"/>
-		<status p="470">new</status>
+		<status p="470">base</status>
 	</entry>
 	<entry id="khh">
-		<bdb><w>כחח</w> empty entry</bdb>
+		<bdb><w>כחח</w> (√ assumed by Thes Buhl al. for foll. Ba NB 79 prop. √ <w>כוח</w>).</bdb>
 		<xref twot="973"/>
-		<status p="470">new</status>
+		<status p="470">done</status>
 	</entry>
 	<entry id="kjd">
-		<bdb><w>כיד</w> empty entry</bdb>
+		<bdb><w>כיד</w> (√ of foll.; cf. perh. Ar. <foreign xml:lang="ara">Arabic</foreign> in sense <def>labour, take pains, strive</def>, or <def>struggle</def> with, <foreign xml:lang="ara">Arabic</foreign> <def>war</def>).</bdb>
 		<xref twot="977"/>
-		<status p="475">new</status>
+		<status p="475">base</status>
 	</entry>
 	<entry id="klb">
-		<bdb><w>כלב</w> empty entry</bdb>
+		<bdb><w>כלב</w> (√ of foll.; meaning unknown; Thes regards <w>כֶּלֶב</w> as onomatop.)</bdb>
 		<xref twot="981"/>
-		<status p="476">new</status>
+		<status p="476">done</status>
 	</entry>
 	<entry id="kle2">
-		<bdb mod="II"><w>כלה</w> empty entry</bdb>
+		<bdb mod="II"><w>כלה</w> (√ of foll.; meaning unknown). </bdb>
 		<xref twot="983"/>
-		<status p="480">new</status>
+		<status p="480">done</status>
 	</entry>
 	<entry id="klh">
-		<bdb><w>כלח</w> empty entry</bdb>
+		<bdb><w>כלח</w> (√ of I. <w>כֶּלַח</w>, mng. dub.; Ar. <foreign xml:lang="ara">Arabic</foreign> is <def>contract the face, look hard, stern</def>; <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>a hard year</def> (through dearth, etc.)).</bdb>
 		<xref twot="984"/>
-		<status p="480">new</status>
+		<status p="480">base</status>
 	</entry>
 	<entry id="kll2">
-		<bdb mod="II"><w>כלל</w> empty entry</bdb>
+		<bdb mod="II"><w>כלל</w> (assumed as √ of foll., but dubious; cf. NH <w>כַּלָּה</w>; Aram. <w>כַּלְּתָא</w>; Ar. <foreign xml:lang="ara">Arabic</foreign>; As. <foreign xml:lang="akk">kallâtu</foreign>, expl. by Dl Prol. 130f. (cf. Id 11 WB 330) as prop, <def>closed bridal chamber</def> (ideogr. = <def>closed chamber</def>), fr. √ <w>כלא</w> or <w>כלה</w>, thence <def>bride</def> (cf. harem); acc. to RS K 136f. 292 <w>כַּלָּה</w> = <def>one closed in</def>, or <def>reserved</def> (sc. for her husband); Ges al. <def>one crowned</def> (cf. Aram. etc. <w>כלילא</w> <def>crown</def>), but form much against this; Nö ZMG 1886, 737 'ventures no explanation').</bdb>
 		<xref twot="986"/>
-		<status p="483">new</status>
+		<status p="483">base</status>
 	</entry>
 	<entry id="kmg">
-		<bdb><w>כמז</w> empty entry</bdb>
+		<bdb><w>כמז</w> (√ of foll.; mng. dub.; Ar. <foreign xml:lang="ara">Arabic</foreign> is <def>bunch, heap</def>).</bdb>
 		<xref twot="990"/>
-		<status p="484">new</status>
+		<status p="484">base</status>
 	</entry>
 	<entry id="kmn">
-		<bdb><w>כמן</w> empty entry</bdb>
+		<bdb><w>כמן</w> (√ of foll. (si vera l.); perh. <def>be hidden</def>; cf. Aram. <w>כְּמַן</w>, <foreign xml:lang="syr">Syriac</foreign>, <def>lie in ambush</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> <em>id.</em> is denom. fr. loan-word <foreign xml:lang="ara">Arabic</foreign> acc. to Frä 243).</bdb>
 		<xref twot="991"/>
-		<status p="484">new</status>
+		<status p="484">base</status>
 	</entry>
 	<entry id="kmt2">
-		<bdb mod="II"><w>כמר</w> empty entry</bdb>
+		<bdb mod="II"><w>כמר</w> (√ of foll.; cf. Syr. <foreign xml:lang="syr">Syriac</foreign> <def>black, dark</def>, usu. <def>gloomy, sad</def>; <foreign xml:lang="syr">Syriac</foreign>, <foreign xml:lang="syr">Syriac</foreign> <def>be sad</def>).</bdb>
 		<xref twot="994"/>
-		<status p="485">new</status>
+		<status p="485">base</status>
 	</entry>
 	<entry id="kmt3">
-		<bdb mod="III"><w>כמר</w> empty entry</bdb>
+		<bdb mod="III"><w>כמר</w> (√ of foll.; cf. As. <foreign xml:lang="akk">kamâru</foreign>, <def>overthrow, lay prostrate</def>, whence n. <foreign xml:lang="akk">kamâru</foreign>, <def>net, snare</def> Dl HWB 336 and <w>בֹּמֶר</w> priest acc. to Dl HA 42, i.e. one who prostrates himself; also Mand. <w>כמר</w> <def>turn round, bring back</def> Nö M 443f. and N. Syr. <foreign xml:lang="syr">Syriac</foreign> pursue Nö ib. PS 1759).</bdb>
 		<xref twot="995"/>
-		<status p="485">new</status>
+		<status p="485">base</status>
 	</entry>
 	<entry id="kmw">
-		<bdb><w>כמת</w> empty entry</bdb>
-		<status p="485">new</status>
+		<bdb><w>כמת</w> (√ of foll.; meaning unknown).</bdb>
+		<status p="485">done</status>
 	</entry>
 	<entry id="knn1">
-		<bdb mod="I"><w>כנן</w> empty entry</bdb>
+		<bdb mod="I"><w>כנן</w> (√ of foll.; parallel form of <w>כק</w>; <def>be firm, substantial</def>).</bdb>
 		<xref twot="998"/>
-		<status p="487">new</status>
+		<status p="487">done</status>
 	</entry>
 	<entry id="knn2">
-		<bdb mod="II"><w>כנן</w> empty entry</bdb>
+		<bdb mod="II"><w>כנן</w> (√ of foll.; meaning dubious; v. conj. in Kö ii. 1. 100 Anm.)</bdb>
 		<xref twot="999"/>
-		<status p="487">new</status>
+		<status p="487">done</status>
 	</entry>
 	<entry id="knq">
-		<bdb><w>כנף</w> empty entry</bdb>
-		<status p="489">new</status>
+		<bdb><w>כנף</w> √ of foll. (mng. dub.; Ar. (√ of foll.; meaning dubious).<foreign xml:lang="ara">Arabic</foreign> <def>fence in, enclose</def>, and Aram. <w>כְּנַף</w> <def>collect, assemble</def>, are denom.)</bdb>
+		<status p="489">base</status>
 	</entry>
 	<entry id="knt">
-		<bdb><w>כנר</w> empty entry</bdb>
+		<bdb><w>כנר</w> (poss. √ of foll.; meaning unknown). </bdb>
 		<xref twot="1004"/>
-		<status p="489">new</status>
+		<status p="489">done</status>
 	</entry>
 	<entry id="koe2">
-		<bdb mod="II"><w>כסה</w> empty entry</bdb>
+		<bdb mod="II"><w>כסה</w> (√ of foll.; prob. <def>bind</def>; cf. As. <foreign xml:lang="akk">kasû</foreign>, <def>take captive</def>, <stem>Pi.</stem> <def>fetter</def>, <foreign xml:lang="akk">kasîtu, kisittu</foreign>, <def>a fetter</def>; Zehnpfund BAS i. 536 Dl Baer's Ezech. xii. HWB 342).</bdb>
 		<xref twot="1009"/>
-		<status p="492">new</status>
+		<status p="492">done</status>
 	</entry>
 	<entry id="kqo">
-		<bdb><w>כפס</w> empty entry</bdb>
+		<bdb><w>כפס</w> (perh. √ of foll.; cf. &#x1D517; <w>כְּפַס</w> <ref r="Esth.1.6">Est 1:6</ref> <def>bind, fasten</def> (so Levy, Jastrow)).</bdb>
 		<xref twot="1021"/>
-		<status p="495">new</status>
+		<status p="495">done</status>
 	</entry>
 	<entry id="kqt1">
-		<bdb><w>כפר</w> empty entry</bdb>
-		<status p="497">new</status>
+		<bdb mod="I"><w>כפר</w> (of foll.; orig. mng. dub., but most prob. <def>cover</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>cover, hide</def>; &lt; RS who thinks ofAram. <w>כְּפַר</w>, <foreign xml:lang="syr">Syriac</foreign> Pa. <def>wash away, rub off</def>, whence <w>כִּפֶר</w>, <w>כִּפֶּר</w> of <def>washing away, obliteration</def> of sin: NH <w>כִּפֶּר</w> Aram. <w>כַּפֵּר</w> and deriv.; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>an expiation</def> (see RS OTJC 438; 2. 321 Now Arch il. 192 Dr Dt 425 Schmoller St. Kr. 1891, 205ff. LagBN230ff.)).</bdb>
+		<status p="497">base</status>
 	</entry>
 	<entry id="kqt2">
-		<bdb mod="II"><w>כפר</w> empty entry</bdb>
-		<status p="498">new</status>
+		<bdb mod="II"><w>כפר</w> (√ of following).</bdb>
+		<status p="498">done</status>
 	</entry>
 	<entry id="kqt3">
-		<bdb mod="III"><w>כפר</w> empty entry</bdb>
+		<bdb mod="III"><w>כפר</w> (√ of following).</bdb>
 		<xref twot="1025"/>
-		<status p="498">new</status>
+		<status p="498">done</status>
 	</entry>
 	<entry id="kqt4">
-		<bdb mod="IV"><w>כפר</w> empty entry</bdb>
+		<bdb mod="IV"><w>כפר</w> (√ of foll., = <def>dig</def>? cf. Sab. <w>כפר</w>, vb. <def>dig</def>, n. <def>cave</def>, DHM Anzelgerd. Wlemer Ak., phil. hist. Cl. Dec. 17, 1884, quoted by Eut Nab 27; Nö comp. also Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>basket, measure</def>; Nab. <w>כפר</w> <def>cave, sepulchre</def>, synon. of <w>קברא</w> Nö in Eut Nab <em>ib.</em>)</bdb>
 		<xref twot="1026"/>
-		<status p="499">new</status>
+		<status p="499">base</status>
 	</entry>
 	<entry id="ktg">
 		<bdb><w>כרז</w></bdb>
 		<status p="1121">added</status>
 	</entry>
 	<entry id="ktk">
-		<bdb><w>כרך</w> empty entry</bdb>
+		<bdb><w>כרך</w> (√ of following; cf. Aram. <w>כְּרַךְ</w>, <foreign xml:lang="syr">Syriac</foreign> <def>enwrap, surround</def>, <w>כְּרִיכַא</w>, <foreign xml:lang="syr">Syriac</foreign> <def>bundle</def>, <w>כַּרְכָּא</w>, <foreign xml:lang="syr">Syriac</foreign> <def>city</def> (+ many other deriv.); <w>כְּרִיכָא</w>, <foreign xml:lang="syr">Syriac</foreign>, NH <w>כֶּרֶךְ</w>, <def>scroll</def>, etc.)</bdb>
 		<xref twot="1037"/>
-		<status p="501">new</status>
+		<status p="501">base</status>
 	</entry>
 	<entry id="ktkb">
-		<bdb><w>כרכב</w> empty entry</bdb>
+		<bdb><w>כרכב</w> <pos>quadril.</pos> (√ of following; cf. NH <w>כִּרְכֵּב</w>, <def>furnish with a rim, enclose, set</def>).</bdb>
 		<xref twot="1038"/>
-		<status p="501">new</status>
+		<status p="501">done</status>
 	</entry>
 	<entry id="ktm">
 		<bdb><w>כרם</w></bdb>
 		<status p="501">added</status>
 	</entry>
 	<entry id="ktu">
-		<bdb><w>כרשׂ</w> empty entry</bdb>
+		<bdb><w>כרשׂ</w> √ of foll. (Ar. <foreign xml:lang="ara">Arabic</foreign> <def>wrinkled</def>).</bdb>
 		<xref twot="1047"/>
-		<status p="503">new</status>
+		<status p="503">base</status>
 	</entry>
 	<entry id="kvq1">
-		<bdb mod="I"><w>כשׁף</w> empty entry</bdb>
-		<status p="506">new</status>
+		<bdb mod="I"><w>כשׁף</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>cut off, cut up</def>, Syr. <foreign xml:lang="syr">Syriac</foreign> <def>to pray</def> (lit. prob. <def>to cut oneself</def> v. <ref r="1Kgs.18.28">1 K 18:28</ref>): so RS JPhil. xiv. 125, 126 Nö ZMG 1886, 723; acc. to RS <w>כֶּשֶׂף</w> is prop, herbs etc. <def>shredded</def> into a magic brew).</bdb>
+		<status p="506">base</status>
 	</entry>
 	<entry id="kvq2">
-		<bdb mod="II"><w>כשׁף</w> empty entry</bdb>
-		<status p="506">new</status>
+		<bdb mod="II"><w>כשׁף</w> (√ of following).</bdb>
+		<status p="506">done</status>
 	</entry>
 	<entry id="kwl">
-		<bdb><w>כתל</w> empty entry</bdb>
+		<bdb><w>כתל</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>make into firm lumps</def> or <def>blocks, make compact</def>; Frey also <def>bind, imprison</def>, <foreign xml:lang="ara">Arabic</foreign> <def>be joined together</def>).</bdb>
 		<xref twot="1054"/>
-		<status p="508">new</status>
+		<status p="508">base</status>
 	</entry>
 	<entry id="kwm2">
-		<bdb mod="II"><w>כתם</w> empty entry</bdb>
+		<bdb mod="II"><w>כתם</w> (√ of foll.; meaning unknown). </bdb>
 		<xref twot="1056"/>
-		<status p="508">new</status>
+		<status p="508">done</status>
 	</entry>
 	<entry id="kwn">
-		<bdb><w>כתן</w> empty entry</bdb>
+		<bdb><w>כתן</w> (√ of foll., = <def>clothe</def>? so Zehnpf. BAS i. 532, who der. therefrom As. <foreign xml:lang="akk">kitinnê</foreign>, <def>linen, cloth</def>, = Ar. <foreign xml:lang="ara">Arabic</foreign>; v. also Aram. <w>כִּיתָּנָא</w>, <foreign xml:lang="syr">Syriac</foreign> and infr.)</bdb>
 		<xref twot="1058"/>
-		<status p="509">new</status>
+		<status p="509">base</status>
 	</entry>
 	<entry id="kwq">
-		<bdb><w>כתף</w> empty entry</bdb>
-		<status p="509">new</status>
+		<bdb><w>כתף</w> (√ of following; meaning unknown).</bdb>
+		<status p="509">done</status>
 	</entry>
 	<entry id="l1">
 		<bdb><w>ל</w> empty entry</bdb>
