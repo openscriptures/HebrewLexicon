@@ -1999,60 +1999,56 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<xref twot="1133"/>
 		<status p="547">done</status>
 	</entry>
-	<entry id="m1">
-		<bdb><w>מ</w> empty entry</bdb>
-		<status p="547">new</status>
-	</entry>
-	<entry id="m2">
-		<bdb><w>ם</w> empty entry</bdb>
-		<status p="547">new</status>
+	<entry id="m">
+		<bdb><w>מ</w>, <w>ם</w>, <def>Mēm</def>, thirteenth letter ; used as numeral 40 in postB.Heb.</bdb>
+		<status p="547">done</status>
 	</entry>
 	<entry id="mad">
-		<bdb><w>מאד</w> empty entry</bdb>
+		<bdb><w>מאד</w> (√ of following As. <foreign xml:lang="akk">maʾâdu</foreign>, <def>be many, increase</def>; <foreign xml:lang="akk">maʾadu</foreign>, <def>many</def>; <foreign xml:lang="akk">maʾadiš</foreign>, <def>in abundance</def>, Dl HWB, 388f.; cf. Sab. <w>מאד</w> <def>to add</def>, DHM ZMG 1883, 342f. Hom Süd-Ar. Chr. 127; Ar <foreign xml:lang="ara">Arabic</foreign> <def>begin to grow</def>, of plant).</bdb>
 		<status p="547">new</status>
 	</entry>
 	<entry id="mam">
-		<bdb><w>מאם</w> empty entry</bdb>
+		<bdb><w>מאם</w> (√ of following, mng. unkn.; Ol §205 prop. √ <w>אום</w> = <w>חום</w> <def>black</def>, cf. already Ew §160d).</bdb>
 		<xref twot="1137"/>
-		<status p="548">new</status>
+		<status p="548">done</status>
 	</entry>
 	<entry id="mcd">
-		<bdb><w>מגד</w> empty entry</bdb>
+		<bdb><w>מגד</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>be glorious, excel in glory</def>).</bdb>
 		<xref twot="1144"/>
-		<status p="550">new</status>
+		<status p="550">base</status>
 	</entry>
 	<entry id="mde">
-		<bdb><w>מדה</w> empty entry</bdb>
+		<bdb><w>מדה</w> (secondary form of <w>מדד</w>; √ of foll.)</bdb>
 		<xref twot="1148"/>
-		<status p="551">new</status>
+		<status p="551">done</status>
 	</entry>
 	<entry id="met2">
-		<bdb mod="II"><w>מהר</w> empty entry</bdb>
-		<status p="555">new</status>
+		<bdb mod="II"><w>מהר</w> (√ of foll.; cf. prob. As. <foreign xml:lang="akk">mâru</foreign>; <def>send</def>, whence <foreign xml:lang="akk">tamirtu, tamartu</foreign>, (<def>missive</def>,) <def>gift</def>, Dl HWB 389f.; v. Nö ZMG xl. 1886, 154).</bdb>
+		<status p="555">done</status>
 	</entry>
 	<entry id="mf">
-		<bdb mod="I"><w>מו</w> empty entry</bdb>
+		<bdb mod="I"><w>מו</w> a paragogic syllable, attached to <w>בְּ</w>, <w>כְּ</w>, <w>לְ</w> (q.v.), so as to form with them independent words, <w>בְּמֹו</w>, <w>כְּמֹו</w>, <w>לְמוֹ</w> (q.v.) These forms, except sometimes <w>כְּמֹו</w>, are exclusively poetical. In origin <w>מֹו</w> is identical with <w>מָה</w> <def>what</def>, Ar. <foreign xml:lang="ara">Arabic</foreign>, which is used similarly, pleonastically, with certain prefixes, e.g. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign>. See Qor 3:153 71:25; Fl Kl. Schr. i. 473f., 479, 558. W AG ii. §70. Rem. <em>f</em>; 8G 126f.; Kö il. 250f.; and cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign>, Syr. <foreign xml:lang="syr">Syriac</foreign>, Sab. <w>בנמו</w> = <foreign xml:lang="ara">Arabic</foreign>, DHM ZDMG 1883, 396f., Hom Chrest. §18.</bdb>
 		<xref twot="1154"/>
-		<status p="555">new</status>
+		<status p="555">base</status>
 	</entry>
 	<entry id="mfd1">
-		<bdb mod="I"><w>מוד</w> empty entry</bdb>
-		<status p="556">new</status>
+		<bdb mod="I"><w>מוד</w> (√ of foll.; appar. secondary form of <w>מדד</w>, cf. Ba NB §190c, and Ar. <foreign xml:lang="ara">Arabic</foreign> <def>stretch, extend</def>, also <def>prolong, make to continue</def>).</bdb>
+		<status p="556">base</status>
 	</entry>
 	<entry id="mfr">
-		<bdb><w>מוץ</w> empty entry</bdb>
+		<bdb><w>מוץ</w> (√ of following; meaning unknown). </bdb>
 		<xref twot="1162"/>
-		<status p="558">new</status>
+		<status p="558">done</status>
 	</entry>
 	<entry id="mgc">
-		<bdb><w>מזג</w> empty entry</bdb>
+		<bdb><w>מזג</w> (√ of foll. = <def>mix</def>, cf. Syr. <foreign xml:lang="syr">Syriac</foreign>, and deriv.; &#x1D517; <w>מְזַג</w> <def>mix, prepare by mixing</def>.—Ar. <foreign xml:lang="ara">Arabic</foreign> <em>id.</em> is denom. fr. <foreign xml:lang="ara">Arabic</foreign> v. foll., Frä 172).</bdb>
 		<xref twot="1170"/>
-		<status p="561">new</status>
+		<status p="561">base</status>
 	</entry>
 	<entry id="mge">
-		<bdb><w>מזה</w> empty entry</bdb>
+		<bdb><w>מזה</w> (√ of foll.; prob. cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>suck out</def>, cf. Dr Dt 32, 24).</bdb>
 		<xref twot="1171"/>
-		<status p="561">new</status>
+		<status p="561">base</status>
 	</entry>
 	<entry id="mgh">
 		<bdb><w>מזח</w></bdb>
@@ -2063,118 +2059,118 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<status p="561">added</status>
 	</entry>
 	<entry id="mgt1">
-		<bdb mod="I"><w>מזר</w> empty entry</bdb>
+		<bdb mod="I"><w>מזר</w> (? √ of foll. so Thes 781 cf. Ba NB §164c; otherwise Gei Urschrift 52: NH <w>מָזַר</w> and Aram. <foreign xml:lang="syr">Syriac</foreign> <def>be bad</def> (of eggs), Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be foul, corrupt</def>).</bdb>
 		<xref twot="1174"/>
-		<status p="561">new</status>
+		<status p="561">base</status>
 	</entry>
 	<entry id="mgt2">
-		<bdb mod="II"><w>מזר</w> empty entry</bdb>
+		<bdb mod="II"><w>מזר</w> (√ of foll., si vera l.; poss. = <def>spread out</def>; Aram. <foreign xml:lang="syr">Syriac</foreign> <def>stretch oneself</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>aequaliter distendit</def> utrem).</bdb>
 		<xref twot="1175"/>
 		<status p="561">new</status>
 	</entry>
 	<entry id="mhh">
-		<bdb><w>מחח</w> empty entry</bdb>
+		<bdb><w>מחח</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> IV. <def>be fat</def>, also <def>contain marrow</def>).</bdb>
 		<xref twot="1181"/>
-		<status p="562">new</status>
+		<status p="562">base</status>
 	</entry>
 	<entry id="mht">
-		<bdb><w>מחר</w> empty entry</bdb>
+		<bdb><w>מחר</w> (√ of foll.; <def>be in front of, meet</def>, cf. As. <foreign xml:lang="akk">maḫâru</foreign>, Dl HWB 400 <def>come to meet, receive</def> [cf. <w>קִבֵּל</w>], and Id Prol. 93; Sab. <w>מחֿר</w> <def>receive</def>, etc., n. <em>id.</em>, <def>token of favour</def>, || gift, <w>נחלת</w>; DHM ZMG xxxvii. 1883, 408).</bdb>
 		<xref twot="1185"/>
-		<status p="563">new</status>
+		<status p="563">done</status>
 	</entry>
 	<entry id="mil">
-		<bdb><w>מטל</w> empty entry</bdb>
+		<bdb><w>מטל</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>strike, beat, extend by beating, shape iron into a helmet</def>, Frey, <foreign xml:lang="ara">Arabic</foreign> iron, or a sword, <def>beaten into a long shape</def>, Lane 3021).</bdb>
 		<xref twot="1186"/>
-		<status p="564">new</status>
+		<status p="564">base</status>
 	</entry>
 	<entry id="mjn">
-		<bdb><w>מין</w>, <w>מון</w> empty entry</bdb>
+		<bdb><w>מין</w>, <w>מון</w> (√ of foll; dubious; Fl in Levy NHWB iii. 310, comp Ar. <foreign xml:lang="ara">Arabic</foreign> (med <em>i</em>) <def>split</def> the earth (in ploughing), cf. Dr Dt 14, 13).</bdb>
 		<xref twot="1191"/>
-		<status p="568">new</status>
+		<status p="568">base</status>
 	</entry>
 	<entry id="mjr">
-		<bdb cite="full" form="false"><w>מיץ</w> empty entry</bdb>
+		<bdb cite="full" form="false"><w>מיץ</w> (√ of foll. = <def>press, squeeze</def>, cf. NH <em>id.</em>, <def>press, suck</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> (med. <w>ו</w>) is <def>wash gently, rub</def> with the hand).</bdb>
 		<xref twot="1192"/>
-		<status p="568">new</status>
+		<status p="568">base</status>
 	</entry>
 	<entry id="mlh2">
-		<bdb mod="II"><w>מלח</w> empty entry</bdb>
-		<status p="571">new</status>
+		<bdb mod="II"><w>מלח</w> (√ of foll.; meaning dubious).</bdb>
+		<status p="571">done</status>
 	</entry>
 	<entry id="mlh3">
 		<bdb><w>מלח</w></bdb>
 		<status p="1100">added</status>
 	</entry>
 	<entry id="mlk1">
-		<bdb mod="I"><w>מלך</w> empty entry</bdb>
-		<status p="572">new</status>
+		<bdb mod="I"><w>מלך</w> (√ of foll.; mng. dub.; Thes comp. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>possess, own exclusively</def>, cf. Eth. <foreign xml:lang="gez">Ethiopic</foreign> so Bae Rel. 144 (cf. <w>בַּעַל</w>), and Nö ZMG xi. 1886, 727; Lyon Bib. Sacr., Apr. 1884 Dl Prol. 30 al. comp. As. <foreign xml:lang="akk">malâku</foreign>, <def>counsel, advise</def> Dl HWB 412, BH and NH <w>מָלַךְ</w>, Aram. <foreign xml:lang="syr">Syriac</foreign>, <w>מְלַךְ</w>, whence king as orig. <def>counsellor</def>, he whose opinion is decisive).</bdb>
+		<status p="572">base</status>
 	</entry>
 	<entry id="mnh">
-		<bdb><w>מנח</w> empty entry</bdb>
+		<bdb><w>מנח</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>lend, give a gift</def>, <foreign xml:lang="ara">Arabic</foreign> <def>loan, gift</def> esp. of she camel, sheep, or goat for milking, Ph. <w>מנחת</w>, <def>gift, offering</def>).</bdb>
 		<xref twot="1214"/>
-		<status p="585">new</status>
+		<status p="585">base</status>
 	</entry>
 	<entry id="mnn">
-		<bdb><w>מנן</w> empty entry</bdb>
+		<bdb><w>מנן</w> (of foll.; Ar. <foreign xml:lang="ara">Arabic</foreign> is <def>praecidit</def> funem, <def>diminuit</def> numerum, <def>debilitavit</def>; also <def>be bounteous</def>, Qor 3:158 al., <foreign xml:lang="ara">Arabic</foreign> <def>a gift</def>; whence Zerweck Präp. Min 4 <em>assumes</em> a primary mng. <def>to separate</def>—either <def>from</def> or <def>for</def> ("zutheilen"), as the case might be).</bdb>
 		<xref twot="1215"/>
-		<status p="585">new</status>
+		<status p="585">base</status>
 	</entry>
 	<entry id="mpe">
-		<bdb><w>מעה</w> empty entry</bdb>
+		<bdb><w>מעה</w> (√ of foll.; meaning dubious).</bdb>
 		<xref twot="1227"/>
-		<status p="588">new</status>
+		<status p="588">done</status>
 	</entry>
 	<entry id="mpg">
-		<bdb><w>מעז</w> empty entry</bdb>
-		<status p="589">new</status>
+		<bdb><w>מעז</w> (√ of following).</bdb>
+		<status p="589">done</status>
 	</entry>
 	<entry id="mpr">
-		<bdb><w>מעץ</w> empty entry</bdb>
-		<status p="591">new</status>
+		<bdb><w>מעץ</w> (√ of foll.; perhaps = <def>be wrathful</def>, cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be enraged</def>; cf. also <pos>n.pr.m.</pos> <w>אֲחִימַעַץ</w>, supr. p. 27).</bdb>
+		<status p="591">base</status>
 	</entry>
 	<entry id="mrh">
-		<bdb><w>מצח</w> empty entry</bdb>
+		<bdb><w>מצח</w> (√ of foll.)</bdb>
 		<xref twot="1233"/>
-		<status p="594">new</status>
+		<status p="594">done</status>
 	</entry>
 	<entry id="mrt">
-		<bdb><w>מצר</w> empty entry</bdb>
-		<status p="595">new</status>
+		<bdb><w>מצר</w> (√ of foll.)</bdb>
+		<status p="595">done</status>
 	</entry>
 	<entry id="mta2">
-		<bdb mod="II"><w>מרא</w> empty entry</bdb>
+		<bdb mod="II"><w>מרא</w> (√ of foll., <def>be fat</def>; cf. As. <foreign xml:lang="akk">marû</foreign> III. causat., adj. <foreign xml:lang="akk">marû</foreign>, <def>well-fed, fat</def>; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be digestible, agree with</def> (of food)).</bdb>
 		<xref twot="1239"/>
-		<status p="597">new</status>
+		<status p="597">base</status>
 	</entry>
 	<entry id="mts2">
-		<bdb mod="II"><w>מרק</w> empty entry</bdb>
+		<bdb mod="II"><w>מרק</w> (√ of foll.; cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>fill a pot with rich broth</def> (Frey Wahrm)).</bdb>
 		<xref twot="1247"/>
-		<status p="600">new</status>
+		<status p="600">base</status>
 	</entry>
 	<entry id="mtt2">
-		<bdb mod="II"><w>מרר</w> empty entry</bdb>
+		<bdb mod="II"><w>מרר</w> (√ of foll.; perhaps (so Thes) cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>pass by, go</def>, sts. <def>flow</def>, <foreign xml:lang="ara">Arabic</foreign> <def>cause to flow</def>, <foreign xml:lang="ara">Arabic</foreign> <def>water-course</def>).</bdb>
 		<xref twot="1249"/>
-		<status p="601">new</status>
+		<status p="601">base</status>
 	</entry>
 	<entry id="mvp">
-		<bdb><w>משׁע</w> empty entry</bdb>
+		<bdb><w>משׁע</w> (cf. As. <foreign xml:lang="akk">misû</foreign>, <def>cleanse, wash</def>, cf. Dl HWB; whence <em>might</em> come foll.—though <w>שׁ</w> = <em>s</em> is surprising—cf. Dl Baer,  Ezech. xiv).</bdb>
 		<xref twot="1260"/>
-		<status p="606">new</status>
+		<status p="606">done</status>
 	</entry>
 	<entry id="mvs">
-		<bdb><w>משׁק</w> empty entry</bdb>
+		<bdb><w>משׁק</w> (assumed as √ of two following, but wholly dubious).</bdb>
 		<xref twot="1261"/>
-		<status p="606">new</status>
+		<status p="606">done</status>
 	</entry>
 	<entry id="mwc">
-		<bdb><w>מתג</w> empty entry</bdb>
+		<bdb><w>מתג</w> (√ of foll.; meaning unknown).</bdb>
 		<xref twot="1264"/>
-		<status p="607">new</status>
+		<status p="607">done</status>
 	</entry>
 	<entry id="mwn">
-		<bdb><w>מתן</w> empty entry</bdb>
+		<bdb><w>מתן</w> (√ of foll.; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>be stout, firm, enduring</def> (Frey Wahrm), II. <def>make stout, firm</def> (Lane)).</bdb>
 		<xref twot="1267"/>
-		<status p="608">new</status>
+		<status p="608">base</status>
 	</entry>
 	<entry id="n1">
 		<bdb><w>נ</w>, <w>ן</w> empty entry</bdb>
