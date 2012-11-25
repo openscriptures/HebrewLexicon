@@ -4121,6 +4121,7 @@
 			<page p="103"/>
 			<entry id="b.ax.af" cite="full">
 				<w strong="957">בַּז</w>
+				<w strong="897">בַּג</w>
 			</entry>
 			<entry id="b.ax.ag" cite="full">
 				<w strong="961">בִּזָּה</w>
@@ -4378,7 +4379,7 @@
 			</entry>
 			<entry id="b.bj.al" cite="full">
 				<w strong="1019">בֵּית הַגִּלְגָּל</w>
-				<v ref="g.cd.al">גִּלְגָּל</v>
+				<v ref="g.cd.ar">גִּלְגָּל</v>
 			</entry>
 			<entry id="b.bj.am" cite="full">
 				<w strong="1014">בֵּית גָּמוּל</w>
@@ -4424,6 +4425,7 @@
 			</entry>
 			<entry id="b.bj.ay" cite="full">
 				<w strong="1034">בֵּית לְבָאוֹת</w>
+				<w strong="1011">בֵּית בִּרְאִי</w>
 			</entry>
 			<entry id="b.bj.az" cite="full">
 				<w strong="1035">בֵּית לֶ֫חֶם</w>
@@ -18610,7 +18612,7 @@
 			</entry>
 			<entry id="l.ae.ab">
 				<w strong="3814">לָאט</w>
-				<v ref="l.ax.aa">לוּט</v>
+				<v ref="l.ax.ab">לָט</v>
 			</entry>
 			<entry id="l.ae.ac">
 				<w>לְאַט</w>
@@ -19014,7 +19016,7 @@
 			</entry>
 			<entry id="l.ax.ab" cite="full">
 				<w strong="3909">לָט</w>
-				<w>לָאט</w>
+				<w strong="3814">לָאט</w>
 			</entry>
 			<entry id="l.ax.ac" cite="full" mod="I">
 				<w strong="3875">לוֹט</w>
