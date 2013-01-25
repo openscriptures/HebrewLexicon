@@ -2756,7 +2756,7 @@
 		</section>
 		<section id="a.fa">
 			<entry id="a.fa.aa" type="root">
-				<w>אפל</w>
+				<w>אפן</w>
 			</entry>
 			<entry id="a.fa.ab" cite="full">
 				<w strong="212">אוֹפַן</w>
@@ -4388,8 +4388,8 @@
 				<w>בֵּית הַגָּן</w>
 				<w strong="1004">בַּיִת</w>
 				<w strong="1588">גַּן</w>
-				<v ref="a">גַּן</v>
-				<sub ref="a">גנן</sub>
+				<v ref="g.co.ab">גַּן</v>
+				<sub ref="g.co.aa">גנן</sub>
 			</entry>
 			<entry id="b.bj.ao" cite="full">
 				<w strong="1015">בֵּית דִּבְלָתָ֑יִם</w>
@@ -16821,7 +16821,7 @@
 	<part id="k" title="כ" xml:lang="heb">
 		<section id="k.aa">
 			<entry id="k.aa.aa" type="root">
-				<w>כּ</w>
+				<w>כ</w>
 				<w>כ</w>
 			</entry>
 		</section>
@@ -46691,7 +46691,7 @@
 		</section>
 		<section id="aq.ag">
 			<entry id="aq.ag.aa" type="root">
-				<w>תטר</w>
+				<w>קטר</w>
 			</entry>
 			<entry id="aq.ag.ab" cite="full" form="false">
 				<w strong="7001">קְטַר</w>
