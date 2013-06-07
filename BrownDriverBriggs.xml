@@ -22641,7 +22641,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<sense n="2"><def>with their mysteries</def> = enchantments</sense>
 				<status p="532">base</status>
 			</entry>
-			<entry id="l.ax.ac" cite="full" mod="I"><w>לוֹט</w> <def>n.m</def>. <def>envelope</def>, <def>covering</def>;—<ref r="Isa.25.7">Is 25:7</ref> v. sub vb. supr.
+			<entry id="l.ax.ac" cite="full" mod="I"><w>לוֹט</w> <pos>n.m</pos>. <def>envelope</def>, <def>covering</def>;—<ref r="Isa.25.7">Is 25:7</ref> v. sub vb. supr.
 				<status p="532">done</status>
 			</entry>
 			<entry id="l.ax.ad" mod="II"><w>לוֹט</w> 33 <pos>n.pr.m</pos>. <def>Lot</def> son of Haran, and nephew of Abram
@@ -29409,8 +29409,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="n.ed">
-			<entry id="n.ed.aa" type="root" cite="full" form="false" mod="I">[<w>נָעֵם</w>] <pos>vb</pos>. <def>be pleasant</def>, <def>delightful</def>, <def>lovely</def>
-				<status p="653">base</status>
+			<entry id="n.ed.aa" type="root" cite="full" form="false" mod="I">[<w>נָעֵם</w>] <pos>vb</pos>. <def>be pleasant</def>, <def>delightful</def>, <def>lovely</def>;—<stem>Qal</stem> <asp>Pf</asp>. 3 fs. <w>נָעֵ֑מָה</w> <ref r="Gen.49.15">Gn 49:15</ref> (poem in J; of land); 2 ms. (of delightful friend) <w>נָעַ֥מְתָּ לִי מְאֹד</w> <ref r="2Sam.1.26">2 S 1:26</ref>, also (of physical beauty) <w>מִמִּי נָעָ֑מְתָּ</w> <ref r="Ezek.32.19">Ez 32:19</ref>; 2 fs. (<em>id</em>.) <w>וּמַה־נָּעַמְתְּ</w> <ref r="Song.7.7">Ct 7:7</ref> <def>how lovely art thou!</def>; 3 pl., of pleasant words, <w>נָעֵ֑מוּ</w> <ref r="Ps.141.6">ψ 141:6</ref>; <asp>Impf</asp>. 3ms <w>יִנְעָ֑ם</w>: <ref r="Prov.2.10">Pr 2:10</ref> (of knowledge); <ref r="Prov.9.17">9:17</ref>; <ref r="Prov.24.25">24:25</ref> is impers. c. <w>ל</w>, <def>to them ... shall be delight</def>.
+				<status p="653">ref</status>
 			</entry>
 			<entry id="n.ed.ab" cite="full"><w>נֹ֫עַם</w> <pos>n.m</pos>. <ref r="Ps.90.17">ψ 90:17</ref> <def>delightfulness</def>, <def>pleasantness</def> (Ecclus <w>נועם תירוש</w> 32:6);—<w>נ׳</w> abs. <ref r="Zech.11.7">Zc 11:7</ref> + 4 t.; cstr. <ref r="Ps.27.4">ψ 27:4</ref> <ref r="Ps.90.17">90:17</ref>;—
 				<sense n="1"><def>delightfulness</def> of <w>י׳</w>: contemplated in temple <ref r="Ps.27.4">ψ 27:4</ref>, shewn in his favour, <w>וִיהִי נ׳ אדני ... עָלֵינוּ</w> <ref r="Ps.90.17">90:17</ref>.</sense>
@@ -45272,7 +45272,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="v.ab">
-			<entry id="v.ab.aa" type="root"><w>שֶׁ‍ּ</w>, <pos>rel. part</pos>. <def>who</def>, <def>which</def>, <def>that</def>, etc.
+			<entry id="v.ab.aa" type="root"><w>שֶׁ</w>, <pos>rel. part</pos>. <def>who</def>, <def>which</def>, <def>that</def>, etc.
 				<sense n="1">as a <pos>pron</pos>. <def>who</def>, <def>which</def>, <def>whom</def></sense>
 				<sense n="2">as a connecting link; = <def>where</def>, <def>whither</def>, <def>when</def></sense>
 				<sense n="3">as a <pos>conj</pos>. <em>Partitively</em>

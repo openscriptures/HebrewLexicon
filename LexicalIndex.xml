@@ -252,7 +252,7 @@
 		<entry id="ace">
 			<w xlit="ʾăbāl">אֲבָל</w> <pos>D</pos> <def>nay</def>
 			<xref bdb="a.ak.aa" strong="61" twot="8"/>
-			<etym type="main"/>
+			<etym root="אבל" type="main"/>
 		</entry>
 		<entry id="acf">
 			<w xlit="ʾēbel">אֵ֫בֶל</w> <pos>N</pos> <def>mourning</def>
@@ -314,7 +314,7 @@
 		<entry id="acs">
 			<w xlit="ʾeben">אֶ֫בֶן</w> <pos>N</pos> <def>stone</def>
 			<xref bdb="a.am.aa" strong="68" twot="9"/>
-			<etym type="main">act, acu</etym>
+			<etym root="אבן" type="main">act, acu</etym>
 		</entry>
 		<entry id="act">
 			<w xlit="ʾōben">אֹבֶן</w> <pos>N</pos> <def>wheel</def>
@@ -815,7 +815,7 @@
 		<entry id="agv">
 			<w xlit="ʾāhāl">אָהָל</w> <pos>N</pos> <def>aloe</def>
 			<xref bdb="a.bn.aa" strong="174" twot="34"/>
-			<etym type="main"/>
+			<etym root="אהל" type="main"/>
 		</entry>
 		<entry id="agw">
 			<w xlit="ʾōhel">אֹ֫הֶל</w> <pos>Np</pos> <def>Ohel</def>
@@ -994,7 +994,7 @@
 		<entry id="aih">
 			<w xlit="ʾûlām">אוּלָם</w> <pos>D</pos> <def>but</def>
 			<xref bdb="a.bz.aa" strong="199" twot="47"/>
-			<etym type="main"/>
+			<etym root="אלם" type="main"/>
 		</entry>
 		<entry id="aii">
 			<w xlit="ʾûlām">אוּלָם</w> <pos>Np</pos> <def>Ulam</def>
@@ -1285,7 +1285,7 @@
 		<entry id="aks">
 			<w xlit="ʾeḥād">אֶחָד</w> <pos>A</pos> <def>one</def>
 			<xref bdb="a.cj.aa" strong="259" twot="61"/>
-			<etym type="main">dox</etym>
+			<etym root="אחד" type="main">dox</etym>
 		</entry>
 		<entry id="akt">
 			<w xlit="ʾāḥad">אָחַד</w> <pos>V</pos> <def>be sharp</def>
@@ -1817,7 +1817,7 @@
 		<entry id="apf">
 			<w xlit="ʾayin">אַ֫יִן</w> <pos>D</pos> <def>nothing</def>
 			<xref bdb="a.cz.aa" strong="369" twot="81"/>
-			<etym type="main">apd</etym>
+			<etym root="אין" type="main">apd</etym>
 		</entry>
 		<entry id="apg">
 			<w xlit="ʾîʿezer">אִיעֶזֶר</w> <pos>Np</pos> <def>Jeezer</def>
@@ -1845,7 +1845,7 @@
 		<entry id="apl">
 			<w xlit="ʾyš">אישׁ</w>
 			<xref bdb="a.da.aa" twot="83"/>
-			<etym type="main">apk, apo</etym>
+			<etym root="אישׁ" type="main">apk, apo</etym>
 		</entry>
 		<entry id="apm">
 			<w xlit="ʾîš-bōšet">אִישׁ־בֹ֫שֶׁת</w> <pos>Np</pos> <def>Ish-bosheth</def>
@@ -1959,7 +1959,7 @@
 		<entry id="aqk">
 			<w xlit="ʾākēn">אָכֵן</w> <pos>D</pos> <def>firmly</def>
 			<xref bdb="a.dd.aa" strong="403" twot="86"/>
-			<etym type="main"/>
+			<etym root="אכן" type="main"/>
 		</entry>
 		<entry id="aql">
 			<w xlit="ʾekep">אֶ֫כֶף</w> <pos>N</pos> <def>pressure</def>
@@ -1993,7 +1993,7 @@
 		<entry id="aqr">
 			<w xlit="ʾēl">אֵל</w> <pos>P</pos> <def>these</def>
 			<xref bdb="a.dj.aa" strong="411" twot="92"/>
-			<etym type="main"/>
+			<etym root="אלה" type="main"/>
 		</entry>
 		<entry id="aqs">
 			<w xlit="ʾel">אֶל</w> <pos>R</pos> <def>motion to</def>
@@ -2066,7 +2066,7 @@
 		<entry id="arh">
 			<w xlit="ʾēlleh">אֵ֫לֶּה</w> <pos>P</pos> <def>these</def>
 			<xref bdb="a.dk.aa" strong="428" twot="92"/>
-			<etym type="main"/>
+			<etym root="אלה" type="main"/>
 		</entry>
 		<entry id="ari">
 			<w xlit="ʾallâ">אַלָּה</w> <pos>N</pos> <def>oak</def>
@@ -2879,12 +2879,12 @@
 		<entry id="ayc">
 			<w xlit="ʾnš">אנשׁ</w>
 			<xref bdb="a.eq.aa" twot="137"/>
-			<etym type="main">bfn</etym>
+			<etym root="אנשׁ" type="main">bfn</etym>
 		</entry>
 		<entry id="ayd">
 			<w xlit="ʾnš">אנשׁ</w>
 			<xref bdb="a.ep.aa" twot="136"/>
-			<etym type="main">axh</etym>
+			<etym root="אנשׁ" type="main">axh</etym>
 		</entry>
 		<entry id="aye">
 			<w xlit="ʾnt">אנת</w>
@@ -3579,7 +3579,7 @@
 		<entry id="bdw">
 			<w xlit="ʾărām">אֲרָם</w> <pos>Np</pos> <def>Aram</def>
 			<xref bdb="a.ft.aa" strong="758" twot="163"/>
-			<etym type="main"/>
+			<etym root="ארם" type="main"/>
 		</entry>
 		<entry id="bdx">
 			<w xlit="ʾrm">ארם</w>
@@ -3662,7 +3662,7 @@
 		<entry id="bep">
 			<w xlit="ʾereṣ">אֶ֫רֶץ</w> <pos>N</pos> <def>earth</def>
 			<xref bdb="a.fx.aa" strong="776" twot="167"/>
-			<etym type="main"/>
+			<etym root="ארץ" type="main"/>
 		</entry>
 		<entry id="beq">
 			<w xlit="ʾarṣāʾ">אַרְצָא</w> <pos>Np</pos> <def>Arza</def>
@@ -3686,7 +3686,7 @@
 		<entry id="beu">
 			<w xlit="ʾrš">ארשׁ</w>
 			<xref bdb="a.ga.aa" twot="171"/>
-			<etym type="main">bev</etym>
+			<etym root="ארשׁ" type="main">bev</etym>
 		</entry>
 		<entry id="bev">
 			<w xlit="ʾărešet">אֲרֶ֫שֶׁת</w> <pos>N</pos> <def>desire</def>
@@ -3705,7 +3705,7 @@
 		<entry id="bey">
 			<w xlit="ʾēš">אֵשׁ</w> <pos>N</pos> <def>fire</def>
 			<xref bdb="a.gb.aa" strong="784" twot="172"/>
-			<etym type="main">bfl, bfm, bfo</etym>
+			<etym root="אנש" type="main">bfl, bfm, bfo</etym>
 		</entry>
 		<entry id="bez">
 			<w xlit="ʾašbēl">אַשְׁבֵּל</w> <pos>Np</pos> <def>Ashbel</def>
@@ -3735,7 +3735,7 @@
 		<entry id="bff">
 			<w xlit="ʾšd">אשׁד</w>
 			<xref bdb="a.gc.aa" twot="174"/>
-			<etym type="main">bfe, bfg</etym>
+			<etym root="אשׁד" type="main">bfe, bfg</etym>
 		</entry>
 		<entry id="bfg">
 			<w xlit="ʾăšēdâ">אֲשֵׁדָה</w> <pos>N</pos> <def>foundation</def>
@@ -3781,7 +3781,7 @@
 		<entry id="bfp">
 			<w xlit="ʾšh">אשׁה</w>
 			<xref bdb="a.gd.aa" twot="175"/>
-			<etym type="main">bfv</etym>
+			<etym root="אשׁה" type="main">bfv</etym>
 		</entry>
 		<entry id="bfq">
 			<w xlit="ʾăšûr">אֲשׁוּר</w> <pos>N</pos> <def>step</def>
@@ -3859,7 +3859,7 @@
 		<entry id="bgg">
 			<w xlit="ʾšl">אשׁל</w>
 			<xref bdb="a.ge.aa" twot="179"/>
-			<etym type="main">bgf</etym>
+			<etym root="אשׁל" type="main">bgf</etym>
 		</entry>
 		<entry id="bgh">
 			<w xlit="ʾāšēm">אָשֵׁם</w> <pos>A</pos> <def>guilty</def>
@@ -3894,7 +3894,7 @@
 		<entry id="bgn">
 			<w xlit="ʾšn">אשׁן</w>
 			<xref bdb="a.gg.aa"/>
-			<etym type="main"/>
+			<etym root="אשׁן" type="main">bgq</etym>
 		</entry>
 		<entry id="bgo">
 			<w xlit="ʾešnāb">אֶשְׁנָב</w> <pos>N</pos> <def>window-lattice</def>
@@ -3908,16 +3908,17 @@
 		<entry id="bgq">
 			<w xlit="ʾešʿān">אֶשְׁעָ֑ן</w> <pos>Np</pos> <def>Eshean</def>
 			<xref bdb="v.ex.ab" strong="824"/>
+			<etym type="sub">bgn</etym>
 		</entry>
 		<entry id="bgr">
 			<w xlit="ʾaššāp">אַשָּׁף</w> <pos>N</pos> <def>conjurer</def>
 			<xref bdb="a.gh.aa" strong="825" twot="181"/>
-			<etym type="main"/>
+			<etym root="אשׁף" type="main"/>
 		</entry>
 		<entry id="bgs">
 			<w xlit="ʾšp">אשׁף</w>
 			<xref bdb="a.gi.aa" twot="182"/>
-			<etym type="main">bgt</etym>
+			<etym root="אשׁף" type="main">bgt</etym>
 		</entry>
 		<entry id="bgt">
 			<w xlit="ʾašpâ">אַשְׁפָּה</w> <pos>N</pos> <def>quiver</def>
@@ -3948,7 +3949,7 @@
 		<entry id="bgz">
 			<w xlit="ʾăšer">אֲשֶׁר</w> <pos>T</pos> <def>who</def>
 			<xref bdb="a.gk.aa" strong="834" aug="a" twot="184"/>
-			<etym type="main">bjl, gjb</etym>
+			<etym root="אשׁר" type="main">bjl, gjb</etym>
 		</entry>
 		<entry id="bha">
 			<w xlit="ʾešer">אֶ֫שֶׁר</w> <pos>N</pos> <def>happiness</def>
@@ -4043,7 +4044,7 @@
 		<entry id="bhu">
 			<w xlit="ʾēt">אֵת</w> <pos>T</pos> <def>mark of the accusative</def>
 			<xref bdb="a.gm.aa" strong="853" twot="186"/>
-			<etym type="main"/>
+			<etym root="אות" type="main"/>
 		</entry>
 		<entry id="bhv">
 			<w xlit="ʾatt">אַתְּ</w> <pos>Pp</pos> <def>thou</def>
@@ -4135,7 +4136,7 @@
 			<xref twot="191"/>
 		</entry>
 		<entry id="bio">
-			<w xlit="ʾătārîm">אֲתָרִים</w> <pos>Np</pos> <def>spies.</def>
+			<w xlit="ʾătārîm">אֲתָרִים</w> <pos>Np</pos> <def>spies</def>
 			<xref bdb="a.gp.ai" strong="871"/>
 		</entry>
 		<entry id="bip">
@@ -4154,7 +4155,7 @@
 			<etym type="main">bis, bsq</etym>
 		</entry>
 		<entry id="bis">
-			<w xlit="bĕ">בְּ</w>
+			<w xlit="bĕ">בְּ</w> <pos>R</pos> <def>in</def>
 			<xref bdb="b.ab.aa" strong="b" twot="193"/>
 			<etym type="sub">bir</etym>
 		</entry>
@@ -4797,7 +4798,7 @@
 		<entry id="bnx">
 			<w xlit="bāyay">בָּיַי</w> <pos>Tj</pos> <def>entreat</def>
 			<xref bdb="b.bn.aa" strong="15" twot="238"/>
-			<etym type="main">bnw</etym>
+			<etym root="ביי" type="main">bnw</etym>
 		</entry>
 		<entry id="bny">
 			<w xlit="bîn">בִּין</w> <pos>V</pos> <def>discern</def>
@@ -6259,7 +6260,7 @@
 		<entry id="cak">
 			<w xlit="bśm">בשׂם</w>
 			<xref bdb="b.di.aa" twot="290"/>
-			<etym type="main">cai, caj</etym>
+			<etym root="בשׂם" type="main">cai, caj</etym>
 		</entry>
 		<entry id="cal">
 			<w xlit="bāśĕmat">בָּֽשְׂמַת</w> <pos>Np</pos> <def>Bashemath</def>
@@ -6273,7 +6274,7 @@
 		<entry id="can">
 			<w xlit="bšn">בשׁן</w>
 			<xref bdb="b.dl.aa" twot="293"/>
-			<etym type="main">cam</etym>
+			<etym root="בשׁן" type="main">cam</etym>
 		</entry>
 		<entry id="cao">
 			<w xlit="bošnâ">בׇּשְׁנָה</w> <pos>N</pos> <def>shame</def>
@@ -6736,7 +6737,7 @@
 		<entry id="ceh">
 			<w xlit="gbš">גבשׁ</w>
 			<xref bdb="c.an.aa" twot="311"/>
-			<etym type="main">cdg</etym>
+			<etym root="גבשׁ" type="main">cdg</etym>
 		</entry>
 		<entry id="cei">
 			<w xlit="gibbĕtôn">גִּבְּתוֹן</w> <pos>Np</pos> <def>Gibbethon</def>
@@ -6972,12 +6973,12 @@
 		<entry id="cgg">
 			<w xlit="gdš">גּדשׁ</w>
 			<xref bdb="c.av.aa" twot="320"/>
-			<etym type="main">cfh</etym>
+			<etym root="גדשׁ" type="main">cfh</etym>
 		</entry>
 		<entry id="cgh">
 			<w xlit="gdš">גדשׁ</w>
 			<xref bdb="c.au.aa" twot="319"/>
-			<etym type="main">cfi</etym>
+			<etym root="גדשׁ" type="main">cfi</etym>
 		</entry>
 		<entry id="cgi">
 			<w xlit="gēh">גֵּה</w> <pos>Pd</pos> <def>this</def>
@@ -7093,15 +7094,17 @@
 		<entry id="chf">
 			<w xlit="gwn">גּון</w>
 			<xref bdb="c.bc.aa"/>
-			<etym type="main"/>
+			<etym root="גון" type="main">chg, chh</etym>
 		</entry>
 		<entry id="chg">
 			<w xlit="gûnî">גּוּנִי</w> <pos>A</pos> <def>Gunite</def>
 			<xref bdb="c.bc.ac" strong="1477"/>
+			<etym type="sub">chf</etym>
 		</entry>
 		<entry id="chh">
 			<w xlit="gûnî">גּוּנִי</w> <pos>Np</pos> <def>Guni</def>
 			<xref bdb="c.bc.ab" strong="1476"/>
+			<etym type="sub">chf</etym>
 		</entry>
 		<entry id="chi">
 			<w xlit="gāwaʿ">גָּוַע</w> <pos>V</pos> <def>expire</def>
@@ -7164,7 +7167,7 @@
 		<entry id="chu">
 			<w xlit="gwš">גושׁ</w>
 			<xref bdb="c.bi.aa" twot="333"/>
-			<etym type="main">cht</etym>
+			<etym root="גושׁ" type="main">cht</etym>
 		</entry>
 		<entry id="chv">
 			<w xlit="gēz">גֵּז</w> <pos>N</pos> <def>shearing</def>
@@ -7989,7 +7992,7 @@
 		<entry id="col">
 			<w xlit="grś">גרשׂ</w>
 			<xref bdb="c.dg.aa"/>
-			<etym type="main"/>
+			<etym root="גרשׂ" type="main"/>
 		</entry>
 		<entry id="com">
 			<w xlit="gērĕšôn">גֵּרְשׁוֹן</w> <pos>Np</pos> <def>Gershon</def>
@@ -8006,10 +8009,12 @@
 		<entry id="cop">
 			<w xlit="gĕšûr">גְּשׁוּר</w> <pos>Np</pos> <def>Geshur</def>
 			<xref bdb="c.dk.ab" strong="1650"/>
+			<etym type="sub">coy</etym>
 		</entry>
 		<entry id="coq">
 			<w xlit="gĕšûrî">גְּשׁוּרִי</w> <pos>A</pos> <def>Geshurite</def>
 			<xref bdb="c.dk.ac" strong="1651"/>
+			<etym type="sub">coy</etym>
 		</entry>
 		<entry id="cor">
 			<w xlit="gešem">גֶּ֫שֶׁם</w> <pos>N</pos> <def>rain</def>
@@ -8047,7 +8052,7 @@
 		<entry id="coy">
 			<w xlit="gšr">גשׁר</w>
 			<xref bdb="c.dk.aa"/>
-			<etym type="main"/>
+			<etym root="גשׁר" type="main">cop, coq</etym>
 		</entry>
 		<entry id="coz">
 			<w xlit="gāšaš">גָּשַׁשׁ</w> <pos>V</pos> <def>feel with the hand</def>
@@ -9108,7 +9113,7 @@
 			<xref bdb="d.co.ae" strong="1885"/>
 		</entry>
 		<entry id="cxn">
-			<w xlit="dōtān">דֹּתָן</w> <pos>Np</pos> <def>Dothan.</def>
+			<w xlit="dōtān">דֹּתָן</w> <pos>Np</pos> <def>Dothan</def>
 			<xref bdb="d.co.af" strong="1886"/>
 		</entry>
 		<entry id="cxo">
@@ -9122,7 +9127,7 @@
 			<etym type="main">cxq</etym>
 		</entry>
 		<entry id="cxq">
-			<w xlit="hă">הֲ</w>
+			<w xlit="hă">הֲ</w> <pos>Ti</pos> <def>interrogative particle</def>
 			<xref bdb="e.ac.aa" strong="i" twot="460"/>
 			<etym type="sub">cxp</etym>
 		</entry>
@@ -9926,12 +9931,12 @@
 			<etym root="התת" type="main"/>
 		</entry>
 		<entry id="dee">
-			<w xlit="ha">הַ‍ּ</w>
+			<w xlit="ha">הַ</w> <pos>Td</pos> <def>the</def>
 			<xref bdb="e.ab.aa" strong="d" twot="459"/>
 			<etym type="main">def</etym>
 		</entry>
 		<entry id="def">
-			<w xlit="ha">הַ‍ּ</w>
+			<w xlit="ha">הַ</w>
 			<xref bdb="e.ab.aa" twot="459"/>
 			<etym type="sub">dee</etym>
 		</entry>
@@ -9941,7 +9946,7 @@
 			<etym type="main"/>
 		</entry>
 		<entry id="deh">
-			<w xlit="wĕ">וְ</w>
+			<w xlit="wĕ">וְ</w> <pos>C</pos> <def>and</def>
 			<xref bdb="f.ab.aa" strong="c" twot="519"/>
 			<etym type="main">dei</etym>
 		</entry>
@@ -9999,7 +10004,7 @@
 			<xref bdb="f.ac.ag" strong="2059"/>
 		</entry>
 		<entry id="deu">
-			<w xlit="waštî">וַשְׁתִּי</w> <pos>Np</pos> <def>Vashti.</def>
+			<w xlit="waštî">וַשְׁתִּי</w> <pos>Np</pos> <def>Vashti</def>
 			<xref bdb="f.ac.ah" strong="2060"/>
 		</entry>
 		<entry id="dev">
@@ -12746,7 +12751,7 @@
 			<xref bdb="r.aw.af" strong="2578"/>
 		</entry>
 		<entry id="ebc">
-			<w xlit="ḥămat rabbâ">חֲמַת רַבָּה</w> <pos>Np</pos> <def>No usage.</def>
+			<w xlit="ḥămat rabbâ">חֲמַת רַבָּה</w> <pos>Np</pos> <def>Chamath-Rabbah</def>
 			<xref bdb="h.du.ac" strong="2579"/>
 		</entry>
 		<entry id="ebd">
@@ -14323,7 +14328,7 @@
 			<etym type="sub">enz</etym>
 		</entry>
 		<entry id="eny">
-			<w xlit="ḥătat">חֲתַת</w> <pos>Np</pos> <def>cathath.</def>
+			<w xlit="ḥătat">חֲתַת</w> <pos>Np</pos> <def>cathath</def>
 			<xref bdb="h.hf.af" strong="2867"/>
 		</entry>
 		<entry id="enz">
@@ -16983,7 +16988,7 @@
 			<xref bdb="v.bn.ah" strong="3432"/>
 		</entry>
 		<entry id="fkk">
-			<w xlit="yāšubî lāḥem">יָשֻׁ֫בִי לָ֑חֶם</w> <pos>Np</pos> <def>Jashubi-lehem. (Prob. the text should be pointed and rendered '(they were) inhabitants of Leche</def>
+			<w xlit="yāšubî lāḥem">יָשֻׁ֫בִי לָ֑חֶם</w> <pos>Np</pos> <def>Jashubi-lehem</def>
 			<xref bdb="v.bn.ai" strong="3433"/>
 		</entry>
 		<entry id="fkl">
@@ -17355,7 +17360,7 @@
 			<etym type="main">fnp</etym>
 		</entry>
 		<entry id="fnp">
-			<w xlit="kĕ">כְּ</w>
+			<w xlit="kĕ">כְּ</w> <pos>R</pos> <def>like</def>
 			<xref bdb="k.ab.aa" strong="k" twot="937"/>
 			<etym type="sub">fno</etym>
 		</entry>
@@ -18999,7 +19004,7 @@
 			<etym type="main">gau, ggd</etym>
 		</entry>
 		<entry id="gau">
-			<w xlit="lĕ">לְ</w>
+			<w xlit="lĕ">לְ</w> <pos>R</pos> <def>to</def>
 			<xref bdb="l.aa.ab" strong="l" twot="1063"/>
 			<etym type="sub">gat</etym>
 		</entry>
@@ -19377,7 +19382,7 @@
 			<xref bdb="l.bk.ac" strong="3873"/>
 		</entry>
 		<entry id="gdx">
-			<w xlit="lôṭ">לוֹט</w> <pos>N</pos> <def>n.m</def>
+			<w xlit="lôṭ">לוֹט</w> <pos>N</pos> <def>envelope</def>
 			<xref bdb="l.ax.ac" strong="3875" twot="1092b"/>
 			<etym type="sub">gdz</etym>
 		</entry>
@@ -22402,7 +22407,7 @@
 			<etym type="sub">hwz</etym>
 		</entry>
 		<entry id="hcf">
-			<w xlit="">מִן־</w> <pos>R</pos> <def>out of</def>
+			<w xlit="min">מִן־</w> <pos>R</pos> <def>out of</def>
 			<xref bdb="m.cl.aa" strong="4480" aug="a" twot="1212"/>
 			<etym type="main">hxh</etym>
 		</entry>
@@ -23584,7 +23589,7 @@
 			<etym type="sub">kyf</etym>
 		</entry>
 		<entry id="hlp">
-			<w xlit="miṣpâ">מִצְפָּה</w> <pos>Np</pos> <def>Mitspah. (This seems rather to be only an orthographic variation of when 'in pause'.</def>
+			<w xlit="miṣpâ">מִצְפָּה</w> <pos>Np</pos> <def>Mitspah</def>
 			<xref bdb="r.df.ai" strong="4709"/>
 		</entry>
 		<entry id="hlq">
@@ -25035,11 +25040,11 @@
 			<xref bdb="n.gg.ap" strong="4992"/>
 		</entry>
 		<entry id="hxg">
-			<w xlit="mattityāhû">מַתִּתְיָ֫הוּ</w> <pos>Np</pos> <def>Mattithiah.</def>
+			<w xlit="mattityāhû">מַתִּתְיָ֫הוּ</w> <pos>Np</pos> <def>Mattithiah</def>
 			<xref bdb="n.gg.ao" strong="4993"/>
 		</entry>
 		<entry id="hxh">
-			<w xlit="mi">מִ‍ּ</w>
+			<w xlit="mi">מִ</w> <pos>R</pos> <def>from</def>
 			<xref bdb="m.cl.aa" strong="m" twot="1212"/>
 			<etym type="sub">hcf</etym>
 		</entry>
@@ -30074,7 +30079,7 @@
 			<etym type="sub">jmb</etym>
 		</entry>
 		<entry id="jme">
-			<w xlit="ʿalmôn">עַלְמוֹן</w> <pos>Np</pos> <def>No usage.</def>
+			<w xlit="ʿalmôn">עַלְמוֹן</w> <pos>Np</pos> <def>Almon</def>
 			<xref bdb="p.cx.ac" strong="5960"/>
 		</entry>
 		<entry id="jmf">
@@ -40607,7 +40612,7 @@
 			<etym type="sub">msu</etym>
 		</entry>
 		<entry id="msx">
-			<w xlit="šākâ">שָׁכָה</w> <pos>V</pos> <def>horses</def>
+			<w xlit="šākâ">שָׁכָה</w> <pos>V</pos> <def>roaming at large</def>
 			<xref bdb="v.cz.aa" strong="7904" twot="2382"/>
 			<etym root="שׁכה" type="main"/>
 		</entry>
@@ -43057,7 +43062,7 @@
 			<etym root="שׁתת" type="main"/>
 		</entry>
 		<entry id="nmw">
-			<w xlit="še">שֶׁ‍ּ</w>
+			<w xlit="še">שֶׁ</w> <pos>Pr</pos> <def>who</def>
 			<xref bdb="v.ab.aa" strong="s" twot="2299"/>
 			<etym type="sub">mur</etym>
 		</entry>
@@ -46049,7 +46054,7 @@
 			<etym type="main"/>
 		</entry>
 		<entry id="okp">
-			<w xlit="ṭarpĕlāyēʾ">טַרְפְּלָיֵא</w> <pos>Np</pos> <def>Tarpelites.</def>
+			<w xlit="ṭarpĕlāyēʾ">טַרְפְּלָיֵא</w> <pos>Np</pos> <def>Tarpelites</def>
 			<xref bdb="xi.ac.ab" strong="2967"/>
 		</entry>
 		<entry id="okq">
@@ -46174,7 +46179,7 @@
 			<xref twot="2775"/>
 		</entry>
 		<entry id="olp">
-			<w xlit="yĕrûšĕlēm">יְרוּשְׁלֵם</w> <pos>Np</pos> <def>No usage.</def>
+			<w xlit="yĕrûšĕlēm">יְרוּשְׁלֵם</w> <pos>Np</pos> <def>Jerusalem</def>
 			<xref bdb="xj.ak.ae" strong="3390"/>
 		</entry>
 		<entry id="olq">
