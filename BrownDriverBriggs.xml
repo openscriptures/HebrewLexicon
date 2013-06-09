@@ -30244,8 +30244,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="n.fr">
-			<entry id="n.fr.aa" type="root" form="false" mod="III"><w>נָשָׁא</w>
-				<status p="674">new</status>
+			<entry id="n.fr.aa" type="root" form="false" mod="III"><w>נָשָׁא</w> <def>forget</def>, v. <w src="n.fu.aa">נָשָׁה</w>.
+				<status p="674">done</status>
 			</entry>
 		</section>
 		<section id="n.fs">
@@ -33493,8 +33493,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<page p="746"/>
 		</section>
 		<section id="p.cl">
-			<entry id="p.cl.aa" type="root" form="false" mod="I"><w>עִיף</w>
-				<status p="746">new</status>
+			<entry id="p.cl.aa" type="root" form="false" mod="I"><w>עִיף</w> = <w mod="II" src="p.bl.aa">עוף</w> q.v. for <w src="p.bl.ac">עֵיפָה</w>, <w src="p.bl.ag">עֵיפַי</w> etc.
+				<status p="746">done</status>
 			</entry>
 		</section>
 		<section id="p.cm">
