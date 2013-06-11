@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema targetNamespace="http://openscriptures.github.com/morphhb/namespace" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://openscriptures.github.com/morphhb/namespace" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	
+	<xs:annotation>
+		<xs:documentation>
+			<p>The Strong schema is version 1.0.
+			It is released to the public domain.</p>
+		</xs:documentation>
+	</xs:annotation>
+	
+	<xs:element name="lexicon" type="lexiconCT"/>
+	
+	<!-- complex types -->
+	
+	<xs:complexType name="lexiconCT">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="entry" type="entryCT"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="entryCT">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="note" type="xs:string"/>
+			<xs:element name="source" type="sourceCT"/>
+			<xs:element name="meaning" type="sourceCT"/>
+			<xs:element name="usage" type="sourceCT"/>
+		</xs:choice>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="wCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="pos" type="xs:string"/>
+				<xs:attribute name="pron" type="xs:string"/>
+				<xs:attribute name="xlit" type="xs:string"/>
+				<xs:attribute ref="xml:lang"/>
+				<xs:attribute name="src" type="xs:IDREF"/>
+				<xs:attribute name="origin" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="sourceCT" mixed="true">
+		<xs:choice maxOccurs="unbounded" minOccurs="0">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="note" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+		</xs:choice>
+	</xs:complexType>
+	
+</xs:schema>

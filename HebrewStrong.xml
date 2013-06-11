@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lexicon xmlns="http://openscriptures.github.com/morphhb/namespace">
+<lexicon xsi:schemaLocation="http://openscriptures.github.com/morphhb/namespace StrongSchema.xsd" 
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		 xmlns="http://openscriptures.github.com/morphhb/namespace">
 	<entry id="H1">
 		<w pos="n-m" pron="awb" xlit="ʼâb" xml:lang="heb">אָב</w>
 		<source>a primitive word;</source>

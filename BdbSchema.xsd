@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema targetNamespace="http://openscriptures.github.com/morphhb/namespace" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://openscriptures.github.com/morphhb/namespace" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	
+	<xs:annotation>
+		<xs:documentation>
+			<p>The BDB schema is version 1.0.
+			It is released to the public domain.</p>
+		</xs:documentation>
+	</xs:annotation>
+	
+	<xs:element name="lexicon" type="lexiconCT"/>
+	
+	<!-- complex types -->
+	
+	<xs:complexType name="lexiconCT">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="part" type="partCT"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="partCT">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="section" type="sectionCT"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+		<xs:attribute name="title" type="xs:string"/>
+		<xs:attribute ref="xml:lang"/>
+	</xs:complexType>
+	
+	<xs:complexType name="sectionCT">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element name="entry" type="entryCT"/>
+			<xs:element name="page" type="pageCT"/>
+		</xs:choice>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="entryCT" mixed="true">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="stem" type="xs:string"/>
+			<xs:element name="asp" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+			<xs:element name="em" type="xs:string"/>
+			<xs:element name="sense" type="senseCT"/>
+			<xs:element name="ref" type="refCT"/>
+			<xs:element name="foreign" type="foreignCT"/>
+			<xs:element name="status" type="statusCT"/>
+		</xs:choice>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+		<xs:attribute name="type" type="entryType" default="entry"/>
+		<xs:attribute name="cite" type="citationType" default="partial"/>
+		<xs:attribute name="form" type="xs:boolean" default="true"/>
+		<xs:attribute name="mod" type="modList"/>
+	</xs:complexType>
+	
+	<xs:complexType name="pageCT">
+		<xs:attribute name="p" type="xs:integer" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="wCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="mod" type="modList"/>
+				<xs:attribute name="src" type="xs:IDREF"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="senseCT" mixed="true">
+		<xs:choice maxOccurs="unbounded" minOccurs="0">
+			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="stem" type="xs:string"/>
+			<xs:element name="asp" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+			<xs:element name="em" type="xs:string"/>
+			<xs:element name="sense" type="senseCT"/>
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="ref" type="refCT"/>
+			<xs:element name="foreign" type="foreignCT"/>
+		</xs:choice>
+		<xs:attribute name="n" type="xs:string"/>
+	</xs:complexType>
+	
+	<xs:complexType name="refCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="r" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="foreignCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute ref="xml:lang"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="statusCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="p" type="xs:integer"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<!-- simple types -->
+	
+	<xs:simpleType name="entryType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="root"/>
+			<xs:enumeration value="entry"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="citationType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="full"/>
+			<xs:enumeration value="partial"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="modList">
+		<xs:list itemType="modType"/>
+	</xs:simpleType>
+	
+	<xs:simpleType name="modType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[IVXLCDM]+"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>

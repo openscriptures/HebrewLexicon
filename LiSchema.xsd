@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema targetNamespace="http://openscriptures.github.com/morphhb/namespace" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://openscriptures.github.com/morphhb/namespace" elementFormDefault="qualified">
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
+	
+	<xs:annotation>
+		<xs:documentation>
+			<p>The Lexical Index schema is version 1.0.
+			It is released to the public domain.</p>
+		</xs:documentation>
+	</xs:annotation>
+	
+	<xs:element name="index" type="indexCT"/>
+	
+	<!-- complex types -->
+	
+	<xs:complexType name="indexCT">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="part" type="partCT"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="partCT">
+		<xs:sequence maxOccurs="unbounded">
+			<xs:element name="entry" type="entryCT"/>
+		</xs:sequence>
+		<xs:attribute ref="xml:lang"/>
+	</xs:complexType>
+	
+	<xs:complexType name="entryCT" mixed="true">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element name="w" type="wCT"/>
+			<xs:element name="pos" type="xs:string"/>
+			<xs:element name="def" type="xs:string"/>
+			<xs:element name="xref" type="xrefCT"/>
+			<xs:element name="etym" type="etymCT"/>
+		</xs:choice>
+		<xs:attribute name="id" type="xs:ID" use="required"/>
+	</xs:complexType>
+	
+	<xs:complexType name="wCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="xlit" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:complexType name="xrefCT">
+		<xs:attribute name="bdb" type="xs:string"/>
+		<xs:attribute name="strong" type="xs:string"/>
+		<xs:attribute name="aug" type="xs:string"/>
+		<xs:attribute name="twot" type="xs:string"/>
+	</xs:complexType>
+	
+	<xs:complexType name="etymCT">
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="root" type="xs:string"/>
+				<xs:attribute name="type" type="etymType" use="required"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<!-- simple types -->
+	
+	<xs:simpleType name="etymType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="main"/>
+			<xs:enumeration value="sub"/>
+			<xs:enumeration value="single"/>
+			<xs:enumeration value="check"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>

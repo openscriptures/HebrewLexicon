@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<lexicon xmlns="http://openscriptures.github.com/morphhb/namespace">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lexicon xsi:schemaLocation="http://openscriptures.github.com/morphhb/namespace BdbSchema.xsd" 
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		 xmlns="http://openscriptures.github.com/morphhb/namespace">
 	<part id="a" title="א" xml:lang="heb">
 		<section id="a.aa">
 			<entry id="a.aa.aa" type="root"><w>א</w> <def>Āleph</def>, first letter; in postBHeb. = numeral 1 (and so in margin of printed MT); <w>אֿ</w> = 1000; no evidence of this usage in OT times.
@@ -228,7 +230,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="a.ag.aa" type="root"><w>אבח</w> (<def>torment</def>, but dub.)
 				<status p="5">new</status>
 			</entry>
-			<entry id="a.ag.ab" form="false">[<w>אִבְחָה</w>] <pos>n.f</pos>. cstr. <ref r="Ezek.21.20">Ez 21:20</ref>; as above, <def>slaughter</def>; but prob. error for <w src="H2878">טבחת</w> (v. <w src="H2873">טבח</w>)
+			<entry id="a.ag.ab" form="false">[<w>אִבְחָה</w>] <pos>n.f</pos>. cstr. <ref r="Ezek.21.20">Ez 21:20</ref>; as above, <def>slaughter</def>; but prob. error for <w src="i.ac.ad">טבחת</w> (v. <w src="i.ac.aa">טבח</w>)
 				<status p="5">base</status>
 			</entry>
 			<entry id="a.ag.ac">
@@ -1869,7 +1871,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="a.cy">
-			<entry id="a.cy.aa" type="root"><w>אים</w> (cf. <targ>T</targ>, Talm. <w>אַיֵם</w> <def>terrify</def> LagBN28).
+			<entry id="a.cy.aa" type="root"><w>אים</w> (cf. T, Talm. <w>אַיֵם</w> <def>terrify</def> LagBN28).
 				<status p="33">base</status>
 			</entry>
 			<entry id="a.cy.ab" cite="full"><w>אָיֹם</w> <pos>adj</pos>. <def>terrible</def>, <def>dreadful</def>
@@ -4403,7 +4405,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 					<sense n="1">as a <em>temporal</em> conj., as <ref r="Gen.2.4">Gn 2:4</ref> <w>בְּהִבָּֽרְאָם</w> <def>in</def> their <em>being created</em> = <def>when</def> they <em>were</em> created, 4:8 <w>בִּהְיוֹתָם</w> <def>in</def> their <em>being</em> (= <def>when</def> they <em>were</em>) in the field; and constantly. Sometimes it has in appearance the force of <def>after that</def>, as <ref r="Gen.33.18">Gn 33:18</ref> <ref r="Exod.3.12">Ex 3:12</ref>  <ref r="Exod.13.17">13:17</ref>; but as a rule this is really due to the action denoted by the inf. being treated as extending over a period <def>within</def> which the action of the principal verb takes place: so esp. in the phrase <w>בְּצֵאת יִשׂרָאֵל מִמִּצְרַיִם</w>, even of events at the close of the 40 years, <ref r="Deut.4.45">Dt 4:45</ref>  <ref r="Deut.23.5">23:5</ref> <ref r="Josh.5.4">Jos 5:4</ref>, the whole period being treated as that in which Egypt was left (comp. <ref r="2Kgs.2.1">2 K 2:1</ref> where the time included is future). Cases, however, occur in which this explanation will hardly apply, as <ref r="Deut.27.4">Dt 27:4</ref>.12.</sense>
 					<sense n="2">as a <em>causal</em> conj. (cf. above III. 5), as <ref r="Gen.19.16">Gn 19:16</ref> <w>בְּחֶמְלַת י' עָלָיו</w> <def>through</def> J.'s having compassion upon him, <ref r="Exod.16.7">Ex 16:7</ref>  <ref r="Exod.33.16">33:16</ref> 34:29 <ref r="Deut.1.27">Dt 1:27</ref> <w>בְּשִׂנְאַת י' אֹתָנוּ</w> <def>through</def> J.'s hating us, etc. (<ref r="Deut.9.28">9:28</ref> similarly <w>מִן</w>), <ref r="1Kgs.18.18">1 K 18:18</ref> (= <def>in that</def> ye have . . .) <ref r="Ezek.9.8">Ez 9:8</ref>  <ref r="Ezek.43.8">43:8</ref> 44:7 <ref r="2Chr.28.6">2 Ch 28:6</ref>.
 					<sense n="3">as a <em>concessive</em> conj., <def>when</def> = <def>though</def>: <ref r="Isa.1.15">Is 1:15</ref> <ref r="Ps.46.3">ψ 46:3</ref>     <w>בְּהָמִיר אָרֶץ</w> <def>though</def> the earth do change. </sense>
-				<lb/><em>Note</em>.—Ex 10:12 <w>בָּאַרְבֶּה</w> can only be rendered 'with the locusts,' the locusts being conceived as implicit in Moses' uplifted hand: but prob. <w>לָאַרְבֶּה</w> should be read. Thrice in late Heb. <w>בְּ</w> is used peculiarly: <ref r="1Chr.7.23">1 Ch 7:23</ref> for <def>with</def> misfortune was it in his house (<w>בְּרָעָה</w> chosen for the purpose of explaining <w>בְּרִיעָה</w>); <ref r="1Chr.9.33">9:33</ref> <w>עֲלֵיהֶם בַּמְּלָאכָה</w>, it devolved upon them <def>with</def> the work; <ref r="Ezra.3.3">Ezr 3:3</ref> for <def>with</def> terror (was it) upon them from the peoples of the countries (the sentence without a verb as oft. in Chr.: Dr Intr. 504f.): cf. <ref r="Ezra.8.34">8:34</ref>. Compo Ew §295f.</sense></sense>
+				<em>Note</em>.—Ex 10:12 <w>בָּאַרְבֶּה</w> can only be rendered 'with the locusts,' the locusts being conceived as implicit in Moses' uplifted hand: but prob. <w>לָאַרְבֶּה</w> should be read. Thrice in late Heb. <w>בְּ</w> is used peculiarly: <ref r="1Chr.7.23">1 Ch 7:23</ref> for <def>with</def> misfortune was it in his house (<w>בְּרָעָה</w> chosen for the purpose of explaining <w>בְּרִיעָה</w>); <ref r="1Chr.9.33">9:33</ref> <w>עֲלֵיהֶם בַּמְּלָאכָה</w>, it devolved upon them <def>with</def> the work; <ref r="Ezra.3.3">Ezr 3:3</ref> for <def>with</def> terror (was it) upon them from the peoples of the countries (the sentence without a verb as oft. in Chr.: Dr Intr. 504f.): cf. <ref r="Ezra.8.34">8:34</ref>. Compo Ew §295f.</sense></sense>
 				<status p="88">base</status>
 			</entry>
 			<page p="89"/>
