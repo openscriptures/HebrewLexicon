@@ -3300,7 +3300,7 @@
 		<entry id="bbn">
 			<w xlit="ʾerʾēl">אֶרְאֵל</w> <pos>N</pos> <def>heroes</def>
 			<xref bdb="a.fo.ah" strong="691" twot="159a"/>
-			<etym type="check"/>
+			<etym type="sub">bcm</etym>
 		</entry>
 		<entry id="bbo">
 			<w xlit="ʾarʾēlî">אַרְאֵלִי</w> <pos>Np</pos> <def>Areli</def>
@@ -3416,7 +3416,7 @@
 		<entry id="bcm">
 			<w xlit="ʾrh">ארה</w>
 			<xref bdb="a.fp.aa" twot="159"/>
-			<etym root="ארה" type="main">bbm, ddd</etym>
+			<etym root="ארה" type="main">bbm, bbn, bdg, bdh, ddd</etym>
 		</entry>
 		<entry id="bcn">
 			<w xlit="ʾărôd">אֲרוֹד</w> <pos>Np</pos> <def>Arod</def>
@@ -3508,12 +3508,12 @@
 		<entry id="bdg">
 			<w xlit="ʾărîʾēl">אֲרִיאֵל</w> <pos>Np</pos> <def>Ariel</def>
 			<xref bdb="a.fo.af" strong="740" twot="159a"/>
-			<etym type="check"/>
+			<etym type="sub">bcm</etym>
 		</entry>
 		<entry id="bdh">
 			<w xlit="ʾărîʾēl">אֲרִיאֵל</w> <pos>N</pos> <def>lion of God</def>
 			<xref bdb="a.fo.af" strong="739" twot="159a"/>
-			<etym type="check"/>
+			<etym type="sub">bcm</etym>
 		</entry>
 		<entry id="bdi">
 			<w xlit="ʾărîday">אֲרִידַי</w> <pos>Np</pos> <def>Aridai</def>
@@ -4825,12 +4825,12 @@
 		<entry id="boc">
 			<w xlit="bîrâ">בִּירָה</w> <pos>N</pos> <def>castle</def>
 			<xref bdb="b.bo.al" strong="1002" twot="240"/>
-			<etym type="check"/>
+			<etym type="main">bod</etym>
 		</entry>
 		<entry id="bod">
 			<w xlit="bîrānît">בִּירָנִית</w> <pos>N</pos> <def>fortress</def>
 			<xref bdb="b.bo.am" strong="1003" twot="240"/>
-			<etym type="check"/>
+			<etym type="sub">boc</etym>
 		</entry>
 		<entry id="boe">
 			<w xlit="bêt">בֵּית</w> <pos>N</pos> <def>between</def>
@@ -7030,7 +7030,7 @@
 		<entry id="cgr">
 			<w xlit="gôg">גּוֹג</w> <pos>Np</pos> <def>Gog</def>
 			<xref bdb="c.ay.ae" strong="1463" twot="324"/>
-			<etym type="check"/>
+			<etym type="main">gko</etym>
 		</entry>
 		<entry id="cgs">
 			<w xlit="gûd">גּוּד</w> <pos>V</pos> <def>invade</def>
@@ -18258,12 +18258,12 @@
 		<entry id="fuu">
 			<w xlit="kĕnaʿan">כְּנַ֫עַן</w> <pos>N</pos> <def>merchant</def>
 			<xref bdb="k.cd.ad" strong="3667" aug="b" twot="1002b"/>
-			<etym type="check"/>
+			<etym type="sub">fuv</etym>
 		</entry>
 		<entry id="fuv">
 			<w xlit="kĕnaʿan">כְּנַ֫עַן</w> <pos>Np</pos> <def>Canaan</def>
 			<xref bdb="k.cd.ac" strong="3667" aug="a" twot="1002"/>
-			<etym type="check"/>
+			<etym type="main">fuu, fux, fuy</etym>
 		</entry>
 		<entry id="fuw">
 			<w xlit="kĕnaʿănâ">כְּנַעֲנָה</w> <pos>Np</pos> <def>Chenaanah</def>
@@ -18272,12 +18272,12 @@
 		<entry id="fux">
 			<w xlit="kĕnaʿănî">כְּנַעֲנִי</w> <pos>N</pos> <def>Kenaanite</def>
 			<xref bdb="k.cd.ae" strong="3669" aug="a" twot="1002a"/>
-			<etym type="check"/>
+			<etym type="sub">fuv</etym>
 		</entry>
 		<entry id="fuy">
 			<w xlit="kĕnaʿănî">כְּנַעֲנִי</w> <pos>N</pos> <def>trader</def>
 			<xref bdb="k.cd.af" strong="3669" aug="b" twot="1002a"/>
-			<etym type="check"/>
+			<etym type="sub">fuv</etym>
 		</entry>
 		<entry id="fuz">
 			<w xlit="kānap">כָּנַף</w> <pos>V</pos> <def>be cornered</def>
@@ -20218,7 +20218,7 @@
 		<entry id="gko">
 			<w xlit="māgôg">מָגוֹג</w> <pos>Np</pos> <def>Magog</def>
 			<xref bdb="c.ay.af" strong="4031" twot="324a"/>
-			<etym type="check"/>
+			<etym type="sub">cgr</etym>
 		</entry>
 		<entry id="gkp">
 			<w xlit="māgôr">מָגוֹר</w> <pos>N</pos> <def>sojourning-place</def>
@@ -23008,7 +23008,7 @@
 		<entry id="hgy">
 			<w xlit="maʿyān">מַעְיָן</w> <pos>N</pos> <def>spring</def>
 			<xref bdb="p.ck.at" strong="4599" twot="1613a"/>
-			<etym type="check"/>
+			<etym type="sub">jin</etym>
 		</entry>
 		<entry id="hgz">
 			<w xlit="māʿak">מָעַךְ</w> <pos>V</pos> <def>press</def>
@@ -29647,7 +29647,7 @@
 		<entry id="jin">
 			<w xlit="ʿayin">עַ֫יִן</w> <pos>N</pos> <def>spring</def>
 			<xref bdb="p.ck.ac" strong="5869" aug="b" twot="1613"/>
-			<etym root="עין" type="main"/>
+			<etym root="עין" type="main">hgy</etym>
 		</entry>
 		<entry id="jio">
 			<w xlit="ʿayin">עַ֫יִן</w> <pos>N</pos> <def>eye</def>
@@ -43380,7 +43380,7 @@
 		<entry id="npi">
 			<w xlit="tāwek">תָּ֫וֶךְ</w> <pos>N</pos> <def>midst</def>
 			<xref bdb="w.aj.ae" strong="8432" twot="2498"/>
-			<etym type="check"/>
+			<etym type="main">nrg</etym>
 		</entry>
 		<entry id="npj">
 			<w xlit="tôkēḥâ">תּוֹכֵחָה</w> <pos>N</pos> <def>rebuke</def>
@@ -43615,7 +43615,7 @@
 		<entry id="nrg">
 			<w xlit="tîkôn">תִּיכוֹן</w> <pos>A</pos> <def>middle</def>
 			<xref bdb="w.aj.af" strong="8484" twot="2498a"/>
-			<etym type="check"/>
+			<etym type="sub">npi</etym>
 		</entry>
 		<entry id="nrh">
 			<w xlit="tîlôn">תִּילוֹן</w> <pos>Np</pos> <def>Tilon (from the margin)</def>
@@ -45877,7 +45877,7 @@
 		<entry id="ojd">
 			<w xlit="ḥălāq">חֲלָק</w> <pos>N</pos> <def>portion</def>
 			<xref bdb="xh.aj.ab" strong="2508" twot="2732a"/>
-			<etym type="check"/>
+			<etym root="חלק" type="main">ool</etym>
 		</entry>
 		<entry id="oje">
 			<w xlit="ḥlq">חלק</w>
@@ -46547,7 +46547,7 @@
 		<entry id="ool">
 			<w xlit="maḥlĕqâ">מַחְלְקָה</w> <pos>N</pos> <def>class</def>
 			<xref bdb="xh.aj.ac" strong="4255" twot="2732b"/>
-			<etym type="check"/>
+			<etym type="sub">ojd</etym>
 		</entry>
 		<entry id="oom">
 			<w xlit="mĕṭāʾ">מְטָא</w> <pos>V</pos> <def>reach</def>

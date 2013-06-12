@@ -69,7 +69,6 @@
 			<xs:enumeration value="main"/>
 			<xs:enumeration value="sub"/>
 			<xs:enumeration value="single"/>
-			<xs:enumeration value="check"/>
 		</xs:restriction>
 	</xs:simpleType>
 	
