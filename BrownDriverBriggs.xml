@@ -231,7 +231,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<status p="5">new</status>
 			</entry>
 			<entry id="a.ag.ab" form="false">[<w>אִבְחָה</w>] <pos>n.f</pos>. cstr. <ref r="Ezek.21.20">Ez 21:20</ref>; as above, <def>slaughter</def>; but prob. error for <w src="i.ac.ad">טבחת</w> (v. <w src="i.ac.aa">טבח</w>)
-				<status p="5">base</status>
+				<status p="5">ref</status>
 			</entry>
 			<entry id="a.ag.ac">
 				<w>אֲבַטִּיחִים</w> v. <w src="b.bj.aa">בטח</w>
@@ -41792,7 +41792,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="t.ad.ak" cite="full" mod="III"><w>רֹאשׁ</w> <pos>n.m</pos>. son of Benj.;—<ref r="Gen.46.21">Gn 46:21</ref>
 				<status p="912">ref</status>
 			</entry>
-			<entry id="t.ad.al" cite="full" mod="IV"><w>רֹאשׁ</w> <pos>n. pr. gent</pos>. <def>Rôsh</def>
+			<entry id="t.ad.al" cite="full" mod="IV"><w>רֹאשׁ</w> <pos>n.pr.gent</pos>. <def>Rôsh</def>
 				<status p="912">base</status>
 			</entry>
 			<entry id="t.ad.am" mod="I II">
