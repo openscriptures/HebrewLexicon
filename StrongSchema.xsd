@@ -39,7 +39,6 @@
 				<xs:attribute name="xlit" type="xs:string"/>
 				<xs:attribute ref="xml:lang"/>
 				<xs:attribute name="src" type="xs:IDREF"/>
-				<xs:attribute name="origin" type="xs:string"/>
 			</xs:extension>
 		</xs:simpleContent>
 	</xs:complexType>
