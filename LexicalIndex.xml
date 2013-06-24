@@ -327,7 +327,7 @@
 			<etym type="sub">acs</etym>
 		</entry>
 		<entry id="acu">
-			<w xlit="ʾeben hāʿēzer">אֶבֶן הָעֵזֶר</w> <pos>N</pos> <def>stone</def>
+			<w xlit="ʾeben hāʿēzer">אֶבֶן הָעֵזֶר</w> <pos>N</pos> <def>Ebenezer</def>
 			<xref bdb="a.am.aa" strong="72" twot="9"/>
 			<etym type="sub">acs</etym>
 		</entry>
@@ -15295,7 +15295,7 @@
 			<xref bdb="e.az.ae" strong="3069"/>
 		</entry>
 		<entry id="evt">
-			<w xlit="yĕhōwâ">יְהֹוָה</w> <pos>Np</pos> <def>Jehovah</def>
+			<w xlit="yhwh">יהוה</w> <pos>Np</pos> <def>Jehovah</def>
 			<xref bdb="e.az.ae" strong="3068" twot="484a"/>
 			<etym type="sub">czx</etym>
 		</entry>
