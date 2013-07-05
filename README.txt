@@ -1,5 +1,5 @@
 Hebrew Lexicon
-	6/16/2013
+	7/5/2013
 
 The Hebrew Lexicon is now established in its current format.  It is
 comprised of three separate files:
@@ -47,4 +47,5 @@ main entries, not listed in Strong's.
 These files are released under the Creative Commons Attribution-ShareAlike
 (http://creativecommons.org/licenses/by-sa/3.0/) license. The actual text
 of Brown, Driver, Briggs and Strong’s Hebrew dictionary remain in the
-public domain.
+public domain.  For attribution purposes, credit the Open Scriptures Hebrew
+Bible Project. 
