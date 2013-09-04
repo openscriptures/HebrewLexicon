@@ -15752,7 +15752,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="h.fe">
 			<entry id="h.fe.aa" type="root" cite="full"><w>חָקָה</w> <pos>vb</pos>. only <stem>Pu</stem>. <def>cut in</def>, <def>carve</def>
-				<sense><stem>Pu</stem>. <def>curved</def> figure on wall = subst. <def>carved work</def></sense>
+				<sense><stem>Pu</stem>. <def>carved</def> figure on wall = subst. <def>carved work</def></sense>
 				<sense><stem>Hithp</stem>. <def>thou gavest thee a graving</def> (= markest a line) <def>for</def> (i.e. about) <def>the soles of my feet</def>, fixed limits for them</sense>
 				<status p="348">base</status>
 			</entry>
@@ -24039,9 +24039,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="m.ba.aa" type="root"><w>מוץ</w> (√ of following; meaning unknown). 
 				<status p="558">done</status>
 			</entry>
-			<entry id="m.ba.ab" cite="full" form="false">[<w>מוֹץ</w>], <w>מֹץ</w> <pos>n.m</pos>. <def>chaff</def>
-				<status p="558">base</status>
-			</entry>
+			<entry id="m.ba.ab" cite="full" form="false">[<w>מוֹץ</w>], <w>מֹץ</w> <pos>n.m.</pos> <ref r="Is.29.5">Is 29:5</ref> <def>chaff</def>;—<w>מ׳</w> abs. <ref r="Ho.13.3">Ho 13:3</ref> + 6 t.; cstr. <ref r="Is.17.13">Is 17:13</ref>;—<def>chaff</def>, always as driven by wind, and alw. c. <w>כְּ</w>, in sim.; of wicked <ref r="Jb.21.18">Jb 21:18</ref> (∥ <w>תֶּבֶן לִפְנֵי רוּחַ</w>), cf. <ref r="Ps.1.4">ψ 1:4</ref> <ref r="Ps.35.5">35:5</ref> <ref r="Ho.13.3">Ho 13:3</ref>; of hostile nations <ref r="Is.17.13">Is 17:13</ref> (<w>מ׳ הָרִים</w>), <ref r="Is.29.5">29:5</ref> (∥ <w>אָבָק דַּךְ</w>); hyperb. of Judah's power, <w>גְּבָעוֹת כַּמֹּץ תָּשִׂים</w> <ref r="Is.41.15">Is 41:15</ref> (∥ <w>תָּדוּשׁ הָרִים וְתָדֹק</w>); of passing time, <w>יוֹם</w> <ref r="Zp.2.2">Zp 2:2</ref>.
+				<status p="558">ref</status>
+ 			</entry>
 			<entry id="m.ba.ac" mod="I II">
 				<w>מוֹצָא</w> <w>מוֹצָאָה</w> v. <w src="j.cq.aa">יצא</w>
 				<status p="558">made</status>
@@ -40308,7 +40308,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="s.bg.ai" cite="full"><w>מֻקְטָר</w> <pos>n.m</pos>. <def>incense</def>;—abs. <ref r="Mal.1.11">Mal 1:11</ref>
 				<status p="883">ref</status>
 			</entry>
-			<entry id="s.bg.aj" cite="full"><w>מִקְטֶ֫רֶת</w> <pos>n.f</pos>. censer
+			<entry id="s.bg.aj" cite="full"><w>מִקְטֶ֫רֶת</w> <pos>n.f</pos>. <def>censer</def>
 				<status p="883">base</status>
 			</entry>
 			<entry id="s.bg.ak" cite="full" form="false">[<w>מְקַטֵרָה</w>] <pos>n.f</pos>. <def>incense-altar</def>;—pl. abs. <ref r="2Chr.30.14">2 Ch 30:14</ref>.
