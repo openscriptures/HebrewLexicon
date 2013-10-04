@@ -837,21 +837,21 @@
 			<etym root="אהל" type="main">agu, agx, agz, ahb</etym>
 		</entry>
 		<entry id="agz">
-			<w xlit="ʾohŏlâ">אׇהֳלָה</w> <pos>Np</pos> <def>Aholah</def>
+			<w xlit="ʾohŏlâ">אׇהֳלָה</w> <pos>Np</pos> <def>Oholah</def>
 			<xref bdb="a.bl.ad" strong="170" twot="32b"/>
 			<etym type="sub">agy</etym>
 		</entry>
 		<entry id="aha">
-			<w xlit="ʾohŏlîʾāb">אׇהֳלִיאָב</w> <pos>Np</pos> <def>Aholiab</def>
+			<w xlit="ʾohŏlîʾāb">אׇהֳלִיאָב</w> <pos>Np</pos> <def>Oholiab</def>
 			<xref bdb="a.bl.ae" strong="171"/>
 		</entry>
 		<entry id="ahb">
-			<w xlit="ʾohŏlîbâ">אׇהֳלִיבָה</w> <pos>Np</pos> <def>Aholibah</def>
+			<w xlit="ʾohŏlîbâ">אׇהֳלִיבָה</w> <pos>Np</pos> <def>Oholibah</def>
 			<xref bdb="a.bl.af" strong="172" twot="32c"/>
 			<etym type="sub">agy</etym>
 		</entry>
 		<entry id="ahc">
-			<w xlit="ʾohŏlîbāmâ">אׇהֳלִיבָמָה</w> <pos>Np</pos> <def>Aholibamah</def>
+			<w xlit="ʾohŏlîbāmâ">אׇהֳלִיבָמָה</w> <pos>Np</pos> <def>Oholibamah</def>
 			<xref bdb="a.bl.ag" strong="173"/>
 		</entry>
 		<entry id="ahd">
@@ -1577,7 +1577,7 @@
 			<etym type="single"/>
 		</entry>
 		<entry id="ang">
-			<w xlit="ʾaṭ">אַט</w> <pos>D</pos> <def>gentleness</def>
+			<w xlit="ʾaṭ">אַט</w> <pos>D</pos> <def>gently</def>
 			<xref bdb="a.cr.ac" strong="328" aug="b" twot="72a"/>
 			<etym type="sub">ank</etym>
 		</entry>
@@ -2476,7 +2476,7 @@
 			<xref bdb="a.du.ae" strong="515"/>
 		</entry>
 		<entry id="auv">
-			<w xlit="ʾim">אִם</w> <pos>T</pos> <def>lo!</def>
+			<w xlit="ʾim">אִם</w> <pos>T</pos> <def>if</def>
 			<xref bdb="a.du.af" strong="518" aug="a" twot="111"/>
 			<etym type="single"/>
 		</entry>
@@ -4089,12 +4089,12 @@
 			<xref bdb="a.gn.ac" strong="863"/>
 		</entry>
 		<entry id="bic">
-			<w xlit="ʾty">אתי</w> <pos>Pp</pos> <def>thou</def>
+			<w xlit="ʾty">אתִּי</w> <pos>Pp</pos> <def>thou</def>
 			<xref bdb="a.er.ac" strong="859" aug="b" twot="189a"/>
 			<etym type="sub">aye</etym>
 		</entry>
 		<entry id="bid">
-			<w xlit="ʾattîq">אַתִּיק</w> <pos>N</pos> <def>ledge</def>
+			<w xlit="ʾattîq">אַתִּיק</w> <pos>N</pos> <def>gallery</def>
 			<xref bdb="a.gp.ah" strong="862" aug="b" twot="191b"/>
 			<etym type="sub">bia</etym>
 		</entry>
@@ -4251,7 +4251,7 @@
 			<etym type="sub">bji</etym>
 		</entry>
 		<entry id="bjl">
-			<w xlit="baʾăšer">בַאֲשֶׁר</w> <pos>T</pos> <def>who</def>
+			<w xlit="baʾăšer">בַאֲשֶׁר</w> <pos>T</pos> <def>in which</def>
 			<xref bdb="a.gk.ab" strong="834" aug="b" twot="184"/>
 			<etym type="sub">bgz</etym>
 		</entry>
@@ -5041,7 +5041,7 @@
 			<xref bdb="b.bp.bn" strong="1044"/>
 		</entry>
 		<entry id="bqb">
-			<w xlit="bêt-ʿēqed hārōʿîm">בֵּית־עֵ֫קֶד הָרֹעִים</w> <pos>Np</pos> <def>× break</def>
+			<w xlit="bêt-ʿēqed hārōʿîm">בֵּית־עֵ֫קֶד הָרֹעִים</w> <pos>Np</pos> <def>binding-house of the shepherds</def>
 			<xref bdb="b.bp.bn" strong="7462" aug="a"/>
 		</entry>
 		<entry id="bqc">
@@ -5419,7 +5419,7 @@
 			<etym root="בנה" type="main">bto, bts, gjt, nof</etym>
 		</entry>
 		<entry id="bth">
-			<w xlit="bĕnô">בְּנוֹ</w> <pos>Np</pos> <def>afflicted</def>
+			<w xlit="bĕnô">בְּנוֹ</w> <pos>N</pos> <def>his son</def>
 			<xref bdb="b.ca.aj" strong="1121" aug="b"/>
 		</entry>
 		<entry id="bti">
@@ -5556,7 +5556,7 @@
 			<xref bdb="b.ci.ac" strong="1168" aug="b"/>
 		</entry>
 		<entry id="bul">
-			<w xlit="baʿal">בַּעַל</w> <pos>N</pos> <def>owner</def>
+			<w xlit="baʿal">בַּעַל</w> <pos>Np</pos> <def>Baal</def>
 			<xref bdb="b.ci.ab" strong="1168" aug="a" twot="262a"/>
 			<etym type="sub">bun</etym>
 		</entry>
@@ -6336,11 +6336,11 @@
 			<etym type="sub">cbn</etym>
 		</entry>
 		<entry id="cay">
-			<w xlit="bĕtûʾēl">בְּתוּאֵל</w> <pos>Np</pos> <def>Bethuel. Compare</def>
+			<w xlit="bĕtûʾēl">בְּתוּאֵל</w> <pos>Np</pos> <def>Bethuel</def>
 			<xref bdb="b.dm.af" strong="1328" aug="b"/>
 		</entry>
 		<entry id="caz">
-			<w xlit="bĕtûʾēl">בְּתוּאֵל</w> <pos>Np</pos> <def>Bethuel. Compare</def>
+			<w xlit="bĕtûʾēl">בְּתוּאֵל</w> <pos>Np</pos> <def>Bethuel</def>
 			<xref bdb="b.dm.ae" strong="1328" aug="a"/>
 		</entry>
 		<entry id="cba">
@@ -7083,7 +7083,7 @@
 			<etym type="sub">cgv</etym>
 		</entry>
 		<entry id="chb">
-			<w xlit="gôyim">גּוֹיִם</w> <pos>Np</pos> <def>Gentile</def>
+			<w xlit="gôyim">גּוֹיִם</w> <pos>Np</pos> <def>Goim</def>
 			<xref bdb="c.bb.af" strong="1471" aug="b"/>
 		</entry>
 		<entry id="chc">
@@ -11031,7 +11031,7 @@
 			<etym root="חבל" type="main">dmy</etym>
 		</entry>
 		<entry id="dna">
-			<w xlit="ḥābal">חָבַל</w> <pos>V</pos> <def>bind</def>
+			<w xlit="ḥābal">חָבַל</w> <pos>V</pos> <def>travail</def>
 			<xref bdb="h.af.aa" strong="2254" aug="c" twot="595"/>
 			<etym root="חבל" type="main">dmu, dmv, dmw, dmx, dnb, dnc, dnf, dng</etym>
 		</entry>
@@ -11054,7 +11054,7 @@
 			<xref twot="596"/>
 		</entry>
 		<entry id="dnf">
-			<w xlit="ḥăbōlâ">חֲבֹלָה</w> <pos>N</pos> <def>pawn</def>
+			<w xlit="ḥăbōlâ">חֲבֹלָה</w> <pos>N</pos> <def>pledge</def>
 			<xref bdb="h.af.ae" strong="2258" aug="b" twot="593a"/>
 			<etym type="sub">dna</etym>
 		</entry>
@@ -13756,7 +13756,7 @@
 			<xref bdb="h.fv.ac" strong="2765"/>
 		</entry>
 		<entry id="ejf">
-			<w xlit="ḥērem">חֵ֫רֶם</w> <pos>N</pos> <def>net</def>
+			<w xlit="ḥērem">חֵ֫רֶם</w> <pos>N</pos> <def>devoted thing</def>
 			<xref bdb="h.fv.ab" strong="2764" aug="a" twot="744a"/>
 			<etym type="sub">eji</etym>
 		</entry>
@@ -15171,7 +15171,7 @@
 			<xref bdb="j.at.ae" strong="3038"/>
 		</entry>
 		<entry id="eur">
-			<w xlit="yādîd">יָדִיד</w> <pos>N</pos> <def>beloved</def>
+			<w xlit="yādîd">יָדִיד</w> <pos>N</pos> <def>a song of love</def>
 			<xref bdb="j.as.ab" strong="3039" aug="b" twot="846b"/>
 			<etym type="sub">euk</etym>
 		</entry>
@@ -17842,7 +17842,7 @@
 			<etym type="sub">frf</etym>
 		</entry>
 		<entry id="frh">
-			<w xlit="">כִּי אם־</w> <pos>T</pos> <def>lo!</def>
+			<w xlit="">כִּי אם־</w> <pos>T</pos> <def>that if</def>
 			<xref bdb="k.bg.ab" strong="518" aug="b" twot="111"/>
 		</entry>
 		<entry id="fri">
@@ -19098,12 +19098,12 @@
 			<etym type="sub">gbr</etym>
 		</entry>
 		<entry id="gbk">
-			<w xlit="lēb qāmāy">לֵב קָמָי</w> <pos>N</pos> <def>heart</def>
+			<w xlit="lēb qāmāy">לֵב קָמָי</w> <pos>Np</pos> <def>Leb Qamay</def>
 			<xref bdb="l.ai.ae" strong="3820" aug="b" twot="1071a"/>
 			<etym type="sub">gbr</etym>
 		</entry>
 		<entry id="gbl">
-			<w xlit="lēb qāmāy">לֵב קָמָי</w> <pos>N</pos> <def>rise</def>
+			<w xlit="lēb qāmāy">לֵב קָמָי</w> <pos>Np</pos> <def>Leb Qamay</def>
 			<xref bdb="l.ai.ae" strong="6965" aug="a"/>
 		</entry>
 		<entry id="gbm">
@@ -19126,7 +19126,7 @@
 			<etym type="sub">gbr</etym>
 		</entry>
 		<entry id="gbq">
-			<w xlit="lābab">לָבַב</w> <pos>V</pos> <def>be enclosed</def>
+			<w xlit="lābab">לָבַב</w> <pos>V</pos> <def>encourage</def>
 			<xref bdb="l.ai.af" strong="3823" aug="a" twot="1071"/>
 			<etym type="sub">gbr</etym>
 		</entry>
@@ -19630,11 +19630,11 @@
 			<etym root="ליץ" type="main">ggv, ggw, had</etym>
 		</entry>
 		<entry id="gfs">
-			<w xlit="layiš">לַ֫יִשׁ</w> <pos>Np</pos> <def>Laish. Compare</def>
+			<w xlit="layiš">לַ֫יִשׁ</w> <pos>Np</pos> <def>Laish</def>
 			<xref bdb="l.bo.ac" strong="3919" aug="a"/>
 		</entry>
 		<entry id="gft">
-			<w xlit="layiš">לַ֫יִשׁ</w> <pos>Np</pos> <def>Laish. Compare</def>
+			<w xlit="layiš">לַ֫יִשׁ</w> <pos>Np</pos> <def>Laish</def>
 			<xref bdb="l.bo.ad" strong="3919" aug="b"/>
 		</entry>
 		<entry id="gfu">
@@ -19648,7 +19648,7 @@
 			<etym root="לישׁ" type="main">gfu</etym>
 		</entry>
 		<entry id="gfw">
-			<w xlit="layšâ">לַ֫יְשָׁה</w> <pos>Np</pos> <def>Laish. Compare</def>
+			<w xlit="layšâ">לַ֫יְשָׁה</w> <pos>Np</pos> <def>Laish</def>
 			<xref bdb="l.bo.ae" strong="3919" aug="c"/>
 		</entry>
 		<entry id="gfx">
@@ -22163,7 +22163,7 @@
 			<xref bdb="m.cc.ac" strong="4424"/>
 		</entry>
 		<entry id="hab">
-			<w xlit="mĕlîkû">מְלִיכוּ</w> <pos>Np</pos> <def>Melichu (from the margin)</def>
+			<w xlit="mĕlîkû">מְלִיכוּ</w> <pos>Np</pos> <def>Melichu</def>
 			<xref bdb="m.cd.ax" strong="4409" aug="b"/>
 		</entry>
 		<entry id="hac">
@@ -23742,7 +23742,7 @@
 			<etym type="sub">lgd</etym>
 		</entry>
 		<entry id="hmp">
-			<w xlit="miqṭeret">מִקְטֶ֫רֶת</w> <pos>N</pos> <def>to fume</def>
+			<w xlit="miqṭeret">מִקְטֶ֫רֶת</w> <pos>N</pos> <def>censer</def>
 			<xref bdb="s.bg.aj" strong="4730" twot="2011f"/>
 			<etym type="sub">lgd</etym>
 		</entry>
@@ -27669,7 +27669,7 @@
 			<etym root="סוף" type="main">irx, isc</etym>
 		</entry>
 		<entry id="isb">
-			<w xlit="sûpâ">סוּפָה</w> <pos>Np</pos> <def>Red Sea</def>
+			<w xlit="sûpâ">סוּפָה</w> <pos>Np</pos> <def>Suphah</def>
 			<xref bdb="o.at.af" strong="5492" aug="b"/>
 		</entry>
 		<entry id="isc">
@@ -28777,7 +28777,7 @@
 			<xref bdb="p.al.ai" strong="5700"/>
 		</entry>
 		<entry id="jba">
-			<w xlit="ʿeglat">עֶגְלַת</w> <pos>Np</pos> <def>calf</def>
+			<w xlit="ʿeglat">עֶגְלַת</w> <pos>Np</pos> <def>Eglath</def>
 			<xref bdb="p.al.ae" strong="5697" aug="b"/>
 		</entry>
 		<entry id="jbb">
@@ -30019,7 +30019,7 @@
 			<etym type="sub">jkx</etym>
 		</entry>
 		<entry id="jlm">
-			<w xlit="ʿelyôn">עֶלְיוֹן</w> <pos>A</pos> <def>elevation</def>
+			<w xlit="ʿelyôn">עֶלְיוֹן</w> <pos>A</pos> <def>high</def>
 			<xref bdb="p.cs.ai" strong="5945" aug="a" twot="1624g"/>
 			<etym type="sub">jkx</etym>
 		</entry>
@@ -30554,7 +30554,7 @@
 			<etym root="ענן" type="main"/>
 		</entry>
 		<entry id="jpw">
-			<w xlit="ʿānan">עָנַן</w> <pos>V</pos> <def>when I bring clouds</def>
+			<w xlit="ʿānan">עָנַן</w> <pos>V</pos> <def>bring clouds</def>
 			<xref bdb="p.dy.ac" strong="6049" aug="a" twot="1655"/>
 			<etym type="sub">jpz</etym>
 		</entry>
@@ -35117,7 +35117,7 @@
 			<xref bdb="r.dx.ae" strong="6871"/>
 		</entry>
 		<entry id="lao">
-			<w xlit="ṣĕrôr">צְרוֹר</w> <pos>Np</pos> <def>bag</def>
+			<w xlit="ṣĕrôr">צְרוֹר</w> <pos>Np</pos> <def>Zeror</def>
 			<xref bdb="r.eb.ae" strong="6872" aug="c"/>
 		</entry>
 		<entry id="lap">
@@ -35603,7 +35603,7 @@
 			<etym root="קוה" type="main">hmg, hmh</etym>
 		</entry>
 		<entry id="lem">
-			<w xlit="qōweh">קֹוֶה</w> <pos>Np</pos> <def>abiding</def>
+			<w xlit="qōweh">קֹוֶה</w> <pos>Np</pos> <def>Kue</def>
 			<xref bdb="s.ap.ao" strong="4723" aug="a"/>
 		</entry>
 		<entry id="len">
@@ -35936,11 +35936,11 @@
 			<etym type="single"/>
 		</entry>
 		<entry id="lhd">
-			<w xlit="qîr">קִיר</w> <pos>Np</pos> <def>Kir. Compare</def>
+			<w xlit="qîr">קִיר</w> <pos>Np</pos> <def>Kir</def>
 			<xref bdb="s.bm.ah" strong="7024" aug="b"/>
 		</entry>
 		<entry id="lhe">
-			<w xlit="qîr">קִיר</w> <pos>Np</pos> <def>Kir. Compare</def>
+			<w xlit="qîr">קִיר</w> <pos>Np</pos> <def>Kir</def>
 			<xref bdb="s.bm.ag" strong="7024" aug="a"/>
 		</entry>
 		<entry id="lhf">
@@ -36692,7 +36692,7 @@
 			<xref bdb="s.dg.ad" strong="7163"/>
 		</entry>
 		<entry id="lne">
-			<w xlit="qarnayim">קַרְנַ֫יִם</w> <pos>Np</pos> <def>× hill</def>
+			<w xlit="qarnayim">קַרְנַ֫יִם</w> <pos>Np</pos> <def>Karnaim</def>
 			<xref bdb="s.dg.ae" strong="7161" aug="b"/>
 		</entry>
 		<entry id="lnf">
@@ -37382,7 +37382,7 @@
 			<etym root="רדם" type="main">nxm</etym>
 		</entry>
 		<entry id="lsr">
-			<w xlit="rōdān">רֹדָן</w> <pos>Np</pos> <def>Dedan</def>
+			<w xlit="rōdān">רֹדָן</w> <pos>Np</pos> <def>Rhodes</def>
 			<xref bdb="t.bb.ac" strong="1719" aug="b"/>
 		</entry>
 		<entry id="lss">
@@ -38515,7 +38515,7 @@
 			<etym type="sub">mbq</etym>
 		</entry>
 		<entry id="mbt">
-			<w xlit="rĕpāʾîm">רְפָאִים</w> <pos>Np</pos> <def>giant</def>
+			<w xlit="rĕpāʾîm">רְפָאִים</w> <pos>Np</pos> <def>Rephaim</def>
 			<xref bdb="t.dx.af" strong="7497" aug="b" twot="2198d"/>
 			<etym type="sub">mbz</etym>
 		</entry>
@@ -42315,7 +42315,7 @@
 			<etym type="sub">ngn</etym>
 		</entry>
 		<entry id="ngm">
-			<w xlit="šāpān">שָׁפָן</w> <pos>Np</pos> <def>coney</def>
+			<w xlit="šāpān">שָׁפָן</w> <pos>Np</pos> <def>Shaphan</def>
 			<xref bdb="v.fj.ac" strong="8227" aug="b"/>
 		</entry>
 		<entry id="ngn">
@@ -42947,7 +42947,7 @@
 			<etym root="שׁרת" type="main">nll</etym>
 		</entry>
 		<entry id="nln">
-			<w xlit="šēš">שֵׁשׁ</w> <pos>N</pos> <def>bleached</def>
+			<w xlit="šēš">שֵׁשׁ</w> <pos>N</pos> <def>alabaster</def>
 			<xref bdb="v.cw.ab" strong="8336" aug="a" twot="2379a"/>
 			<etym type="sub">msm</etym>
 		</entry>
@@ -43995,7 +43995,7 @@
 			<xref bdb="m.cm.ai" strong="8556" aug="a"/>
 		</entry>
 		<entry id="nua">
-			<w xlit="timnat seraḥ">תִּמְנַת סֶ֫רַח</w> <pos>Np</pos> <def>Timnath-heres</def>
+			<w xlit="timnat seraḥ">תִּמְנַת סֶ֫רַח</w> <pos>Np</pos> <def>Timnath-serah</def>
 			<xref bdb="m.cm.aj" strong="8556" aug="b"/>
 		</entry>
 		<entry id="nub">
@@ -44195,7 +44195,7 @@
 			<etym root="תעע" type="main">nvt</etym>
 		</entry>
 		<entry id="nvp">
-			<w xlit="tĕʿupâ">תְּעֻפָה</w> <pos>N</pos> <def>fly</def>
+			<w xlit="tĕʿupâ">תְּעֻפָה</w> <pos>N</pos> <def>gloom</def>
 			<xref bdb="p.bl.af" strong="5774" aug="b" twot="1583c"/>
 			<etym type="sub">jen</etym>
 		</entry>

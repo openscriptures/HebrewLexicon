@@ -6715,7 +6715,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="b.de">
-			<entry id="b.de.aa" type="root"><w>ברם</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>twist a rope of twostrands</def>).
+			<entry id="b.de.aa" type="root"><w>ברם</w> (cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>twist a rope of two strands</def>).
 				<status p="140">base</status>
 			</entry>
 			<entry id="b.de.ab" cite="full"><w>בְּרֹמִים</w> <pos>n.[m.]</pos> <def>variegated cloth</def> <ref r="Ezek.27.24">Ez 27:24</ref>.
@@ -17676,6 +17676,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<status p="391">base</status>
 			</entry>
 			<entry id="j.as.ab" cite="full" form="false">[<w>יָדִיד</w>] <pos>adj</pos>. (poet.) <def>beloved</def>
+				<sense n="1"><def>my beloved</def></sense>
+				<sense n="2"><def>lovely</def></sense>
+				<sense n="3"><def>a song of love</def></sense>
 				<status p="391">base</status>
 			</entry>
 			<page p="392"/>
