@@ -1845,7 +1845,7 @@
 		<usage>continue, defer, delay, hinder, be late (slack), stay (there), tarry (longer).</usage>
 	</entry>
 	<entry id="H310">
-		<w pos="adv adj" pron="akh-ar'" xlit="ʼachar" xml:lang="heb">אַחַר</w>
+		<w pos="adv a" pron="akh-ar'" xlit="ʼachar" xml:lang="heb">אַחַר</w>
 		<source>from <w src="H309">309</w>;</source>
 		<meaning>properly, <def>the hind part</def>; generally used as an adverb or conjunction, <def>after</def> (in various senses)</meaning>
 		<usage>after (that, -ward), again, at, away from, back (from, -side), behind, beside, by, follow (after, -ing), forasmuch, from, hereafter, hinder end, + out (over) live, + persecute, posterity, pursuing, remnant, seeing, since, thence(-forth), when, with.</usage>
@@ -12023,7 +12023,7 @@
 		<usage>Hinnom.</usage>
 	</entry>
 	<entry id="H2012">
-		<w pos="n-m-loc" pron="hay-nah'" xlit="Hênaʻ" xml:lang="x-pn">הֵנַע</w>
+		<w pos="n-pr-loc" pron="hay-nah'" xlit="Hênaʻ" xml:lang="x-pn">הֵנַע</w>
 		<source>probably of foreign derivation;</source>
 		<meaning><def>Hena</def>, a place apparently in Mesopotamia</meaning>
 		<usage>Hena.</usage>
