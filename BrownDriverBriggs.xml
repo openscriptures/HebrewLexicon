@@ -5829,8 +5829,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="b.ca.ai" cite="full"><w>בֶּן־חוּר</w> <pos>n.pr.m</pos>. (<def>son of Chur</def>) an officer of Solomon <ref r="1Kgs.4.8">1 K 4:8</ref>.
 				<status p="122">done</status>
 			</entry>
-			<entry id="b.ca.aj" cite="full"><w>בְּנוֹ</w> as <pos>n.pr.m</pos>. in AV, RV, but render: the sons of Jaaziah <def>his son</def>, &amp; the sons of Merari by Jaaziah <def>his son</def>
-				<status p="122">base</status>
+			<entry id="b.ca.aj" cite="full"><w>בְּנוֹ</w> <ref r="1Chr.24.26">1 Ch 24:26</ref>, <ref r="1Chr.24.27">27</ref> as <pos>n.pr.m</pos>. in AV, RV, but render: the sons of Jaaziah <def>his son</def>, &amp; the sons of Merari by Jaaziah <def>his son</def>, cf. VB &amp; Be Öt.
+				<status p="122">done</status>
 			</entry>
 			<entry id="b.ca.ak" cite="full"><w>בֶּן־חַ֫יִל</w> <pos>n.pr.m</pos>. (<def>son</def> (<def>man</def>) <def>of might</def>) a prince of Jehoshaphat <ref r="2Chr.17.7">2 Ch 17:7</ref>.
 				<status p="122">done</status>
@@ -7537,8 +7537,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="c.aq.af" cite="full"><w>גְּדוּלָּה</w> <pos>n.f</pos>. <def>greatness</def>
 				<status p="153">base</status>
 			</entry>
-			<entry id="c.aq.ag" cite="full"><w>הַגְּדוֹלִים</w> <pos>n.pr.m</pos>. father of Zabdiel <ref r="Neh.11.14">Ne 11:14</ref>
-				<status p="153">ref</status>
+			<entry id="c.aq.ag" cite="full"><w>הַגְּדוֹלִים</w> <pos>n.pr.m</pos>. father of Zabdiel <ref r="Neh.11.14">Ne 11:14</ref> (RV &amp; so most; but 𝔊 RVm al. <def>the great</def>).
+				<status p="153">done</status>
 			</entry>
 			<entry id="c.aq.ah" cite="full"><w>גִּדֵּל</w> <pos>n.pr.m</pos>. (<def>very great</def>)
 				<sense n="1">head of one of the families of Nethinim</sense>
@@ -18572,8 +18572,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="j.bx.ae" cite="full"><w>מוּסָד</w> <pos>n.m</pos>. <def>foundation</def>, <def>foundation-laying</def>
 				<status p="414">base</status>
 			</entry>
-			<entry id="j.bx.af" cite="full"><w>מוּסָדָה</w> <pos>n.f</pos>. <def>foundation</def>, <def>appointment</def>
-				<status p="414">base</status>
+			<entry id="j.bx.af" cite="full"><w>מוּסָדָה</w> <pos>n.f</pos>. <def>foundation</def>, <def>appointment</def>, <w>מַטֵּה מֽוּסָדָה</w> <ref r="Isa.30.32">Is 30:32</ref> <def>rod of appointment</def> (cf. <ref r="Hab.1.12">Hb 1:12</ref> <w>יָסַד</w>); pl. cstr. <w>מוּסְדוֹת</w> <ref r="Ezek.41.8">Ez 41:8</ref> Qr, must mean <def>foundations</def> (si vera l.); Kt perhaps intends <stem>Pu</stem>. <asp>Pt</asp>. <w>מְיֻסָּדוֹת</w> <def>founded</def>, <def>furnished with foundations</def> (conject. emendation by Co).
+				<status p="414">done</status>
 			</entry>
 			<entry id="j.bx.ag" cite="full" form="false">[<w>מוֹסָד</w>] <pos>n.m</pos>. <def>foundation</def>
 				<status p="414">base</status>
@@ -20801,84 +20801,86 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<w>כִּידוֹר</w> v. <w src="k.ao.aa">כדר</w>
 				<status p="475">made</status>
 			</entry>
-			<entry id="k.bh.af" cite="full"><w>כִּיּוּן</w> <pos>n.pr.dei</pos> <ref r="Amos.5.26">Am 5:26</ref>, prob. = As. <foreign xml:lang="akk">kaivânu</foreign>, planet <em>Saturn</em>, regarded as god
-				<status p="475">ref</status>
+			<entry id="k.bh.af" cite="full"><w>כִּיּוּן</w> <pos>n.pr.dei</pos> <ref r="Amos.5.26">Am 5:26</ref>, prob. = As. <foreign xml:lang="akk">kaivânu</foreign>, planet <em>Saturn</em> (Ar. and Pers. <foreign xml:lang="ara">Arabic</foreign>, Syr. <foreign xml:lang="syr">Syriac</foreign>), <page p="476"/>regarded as god; orig. pronunc. <w>כֵּיוָן</w> Schr COT ad loc., cf. Kö ii. 151 (pointing <w>כִּיּוּן</w> intended to suggest √ <w>כון</w> as something <def>established</def>, <def>firm</def>); <em>kaimânu</em> = <em>kaiânu</em>, acc. to Jen Cosm. iii. 502 who der. fr. <w>כון</w> (cf. Thes; so Zim BP 17); &gt; Hpt ZA ii. 266, 281 f. rds. <w>כַּיָּוָן</w> (for <w>כְּאָמָן</w> *), reading Babyl. name <em>Kaʼâmânu</em>; v. also M-A JBL 1892, xi. 86 n. 39.
+				<status p="475">done</status>
 			</entry>
-			<page p="476"/>
 			<entry id="k.bh.ag">
-				<w>כִּיוֹר</w> v. <w mod="I" src="k.ax.aa">כור</w>
-				<status p="476">made</status>
+				<w>כִּיּוֹר</w>, v. sub. I. <w mod="I" src="k.ax.aa">כור</w>.
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.ah">
-				<w>כִּילַי</w> <w>כֵּלַי</w> v. <w src="n.dm.aa">נכל</w>
-				<status p="476">made</status>
+				<w>כִּילַי</w> <w>כֵּלַי</w> <ref r="Isa.32.5">Is 32:5</ref>, <ref r="Isa.32.7">7</ref> v. <w src="n.dm.aa">נכל</w> (Kö ii. 118).
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bh.ai" cite="full"><w>כֵּילַפּוֹת</w> <pos>n.[f.]</pos> <def>axe</def>—<ref r="Ps.74.6">ψ 74:6</ref>
-				<status p="476">ref</status>
+			<entry id="k.bh.ai" cite="full"><w>כֵּילַפּוֹת</w> <pos>n.[f.]</pos> <def>axe</def> (loan-word (cf. Frä 74) fr. As. <foreign xml:lang="akk">kalappatu</foreign> v. DI HWB 333)—<w>בְּכַשִּׁיל וְכ׳ יַהֲלֹמ֑וּן</w> <ref r="Ps.74.6">ψ 74:6</ref> (∥ <w>קַרְדֻּמּֽוֹת</w> <ref r="Ps.74.5">v 5</ref>).
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.aj">
-				<w>כִּימָה</w> v. <w src="k.av.aa">כום</w>
-				<status p="476">made</status>
+				<w>כִּימָה</w> v. sub <w src="k.av.aa">כום</w>.
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bh.ak" cite="full"><w>כִּיס</w> <pos>n.m</pos>. <def>bag</def>, <def>purse</def>
-				<status p="476">base</status>
+			<entry id="k.bh.ak" cite="full"><w>כִּיס</w> <pos>n.m</pos>. <ref r="Prov.1.14">Pr 1:14</ref> <def>bag</def>, <def>purse</def> (perh. kindred with <w>כּוֹס</w>, q.v.; Ar. <foreign xml:lang="ara">Arabic</foreign> (prob. fr. Pers. <foreign xml:lang="fas">Persian</foreign> Lane 2640); Eth. <foreign xml:lang="gez">Ethiopic</foreign> NH <w>כִּיס</w>; Aram. <w>כִּיסָא</w>, <foreign xml:lang="syr">Syriac</foreign>; Palm. <w>מן כיסה</w> <def>from his purse</def> = at his own expense, Vog p. 13 al.)—<def>bag</def>, in which were carried:
+				<sense n="a">weights (v. <w>אֶבֶן</w> 5) <ref r="Deut.25.13">Dt 25:13</ref> <ref r="Mic.6.11">Mi 6:11</ref> <ref r="Prov.16.11">Pr 16:11</ref>;</sense>
+				<sense n="b">money, i.e. <def>a purse</def> <ref r="Isa.46.6">Is 46:6</ref> <ref r="Prov.1.14">Pr 1:14</ref>.</sense>
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.al">
-				<w>כִּיֹּר</w> <w>כִּיר</w> <w>כִּירַיִם</w> v. <w mod="I" src="k.ax.aa">כור</w>
-				<status p="476">made</status>
+				<w>כִּיֹּר</w>, [<w>כִּיר</w>], <w>כִּירַיִם</w> v. sub I. <w mod="I" src="k.ax.aa">כור</w>.
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.am">
-				<w>כִּישׁוֹר</w> v. <w src="k.dm.aa">כשׁר</w>
-				<status p="476">made</status>
+				<w>כִּישׁוֹר</w> v. sub <w src="k.dm.aa">כשׁר</w>.
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.an">
-				<w>כָּ֫כָה</w> v. <w src="k.ap.aa">כה</w>
-				<status p="476">made</status>
+				<w>כָּ֫כָה</w> v. sub <w src="k.ap.aa">כה</w> p. 462 supr.
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.ao">
-				<w>כִּכָּר</w> v. <w src="xk.ai.aa">כרר</w>
-				<status p="476">made</status>
+				<w>כִּכָּר</w> v. sub <w src="xk.ai.aa">כרר</w>;
+				<status p="476">done</status>
 			</entry>
 			<entry id="k.bh.ap">
-				<w>כֹּל</w> v. <w mod="I" src="k.bo.aa">כלל</w>
-				<status p="476">made</status>
+				<w>כֹּל</w> v. sub I. <w mod="I" src="k.bo.aa">כלל</w>.
+				<status p="476">done</status>
 			</entry>
 		</section>
 		<section id="k.bi">
-			<entry id="k.bi.aa" type="root" cite="full" form="false">[<w>כָּלָא</w>] <pos>vb</pos>. <def>shut up</def>, <def>restrain</def>, <def>withhold</def>
-				<sense><stem>Qal</stem>
-					<sense n="1"><def>shut up</def></sense>
-					<sense n="2"><def>restrain</def></sense>
-					<sense n="3"><def>withhold</def></sense>
+			<entry id="k.bi.aa" type="root" cite="full" form="false">[<w>כָּלָא</w>] <pos>vb</pos>. <def>shut up</def>, <def>restrain</def>, <def>withhold</def> (NH <em>id</em>.; Aram. <w>כְּלָא</w>, <foreign xml:lang="syr">Syriac</foreign>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>restrain</def>, <def>hinder</def>; As. <foreign xml:lang="akk">kâlû</foreign>, <em>id</em>.; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>protect</def> Qor 21:43 cf. Ba ZMG 1887, 605 Anm. 4)—
+				<sense><stem>Qal</stem> <asp>Pf</asp>. 3 ms. sf. <w>כְּלָאוֹ</w> <ref r="Jer.32.3">Je 32:3</ref>; 3 fs. <w>כָּֽלְאָה</w> <ref r="Hag.1.10">Hg 1:10</ref>; 2 fs. sf. <w>כְּלִתִ֫נִי</w> <ref r="1Sam.25.33">I S 25:33</ref>; 1 s. <w>כָּלִאתִי</w> <ref r="Ps.119.101">ψ 119:101</ref>; 3 pl. <w>כָּֽלְאוּ</w> <ref r="Hag.1.10">Hg 1:10</ref>, <w>כָּלוּ</w> <ref r="1Sam.6.10">I S 6:10</ref>; <asp>Impf</asp>. 3 ms. <w>יִכְלֶה</w> <ref r="Gen.23.6">Gn 23:6</ref>; 2 ms. <w>תִכְלָא</w> <ref r="Ps.40.12">ψ 40:12</ref>; 2 fs. <w>תִּכְלָ֑אִי</w> <ref r="Isa.43.6">Is 43:6</ref>; 1 s. <w>אֶכְלָא</w> <ref r="Ps.40.10">ψ 40:10</ref>; <asp>Imv</asp>. sf. <w>כְּלָאֵֽם</w> <ref r="Num.11.28">Nu 11:28</ref>; <asp>Inf. cstr</asp>. <w>לִכְלוֹא</w> <ref r="Eccl.8.8">Ec 8:8</ref>; <asp>Pt. pass</asp>. <w>כָלוּא</w> <ref r="Jer.32.2">Je 32:2</ref>, <w>כָּלֻא</w> <ref r="Ps.88.9">ψ 88:9</ref>; (on the metapl. forms, as if fr. <w>כלה</w>, v. Ges § 76, 21 c Kö i. 611);—
+					<sense n="1"><def>shut up</def>, c. acc. <ref r="1Sam.6.10">I S 6:10</ref> (+ <w>בְ</w> loc.), <ref r="Jer.32.3">Je 32:3</ref>; pt. pass. <ref r="Jer.32.2">Je 32:2</ref> (<w>בְ</w> loc.), fig. <ref r="Ps.88.9">ψ 88:9</ref> (opp. <w>יצא</w>).</sense>
+					<sense n="2"><def>restrain</def>, c. acc. <ref r="1Sam.25.33">I S 25:33</ref> (+ <w>מִבּוֹא בְדָמִים</w>), <ref r="Ps.119.101">ψ 119:101</ref> (+ <w>מִכָּל־</w>); <w>כְּלָאֵם</w> (sc. <w>מֵהִתְנַבֵּא</w>) <ref r="Num.11.28">Nu 11:28</ref>; <w>כ׳ שְׂפָתַי</w> <ref r="Ps.40.10">ψ 40:10</ref>; <w>כ׳ אֶת־הָרוּחַ</w> <ref r="Eccl.8.8">Ec 8:8</ref>. On <ref r="Ps.74.11">ψ 74:11</ref> v. <w>כלה</w> <stem>Pi</stem>. 2.</sense>
+					<sense n="3"><def>withhold</def>, <w>כ׳ אֶת־קִבְרוֹ מִמְּךָ מִקְּבֹר מֵתֶֽךָ</w> <ref r="Gen.23.6">Gn 23:6</ref> (P), <w>כ׳ רַחֲמֶיךָ מִמֶּנִּי</w> <ref r="Ps.40.12">ψ 40:12</ref>, <ref r="Hag.1.10!b">Hg 1:10 b</ref>, prob. also <ref r="Hag.1.10">v a</ref> (rd. <w>מָ֑ל</w> for MT 𝔊 <w>מִטָּ֑ל</w>, We); abs. <w>אַל־תִּכְלָאִי</w> (sc. exiles) <ref r="Isa.43.6">Is 43:6</ref> (∥ <w>תְּנִי</w>).</sense>
 				</sense>
-				<sense><stem>Niph</stem>. <def>and the rain from heaven was restrained</def></sense>
-				<sense><stem>Pi</stem>. <asp>Inf. cstr</asp>.</sense>
-				<status p="476">base</status>
+				<sense><stem>Niph</stem>. <asp>Impf</asp>. <w>וַיִּכָּלֵא הַגֶּשֶׁם מִן־הַשָּׁמָיִם</w> <ref r="Gen.8.2">Gn 8:2</ref> (J), <def>and the rain from heaven was restrained</def>, cf. <w>וַיִּכָּלְאוּ מַיִם רַבִּים</w> <ref r="Ezek.31.15">Ez 31:15</ref> (in fig.; ∥ <w>מנע</w>); <w>וַיִּכָּלֵא הָעָם מֵהָבִיא</w> <ref r="Exod.36.6">Ex 36:6</ref> (P).</sense>
+				<sense><stem>Pi</stem>. [Pf. <w>כִּלָּא</w> and] <asp>Inf. cstr</asp>. <w>לְכַלֵּא</w> v. <w>כלה</w> <stem>Pi</stem>.</sense>
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bi.ab" cite="full"><w>כֶּ֫לֶא</w> <pos>n.[m.]</pos> <def>confinement</def>, <def>restraint</def>, <def>imprisonment</def>
-				<status p="476">base</status>
+			<entry id="k.bi.ab" cite="full"><w>כֶּ֫לֶא</w> <pos>n.[m.]</pos> <def>confinement</def>, <def>restraint</def>, <def>imprisonment</def>;—abs. <w>כ׳</w> <ref r="1Kgs.22.27">1 K 22:27</ref> + 6 t.; sf. <w>כִּלְאוֹ</w> <ref r="2Kgs.25.29">2 K 25:29</ref> <ref r="Jer.52.33">Je 52:33</ref>; pl. <w>כְלָאִים</w> <ref r="Isa.42.22">Is 42:22</ref>;—<def>confinement</def>, in combin. <w>בֵּית (ה)כ׳</w> (cf. As. <foreign xml:lang="akk">bit kili</foreign>, <def>prison</def>, DI HWB 328) <ref r="1Kgs.22.27">1 K 22:27</ref> = <ref r="2Chr.18.26">2 Ch 18:26</ref>, <ref r="2Kgs.17.4">2 K 17:4</ref> <ref r="Jer.37.15">Je 37:15</ref>, <ref r="Jer.37.18">18</ref> <ref r="Isa.42.7">Is 42:7</ref>; <w>בָּֽתֵּי כְלָאִים</w> <ref r="Isa.42.22">v 22</ref> (cf. <w>בָּיִת</w> 1 (ε) (2) p. 109 supr.; v. also <w>כלוא</w> infr.); <w>בִּגְדֵי כִלְאוֹ</w> <ref r="2Kgs.25.29">2 K 25:29</ref> = <ref r="Jer.52.33">Je 52:33</ref> <def>garments of imprisonment</def> = prison garb.
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bi.ac" cite="full"><w>כלוא</w> Kt, <w>כְּלִיא</w> Qr <pos>n.[m.]</pos> id. [<w src="k.bi.ab">k.bi.ab</w>]
-				<status p="476">base</status>
+			<entry id="k.bi.ac" cite="full"><w>כלוא</w> Kt, <w>כְּלִיא</w> Qr <pos>n.[m.]</pos> id. [<w src="k.bi.ab">k.bi.ab</w>];—<w>בֵּ֥ית הַכּ׳</w> <ref r="Jer.37.4">Je 37:4</ref> <ref r="Jer.52.31">52:31</ref> (v. <w>כֶּלֶא</w> supr.)
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bi.ad" cite="full" mod="I"><w>מִכְלָה</w> <pos>n.[m.]</pos> <def>enclosure</def>, <def>fold</def>
-				<status p="476">base</status>
+			<entry id="k.bi.ad" cite="full" mod="I"><w>מִכְלָה</w> (incorrect for <w>מכלא</w>) <pos>n.[m.]</pos> <def>enclosure</def>, <def>fold</def>;—<w>גָּזַר מִמּ׳ צֹאן</w> <ref r="Hab.3.17">Hb 3:17</ref>; pl. cstr. <w>לקח מִֽמִּכְלְאֹת צֹֽאן</w> <ref r="Ps.78.70">ψ 78:70</ref> (obj. David); pl. sf. <w>לקה מִ֝מִּכְלְאֹתֶ֗יךָ</w> <ref r="Ps.50.9">50:9</ref> (obj. he-goats).—II. <w>מִכְלָה</w> v. sub <w>כלה</w>.
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bi.ae" cite="full"><w>כִּלְאַיִם</w> <pos>n.[m.]du</pos>. <def>two kinds</def>
-				<status p="476">base</status>
+			<entry id="k.bi.ae" cite="full"><w>כִּלְאַיִם</w> <pos>n.[m.]du</pos>. <def>two kinds</def> (Ar. <foreign xml:lang="ara">Arabic</foreign>, <foreign xml:lang="ara">Arabic</foreign> <def>both</def>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>two</def>; perh. also <w>כלאי</w> MI 23 <def>both</def>, <def>two</def>, Nö LCB 1889, 61, cf. Dr Sm xcii; Sm u. So MI, 1886 suggest <def>reservoirs</def>; v. also <w>כְּלִי</w>)—<w>בְּהֶמְתְּךָ לֹא־תַרְבִּיעַ כ׳</w> <ref r="Lev.19.19">Lv 19:19</ref> <def>not cause thy cattle to breed</def> (in) <def>two kinds</def>; <w>שָׂדְךָ לֹא תִזְרַע כ׳</w> <ref r="Lev.19.19">v 19</ref> (H); <w>לֹא תִזְרַע כַּרְמְךָ כ׳</w> <ref r="Deut.22.9">Dt 22:9</ref> (both <w>כִּלְאָ֑יִם</w>); <w>בֶגֶד כ׳</w> <ref r="Lev.19.19">Lv 19:19</ref> (H);—only in law of H and D against mixtures.
+				<status p="476">done</status>
 			</entry>
-			<entry id="k.bi.af" cite="full"><w>כִּלְאָב</w> <pos>n.pr.m</pos>. second son of David
-				<status p="476">base</status>
+			<entry id="k.bi.af" cite="full"><w>כִּלְאָב</w> <pos>n.pr.m</pos>. second son of David, <ref r="2Sam.3.3">2 S 3:3</ref> = <w>דָּנִיֵּאל</w> <ref r="1Chr.3.1">1 Ch 3:1</ref>, v. <w>דָּנִיֵּאל</w> 1. p. 193 supr.
+				<status p="476">done</status>
 			</entry>
 		</section>
 		<section id="k.bj">
 			<entry id="k.bj.aa" type="root"><w>כלב</w> (√ of foll.; meaning unknown; Thes regards <w>כֶּלֶב</w> as onomatop.)
 				<status p="476">done</status>
 			</entry>
-			<entry id="k.bj.ab" cite="full"><w>כֶּ֫לֶב</w> <pos>n.m</pos>. <def>dog</def>
-				<status p="476">base</status>
+			<entry id="k.bj.ab" cite="full"><w>כֶּ֫לֶב</w> <pos>n.m</pos>. <ref r="1Sam.24.15">I S 24:15</ref> <def>dog</def> (NH <em>id</em>.; Ph. <w>כלב</w>; Aram. <w>כֶּ֫לְבָּא</w>, <foreign xml:lang="syr">Syriac</foreign>; Ar. <foreign xml:lang="ara">Arabic</foreign>; Eth. <foreign xml:lang="gez">Ethiopic</foreign> As. <foreign xml:lang="akk">kalbu</foreign> DI HWB 328)—abs. <w>כ׳</w> <ref r="Judg.7.5">Ju 7:5</ref> + 16 t., <w>כָּ֑לֶב</w> <ref r="Ps.59.7">ψ 59:7</ref>, <ref r="Ps.59.15">15</ref>; pl. <w>כְּלָבִים</w> <ref r="1Kgs.14.11">1 K 14:11</ref> + 12 t.; cstr. <w>כַּלְבֵי</w> <ref r="Job.30.1">Jb 30:1</ref>; sf. <w>כְּלָבֶיךָ</w> <ref r="Ps.68.24">ψ 68:24</ref>;—<def>dog</def>:
+				<sense n="a">lit. <ref r="1Kgs.14.11">1 K 14:11</ref> <ref r="1Kgs.16.4">16:4</ref> <ref r="1Kgs.21.19">21:19</ref>, <ref r="1Kgs.21.19">19</ref>, <ref r="1Kgs.21.23">23</ref>, <ref r="1Kgs.21.24">24</ref> <ref r="1Kgs.22.38">22:38</ref> <ref r="2Kgs.9.10">2 K 9:10</ref>, <ref r="2Kgs.9.36">36</ref> (all of fierce, hungry dogs, devouring dead bodies and licking blood); cf. <ref r="Jer.15.3">Je 15:3</ref> and (<w>לְשׁוֹן כְּלָבֶיךָ</w>) <ref r="Ps.68.24">ψ 68:24</ref>; eating torn flesh, <ref r="Exod.22.30">Ex 22:30</ref> (E), <w>כַּלְבֵי צֹאנִי</w> = <def>my sheep-dogs</def>, only <ref r="Job.30.1">Jb 30:1</ref> (in both these with implied inferiority); dog-sacrifice was a heathen rite <ref r="Isa.66.3">Is 66:3</ref> (Di al.); v. esp. RS Sem. 1, 273 (291), 325 (343); in various sim. <ref r="Judg.7.5">Ju 7:5</ref> <ref r="Prov.26.11">Pr 26:11</ref>, <ref r="Prov.26.17">17</ref> <ref r="Ps.59.7">ψ 59:7</ref>, <ref r="Ps.59.15">15</ref>; in proverbial sayings: <w>לֹא יֶֽחֱרַץ־כ׳ לְשֹׁנוֹ</w> <ref r="Exod.11.7">Ex 11:7</ref> (v. I. <w>חרץ</w>);<w>לְכ׳ מֵת טוֹב מִן־הָאַרְיֵה הַמֵּֽת</w> <page p="477"/><ref r="Eccl.9.4">Ec 9:4</ref>.</sense>
+				<sense n="b">applied, fig., to men, in contempt <ref r="1Sam.17.43">I S 17:43</ref>, so of psalmist’s enemies <ref r="Ps.22.17">ψ 22:17</ref>, <ref r="Ps.22.21">21</ref>, or in excessive humility <ref r="2Kgs.8.13">2 K 8:13</ref>; still more emphatically <w>כ׳ מֵת</w> <def>a dead dog</def>, <w>הָכּ׳ הַמֵּת</w> <ref r="2Sam.9.8">2 S 9:8</ref> <ref r="2Sam.16.9">16:9</ref>; also <w>רֹאשׁ כ׳</w> <ref r="2Sam.3.8">3:8</ref>; <w>כְּלָבִים אִלְּמִים</w> <ref r="Isa.56.10">Is 56:10</ref> (of misleading prophets), <w>הַכּ׳ עַזֵּי נֶפֶשׁ</w> <ref r="Isa.56.11">v 11</ref> (<em>id</em>.); <w>כ׳</w> was name given to male temple-prostitutes <ref r="Deut.23.19">Dt 23:19</ref> (v. Dr; cf. <w>קָדֵשׁ</w>).</sense>
+				<status p="476">done</status>
 			</entry>
-			<page p="477"/>
 			<entry id="k.bj.ac" cite="full"><w>כָּלֵב</w> <pos>n.pr.m</pos>. son of <w>יְפֻנֶּה</w>
 				<status p="477">base</status>
 			</entry>
@@ -29393,7 +29395,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="n.ec">
-			<entry id="n.ec.aa" type="root" cite="full"><w>נָעַל</w> <pos>vb</pos>. <def>bar</def>, <def>bolt</def>, <def>look</def>
+			<entry id="n.ec.aa" type="root" cite="full"><w>נָעַל</w> <pos>vb</pos>. <def>bar</def>, <def>bolt</def>, <def>lock</def>
 				<status p="653">base</status>
 			</entry>
 			<entry id="n.ec.ab" cite="full"><w>נַ֫עַל</w> <pos>n.f</pos>. <def>sandal</def>, <def>shoe</def>
@@ -37566,7 +37568,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="q.ds.ad" cite="full"><w>פַּרְשֶׁ֫גֶן</w> <pos>n.m</pos>. <def>copy</def>;—cstr. <ref r="Ezra.7.11">Ezr 7:11</ref>
 				<status p="832">ref</status>
 			</entry>
-			<entry id="q.ds.ae" cite="full"><w>פַּרְשְׁדֹ֑נָה</w> <pos>n.[m.]</pos> only <ref r="Judg.3.22">Ju 3:22</ref>, read perh. <def>fæces</def>
+			<entry id="q.ds.ae" cite="full"><w>פַּרְשְׁדֹ֑נָה</w> <pos>n.[m.]</pos> only <ref r="Judg.3.22">Ju 3:22</ref>, read perh. <def>fœces</def>
 				<status p="832">ref</status>
 			</entry>
 			<entry id="q.ds.af">
