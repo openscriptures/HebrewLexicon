@@ -44,8 +44,8 @@ directly transcribing the Theological Wordbook of the Old Testament.
 Thanks to Daniel Owens, for much help, especially in transcribing the
 main entries, not listed in Strong's.
 
-These files are released under the Creative Commons Attribution-ShareAlike
-(http://creativecommons.org/licenses/by-sa/3.0/) license. The actual text
+These files are released under the Creative Commons Attribution 4.0 International
+(http://creativecommons.org/licenses/by/4.0/) license. The actual text
 of Brown, Driver, Briggs and Strong’s Hebrew dictionary remain in the
 public domain.  For attribution purposes, credit the Open Scriptures Hebrew
 Bible Project. 

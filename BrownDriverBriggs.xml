@@ -19,10 +19,10 @@
 			<entry id="a.ab.ab" cite="full" form="false">[<w>אֵב</w>] <pos>n.[m.]</pos> <def>freshness</def>, <def>fresh green</def> (Lag B N 207 inf. <em>ibb</em>; thence concr., cf. Ar. <foreign xml:lang="ara">Arabic</foreign>; above stem &amp; mng. better than √ <w>אנב</w> (spring) cf. As. <foreign xml:lang="akk">inbu</foreign>, fruit, Aram. <w>אִנְבֵּהּ</w> (q.v.) Dl HA 65, Pr 114) <w>עֹדֶנּוּ בְאִבּוֹ</w> <def>while in its freshness</def> (i.e. <w>אָחוּ</w>, reed) <ref r="Job.8.12">Jb 8:12</ref>; concr., pl. <def>green shoots</def> <w>בְּאִבֵּי הַנַּחַל</w> <ref r="Song.6.11">Ct 6:11</ref> (∥ <w>הֲפָֽרְחָה הַגֶּפֶן הֵנֵצוּ הָרִמֹּנִֽים׃</w>).
 				<status p="1">ref</status>
 			</entry>
-			<entry id="a.ab.ac" cite="full"><w>אָבִיב</w> <pos>n.m</pos>. <ref r="Lev.2.14">Lv 2:14</ref> <pos>coll</pos>.
-				<sense n="1"><def>fresh</def>, <def>young ears</def> of barley</sense>
-				<sense n="2">month of ear-forming, or of growing green, <def>Abib</def>, month of Exodus &amp; passover</sense>
-				<status p="1">base</status>
+			<entry id="a.ab.ac" cite="full"><w>אָבִיב</w> <pos>n.m</pos>. <ref r="Lev.2.14">Lv 2:14</ref> <pos>coll</pos>. (Lag BN 207 Inf.)
+				<sense n="1"><def>fresh</def>, <def>young ears</def> of barley <ref r="Exod.9.31">Ex 9:31</ref>; indef. <ref r="Lev.2.14">Lv 2:14</ref> <w>מִנְחַת בִּכּוּרִים לַיהוָה א׳ קָלוּי בָּאֵשׁ</w>.</sense>
+				<sense n="2"><w>חֹדֶשׁ הָֽאָבִֽיב</w> month of ear-forming, or of growing green, <def>Abib</def>, month of Exodus &amp; passover, <ref r="Exod.13.4">Ex 13:4</ref> <ref r="Exod.23.15">23:15</ref> <ref r="Exod.34.18">34:18</ref>, <ref r="Exod.34.18">18</ref> (JE), <ref r="Deut.16.1">Dt 16:1</ref>, <ref r="Deut.16.1">1</ref> (1st month = c. April = <w>הָרִאשֹׁן</w>, <w>הַחֹדֶשׁ הָר׳</w> (q.v.) in P; v. Di <ref r="Exod.12.2">Ex 12:2</ref>; = postexilic <w>נִיסָן</w> q.v.)</sense>
+				<status p="1">done</status>
 			</entry>
 			<entry id="a.ab.ad">
 				<w>אֲבִגַיִל</w> v. <w src="a.ae.af">אֲבִיגַיִל</w> sub. II. <w mod="II" src="a.ae.aa">אבה</w>.
@@ -33,7 +33,7 @@
 			</entry>
 		</section>
 		<section id="a.ac">
-			<entry id="a.ac.aa" type="root" cite="full"><w>אָבַד</w> <pos>vb</pos>. <def>perish</def> (M I <w>אבד</w>, As. <foreign xml:lang="akk">abâtu</foreign> Dl W 184 Aram <w>אֲבַד</w>, <foreign xml:lang="ara">Arabic</foreign>).—
+			<entry id="a.ac.aa" type="root" cite="full"><w>אָבַד</w> <pos>vb</pos>. <def>perish</def> (M I <w>אבד</w>, As. <foreign xml:lang="akk">abâtu</foreign> Dl W 184 Aram <w>אֲבַד</w>, <foreign xml:lang="syr">Syriac</foreign>).—
 				<sense><stem>Qal</stem> <asp>Pf</asp>. <w>א׳</w> <ref r="Num.21.30">Nu 21:30</ref> +; <w>אָבְדוּ</w> <ref r="Ps.10.16">ψ 10:16</ref> + (+ <ref r="Ezek.6.3">Ez 6:3</ref> 𝔊 Co) etc.; <asp>Impf</asp>. <w>יֹאבַד</w> <ref r="Job.3.3">Jb 3:3</ref> <ref r="Jer.4.9">Je 4:9</ref>; <w>יֹאבֵ֑ד</w> <ref r="Job.20.7">Jb 20:7</ref> + 2t.; 3fs. <w>תֹּאבַד</w> <ref r="Deut.22.3">Dt 22:3</ref> + 4t.; <w>תֹּאבֵ֑ד</w> <ref r="Job.8.13">Jb 8:13</ref> + 3t.; <w>יֹאבְדוּ</w> <ref r="Judg.5.31">Ju 5:31</ref> + 3t.; <w>יֹאבֵ֑דוּ</w> <ref r="Job.4.9">Jb 4:9</ref> +; 3fpl. <w>וַתֹּאבַדְנָה֙</w> <ref r="1Sam.9.3">I S 9:3</ref>; <w>תֹּאבֵדוּן</w> <ref r="Deut.4.26">Dt 4:26</ref> +; <w>נֹאבֵ֑ד</w> <ref r="Jonah.1.6">Jon 1:6</ref>, <ref r="Jonah.3.9">3:9</ref>; <w>נֹאבְדָה</w> <ref r="Jonah.1.14">Jon 1:14</ref> etc.; <asp>Inf. abs</asp>. <w>אָבֹד</w> <ref r="Deut.4.26">Dt 4:26</ref> + 2t.; cstr. <w>אֲבֹד</w> <ref r="Deut.7.10">Dt 7:10</ref> <ref r="Prov.11.10">Pr 11:10</ref>; <w>אֲבָדְךָ</w> <ref r="Deut.28.20">Dt 28:20</ref>; <w>אָבְדֶ֑ךָ</w> <ref r="Deut.28.22">Dt 28:22</ref>; <w>אֲבָדְכֶם </w> <ref r="Josh.23.13">Jos 23:13</ref>; <w>אָבְדָם</w> <ref r="Obad.1.12">Ob 12</ref> <ref r="Prov.28.28">Pr 28:28</ref>; <asp>Pt</asp>. <w>אֹבֵד</w> <ref r="Deut.26.5">Dt 26:5</ref> + 7t.; cstr. <w>אֹבַד</w> <ref r="Deut.32.28">Dt 32:28</ref> (bef. <w>ע</w>? v. Di Bö § 378); etc.
 					<sense n="1"><def>perish</def>, <def>die</def>, of individuals (mostly late) <ref r="Num.17.27">Nu 17:27</ref> (∥ <w>גוע</w> &amp; (<ref r="Num.17.28">v. 28</ref>) <w>מות</w>), (also <ref r="Deut.26.5">Dt 26:5</ref>? cf. infr.) <ref r="Jonah.1.6">Jon 1:6</ref>, <ref r="Jonah.1.14">14</ref> <ref r="Job.31.19">Jb 31:19</ref> cf. <ref r="Job.29.13">29:13</ref> <ref r="Prov.31.6">Pr 31:6</ref> <ref r="Esth.4.14">Est 4:14</ref>, <ref r="Esth.4.16">16</ref>, <ref r="Esth.4.16">16</ref> <ref r="Mic.4.9">Mi 4:9</ref> <ref r="Jer.40.15">Je 40:15</ref> cf. <ref r="Isa.57.1">Is 57:1</ref> <ref r="Prov.11.10">Pr 11:10</ref> <ref r="Prov.28.28">28:28</ref> <ref r="Eccl.7.15">Ec 7:15</ref> <ref r="Ps.119.92">ψ 119:92</ref>; emphasis on morality <ref r="Job.4.20">Jb 4:20</ref> <ref r="Ps.146.4">ψ 146:4</ref> <ref r="Eccl.9.6">Ec 9:6</ref>; Saul &amp; Jonath., under fig. of weapons <ref r="2Sam.1.27">2 S 1:27</ref>; lion <ref r="Job.4.11">Jb 4:11</ref>; caravan <ref r="Job.6.18">Jb 6:18</ref> (cf. Di); cf. <w>אָ׳ חָסִיד מִן־הָאָרֶץ</w> <ref r="Mic.7.2">Mi 7:2</ref>, <w>וְאָ׳ מֶלֶךְ מֵֽעַזָּה</w> <ref r="Zech.9.5">Zc 9:5</ref>; <def>perish</def>, <def>be exterminated</def> (judgment for sin), of Israel <ref r="Lev.26.38">Lv 26:38</ref> <ref r="Deut.8.19">Dt 8:19</ref>, <ref r="Deut.8.19">19</ref>, <ref r="Deut.8.20">20</ref> <ref r="Deut.28.20">28:20</ref>, <ref r="Deut.28.22">22</ref> <ref r="Deut.30.18">30:18</ref>, <ref r="Deut.30.18">18</ref> <ref r="Jer.27.10">Je 27:10</ref>, <ref r="Jer.27.15">15</ref> cf. <ref r="Jer.6.21">6:21</ref>, <ref r="Obad.1.12">Ob 12</ref> cf. <ref r="Ps.80.17">ψ 80:17</ref> <ref r="Isa.27.13">Is 27:13</ref>; other nations <ref r="Deut.7.20">Dt 7:20</ref> <ref r="Jer.10.15">Je 10:15</ref> <ref r="Jer.51.18">51:18</ref> <ref r="Ps.2.12">ψ 2:12</ref> <ref r="Ps.10.16">10:16</ref> <ref r="Ps.83.18">83:18</ref> cf. <ref r="Ps.9.4">9:4</ref> <ref r="Amos.1.8">Am 1:8</ref> <ref r="Isa.41.11">Is 41:11</ref> <ref r="Isa.60.12">60:12</ref> cf. <ref r="Jonah.3.9">Jon 3:9</ref> v. also <ref r="Exod.10.7">Ex 10:7</ref> <ref r="Num.21.29">Nu 21:29</ref>, <ref r="Num.21.30">30</ref> (JE) <ref r="Jer.48.46">Je 48:46</ref>; house of Ahab <ref r="2Kgs.9.8">2 K 9:8</ref>; wicked in general <ref r="Judg.5.31">Ju 5:31</ref> <ref r="Job.4.9">Jb 4:9</ref> cf. <ref r="Job.4.7">v 7</ref>, <ref r="Ps.37.20">ψ 37:20</ref> <ref r="Ps.49.11">49:11</ref> <ref r="Ps.68.3">68:3</ref> (∥ sim. of melting wax), <ref r="Ps.73.27">73:27</ref> <ref r="Ps.92.10">92:10</ref>; also <ref r="Prov.19.9">Pr 19:9</ref> <ref r="Prov.21.28">21:28</ref>; <w>לָנֶצַח א׳</w> <ref r="Job.20.7">Jb 20:7</ref>; cf. <w>דֶרֶךְ רְשָׁעִים א׳</w> <ref r="Ps.1.6">ψ 1:6</ref>; sq. <w>מֵעַל הָאָ֑רֶץ</w> (of annihilation of Isr.) <ref r="Deut.4.26">Dt 4:26</ref>, <ref r="Deut.4.26">26</ref> <ref r="Deut.11.17">11:17</ref> <ref r="Josh.23.13">Jos 23:13</ref>, <ref r="Josh.23.16">16</ref> (D); sq. <w>מִתּוֹךְ הַקָּהָל</w> (of Korah’s company) <ref r="Num.16.33">Nu 16:33</ref> (JE); <def>perish</def>, <def>be ruined</def>, <def>destroyed</def>, of inanimate things, e.g. land <ref r="Jer.9.11">Je 9:11</ref> (∥ <w>נִצְּתָה כַמִּדְבָּר</w>) cf. <ref r="Jer.48.8">48:8</ref>; harvest <ref r="Joel.1.11">Jo 1:11</ref>; Jonah’s gourd <ref r="Jonah.4.10">Jon 4:10</ref>; riches <ref r="Jer.48.36">Je 48:36</ref> <ref r="Eccl.5.13">Ec 5:13</ref>; vessel <ref r="Ps.31.13">ψ 31:13</ref>; houses <ref r="Amos.3.15">Am 3:15</ref> (so oft. As. Dl W); city <ref r="Ezek.26.17">Ez 26:17</ref> (but del. 𝔊 Co); cf. bamôth <ref r="Ezek.6.3">Ez 6:3</ref> 𝔊 Co; heavens &amp; earth <ref r="Ps.102.27">ψ 102:27</ref>.</sense>
 					<sense n="2">fig. <def>perish</def>, <def>vanish</def>, subj. memory <ref r="Job.18.17">Jb 18:17</ref> <ref r="Ps.9.7">ψ 9:7</ref>; name <ref r="Ps.41.6">ψ 41:6</ref> (i.e. be forgotten); vigour <ref r="Job.30.2">Jb 30:2</ref>; wisdom <ref r="Isa.29.14">Is 29:14</ref>; cf. <w>אֹבַד עֵצוֹת</w> <ref r="Deut.32.28">Dt 32:28</ref>; <w>אֱמוּנָה</w> <ref r="Jer.7.28">Je 7:28</ref> (∥ <w>נִכְרְתָה</w>); <w>חָזוֹן</w> <ref r="Ezek.12.22">Ez 12:22</ref>; <w>יוֹם</w> <ref r="Job.3.3">Jb 3:3</ref> (i.e. blotted out); <w>לֵב</w> <ref r="Jer.4.9">Je 4:9</ref> (i.e. courage fail); <w>תִּקְוָת</w> <ref r="Ps.9.19">ψ 9:19</ref> <ref r="Prov.10.28">Pr 10:28</ref> <ref r="Prov.11.7">11:7</ref> <ref r="Ezek.19.5">Ez 19:5</ref> <ref r="Ezek.37.11">37:11</ref> <ref r="Job.8.13">Jb 8:13</ref>; so <w>תַּאֲוַת</w> <ref r="Ps.112.10">ψ 112:10</ref> (i.e. come to naught); <w>תּוֹחֶלֶת</w> <ref r="Prov.11.7">Pr 11:7</ref>, sq. <w>מִן</w> + agent <ref r="Lam.3.18">La 3:18</ref>; <w>תּוֹרָה + עֵצָה</w> sq. <w>מן</w> + persons negligent <ref r="Jer.18.18">Je 18:18</ref> <ref r="Ezek.7.26">Ez 7:26</ref>, cf. <ref r="Jer.49.7">Je 49:7</ref>; esp. <w>א׳ מָנוֹס מִן־</w> (i.e. they could not escape) <ref r="Amos.2.14">Am 2:14</ref> <ref r="Jer.25.35">Je 25:35</ref> <ref r="Job.11.20">Jb 11:20</ref> <ref r="Ps.142.5">ψ 142:5</ref>.</sense>
@@ -47,36 +47,36 @@
 					<sense n="1"><def>destroy</def>, <def>put to death</def>, in judgment, (subj. <w>י׳</w>) obj. pers. <ref r="Lev.23.30">Lv 23:30</ref> (sq. <w>מִקֶּרֶב עַמָּהּ</w>; ∥ <w>כָּרַת</w> <ref r="Lev.23.29">v 29</ref>); <ref r="Jer.49.38">Je 49:38</ref> (sq. <w>מִשָּׁם</w>); <ref r="Obad.1.8">Ob 8</ref> (sq. <w>מֵֽאֱדוֹם</w>); obj. nation, Ammon <ref r="Ezek.25.7">Ez 25:7</ref> (sq. <w>מן־הארצות</w>; ∥ <w>כָּרַת</w>), cf. <ref r="Ezek.25.16">v 16</ref>; Canaanites <ref r="Deut.8.20">Dt 8:20</ref> (sq. <w>מִפְּנֵיכֶם</w>); Canaan = Philistines <ref r="Zeph.2.5">Zp 2:5</ref> (∥ <w>כָּרַת</w>); esp. Isr. <ref r="Deut.28.51">Dt 28:51</ref>, <ref r="Deut.28.63">63</ref> (∥ <w>הַשְׁמִיד</w>), cf. <ref r="Josh.7.7">Js 7:7</ref>; also abs. <ref r="Jer.18.7">Je 18:7</ref> (∥ <w>לִנְתוֹשׁ וְלִנְתוֹץ</w>); = <ref r="Jer.1.10">1:10</ref> (+ <w>וְלַהֲרוֹס</w>) = <ref r="Jer.31.28">31:28</ref> (+ <w>וּלְהָרֵעַ</w>); animals <ref r="Ezek.32.13">Ez 32:13</ref> (sq. <w>מֵעַל מַיִם רַבִּים</w>); cf. <ref r="Deut.7.10">Dt 7:10</ref>; <ref r="Ps.143.12">ψ 143:12</ref> (∥ <w>תַּצְמִית</w>); (human subj.), obj. servants of Baal <ref r="2Kgs.10.19">2 K 10:19</ref>, obj. nation <ref r="Deut.9.3">Dt 9:3</ref>, cf. <ref r="Num.24.19">Nu 24:19</ref> (E; sq. <w>מֵעִֽיר</w>); <ref r="2Kgs.24.2">2 K 24:2</ref>; cf. <ref r="Jer.46.8">Je 46:8</ref>; obj. inanimate, chariots <ref r="Mic.5.9">Mi 5:9</ref>; idols <ref r="Ezek.30.13">Ez 30:13</ref> (del. BCo).</sense>
 					<sense n="2">fig., obj. name of kings <ref r="Deut.7.24">Dt 7:24</ref> (sq. <w>מִתַּחַת הַשָּׁמָיִם</w>); hope <ref r="Job.14.19">Jb 14:19</ref>; voice of mirth etc. <ref r="Jer.25.10">Je 25:10</ref> (cf. <ref r="Jer.51.55">51:55</ref> <stem>Pi</stem>. supr.)</sense>
 				</sense>
-				<status p="1">base</status>
+				<status p="1">ref</status>
 			</entry>
-			<entry id="a.ac.ab" cite="full"><w>אֹבֵד</w> <pos>n.[m.]</pos> <def>destruction</def>
-				<status p="2">base</status>
+			<entry id="a.ac.ab" cite="full"><w>אֹבֵד</w> <pos>n.[m.]</pos> <def>destruction</def>, <w>עֲדֵי א׳</w> <ref r="Num.24.20">Nu 24:20</ref>, <ref r="Num.24.24">24</ref> (JE; on form with abstract sense v. Ba NB 149).
+				<status p="2">done</status>
 			</entry>
-			<entry id="a.ac.ac" cite="full"><w>אֲבֵדָה</w> <pos>n.f</pos>. <def>a lost thing</def>
-				<status p="2">base</status>
+			<entry id="a.ac.ac" cite="full"><w>אֲבֵדָה</w> <pos>n.f</pos>. <def>a lost thing</def>—abs. exc. <ref r="Deut.22.3">Dt 22:3</ref> cstr. <w>אֲבֵדַת</w>—<ref r="Exod.22.8">Ex 22:8</ref>; with <w>מָצָא</w> <ref r="Lev.5.22">Lv 5:22</ref>, <ref r="Lev.5.23">23</ref>; with <w>אָבַד</w> + <w>מָצָא</w> <ref r="Deut.22.3">Dt 22:3</ref>;—(<w>אבדה</w> <ref r="Prov.27.20">Pr 27:20</ref> Kt cf. <w>אֲבַדּוֹ</w> infr.)
+				<status p="2">done</status>
 			</entry>
 			<entry id="a.ac.ad">
-				<w>אֲבַדֹּה</w> <w>אֲבַדּוֹ</w> v. <w src="a.ac.af">אבדון</w>
-				<status p="2">made</status>
+				<w>אֲבַדֹּה</w> <w>אֲבַדּוֹ</w> cf. <w src="a.ac.af">אבדון</w> infr.
+				<status p="2">done</status>
 			</entry>
-			<entry id="a.ac.ae" cite="full"><w>אַבְדָ֑ן</w>, &amp; <w>אׇבְדַן</w> (cstr.) <pos>n.[m.]</pos> <def>destruction</def>
-				<status p="2">base</status>
+			<entry id="a.ac.ae" cite="full"><w>אַבְדָ֑ן</w>, &amp; <w>אׇבְדַן</w> (cstr.) <pos>n.[m.]</pos> <def>destruction</def> (Syr. <foreign xml:lang="syr">Syriac</foreign>) <ref r="Esth.9.5">Est 9:5</ref> (<w>מַכַּת־חֶרֶב וְהֶרֶג וְא׳</w>), <ref r="Esth.8.8">8:8</ref>; (on form v. BeRy; Ol § 215 b.1 Ba NB 49, 487).
+				<status p="2">ref</status>
 			</entry>
-			<entry id="a.ac.af" cite="full"><w>אֲבַדּוֹן</w> <pos>n.f</pos>. ? <ref r="Prov.27.20">Pr 27:20</ref> abstr. nearly = <pos>n. pr</pos>. (place of) <def>Destruction</def>, <def>Ruin</def>, <def>’Abaddôn</def>
-				<status p="2">base</status>
+			<entry id="a.ac.af" cite="full"><w>אֲבַדּוֹן</w> <pos>n.f</pos>. ? <ref r="Prov.27.20">Pr 27:20</ref> abstr. nearly = <pos>n.pr</pos>. (place of) <def>Destruction</def>, <def>Ruin</def>, <def>’Abaddôn</def> (cf. <foreign xml:lang="syr">Syriac</foreign> 𝔖 <ref r="Job.28.22">Jb 28:22</ref> etc.)—<w>אֲבַדּֽוֹן</w> <ref r="Job.26.6">Jb 26:6</ref> (+ 4 t.); abbrev. <w>אבדה</w> Kt <w>אֲבַדּֽוֹ</w> Qr <ref r="Prov.27.20">Pr 27:20</ref>.—Place of ruin in Shᵉʼôl for lost or ruined dead, as development of earlier distinction of condition in Shᵉʼôl (v. <w>שְׁאוֹל</w>). Only in WisdLt; <ref r="Job.31.12">Jb 31:12</ref>; ∥ <w>שׁאול</w> <ref r="Job.26.6">Jb 26:6</ref> <ref r="Prov.15.11">Pr 15:11</ref> <ref r="Prov.27.20">27:20</ref>; ∥ <w>מות</w> <ref r="Job.28.22">Jb 28:22</ref>; ∥ <w>קבר</w> <ref r="Ps.88.12">ψ 88:12</ref>.
+				<status p="2">done</status>
 			</entry>
 		</section>
 		<section id="a.ad">
-			<entry id="a.ad.aa" type="root" cite="full" mod="I"><w>אָבָה</w> <pos>vb</pos>. <def>be willing</def>, <def>consent</def>
-				<status p="2">base</status>
-			</entry>
-			<entry id="a.ad.ab" cite="full"><w>אֶבְיוֹן</w> <pos>adj</pos>. <def>in want</def>, <def>needy</def>, <def>poor</def>
-				<status p="2">base</status>
-			</entry>
-			<entry id="a.ad.ac" cite="full"><w>אֲבִיּוֹנָה</w> <pos>n.f</pos>. <def>caper-berry</def> (as stimulating desire) <ref r="Eccl.12.5">Ec 12:5</ref>
+			<entry id="a.ad.aa" type="root" cite="full" mod="I"><w>אָבָה</w> <pos>vb</pos>. <def>be willing</def>, <def>consent</def> (cf. As. <foreign xml:lang="akk">abîtu</foreign>, <def>command</def>, Dl W, Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>refuse</def>, Ar. <foreign xml:lang="ara">Arabic</foreign>, id., Nejd <def>be willing</def> So De Jes 3, p. 26; LCB 1880, 817)—
+				<sense><stem>Qal</stem> (c. <w>לֹא</w>, <w>אַל</w> exc. <ref r="Isa.1.19">Is 1:19</ref> <ref r="Job.39.9">Jb 39:9</ref>; in Hex. rare &amp; Only JED, incl. <ref r="Lev.26.21">Lv 26:21</ref>); <asp>Pf</asp>. <w>אָבָה</w> <ref r="Exod.10.27">Ex 10:27</ref> + <w>אָבוּ</w> <ref r="Judg.19.25">Ju 19:25</ref> + 7 t.; <w>אָבוּא</w> <ref r="Isa.28.12">Is 28:12</ref> (Sta § 31 R.2; Kö I, 414); <asp>Impf</asp>. <w>יֹאבֶה</w> <ref r="Deut.29.19">Dt 29:19</ref> + 2 t.; 2 ms. juss. <w>תֹּבֵֽא</w> <ref r="Prov.1.10">Pr 1:10</ref> (Sta § 143 e 1 nn; Kö I, 578 f) etc.; <asp>Pt</asp>. <w>אֹבִים</w> <ref r="Ezek.3.7">Ez 3:7</ref>;—<def>be willing</def>, sq. Inf. with <w>ל</w> <ref r="Exod.10.27">Ex 10:27</ref> + 29 t.; without <w>ל</w> <ref r="Deut.2.30">Dt 2:30</ref> + 8 t.; subj. <w>י׳</w> <ref r="Deut.10.10">Dt 10:10</ref> <ref r="Deut.23.6">23:6</ref> <ref r="Deut.29.19">29:19</ref> <ref r="Josh.24.10">Jos 24:10</ref> <ref r="2Kgs.8.19">2 K 8:19</ref> <ref r="2Kgs.13.23">13:23</ref> <ref r="2Kgs.24.4">24:4</ref> <ref r="2Chr.21.7">2 Ch 21:7</ref>; human subj. <ref r="Gen.24.5">Gn 24:5</ref>, <ref r="Gen.24.8">8</ref> <ref r="Judg.19.10">Ju 19:10</ref> <ref r="2Sam.2.21">2 S 2:21</ref> <ref r="2Sam.13.25">13:25</ref><ref r="2Sam.14.29">14:29</ref>, <ref r="2Sam.14.29">29</ref> <ref r="2Sam.23.16">23:16</ref>, <ref r="2Sam.23.17">17</ref> = <ref r="1Chr.11.18">1 Ch 11:18</ref>, <ref r="1Chr.11.19">19</ref> <ref r="1Chr.19.19">1 Ch 19:19</ref>; in bad sense <ref r="Exod.10.27">Ex 10:27</ref> <ref r="Deut.2.30">Dt 2:30</ref> <ref r="Deut.25.7">25:7</ref> <ref r="Judg.19.25">Ju 19:25</ref> <ref r="Judg.20.13">20:13</ref> <ref r="2Sam.13.14">2 S 13:14</ref>, <ref r="2Sam.13.16">16</ref>;esp. of perverse Isr. <ref r="Lev.26.21">Lv 26:21</ref> <ref r="Deut.1.26">Dt 1:26</ref> <ref r="1Sam.15.9">I S 15:9</ref> <ref r="Isa.28.12">Is 28:12</ref> <ref r="Isa.30.9">30:9</ref> <ref r="Isa.42.24">42:24</ref> <ref r="Ezek.3.7">Ez 3:7</ref>, <ref r="Ezek.3.7">7</ref> <ref r="Ezek.20.8">20:8</ref>; subj. animal, <w>רֵּים</w> <ref r="Job.39.9">Jb 39:9</ref>; abs. (no Inf.) <ref r="2Sam.12.17">2 S 12:17</ref> <ref r="1Kgs.20.8">1 K 20:8</ref> <ref r="1Kgs.22.50">22:50</ref>; cf. <ref r="Prov.6.35">Pr 6:35</ref>, of jealous man; bad sense <ref r="Judg.11.17">Ju 11:17</ref> <ref r="Isa.30.15">Is 30:15</ref>; good sense <ref r="1Sam.22.17">I S 22:17</ref> <ref r="1Sam.26.23">26:23</ref> <ref r="1Sam.31.4">31:4</ref> = <ref r="1Chr.10.4">1 Ch 10:4</ref> <ref r="2Sam.6.10">2 S 6:10</ref> <ref r="Prov.1.10">Pr 1:10</ref>; + vb. fin. <ref r="Isa.1.19">Is 1:19</ref> (<w>אִם תֹּאבוּ וּשְׁמַעְתֶּם</w>); <def>consent</def>, <def>yield to</def>, sq. <w>לַעֲצָתִי</w> <ref r="Prov.1.30">Pr 1:30</ref>; sq. acc. <w>תוֹכַחְתִּי</w> <ref r="Prov.1.25">v 25</ref> (all in bad sense).</sense>
 				<status p="2">ref</status>
 			</entry>
-			<page p="3"/>
+			<entry id="a.ad.ab" cite="full"><w>אֶבְיוֹן</w> <pos>adj</pos>. <def>in want</def>, <def>needy</def>, <def>poor</def>,—so, alw. abs., <ref r="Deut.15.4">Dt 15:4</ref> + 40 t.; <w>אֶבְיֹנְךָ</w> <ref r="Exod.23.6">Ex 23:6</ref> <ref r="Deut.15.11">Dt 15:11</ref>; <w>אֶבְיוֹנִים</w> <ref r="Amos.4.1">Am 4:1</ref> + 14 t.; <w>אֶבְיוֹנֵי</w> (<w>אֶבְיֹנֵי</w>) <ref r="Exod.23.11">Ex 23:11</ref> <ref r="Isa.29.19">Is 29:19</ref>; <w>אֶבְיוֹנֶיהָ</w> <ref r="Ps.132.15">ψ 132:15</ref>—(Hex. only JED; mostly poet., 23 t. ψ) <def>needy</def>, chiefly <def>poor</def> (in material things); as adj. <ref r="Deut.15.7">Dt 15:7</ref>, <ref r="Deut.15.7">7</ref>, <ref r="Deut.15.9">9</ref>; <ref r="Deut.24.14">24:14</ref> <ref r="Ps.109.16">ψ 109:16</ref> (both ∥ <w>עָנִי</w>); elsewhere subst.; <ref r="Ps.49.3">ψ 49:3</ref> (∥ <w>עָשִׁיר</w>); <ref r="Deut.15.4">Dt 15:4</ref>, <ref r="Deut.15.11">11</ref>; subj. to oppression &amp; abuse <ref r="Amos.2.6">Am 2:6</ref> <ref r="Amos.5.12">5:12</ref> (both ∥ <w>צַדִּיק</w>) <ref r="Amos.4.1">4:1</ref> <ref r="Amos.8.6">8:6</ref> (all ∥ <w>דַּל</w>) <ref r="Isa.32.7">Is 32:7</ref>; <ref r="Amos.8.4">Am 8:4</ref> <ref r="Ezek.16.49">Ez 16:49</ref> <ref r="Ezek.18.12">18:12</ref> <ref r="Ezek.22.29">22:29</ref> <ref r="Ps.37.14">ψ 37:14</ref> <ref r="Job.24.4">Jb 24:4</ref>, <ref r="Job.24.14">14</ref> <ref r="Prov.30.14">Pr 30:14</ref>—cf. <ref r="Ps.109.16">ψ 109:16</ref> supr.—(all ∥ <w>עָנִי</w>) <ref r="Jer.5.28">Je 5:28</ref> (∥ <w>יָתוֹם</w>) <ref r="Jer.2.34">2:34</ref>; cared for by good <ref r="Job.29.16">Jb 29:16</ref> <ref r="Job.30.25">30:25</ref> (∥ <w>קְשֵׁה־יוֹם</w>) <ref r="Job.31.19">31:19</ref> <ref r="Ps.112.9">ψ 112:9</ref> <ref r="Esth.9.22">Est 9:22</ref>; <ref r="Prov.14.31">Pr 14:31</ref> (∥ <w>דָּל</w>) <ref r="Prov.31.20">31:20</ref> <ref r="Jer.22.16">Je 22:16</ref> (∥ <w>עָנִי</w>); care of them enjoined, negatively <ref r="Exod.23.6">Ex 23:6</ref>;—cf. <ref r="Deut.24.14">Dt 24:14</ref> supr.—positively <ref r="Exod.23.11">Ex 23:11</ref> <ref r="Deut.15.11">Dt 15:11</ref> <ref r="Prov.31.9">Pr 31:9</ref> (both ∥ <w>עָנִי</w>)—cf. <ref r="Deut.15.7">Dt 15:7</ref>, <ref r="Deut.15.7">7</ref>, <ref r="Deut.15.9">9</ref> supr.—<ref r="Ps.82.4">ψ 82:4</ref> (∥ <w>דַל</w>); cared for by God <ref r="Jer.20.13">Je 20:13</ref> <ref r="Ps.107.41">ψ 107:41</ref> <ref r="Ps.132.15">132:15</ref> <ref r="Job.5.15">Jb 5:15</ref>; <ref r="1Sam.2.8">I S 2:8</ref> = <ref r="Ps.113.7">ψ 113:7</ref> <ref r="Isa.14.30">Is 14:30</ref> (all ∥ <w>דַּל</w>) <ref r="Ps.35.10">ψ 35:10</ref> <ref r="Ps.140.13">140:13</ref> (both ∥ <w>עָנִי</w>), cf. Davidic king <ref r="Ps.72.12">ψ 72:12</ref> (∥ <w>עָנִי</w>) = <ref r="Ps.72.4">v 4</ref> <w>בְנֵי אֶבְ׳</w> (∥ <em>id</em>.), <ref r="Ps.72.13">v 13</ref>, <ref r="Ps.72.13">13</ref> (∥ <w>דַּל</w>); <def>needing help</def>, deliverance from trouble, esp. as delivered by God <ref r="Ps.9.19">ψ 9:19</ref> <ref r="Ps.12.6">12:6</ref> <ref r="Ps.40.18">40:18</ref> = <ref r="Ps.70.6">70:6</ref> <ref r="Ps.74.21">74:21</ref> <ref r="Ps.86.1">86:1</ref> <ref r="Ps.109.22">109:22</ref> <ref r="Isa.29.19">Is 29:19</ref> <ref r="Isa.41.17">41:17</ref> (all ∥ <w>עָנִי</w>) <ref r="Isa.25.4">Is 25:4</ref> (∥ <w>דַּל</w>) <ref r="Ps.69.34">ψ 69:34</ref> <ref r="Ps.109.31">109:31</ref>.
+				<status p="2">done</status>
+			</entry>
+			<entry id="a.ad.ac" cite="full"><w>אֲבִיּוֹנָה</w> <pos>n.f</pos>. <def>caper-berry</def> (as stimulating <page p="3"/>desire) <ref r="Eccl.12.5">Ec 12:5</ref> (v. GFM JBL 1891, 55 ff.; so 𝔊 𝔙, Mish. <w>אביונות</w>, cf. NHWB; v. also 𝔖; i.e. <em>capparis spinosa</em>, cf. Ri HWB; so Thes, Ew De, etc.; but Wetzst in De (Germ. ed. 1875) proposes <w>אֶבְיוֹנָה</w> (as fem. of <w>אביון</w>) <def>the poor soul</def> in sense = <w>נִשְׁמָתוֹ הָאֶבְיוֹנָה</w> cf. Symm 𝔖, where double translation).
+				<status p="2">done</status>
+			</entry>
 			<entry id="a.ad.ad" cite="full"><w>אֵ֫בֶה</w> <pos>n.[m.]</pos> <def>reed</def>, <def>papyrus</def> <ref r="Job.9.26">Jb 9:26</ref>
 				<status p="3">base</status>
 			</entry>
@@ -32640,8 +32640,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="p.be">
-			<entry id="p.be.aa" type="root" mod="II"><w>עוה</w>
-				<status p="730">new</status>
+			<entry id="p.be.aa" type="root" mod="II"><w>עוה</w> (√ of foll., cf. Ar. <foreign xml:lang="ara">Arabic</foreign> <def>err from the way</def>, Eth. <foreign xml:lang="gez">Ethiopic</foreign> <def>err</def>; distinct from I. <w>עוה</w>, cf. Lag M. I. 236 f. Dr 1 8 20, 30 Gerber 90).
+				<status p="730">done</status>
 			</entry>
 			<entry id="p.be.ab" cite="full"><w>עָוֹן</w> <pos>n.m</pos>. <def>iniquity</def>, <def>guilt</def>, or <def>punishment of iniquity</def>
 				<status p="730">base</status>
@@ -33269,8 +33269,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="p.cd">
-			<entry id="p.cd.aa" type="root"><w>עטן</w>
-				<status p="742">new</status>
+			<entry id="p.cd.aa" type="root"><w>עטן</w> (√ of foll.; NH <w>עָמַן</w> <def>put</def> olives into vat or press, or in vessel; Ar. <foreign xml:lang="ara">Arabic</foreign> <def>put skin into tan</def>).
+				<status p="742">done</status>
 			</entry>
 			<entry id="p.cd.ab" cite="full" form="false">[<w>עֲטִין</w>] <pos>n.[m.]</pos> prob. <def>pail</def>, <def>bucket</def>;—<ref r="Job.21.24">Jb 21:24</ref>
 				<status p="742">ref</status>
@@ -36354,8 +36354,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="q.bh.aa" type="root"><w>פיד</w>, <w>פוד</w>
 				<status p="810">new</status>
 			</entry>
-			<entry id="q.bh.ab" cite="full"><w>פִּיד</w> <pos>n.[m.]</pos> <def>ruin</def>, <def>disaster</def>
-				<status p="810">base</status>
+			<entry id="q.bh.ab" cite="full"><w>פִּיד</w> <pos>n.[m.]</pos> <def>ruin</def>, <def>disaster</def>;—abs. <ref r="Job.12.5">Jb 12:5</ref>; cstr. <ref r="Job.31.29">31:29</ref> <ref r="Prov.24.22">Pr 24:22</ref>; sf. <w>פִידוֹ</w> <ref r="Job.30.24">Jb 30:24</ref> + <ref r="Job.21.20">21:20</ref> (for <w>כִּיד</w>).
+				<status p="810">done</status>
 			</entry>
 			<entry id="q.bh.ac">
 				<w>פִּיּוֹת</w> <w>פֵּיוֹת</w> v. <w src="q.al.aa">פֶּה</w>
@@ -46303,8 +46303,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<status p="1002">base</status>
 			</entry>
 			<entry id="v.bv.ab" cite="full" mod="I">
-				<w>שׁוּעַ</w> v. <w src="j.dy.af">שׁוּעַ</w>
-				<status p="1002">made</status>
+				<w>שׁוּעַ</w>, [<w>שֶׁוַע</w> ?] <pos>n.m</pos>. <def>cry for help</def>;— v. <w src="j.dy.af">שׁוּעַ</w>
+				<status p="1002">base</status>
 			</entry>
 			<page p="1003"/>
 			<entry id="v.bv.ac" cite="full"><w>שׁוֹעַ</w> <pos>n.[m.]</pos> <def>cry</def>, perhaps <def>war-cry</def>, or <def>cry for help</def> in war <ref r="Isa.22.5">Is 22:5</ref>.
@@ -47787,7 +47787,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="v.ed.al" cite="full"><w>שִׁמְעָתִים</w> <pos>adj.gent.pl</pos>. as <pos>subst</pos>., family of scribes <ref r="1Chr.2.55">1 Ch 2:55</ref>
 				<status p="1035">ref</status>
 			</entry>
-			<entry id="v.ed.am" cite="full"><w>שְׁמוּעָה</w> <pos>n.f</pos>. <def>report</def>
+			<entry id="v.ed.am" cite="full"><w>שְׁמוּעָה</w> <pos>n.f</pos>. <def>report</def>	<sense n="1"><def>report</def></sense> <sense n="2">= <def>mention</def></sense>
 				<status p="1035">base</status>
 			</entry>
 			<entry id="v.ed.an" cite="full"><w>שַׁמּוּעַ</w> <pos>n.pr.m</pos>.

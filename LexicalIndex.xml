@@ -1671,7 +1671,7 @@
 			<etym type="sub">ahm</etym>
 		</entry>
 		<entry id="anz">
-			<w xlit="ʾayyēh">אַיֵּה</w> <pos>D</pos> <def>Where?</def>
+			<w xlit="ʾayyēh">אַיֵּה</w> <pos>D</pos> <def>where?</def>
 			<xref bdb="a.cu.ab" strong="346" twot="75a"/>
 			<etym type="sub">anu</etym>
 		</entry>
@@ -4241,7 +4241,7 @@
 			<etym root="באשׁ" type="main">bjh, bjj, bjk</etym>
 		</entry>
 		<entry id="bjj">
-			<w xlit="boʾšâ">בׇּאְשָׁה</w> <pos>N</pos> <def>stinking</def>
+			<w xlit="boʾšâ">בׇּאְשָׁה</w> <pos>N</pos> <def>stinking weeds</def>
 			<xref bdb="b.ad.ac" strong="890" twot="195b"/>
 			<etym type="sub">bji</etym>
 		</entry>
@@ -12227,7 +12227,8 @@
 		</entry>
 		<entry id="dwt">
 			<w xlit="ḥălîṣâ">חֲלִיצָה</w> <pos>N</pos> <def>what is stripped off</def>
-			<xref bdb="h.cy.ab" strong="2488" twot="667a 668a"/>
+			<xref bdb="h.cy.ab" strong="2488" twot="667a"/>
+			<etym type="sub">dxm</etym>
 		</entry>
 		<entry id="dwu">
 			<w xlit="ḥlk">חלך</w>
@@ -12318,7 +12319,7 @@
 		<entry id="dxm">
 			<w xlit="ḥālaṣ">חָלַץ</w> <pos>V</pos> <def>draw off</def>
 			<xref bdb="h.cy.aa" strong="2502" aug="a" twot="667"/>
-			<etym root="חלץ" type="main">gtm</etym>
+			<etym root="חלץ" type="main">dwt, gtm</etym>
 		</entry>
 		<entry id="dxn">
 			<w xlit="ḥālaṣ">חָלַץ</w> <pos>V</pos> <def>equip</def>
@@ -25042,7 +25043,7 @@
 			<etym root="מתק" type="main">hce, hwf, hwy, hxa, hxb</etym>
 		</entry>
 		<entry id="hxa">
-			<w xlit="mātōq">מָתֹק</w> <pos>V</pos> <def>become</def>
+			<w xlit="mātōq">מָתֹק</w> <pos>V</pos> <def>become sweet</def>
 			<xref bdb="m.ef.aa" strong="4988" twot="1268"/>
 			<etym type="sub">hwz</etym>
 		</entry>
@@ -27633,7 +27634,7 @@
 		<entry id="irt">
 			<w xlit="sûs">סוּס</w> <pos>N</pos> <def>horse</def>
 			<xref bdb="o.as.af" strong="5483" aug="b" twot="1477"/>
-			<etym type="single"/>
+			<etym root="סוס" type="main">irv</etym>
 		</entry>
 		<entry id="iru">
 			<w xlit="sûs">סוּס</w> <pos>N</pos> <def>swallow</def>
@@ -27643,7 +27644,7 @@
 		<entry id="irv">
 			<w xlit="sûsâ">סוּסָה</w> <pos>N</pos> <def>mare</def>
 			<xref bdb="o.as.ag" strong="5484" twot="1477"/>
-			<etym type="single"/>
+			<etym type="sub">irt</etym>
 		</entry>
 		<entry id="irw">
 			<w xlit="sûsî">סוּסִי</w> <pos>Np</pos> <def>Susi</def>
@@ -33206,7 +33207,7 @@
 		<entry id="klf">
 			<w xlit="prʿ">פרע</w>
 			<xref bdb="q.df.aa"/>
-			<etym root="פרע" type="main">klc, kld</etym>
+			<etym root="פרע" type="main">klc, kld, kll, klm</etym>
 		</entry>
 		<entry id="klg">
 			<w xlit="prʿ">פרע</w>
@@ -33234,10 +33235,12 @@
 		<entry id="kll">
 			<w xlit="pirʿātôn">פִּרְעָתוֹן</w> <pos>Np</pos> <def>Pirathon</def>
 			<xref bdb="q.df.ad" strong="6552"/>
+			<etym type="sub">klf</etym>
 		</entry>
 		<entry id="klm">
 			<w xlit="pirʿātônî">פִּרְעָתוֹנִי</w> <pos>Ag</pos> <def>Pirathonite</def>
 			<xref bdb="q.df.ae" strong="6553"/>
+			<etym type="sub">klf</etym>
 		</entry>
 		<entry id="kln">
 			<w xlit="parpar">פַּרְפַּר</w> <pos>Np</pos> <def>Pharpar</def>
