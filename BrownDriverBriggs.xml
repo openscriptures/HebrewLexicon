@@ -13100,6 +13100,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<status p="290">base</status>
 			</entry>
 			<entry id="h.am.ab" cite="full"><w>חַג</w> <pos>n.m</pos>. <def>festival-gathering</def>, <def>feast</def>, <def>pilgrim-feast</def>
+			 	<sense n="1"><def>feast</def></sense>
+				<sense n="2"><def>festival sacrifice</def></sense>
 				<status p="290">base</status>
 			</entry>
 			<page p="291"/>
@@ -29314,8 +29316,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="n.dw">
 			<entry id="n.dw.aa" type="root" cite="full" form="false" mod="III">[<w>נָסַךְ</w>] <pos>vb</pos>. <def>set</def>, <def>install</def>
-				<sense><stem>Qal</stem> <def>I have installed my king upon Zion</def>.</sense>
-				<sense><stem>Niph</stem>. <def>I was installed</def> (of Wisdom).</sense>
+				<sense><stem>Qal</stem> <ref r="Ps.2.6">ψ 2:6</ref> <def>I have installed my king upon Zion</def>.</sense>
+				<sense><stem>Niph</stem>. <ref r="Prov.8.23">Pr 8:23</ref> <def>I was installed</def> (of Wisdom).</sense>
 				<status p="651">base</status>
 			</entry>
 			<entry id="n.dw.ab" cite="full" form="false" mod="II">[<w>נָסִיךְ</w>] <pos>n.m</pos>. <def>prince</def>
@@ -40192,7 +40194,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="s.az.aa" type="root" cite="full" form="false" mod="I">[<w>קוּר</w>] <pos>vb</pos>. <def>bore</def>, <def>dig</def>
 				<status p="881">base</status>
 			</entry>
-			<entry id="s.az.ab" cite="full"><w>מָקוֹר</w> <pos>n.m</pos>. <def>spring</def>, <def>fountain</def>
+			<entry id="s.az.ab" cite="full"><w>מָקוֹר</w> <pos>n.m</pos>. <def>spring</def>, <def>fountain</def> (app. orig. <def>well</def>)
 				<sense n="1"><def>spring</def> of water</sense>
 				<sense n="2">fig. of eye</sense>
 				<sense n="3"><def>source</def> of menstruous blood</sense>
@@ -52006,7 +52008,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="xj.al.aa" type="root"><w>ישׁן</w>
 				<status p="1096">new</status>
 			</entry>
-			<entry id="xj.al.ab" cite="full" form="false" mod="II">[<w>שְׁנָה</w>] <pos>n.f</pos>. <def>sheep</def>;—sf. <ref r="Dan.6.19">Dn 6:19</ref>
+			<entry id="xj.al.ab" cite="full" form="false" mod="II">[<w>שְׁנָה</w>] <pos>n.f</pos>. <def>sleep</def>;—sf. <ref r="Dan.6.19">Dn 6:19</ref>
 				<status p="1096">ref</status>
 			</entry>
 		</section>

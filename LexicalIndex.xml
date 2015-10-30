@@ -19422,7 +19422,7 @@
 			<xref bdb="l.ax.ae" strong="3877"/>
 		</entry>
 		<entry id="geb">
-			<w xlit="lēwî">לֵוִי</w> <pos>Np</pos> <def>Levi. See also</def>
+			<w xlit="lēwî">לֵוִי</w> <pos>Np</pos> <def>Levi</def>
 			<xref bdb="l.ax.af" strong="3878" twot="1093"/>
 			<etym type="single"/>
 		</entry>
@@ -47454,7 +47454,7 @@
 			<etym type="sub">ovf</etym>
 		</entry>
 		<entry id="ove">
-			<w xlit="pĕsanṭērîn">פְּסַנְטֵרִין</w> <pos>N</pos> <def>a</def>
+			<w xlit="pĕsanṭērîn">פְּסַנְטֵרִין</w> <pos>N</pos> <def>a stringed instrument</def>
 			<xref bdb="xq.ac.ae" strong="6460" twot="2943"/>
 			<etym type="single"/>
 		</entry>
@@ -48224,7 +48224,7 @@
 			<etym type="single"/>
 		</entry>
 		<entry id="pbe">
-			<w xlit="šĕnâ">שְׁנָה</w> <pos>N</pos> <def>sheep</def>
+			<w xlit="šĕnâ">שְׁנָה</w> <pos>N</pos> <def>sleep</def>
 			<xref bdb="xj.al.ab" strong="8139" twot="2778a"/>
 			<etym type="sub">olt</etym>
 		</entry>
