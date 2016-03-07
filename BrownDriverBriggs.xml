@@ -9974,7 +9974,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="d.ch.ab" cite="full"><w>מַדְרֵגָה</w> <pos>n.f</pos>. <def>steep place</def>, <def>steep</def>
 				<status p="201">base</status>
 			</entry>
-			<entry id="d.ch.ac" cite="full"><w>דַּרְדַּע</w> <pos>n.pr.m</pos>. only <ref r="1Kgs.5.11">1 K 5:11</ref> <def>Ethan the Ezrahite, and Heman, and Calcol, and Darda, the sons of Mahol</def>
+			<entry id="d.ch.ac" cite="full"><w>דַּרְדַּע</w> <pos>n.pr.m</pos>. only <ref r="1Kgs.5.11">1 K 5:11</ref> <def>Ethan the Ezrahite, and Heman, and Calcol, and Darda, the sons of Mahol</def> = <w>דָ֖רַע</w> <ref r="1Chr.2.6">1 Ch 2:6</ref>
 				<status p="201">ref</status>
 			</entry>
 			<entry id="d.ch.ad">
@@ -17728,7 +17728,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<sense n="1"><def>give praise to</def> <w>י׳</w></sense>
 				<sense n="2"><def>thanksgiving in songs of liturgical worship</def></sense>
 				<sense n="3"><def>thanksgiving choir</def>, <def>procession</def>, <def>line</def>, <def>company</def></sense>
-				<sense n="4"><def>thank=offering</def></sense>
+				<sense n="4"><def>thank-offering</def></sense>
 				<status p="392">base</status>
 			</entry>
 			<page p="393"/>
@@ -38634,7 +38634,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="r.bv.ab" cite="full" form="false" mod="III">[<w>צִיר</w>] <pos>n.[m.]</pos> <def>pivot</def> (of door), <def>hinge</def>;—<ref r="Prov.26.14">Pr 26:14</ref>
 				<status p="852">ref</status>
 			</entry>
-			<entry id="r.bv.ac" cite="full" form="false" mod="IV">[<w>צִיר</w>] <pos>n.[m.]</pos> <def>pang</def> (prop. <def>writing</def>)
+			<entry id="r.bv.ac" cite="full" form="false" mod="IV">[<w>צִיר</w>] <pos>n.[m.]</pos> <def>pang</def> (prop. <def>writhing</def>)
 				<status p="852">base</status>
 			</entry>
 			<entry id="r.bv.ad">
@@ -41891,7 +41891,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="t.ai">
 			<entry id="t.ai.aa" type="root" form="false" mod="I">[<w>רָבָה</w>] 225 <pos>vb</pos>. <def>be</def>, or <def>become</def>, <def>much</def>, <def>many</def>, <def>great</def>
-				<sense><stem>Qal</stem> 69
+				<sense><stem>Qal</stem> 59
 					<sense n="1"><def>become many</def>, <def>numerous</def></sense>
 					<sense n="2">
 						<sense n="a"><def>be great</def></sense>
@@ -41899,7 +41899,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 					</sense>
 				</sense>
 				<sense><stem>Pi</stem>. 4 <def>make large</def>, <def>increase</def></sense>
-				<sense><stem>Hiph</stem>. 162<sense n="1"><def>make much</def> or <def>many</def></sense>
+				<sense><stem>Hiph</stem>. 162
+					<sense n="1"><def>make much</def> or <def>many</def></sense>
 					<sense n="2"><def>make great</def>, obj. pers.</sense>
 				</sense>
 				<status p="915">base</status>
@@ -44739,6 +44740,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<status p="969">base</status>
 			</entry>
 			<entry id="u.bk.ac" cite="full" mod="I"><w>שָׂכָר</w> <pos>n.m</pos>. <def>hire</def>, <def>wages</def>
+				<sense n="1"><def>wages</def>, of a servant</sense>
+				<sense n="2">= <def>reward</def>, for work done, faithfulness, etc.</sense>
+				<sense n="3"><def>passage-money</def>, <def>fare</def></sense>
 				<status p="969">base</status>
 			</entry>
 			<entry id="u.bk.ad" cite="full" mod="II"><w>שָׂכָר</w> <pos>n.pr.m</pos>.
