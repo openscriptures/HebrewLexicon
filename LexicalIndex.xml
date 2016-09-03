@@ -7431,7 +7431,7 @@
 			<etym type="sub">ckr</etym>
 		</entry>
 		<entry id="cjw">
-			<w xlit="gilgāl">גִּלְגָּל</w> <pos>Np</pos> <def>Gilgal. See also</def>
+			<w xlit="gilgāl">גִּלְגָּל</w> <pos>Np</pos> <def>Gilgal</def>
 			<xref bdb="c.cd.ar" strong="1537" twot="353k"/>
 			<etym type="sub">ckr</etym>
 		</entry>
@@ -44361,7 +44361,7 @@
 			<xref bdb="w.bp.ad" strong="8620"/>
 		</entry>
 		<entry id="nwx">
-			<w xlit="tāqôaʿ">תָּקוֹעַ</w> <pos>N</pos> <def>blast-</def>
+			<w xlit="tāqôaʿ">תָּקוֹעַ</w> <pos>N</pos> <def>blast-instrument</def>
 			<xref bdb="w.bp.ac" strong="8619" twot="2541b"/>
 			<etym type="sub">nxd</etym>
 		</entry>

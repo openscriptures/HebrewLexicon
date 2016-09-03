@@ -5273,7 +5273,10 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<sense n="5"><def>household</def>, <def>family</def> (592 t.)</sense>
 				<sense n="6">house, including <def>household affairs</def></sense>
 				<sense n="7">lit. <def>housewards</def>, hence metaph. <def>inwards</def></sense>
-				<sense n="8"><w>מִבַּיִת</w></sense>
+				<sense n="8"><w>מִבַּיִת</w>
+					<sense n="a"><pos>adv</pos>. <def>on the inside</def></sense>
+					<sense n="b"><pos>prep</pos>. <def>within</def></sense>
+				</sense>
 				<status p="108">base</status>
 			</entry>
 			<page p="109"/>
@@ -34157,7 +34160,15 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="p.dj">
 			<entry id="p.dj.aa" type="root"><w>עִם</w> <pos>prep</pos>. <def>with</def>
-				<sense n="1">of fellowship and companionship</sense>
+				<sense n="1">of fellowship and companionship
+					<sense n="a">of <def>aid</def></sense>
+					<sense n="b">Of actions done jointly <def>with</def> another</sense>
+					<sense n="c">If the common action be of the nature of a contest or combat, <def>with</def> in the sense of <def>against</def></sense>
+					<sense n="d">Of dealing <def>with</def> a person, or of the relation in which one stands <def>with</def>, or <def>towards</def>, another</sense>
+					<sense n="e">Of a common lot <def>together with</def> the wicked</sense>
+					<sense n="f">Of equality or resemblance generally <def>aid</def></sense>
+					<sense n="g">Of <em>time</em>, <def>as long as</def></sense>
+				</sense>
 				<sense n="2">Of a locality, <def>close to</def>, <def>beside</def></sense>
 				<sense n="3">Of persons, <w>עִם</w> is spec.
 					<sense n="a"><def>in the house</def> or <def>family</def> or <def>service of</def></sense>
