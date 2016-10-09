@@ -4838,9 +4838,9 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="b.as">
 			<entry id="b.as.aa" type="root" cite="full" form="false">[<w>בּוּס</w>] <pos>vb</pos>. <def>tread down</def>, <def>trample</def>
-				<sense><stem>Qal</stem> <def>tread down</def>, <def>trample</def></sense>
-				<sense><stem>Pol</stem>. <def>tread down</def></sense>
-				<sense><stem>Hithpol</stem>. of the blind movements if infant’s limbs, <def>kick out</def> (this was and that), fig. of Jerusalem.</sense>
+				<sense><stem>Qal</stem> <def>tread down</def>, <def>trample</def> (of warriors)</sense>
+				<sense><stem>Pol</stem>. <def>tread down</def>, in bad sense</sense>
+				<sense><stem>Hithpol</stem>. of the blind movements of infant’s limbs, <def>kick out</def> (this way and that), fig. of Jerusalem.</sense>
 				<sense><stem>Hoph</stem>. pass. <def>trodden down</def></sense>
 				<status p="100">base</status>
 			</entry>
@@ -30118,7 +30118,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="n.fl.ac" cite="full"><w>נֵרְגָּ֑ל</w> <pos>n.pr.div</pos>. worshipped by men of Cuth <ref r="2Kgs.17.30">2 K 17:30</ref>
 				<status p="669">ref</status>
 			</entry>
-			<entry id="n.fl.ad" cite="full"><w>נֵרְגַּל שַׁרְאֶ֫צֶר</w> <pos>n.pr.m</pos>. chief soothsayer in train of Nebuchad.
+			<entry id="n.fl.ad" cite="full"><w>נֵרְגַּל שַׂרְאֶ֫צֶר</w> <pos>n.pr.m</pos>. chief soothsayer in train of Nebuchad.
 				<status p="669">base</status>
 			</entry>
 			<entry id="n.fl.ae">
