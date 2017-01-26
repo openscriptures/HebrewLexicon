@@ -53426,7 +53426,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="xt.ad">
-			<entry id="xt.ad.aa" type="root"><w>רגם</w>
+			<entry id="xt.ad.aa" type="root"><w>רבע</w>
 				<status p="1112">new</status>
 			</entry>
 			<entry id="xt.ad.ab" cite="full"><w>אַרְבַּע</w>, <w>אַרְבְּעָה</w> <pos>n.m</pos>. et <pos>f</pos>. <def>four</def>
@@ -53785,8 +53785,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<sense><stem>Haph</stem>. <def>make ruler</def></sense>
 				<status p="1115">base</status>
 			</entry>
-			<entry id="xv.as.ab" cite="full"><w>שִׁלְטוֹן</w> <pos>n.[m.]</pos> <def>mastery</def>
-				<status p="1115">base</status>
+			<entry id="xv.as.ab" cite="full"><w>שִׁלְטוֹן</w> <pos>n.m.</pos> a <def>ruler</def>; <ref r="Dan.3.2">Dn 3:2</ref>, <ref r="Dan.3.3">3</ref>.
+				<status p="1115">added</status>
 			</entry>
 			<entry id="xv.as.ac" cite="full"><w>שׇׁלְטָן</w> <pos>n.m</pos>. <def>dominion</def>
 				<status p="1115">base</status>
