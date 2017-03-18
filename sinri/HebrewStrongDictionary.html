@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Hebrew Strong Dictionary</title>
+	<script src="//cdn.bootcss.com/jquery/3.2.0/jquery.min.js"></script>
+	<script type="text/javascript">
+		var dict={};
+		var dict_mapping={};
+		$(document).ready(()=>{
+			$.ajax({
+				url:'./json/StrongHebrewDictionary.json',
+				method:'get',
+				dataType:'json'
+			}).done((book)=>{
+				dict=book.dict;
+				dict_mapping=book.mapping;
+			}).fail(()=>{
+				alert('ajax failed');
+			})
+		});
+		function query_hebrew(){
+			let heb=$("#heb").val();
+			display_strong(dict_mapping[heb]);
+		}
+		function query_strong(){
+			let strong_number=$("#strong_number").val();
+			display_strong("H"+strong_number);
+		}
+
+		function display_strong(number){
+			let result="Not found.";
+			if(dict[number]){
+				let item=dict[number];
+				console.log(number,item);
+
+				result="";
+				result+="<h3>#"+number+" "+item.w.w+"</h3>";
+				result+="<p><span class='part_tag'>pos</span>"+item.w.pos+"</p>";
+				result+="<p><span class='part_tag'>pron</span>"+item.w.pron+"</p>";
+				result+="<p><span class='part_tag'>src</span>"+item.w.src+"</p>";
+				result+="<p><span class='part_tag'>xlit</span>"+item.w.xlit+"</p>";
+				result+="<p><span class='part_tag'>source</span>"+item.source+"</p>";
+				result+="<p><span class='part_tag'>meaning</span>"+item.meaning+"</p>";
+				result+="<p><span class='part_tag'>usage</span>"+item.usage+"</p>";
+				if(item.note){
+					result+="<p><span class='part_tag'>note</span>"+item.note+"</p>";
+				}
+			}
+			$("#resule_box").html(result);
+		}
+	</script>
+	<style type="text/css">
+		h3 {
+
+		}
+		p {
+
+		}
+		span.part_tag{
+			color: blue;
+			margin: auto 5px;
+		}
+		def {
+			color: green;
+		}
+		w {
+			color: red;
+		}
+		#query_box {
+			border-bottom: 1px solid gray;
+			margin: 10px;
+		}
+		#resule_box{
+			margin: 10px;
+			border-bottom: 1px solid gray;
+			min-height: 200px;
+		}
+		#footer {
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h1>Hebrew Strong Dictionary</h1>
+	<div id="query_box">
+		<p>
+			Hebrew:
+			<input type="text" id="heb">
+			<button onclick="query_hebrew()">Query</button>
+		</p>
+		<p>
+			Strong Number:
+			<input type="text" id="strong_number">
+			<button onclick="query_strong()">Query</button>
+		</p>
+	</div>
+	<div id="resule_box">
+		
+	</div>
+	<div id="footer">
+		Copyright 2017 Sinri Edogawa. Dictionary data powered by <a href="https://github.com/openscriptures/HebrewLexicon">Project HebrewLexicon</a>.
+	</div>
+</body>
+</html>
+<!-- http://localhost/leqee/Lab/SinriStrongDict/HebrewStrongDictionary.html -->
