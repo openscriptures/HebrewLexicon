@@ -49694,8 +49694,8 @@
 		<usage>breastplate, coat of mail, habergeon, harness. See <w src="H5630">5630</w>.</usage>
 	</entry>
 	<entry id="H8303">
-		<w pos="n-pr" pron="shir-yone'" xlit="Shiryôwn" xml:lang="x-pn">שִׁרְיוֹן</w>
-		<source>and <w pron="sir-yone'" xlit="Siryôn">שִׂרְיֹן</w>; the same as <w src="H8304">8304</w> (i.e. sheeted with snow);</source>
+		<w pos="n-pr-loc" pron="shir-yone'" xlit="Shiryôwn" xml:lang="x-pn">שִׁרְיוֹן</w>
+		<source>and <w pron="sir-yone'" xlit="Siryôn">שִׂרְיֹן</w>; the same as <w src="H8302">8302</w> (i.e. <def>sheeted</def> with snow);</source>
 		<meaning><def>Shirjon</def> or <def>Sirjon</def>, a peak of the Lebanon</meaning>
 		<usage>Sirion.</usage>
 	</entry>
