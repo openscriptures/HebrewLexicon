@@ -3,22 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Hebrew Strong Dictionary</title>
-	<script src="//cdn.bootcss.com/jquery/3.2.0/jquery.min.js"></script>
+	<script src="./js/jquery.min.js"></script>
+	<script src="./json/StrongHebrewDictionary.json"></script>
+
 	<script type="text/javascript">
-		var dict={};
-		var dict_mapping={};
-		$(document).ready(()=>{
-			$.ajax({
-				url:'./json/StrongHebrewDictionary.json',
-				method:'get',
-				dataType:'json'
-			}).done((book)=>{
-				dict=book.dict;
-				dict_mapping=book.mapping;
-			}).fail(()=>{
-				alert('ajax failed');
-			})
-		});
+
 		function query_hebrew(){
 			let heb=$("#heb").val();
 			display_strong(dict_mapping[heb]);
