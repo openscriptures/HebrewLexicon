@@ -6773,7 +6773,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="b.dg.aa" type="root" cite="full" form="false">[<w>בָּרַר</w>] <pos>vb</pos>. <def>purify</def>, <def>select</def>
 				<sense><stem>Qal</stem>
 					<sense n="1"><def>purge out</def>, <def>purify</def></sense>
-					<sense n="2"><def>choose</def>, <def>select</def>, only <pos>Pt</pos>. and in Chronicler</sense>
+					<sense n="2"><def>choose</def>, <def>select</def>, only <asp>Pt</asp>. and in Chronicler</sense>
 					<sense n="3"><def>cleanse</def>, <def>make shining</def>, <def>polish</def></sense>
 					<sense n="4"><def>test</def>, <def>prove</def></sense>
 				</sense>
@@ -14336,7 +14336,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 				<sense><stem>Qal</stem> <def>my heart is pierced</def> (wounded) <def>within me</def></sense>
 				<sense><stem>Pi</stem>. <def>in the hand of the ones wounding thee</def></sense>
 				<sense><stem>Pu</stem>. <def>pierced by the sword</def></sense>
-				<sense><pos>Po‛el</pos> <def>his hand pierced the fleeing serpent</def></sense>
+				<sense><stem>Po‛el</stem> <def>his hand pierced the fleeing serpent</def></sense>
 				<sense><stem>Po‛al</stem> <def>pierced</def>, <def>wounded because of our transgressions</def></sense>
 				<status p="319">base</status>
 			</entry>
@@ -14508,7 +14508,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<entry id="h.cz.aa" type="root" cite="full" form="false" mod="II">[<w>חָלַץ</w>] <pos>vb</pos>. <def>equip</def> for war
 				<sense><stem>Qal</stem> only <asp>Pt</asp>. <em>pass</em>.—<def>equipped</def>
 					<sense n="1">as <pos>adj</pos>.</sense>
-					<sense n="2">as <pos>subst. sq. coll</pos>.</sense>
+					<sense n="2">as <pos>subst. sg. coll</pos>.</sense>
 				</sense>
 				<sense><stem>Niph</stem>. <def>be</def> or <def>go equipped</def></sense>
 				<sense><stem>Hiph</stem>. <def>will brace up, invigorate, thy bones</def></sense>
@@ -51912,7 +51912,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="xj.ad">
 			<entry id="xj.ad.aa" type="root" cite="full"><w>יְהַב</w> <pos>vb</pos>. <def>give</def>
-				<sense><pos>Pe</pos>.
+				<sense><stem>Pe</stem>.
 					<sense n="1"><def>give</def></sense> 
 					<sense n="2"><def>place</def>, <def>lay</def> foundations</sense>
 				</sense> 
@@ -51949,7 +51949,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="xj.af">
-			<entry id="xj.af.aa" type="root" cite="full" form="false">[<w>יְטַב</w>] <pos>vb</pos>. <def>be</def> (<def>good</def>,) <def>pleasing</def>;—<pos>Pe</pos>. <ref r="Ezra.7.18">Ezr 7:18</ref>
+			<entry id="xj.af.aa" type="root" cite="full" form="false">[<w>יְטַב</w>] <pos>vb</pos>. <def>be</def> (<def>good</def>,) <def>pleasing</def>;—<stem>Pe</stem>. <ref r="Ezra.7.18">Ezr 7:18</ref>
 				<status p="1095">ref</status>
 			</entry>
 		</section>

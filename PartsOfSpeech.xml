@@ -22,24 +22,76 @@
     <Name>Adverb</Name>
   </POS>
   <POS>
+    <Code>arbor</Code>
+    <Name>Arbor</Name>
+  </POS>
+  <POS>
+    <Code>comm</Code>
+    <Name>Common</Name>
+  </POS>
+  <POS>
     <Code>conj</Code>
     <Name>Conjunction</Name>
   </POS>
   <POS>
-    <Code>da</Code>
-    <Name>Definite Article</Name>
-  </POS>
-  <POS>
-    <Code>dp</Code>
-    <Name>Demonstrative Particle</Name>
+    <Code>cstr</Code>
+    <Name>Construct</Name>
   </POS>
   <POS>
     <Code>d</Code>
     <Name>Demonstrative Pronoun</Name>
   </POS>
   <POS>
-    <Code>x</Code>
-    <Name>Indefinite Pronoun</Name>
+    <Code>da</Code>
+    <Name>Definite Article</Name>
+  </POS>
+  <POS>
+    <Code>deae</Code>
+    <Name>Deity</Name>
+  </POS>
+  <POS>
+    <Code>dei</Code>
+    <Name>Deity</Name>
+  </POS>
+  <POS>
+    <Code>denom</Code>
+    <Name>Denominative</Name>
+  </POS>
+  <POS>
+    <Code>div</Code>
+    <Name>Divine</Name>
+  </POS>
+  <POS>
+    <Code>dp</Code>
+    <Name>Demonstrative Particle</Name>
+  </POS>
+  <POS>
+    <Code>du</Code>
+    <Name>Dual</Name>
+  </POS>
+  <POS>
+    <Code>enclitic part</Code>
+    <Name>Enclitic Particle</Name>
+  </POS>
+  <POS>
+    <Code>epith</Code>
+    <Name>Epithet</Name>
+  </POS>
+  <POS>
+    <Code>fl</Code>
+    <Name>Flumen</Name>
+  </POS>
+  <POS>
+    <Code>flum</Code>
+    <Name>Flumen</Name>
+  </POS>
+  <POS>
+    <Code>font</Code>
+    <Name>Fountain</Name>
+  </POS>
+  <POS>
+    <Code>indef</Code>
+    <Name>Indefinite</Name>
   </POS>
   <POS>
     <Code>inj</Code>
@@ -48,6 +100,14 @@
   <POS>
     <Code>i</Code>
     <Name>Interrogative Pronoun</Name>
+  </POS>
+  <POS>
+    <Code>mens</Code>
+    <Name>Month</Name>
+  </POS>
+  <POS>
+    <Code>mont</Code>
+    <Name>Mountain</Name>
   </POS>
   <POS>
     <Code>np</Code>
@@ -70,22 +130,6 @@
     <Name>Noun Masculine Location</Name>
   </POS>
   <POS>
-    <Code>prt</Code>
-    <Name>Particle</Name>
-  </POS>
-  <POS>
-    <Code>p</Code>
-    <Name>Personal Pronoun</Name>
-  </POS>
-  <POS>
-    <Code>prep</Code>
-    <Name>Preposition</Name>
-  </POS>
-  <POS>
-    <Code>pron</Code>
-    <Name>Pronoun</Name>
-  </POS>
-  <POS>
     <Code>n-pr</Code>
     <Name>Proper Name</Name>
   </POS>
@@ -102,15 +146,63 @@
     <Name>Proper Name Masculine</Name>
   </POS>
   <POS>
-    <Code>rpt</Code>
-    <Name>Relative Particle</Name>
+    <Code>p</Code>
+    <Name>Personal Pronoun</Name>
+  </POS>
+  <POS>
+    <Code>pr</Code>
+    <Name>Proper</Name>
+  </POS>
+  <POS>
+    <Code>prep</Code>
+    <Name>Preposition</Name>
+  </POS>
+  <POS>
+    <Code>pron</Code>
+    <Name>Pronoun</Name>
+  </POS>
+  <POS>
+    <Code>prt</Code>
+    <Name>Particle</Name>
+  </POS>
+  <POS>
+    <Code>pt</Code>
+    <Name>Participle</Name>
+  </POS>
+  <POS>
+    <Code>putei</Code>
+    <Name>Well</Name>
   </POS>
   <POS>
     <Code>r</Code>
     <Name>Relative Pronoun</Name>
   </POS>
   <POS>
+    <Code>rpt</Code>
+    <Name>Relative Particle</Name>
+  </POS>
+  <POS>
+    <Code>rup</Code>
+    <Name>Cliff</Name>
+  </POS>
+  <POS>
+    <Code>sg</Code>
+    <Name>Singular</Name>
+  </POS>
+  <POS>
+    <Code>terr</Code>
+    <Name>Territory</Name>
+  </POS>
+  <POS>
+    <Code>urb</Code>
+    <Name>City</Name>
+  </POS>
+  <POS>
     <Code>v</Code>
     <Name>Verb</Name>
+  </POS>
+  <POS>
+    <Code>x</Code>
+    <Name>Indefinite Pronoun</Name>
   </POS>
 </PartsOfSpeech>
