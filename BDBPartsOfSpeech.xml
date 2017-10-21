@@ -1,0 +1,544 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- A key for the part of speech codes modified for BDB uhal -->
+<PartsOfSpeech>
+ <POS>
+   <Code>,f</Code>
+   <Name>And Feminine</Name>
+ </POS>
+ <POS>
+   <Code>?</Code>
+   <Name>?</Name>
+ </POS>
+ <POS>
+   <Code>1pl</Code>
+   <Name>1st Person Plural</Name>
+ </POS>
+ <POS>
+   <Code>1s</Code>
+   <Name>1st Person Singular</Name>
+ </POS>
+ <POS>
+   <Code>2 f</Code>
+   <Name>2nd Person Feminine</Name>
+ </POS>
+ <POS>
+   <Code>2 m</Code>
+   <Name>2nd Person Masculine</Name>
+ </POS>
+ <POS>
+   <Code>2 s</Code>
+   <Name>2nd Person Singular</Name>
+ </POS>
+ <POS>
+   <Code>2mpl</Code>
+   <Name>2nd Person Masculine Plural</Name>
+ </POS>
+ <POS>
+   <Code>2ms</Code>
+   <Name>2nd Person Masculine Singular</Name>
+ </POS>
+ <POS>
+   <Code>3 pl</Code>
+   <Name>3rd Person Plural</Name>
+ </POS>
+ <POS>
+   <Code>3mpl</Code>
+   <Name>3rd Person Masculine Plural</Name>
+ </POS>
+ <POS>
+   <Code>3pl</Code>
+   <Name>3rd Person Plural</Name>
+ </POS>
+ <POS>
+   <Code>3s</Code>
+   <Name>3rd Person Singular</Name>
+ </POS>
+ <POS>
+   <Code>a</Code>
+   <Name>Adjective</Name>
+ </POS>
+ <POS>
+   <Code>abs</Code>
+   <Name>Abstract</Name>
+ </POS>
+ <POS>
+   <Code>abst</Code>
+   <Name>Abstract</Name>
+ </POS>
+ <POS>
+   <Code>abstr</Code>
+   <Name>Abstract</Name>
+ </POS>
+ <POS>
+   <Code>acc</Code>
+   <Name>Accusative</Name>
+ </POS>
+ <POS>
+   <Code>adj</Code>
+   <Name>Adjective</Name>
+ </POS>
+ <POS>
+   <Code>adv</Code>
+   <Name>Adverb</Name>
+ </POS>
+ <POS>
+   <Code>adv</Code>
+   <Name>Adverb</Name>
+ </POS>
+ <POS>
+   <Code>a-f</Code>
+   <Name>Adjective Feminine</Name>
+ </POS>
+ <POS>
+   <Code>a-gent</Code>
+   <Name>Gentilic Adjective</Name>
+ </POS>
+ <POS>
+   <Code>a-m</Code>
+   <Name>Adjective Masculine</Name>
+ </POS>
+ <POS>
+   <Code>appell</Code>
+   <Name>Appellation</Name>
+ </POS>
+ <POS>
+   <Code>arbor</Code>
+   <Name>Arbor</Name>
+ </POS>
+ <POS>
+   <Code>as an exclam</Code>
+   <Name>As An Exclamation</Name>
+ </POS>
+ <POS>
+   <Code>coll</Code>
+   <Name>Collective</Name>
+ </POS>
+ <POS>
+   <Code>comm</Code>
+   <Name>Common</Name>
+ </POS>
+ <POS>
+   <Code>conj</Code>
+   <Name>Conjunction</Name>
+ </POS>
+ <POS>
+   <Code>cstr</Code>
+   <Name>Construct</Name>
+ </POS>
+ <POS>
+   <Code>d</Code>
+   <Name>Demonstrative Pronoun</Name>
+ </POS>
+ <POS>
+   <Code>da</Code>
+   <Name>Definite Article</Name>
+ </POS>
+ <POS>
+   <Code>deae</Code>
+   <Name>Deity</Name>
+ </POS>
+ <POS>
+   <Code>definite article</Code>
+   <Name>Definite Article</Name>
+ </POS>
+ <POS>
+   <Code>dei</Code>
+   <Name>Deity</Name>
+ </POS>
+ <POS>
+   <Code>demonstr</Code>
+   <Name>Demonstrative</Name>
+ </POS>
+ <POS>
+   <Code>denom</Code>
+   <Name>Denominative</Name>
+ </POS>
+ <POS>
+   <Code>div</Code>
+   <Name>Divine</Name>
+ </POS>
+ <POS>
+   <Code>divin</Code>
+   <Name>Divinity</Name>
+ </POS>
+ <POS>
+   <Code>dp</Code>
+   <Name>Demonstrative Particle</Name>
+ </POS>
+ <POS>
+   <Code>du</Code>
+   <Name>Dual</Name>
+ </POS>
+ <POS>
+   <Code>Dual</Code>
+   <Name>Dual</Name>
+ </POS>
+ <POS>
+   <Code>emph</Code>
+   <Name>Emphatic</Name>
+ </POS>
+ <POS>
+   <Code>enclitic part</Code>
+   <Name>Enclitic Particle</Name>
+ </POS>
+ <POS>
+   <Code>epith</Code>
+   <Name>Epithet</Name>
+ </POS>
+ <POS>
+   <Code>exclam</Code>
+   <Name>Exclamatory</Name>
+ </POS>
+ <POS>
+   <Code>exhortation</Code>
+   <Name>Exhortation</Name>
+ </POS>
+ <POS>
+   <Code>f</Code>
+   <Name>Feminine</Name>
+ </POS>
+ <POS>
+   <Code>fem</Code>
+   <Name>Feminine</Name>
+ </POS>
+ <POS>
+   <Code>fl</Code>
+   <Name>Flumen</Name>
+ </POS>
+ <POS>
+   <Code>flum</Code>
+   <Name>Flumen</Name>
+ </POS>
+ <POS>
+   <Code>font</Code>
+   <Name>Fountain</Name>
+ </POS>
+ <POS>
+   <Code>gent</Code>
+   <Name>Genitive</Name>
+ </POS>
+ <POS>
+   <Code>Haph</Code>
+   <Name>Hophal</Name>
+ </POS>
+ <POS>
+   <Code>Hiph</Code>
+   <Name>Hiphil</Name>
+ </POS>
+ <POS>
+   <Code>Hithp</Code>
+   <Name>Hithpael</Name>
+ </POS>
+ <POS>
+   <Code>Hithpe</Code>
+   <Name>Hithpael</Name>
+ </POS>
+ <POS>
+   <Code>Hoph</Code>
+   <Name>Hophal</Name>
+ </POS>
+ <POS>
+   <Code>hypoth</Code>
+   <Name>Hypothetical</Name>
+ </POS>
+ <POS>
+   <Code>i</Code>
+   <Name>Interrogative Pronoun</Name>
+ </POS>
+ <POS>
+   <Code>indecl</Code>
+   <Name>Indeclinable</Name>
+ </POS>
+ <POS>
+   <Code>indef</Code>
+   <Name>Indefinite</Name>
+ </POS>
+ <POS>
+   <Code>inj</Code>
+   <Name>Interjection</Name>
+ </POS>
+ <POS>
+   <Code>intens</Code>
+   <Name>Intense</Name>
+ </POS>
+ <POS>
+   <Code>interj</Code>
+   <Name>Interjection</Name>
+ </POS>
+ <POS>
+   <Code>interr</Code>
+   <Name>Interrogative</Name>
+ </POS>
+ <POS>
+   <Code>Interrog</Code>
+   <Name>Interrogative</Name>
+ </POS>
+ <POS>
+   <Code>interrog</Code>
+   <Name>Interrogative</Name>
+ </POS>
+ <POS>
+   <Code>intrans</Code>
+   <Name>Intransitive</Name>
+ </POS>
+ <POS>
+   <Code>loc</Code>
+   <Name>Locative</Name>
+ </POS>
+ <POS>
+   <Code>m</Code>
+   <Name>Masculine</Name>
+ </POS>
+ <POS>
+   <Code>mark of accus</Code>
+   <Name>Mark Of Accusative</Name>
+ </POS>
+ <POS>
+   <Code>masc</Code>
+   <Name>Masculine</Name>
+ </POS>
+ <POS>
+   <Code>mens</Code>
+   <Name>Month</Name>
+ </POS>
+ <POS>
+   <Code>mont</Code>
+   <Name>Mountain</Name>
+ </POS>
+ <POS>
+   <Code>n</Code>
+   <Name>Noun</Name>
+ </POS>
+ <POS>
+   <Code>n-f</Code>
+   <Name>Noun Feminine</Name>
+ </POS>
+ <POS>
+   <Code>Niph</Code>
+   <Name>Niphal</Name>
+ </POS>
+ <POS>
+   <Code>nm</Code>
+   <Name>Noun Masculine</Name>
+ </POS>
+ <POS>
+   <Code>n-m</Code>
+   <Name>Noun Masculine</Name>
+ </POS>
+ <POS>
+   <Code>n-m-loc</Code>
+   <Name>Noun Masculine Location</Name>
+ </POS>
+ <POS>
+   <Code>nom</Code>
+   <Name>Nominative</Name>
+ </POS>
+ <POS>
+   <Code>noun</Code>
+   <Name>Noun</Name>
+ </POS>
+ <POS>
+   <Code>np</Code>
+   <Name>Negative Particle</Name>
+ </POS>
+ <POS>
+   <Code>n-pr</Code>
+   <Name>Proper Name</Name>
+ </POS>
+ <POS>
+   <Code>n-pr-f</Code>
+   <Name>Proper Name Feminine</Name>
+ </POS>
+ <POS>
+   <Code>n-pr-loc</Code>
+   <Name>Proper Name Location</Name>
+ </POS>
+ <POS>
+   <Code>n-pr-m</Code>
+   <Name>Proper Name Masculine</Name>
+ </POS>
+ <POS>
+   <Code>num</Code>
+   <Name>Number</Name>
+ </POS>
+ <POS>
+   <Code>of entreaty</Code>
+   <Name>Of Entreaty</Name>
+ </POS>
+ <POS>
+   <Code>of negation</Code>
+   <Name>Of Negation</Name>
+ </POS>
+ <POS>
+   <Code>of relation</Code>
+   <Name>Of Relation</Name>
+ </POS>
+ <POS>
+   <Code>of the 3rd ps</Code>
+   <Name>Of The 3Rd Person Singular</Name>
+ </POS>
+ <POS>
+   <Code>of time</Code>
+   <Name>Of Time</Name>
+ </POS>
+ <POS>
+   <Code>ord</Code>
+   <Name>Ordinal</Name>
+ </POS>
+ <POS>
+   <Code>ordin</Code>
+   <Name>Ordinal</Name>
+ </POS>
+ <POS>
+   <Code>p</Code>
+   <Name>Personal Pronoun</Name>
+ </POS>
+ <POS>
+   <Code>part</Code>
+   <Name>Particle</Name>
+ </POS>
+ <POS>
+   <Code>particle of negation</Code>
+   <Name>Particle Of Negation</Name>
+ </POS>
+ <POS>
+   <Code>patr</Code>
+   <Name>Particle</Name>
+ </POS>
+ <POS>
+   <Code>pers</Code>
+   <Name>Person</Name>
+ </POS>
+ <POS>
+   <Code>Pi</Code>
+   <Name>Piel</Name>
+ </POS>
+ <POS>
+   <Code>pl</Code>
+   <Name>Plural</Name>
+ </POS>
+ <POS>
+   <Code>pr</Code>
+   <Name>Proper</Name>
+ </POS>
+ <POS>
+   <Code>prep</Code>
+   <Name>Preposition</Name>
+ </POS>
+ <POS>
+   <Code>pron</Code>
+   <Name>Pronoun</Name>
+ </POS>
+ <POS>
+   <Code>pt</Code>
+   <Name>Participle</Name>
+ </POS>
+ <POS>
+   <Code>Pu</Code>
+   <Name>Pual</Name>
+ </POS>
+ <POS>
+   <Code>putei</Code>
+   <Name>Well</Name>
+ </POS>
+ <POS>
+   <Code>Qal</Code>
+   <Name>Qal</Name>
+ </POS>
+ <POS>
+   <Code>quadril</Code>
+   <Name>Quadril</Name>
+ </POS>
+ <POS>
+   <Code>r</Code>
+   <Name>Relative Pronoun</Name>
+ </POS>
+ <POS>
+   <Code>rel</Code>
+   <Name>Relative</Name>
+ </POS>
+ <POS>
+   <Code>relative</Code>
+   <Name>Relative</Name>
+ </POS>
+ <POS>
+   <Code>rpt</Code>
+   <Name>Relative Particle</Name>
+ </POS>
+ <POS>
+   <Code>rup</Code>
+   <Name>Cliff</Name>
+ </POS>
+ <POS>
+   <Code>sing</Code>
+   <Name>Singular</Name>
+ </POS>
+ <POS>
+   <Code>subst</Code>
+   <Name>Substantive</Name>
+ </POS>
+ <POS>
+   <Code>terr</Code>
+   <Name>Territory</Name>
+ </POS>
+ <POS>
+   <Code>trib</Code>
+   <Name>Tribe</Name>
+ </POS>
+ <POS>
+   <Code>unit</Code>
+   <Name>Unit</Name>
+ </POS>
+ <POS>
+   <Code>urb</Code>
+   <Name>City</Name>
+ </POS>
+ <POS>
+   <Code>v</Code>
+   <Name>Verb</Name>
+ </POS>
+ <POS>
+   <Code>vb</Code>
+   <Name>Verb</Name>
+ </POS>
+ <POS>
+   <Code>verb</Code>
+   <Name>Verb</Name>
+ </POS>
+ <POS>
+   <Code>verb substantive</Code>
+   <Name>Verb Substantive</Name>
+ </POS>
+ <POS>
+   <Code>verbal</Code>
+   <Name>Verbal</Name>
+ </POS>
+ <POS>
+   <Code>voluntative</Code>
+   <Name>Voluntative</Name>
+ </POS>
+ <POS>
+   <Code>x</Code>
+   <Name>Indefinite Pronoun</Name>
+ </POS>
+ <POS>
+   <Code>Pe</Code>
+   <Name>Piel</Name>
+ </POS>
+ <POS>
+   <Code>Po‛el</Code>
+   <Name>Pual</Name>
+ </POS>
+ <POS>
+   <Code>prt</Code>
+   <Name>Particle</Name>
+ </POS>
+ <POS>
+   <Code>Pt</Code>
+   <Name>Particle</Name>
+ </POS>
+ <POS>
+   <Code>sq</Code>
+   <Name>Sq</Name>
+ </POS>
+</PartsOfSpeech>
