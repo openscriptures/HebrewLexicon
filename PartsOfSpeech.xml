@@ -194,6 +194,10 @@
     <Name>Territory</Name>
   </POS>
   <POS>
+    <Code>trib</Code>
+    <Name>Tribe</Name>
+  </POS>
+  <POS>
     <Code>urb</Code>
     <Name>City</Name>
   </POS>
