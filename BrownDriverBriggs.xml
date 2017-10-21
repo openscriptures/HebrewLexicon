@@ -9578,7 +9578,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="d.bi">
 			<entry id="d.bi.aa" type="root" cite="full" form="false">[<w>דָּכָא</w>] <pos>vb</pos>. <def>crush</def>, poet.
-			not in <pos>Qal</pos>;<sense><stem>Niph</stem>. <def>crushed</def>, fig. = <def>contrite ones</def></sense>
+			not in <stem>Qal</stem>;<sense><stem>Niph</stem>. <def>crushed</def>, fig. = <def>contrite ones</def></sense>
 				<sense><stem>Pi</stem>. <def>crush</def></sense>
 				<sense><stem>Pu</stem>. <def>crushed</def>, broken in pieces, shattered</sense>
 				<sense><stem>Hithp</stem>. <def>crushed</def></sense>
@@ -17385,7 +17385,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="j.af">
 			<entry id="j.af.aa" type="root" cite="full" form="false">[<w>יָאַשׁ</w>] <pos>vb</pos>. <def>despair</def>
 				<sense><stem>Niph</stem>. <def>despair</def></sense>
-				<sense><pos>Pi</pos>. <def>to make my heart despair</def>, <def>concerning all the toil</def>.</sense>
+				<sense><stem>Pi</stem>. <def>to make my heart despair</def>, <def>concerning all the toil</def>.</sense>
 				<status p="384">base</status>
 			</entry>
 			<entry id="j.af.ab">
@@ -22580,7 +22580,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="l.as">
 			<entry id="l.as.aa" type="root" cite="full" form="false" mod="I">[<w>לָוָה</w>] <def>join</def> (intr.), <def>be joined</def>
 				<sense><stem>Qal</stem> (late) <def>be joined to</def>, <def>attend</def></sense>
-				<sense><pos>Niph</pos>. <def>join oneself</def> or <def>be joined</def> unto</sense>
+				<sense><stem>Niph</stem>. <def>join oneself</def> or <def>be joined</def> unto</sense>
 				<status p="530">base</status>
 			</entry>
 			<page p="531"/>
@@ -25804,7 +25804,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="m.ct">
 			<entry id="m.ct.aa" type="root" cite="full" form="false">[<w>מָסַר</w>] <pos>vb</pos>. si vera l. <def>deliver up</def>, <def>offer</def>
 				<sense><stem>Qal</stem> <def>offer</def> (commit) <def>a trespass against</def> <w>י׳</w></sense>
-				<sense><pos>Niph</pos>. <def>delivered over to</def>, <def>assigned to</def> (of warriors)</sense>
+				<sense><stem>Niph</stem>. <def>delivered over to</def>, <def>assigned to</def> (of warriors)</sense>
 				<status p="588">base</status>
 			</entry>
 			<entry id="m.ct.ab">
@@ -28534,7 +28534,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="n.cj">
 			<entry id="n.cj.aa" type="root" cite="full" form="false" mod="I">[<w>נָזָה</w>] <pos>vb</pos>. <def>spurt</def>, <def>spatter</def>; <stem>Hiph</stem>. <def>sprinkle</def>
 				<sense><stem>Qal</stem> <def>spurt</def>, <def>spatter</def></sense>
-				<sense><pos>Hiph</pos>. <def>cause to spurt</def>, <def>sprinkle</def> upon</sense>
+				<sense><stem>Hiph</stem>. <def>cause to spurt</def>, <def>sprinkle</def> upon</sense>
 				<status p="633">base</status>
 			</entry>
 			<entry id="n.cj.ab" cite="full"><w>יִזִּיָּה</w> <pos>n.pr.m</pos>. (<def>may</def> <w>י׳</w> <def>sprinkle</def>);—one of those who took strange wives <ref r="Ezra.10.25">Ezr 10:25</ref>.
@@ -36242,7 +36242,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="q.ba">
 			<entry id="q.ba.aa" type="root" cite="full" form="false">[<w>פָּזַר</w>] <pos>vb</pos>. <def>scatter</def>
 				<sense><stem>Qal</stem> <def>a scattered sheep</def> is Israel (i.e. driven off, isolated).</sense>
-				<sense><pos>Niph</pos>. our bones <def>are scattered</def></sense>
+				<sense><stem>Niph</stem>. our bones <def>are scattered</def></sense>
 				<sense><stem>Pi</stem>. <def>scatter</def></sense>
 				<sense><stem>Pu</stem>. <def>scattered</def></sense>
 				<status p="808">base</status>
@@ -38148,7 +38148,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="r.as">
-			<entry id="r.as.aa" type="root" cite="full" form="false">[<w>צָהֵב</w>, <w>צָהֹב</w>] <pos>vb</pos>. <def>gleam</def>;—<pos>Hoph</pos>. <ref r="Ezra.8.27">Ezr 8:27</ref>
+			<entry id="r.as.aa" type="root" cite="full" form="false">[<w>צָהֵב</w>, <w>צָהֹב</w>] <pos>vb</pos>. <def>gleam</def>;—<stem>Hoph</stem>. <ref r="Ezra.8.27">Ezr 8:27</ref>
 				<status p="843">ref</status>
 			</entry>
 			<entry id="r.as.ab" cite="full"><w>צָהֹב</w> <pos>adj</pos>. <def>gleaming</def>, <def>yellow</def> (of hair);—
@@ -38269,7 +38269,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="r.az">
-			<entry id="r.az.aa" type="root" form="false">[<w>צָוָה</w>] 485 <pos>vb</pos>. <pos>Pi</pos>. <def>lay charge</def> (upon), <def>give charge</def> (to), <def>charge</def>, <def>command</def>, <def>order</def>
+			<entry id="r.az.aa" type="root" form="false">[<w>צָוָה</w>] 485 <pos>vb</pos>. <stem>Pi</stem>. <def>lay charge</def> (upon), <def>give charge</def> (to), <def>charge</def>, <def>command</def>, <def>order</def>
 				<status p="845">base</status>
 			</entry>
 			<page p="846"/>
@@ -39076,7 +39076,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 					<sense n="1"><def>one stooping</def> (under a burden), <def>bending</def></sense> 
 					<sense n="2">trans. <def>men inclining</def>, <def>tipping</def> a vessel, to empty it.</sense>
 				</sense> 
-				<sense><pos>Pi</pos>. I will send tippers <def>and they shall tip him over</def></sense>
+				<sense><stem>Pi</stem>. I will send tippers <def>and they shall tip him over</def></sense>
 				<status p="858">base</status>
 			</entry>
 		</section>
@@ -40636,8 +40636,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="s.bw">
 			<entry id="s.bw.aa" type="root" cite="full" form="false">[<w>קָמַט</w>] <pos>vb</pos>. <def>seize</def>
-				<sense><pos>Qal</pos> <def>and thou didst seize me</def>.</sense> 
-				<sense><pos>Pu</pos>. <def>be snatched</def> (untimely)</sense>
+				<sense><stem>Qal</stem> <def>and thou didst seize me</def>.</sense> 
+				<sense><stem>Pu</stem>. <def>be snatched</def> (untimely)</sense>
 				<status p="888">base</status>
 			</entry>
 		</section>
@@ -40832,7 +40832,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="s.cj">
 			<entry id="s.cj.aa" type="root" cite="full" form="false">[<w>קָפָא</w>] <pos>vb</pos>. <def>thicken</def>, <def>condense</def>, <def>congeal</def>
 				<sense><stem>Qal</stem> <def>the deeps were condensed</def>, became firm walls</sense> 
-				<sense><pos>Hiph</pos>. <def>didst thou not curdle me</def> like cheese</sense>
+				<sense><stem>Hiph</stem>. <def>didst thou not curdle me</def> like cheese</sense>
 				<status p="891">base</status>
 			</entry>
 			<entry id="s.cj.ab" cite="full"><w>קִפָּאוֹן</w> <pos>n.[m.]</pos> <def>congelation</def>;—<ref r="Zech.14.6">Zc 14:6</ref> Qr
@@ -41165,7 +41165,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 					<sense n="1"><def>encounter</def>, <def>meet</def></sense>
 					<sense n="2"><def>befall</def></sense>
 				</sense>
-				<sense><pos>Niph</pos>.
+				<sense><stem>Niph</stem>.
 					<sense n="1"><def>encounter</def>, <def>meet</def> without pre-arrangement</sense>
 					<sense n="2"><def>chance to be present</def></sense>
 				</sense>
@@ -41365,7 +41365,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="s.dj">
 			<entry id="s.dj.aa" type="root" cite="full" form="false">[<w>קָרַץ</w>] <pos>vb</pos>. <def>nip</def>, <def>pinch</def>
 				<sense><stem>Qal</stem> <def>let them</def> not <def>pinch the eye</def>, i.e. wink maliciously</sense> 
-				<sense><pos>Pu</pos>. <def>from clay I was nipped off</def></sense>
+				<sense><stem>Pu</stem>. <def>from clay I was nipped off</def></sense>
 				<status p="902">base</status>
 			</entry>
 			<page p="903"/>
@@ -41466,7 +41466,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="s.dr">
 			<entry id="s.dr.aa" type="root" form="false">[<w>קָשַׁב</w>] 46 <pos>vb</pos>. <def>incline</def>, <def>attend</def>, of ears
 				<sense><stem>Qal</stem> <ref r="Isa.32.3">Is 32:3</ref></sense> 
-				<sense><pos>Hiph</pos>. <def>give attention</def></sense>
+				<sense><stem>Hiph</stem>. <def>give attention</def></sense>
 				<status p="904">base</status>
 			</entry>
 			<entry id="s.dr.ab" cite="full"><w>קֶ֫שֶׁב</w> <pos>n.m</pos>. <def>attentiveness</def>
@@ -43349,7 +43349,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="t.di">
 			<entry id="t.di.aa" type="root" cite="full"><w>רָעֵב</w> <pos>vb</pos>. <def>be hungry</def>
-				<sense><pos>Qal</pos> <def>be hungry</def></sense> 
+				<sense><stem>Qal</stem> <def>be hungry</def></sense> 
 				<sense><stem>Hiph</stem>. <def>allow</def> one <def>to hunger</def></sense>
 				<status p="944">base</status>
 			</entry>
@@ -43383,7 +43383,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 					<sense n="2">intrans.</sense>
 				</sense> 
 				<sense><stem>Niph</stem>. poss.</sense> 
-				<sense><pos>Hiph</pos>. v.</sense>
+				<sense><stem>Hiph</stem>. v.</sense>
 				<status p="944">base</status>
 			</entry>
 			<page p="945"/>
@@ -43759,7 +43759,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			</entry>
 		</section>
 		<section id="t.ea">
-			<entry id="t.ea.aa" type="root" cite="full" form="false">[<w>רָפַק</w>] <pos>vb</pos>. <pos>Hithp</pos>. <def>support oneself</def>, <def>lean</def>;—<ref r="Song.8.5">Ct 8:5</ref>
+			<entry id="t.ea.aa" type="root" cite="full" form="false">[<w>רָפַק</w>] <pos>vb</pos>. <stem>Hithp</stem>. <def>support oneself</def>, <def>lean</def>;—<ref r="Song.8.5">Ct 8:5</ref>
 				<status p="952">ref</status>
 			</entry>
 			<entry id="t.ea.ab">
@@ -43928,7 +43928,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="t.el">
 			<entry id="t.el.aa" type="root" cite="full"><w>רָקַד</w> <pos>vb</pos>. <def>skip about</def>
 				<sense><stem>Qal</stem> <def>skip about</def></sense> 
-				<sense><pos>Pi</pos>. <def>dance</def>, <def>leap</def></sense> 
+				<sense><stem>Pi</stem>. <def>dance</def>, <def>leap</def></sense> 
 				<sense><stem>Hiph</stem>. <def>he</def> (<w>י׳</w>) <def>made them skip</def> like calves</sense>
 				<status p="955">base</status>
 			</entry>
@@ -44121,8 +44121,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		</section>
 		<section id="t.ew">
 			<entry id="t.ew.aa" type="root" cite="full" form="false">[<w>רָתַח</w>] <pos>vb</pos>. <def>boil</def>
-				<sense><pos>Pi</pos>. <def>cause to boil</def></sense> 
-				<sense><pos>Pu</pos>. my bowels <def>have been made to boil</def> without quiet</sense> 
+				<sense><stem>Pi</stem>. <def>cause to boil</def></sense> 
+				<sense><stem>Pu</stem>. my bowels <def>have been made to boil</def> without quiet</sense> 
 				<sense><stem>Hiph</stem>. (the crocod.) <def>maketh the depth boil like the pot</def>.</sense>
 				<status p="958">base</status>
 			</entry>
@@ -45187,8 +45187,8 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="u.cj">
 			<entry id="u.cj.aa" type="root"><w>שָׂרַף</w> 117 <pos>vb</pos>. <def>burn</def>
 				<sense><stem>Qal</stem> <def>burn</def></sense> 
-				<sense><pos>Niph</pos>. <def>be burned</def></sense> 
-				<sense><pos>Pi</pos>. <def>his burner</def>, usu. <def>one burning him</def>, but prob. <def>burning</def> spices for him</sense> 
+				<sense><stem>Niph</stem>. <def>be burned</def></sense> 
+				<sense><stem>Pi</stem>. <def>his burner</def>, usu. <def>one burning him</def>, but prob. <def>burning</def> spices for him</sense> 
 				<sense><stem>Pu</stem>. <def>it was burnt up</def> (and gone).</sense>
 				<status p="976">base</status>
 			</entry>
@@ -45867,7 +45867,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="v.bd">
 			<entry id="v.bd.aa" type="root" cite="full" form="false">[<w>שָׁגֵל</w>] <pos>vb</pos>. <def>violate</def>, <def>ravish</def>
 				<sense><stem>Qal</stem> Kt</sense> 
-				<sense><pos>Niph</pos>. <def>women shall be ravished</def></sense> 
+				<sense><stem>Niph</stem>. <def>women shall be ravished</def></sense> 
 				<sense><stem>Pu</stem>. &lt; <stem>Qal pass</stem>. <def>where hast thou not been ravished?</def></sense>
 				<status p="993">base</status>
 			</entry>
@@ -46365,7 +46365,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 		<section id="v.by">
 			<entry id="v.by.aa" type="root" cite="full" form="false" mod="II">[<w>שׁוּק</w>] <pos>vb</pos>. prob. <def>be abundant</def>
 				<sense><stem>Pō‛l</stem>. <def>thou</def> hast visited the earth <def>and given it abundance</def></sense> 
-				<sense><pos>Hiph</pos>. <def>the vats overflow with must</def></sense>
+				<sense><stem>Hiph</stem>. <def>the vats overflow with must</def></sense>
 				<status p="1003">base</status>
 			</entry>
 		</section>
@@ -51896,7 +51896,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 			<page p="1095"/>
 		</section>
 		<section id="xj.ab">
-			<entry id="xj.ab.aa" type="root" cite="full" form="false">[<w>יְדָא</w>] <pos>vb</pos>. <pos>Haph</pos>. <def>praise</def>
+			<entry id="xj.ab.aa" type="root" cite="full" form="false">[<w>יְדָא</w>] <pos>vb</pos>. <stem>Haph</stem>. <def>praise</def>
 				<status p="1095">base</status>
 			</entry>
 		</section>
@@ -51917,7 +51917,7 @@ papa (cf. EWI §106a); also As. <foreign xml:lang="akk">bab</foreign> Jen ZAI886
 					<sense n="2"><def>place</def>, <def>lay</def> foundations</sense>
 				</sense> 
 				<sense><stem>Pe‛îl</stem>, <def>be given</def></sense> 
-				<sense><pos>Hithpe</pos>.
+				<sense><stem>Hithpe</stem>.
 					<sense n="1"><def>be given</def></sense> 
 					<sense n="2"><def>be paid</def>, of cost</sense>
 				</sense>
