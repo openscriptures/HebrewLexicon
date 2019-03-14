@@ -4165,7 +4165,7 @@
 		</entry>
 		<entry id="bis">
 			<w xlit="bĕ">בְּ</w> <pos>R</pos> <def>in</def>
-			<xref bdb="b.ab.aa" strong="b" twot="193"/>
+			<xref bdb="b.ab.aa" twot="193"/>
 			<etym type="sub">bir</etym>
 		</entry>
 		<entry id="bit">
@@ -9138,7 +9138,7 @@
 		</entry>
 		<entry id="cxq">
 			<w xlit="hă">הֲ</w> <pos>Ti</pos> <def>interrogative particle</def>
-			<xref bdb="e.ac.aa" strong="i" twot="460"/>
+			<xref bdb="e.ac.aa" twot="460"/>
 			<etym type="sub">cxp</etym>
 		</entry>
 		<entry id="cxr">
@@ -9942,7 +9942,7 @@
 		</entry>
 		<entry id="dee">
 			<w xlit="ha">הַ</w> <pos>Td</pos> <def>the</def>
-			<xref bdb="e.ab.aa" strong="d" twot="459"/>
+			<xref bdb="e.ab.aa" twot="459"/>
 			<etym type="main">def</etym>
 		</entry>
 		<entry id="def">
@@ -9957,7 +9957,7 @@
 		</entry>
 		<entry id="deh">
 			<w xlit="wĕ">וְ</w> <pos>C</pos> <def>and</def>
-			<xref bdb="f.ab.aa" strong="c" twot="519"/>
+			<xref bdb="f.ab.aa" twot="519"/>
 			<etym type="main">dei</etym>
 		</entry>
 		<entry id="dei">
@@ -17380,7 +17380,7 @@
 		</entry>
 		<entry id="fnp">
 			<w xlit="kĕ">כְּ</w> <pos>R</pos> <def>like</def>
-			<xref bdb="k.ab.aa" strong="k" twot="937"/>
+			<xref bdb="k.ab.aa" twot="937"/>
 			<etym type="sub">fno</etym>
 		</entry>
 		<entry id="fnq">
@@ -19026,7 +19026,7 @@
 		</entry>
 		<entry id="gau">
 			<w xlit="lĕ">לְ</w> <pos>R</pos> <def>to</def>
-			<xref bdb="l.aa.ab" strong="l" twot="1063"/>
+			<xref bdb="l.aa.ab" twot="1063"/>
 			<etym type="sub">gat</etym>
 		</entry>
 		<entry id="gav">
@@ -25075,7 +25075,7 @@
 		</entry>
 		<entry id="hxh">
 			<w xlit="mi">מִ</w> <pos>R</pos> <def>from</def>
-			<xref bdb="m.cl.aa" strong="m" twot="1212"/>
+			<xref bdb="m.cl.aa" twot="1212"/>
 			<etym type="sub">hcf</etym>
 		</entry>
 		<entry id="hxi">
@@ -43118,7 +43118,7 @@
 		</entry>
 		<entry id="nmw">
 			<w xlit="še">שֶׁ</w> <pos>Pr</pos> <def>who</def>
-			<xref bdb="v.ab.aa" strong="s" twot="2299"/>
+			<xref bdb="v.ab.aa" twot="2299"/>
 			<etym type="sub">mur</etym>
 		</entry>
 		<entry id="nmx">
