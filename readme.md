@@ -38,7 +38,7 @@ Additional files for the current iteration of the lexicon include:
 5.	HebrewLexicon.pdf documentation for all parts of the lexicon.
 
 6.	index.html and its HomeFiles directory have been added to provide a
-	a home page for the lexicon project.
+	home page for the lexicon project.
 
 TWOT numbers are included for reference purposes only.  We are in no way
 directly transcribing the Theological Wordbook of the Old Testament.
