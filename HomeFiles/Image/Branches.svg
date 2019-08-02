@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-flat-20030114.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="38">
+	<desc>Branches</desc>
+	<defs>
+		<path id="branch" d="m 0,0 l 4,-7 0,-8 m 0,8 7,-4 m -11,11 l 8,0 7,-4 m -7,4 l 7,4"/>
+		<g id="figure">
+			<use xlink:href="#branch" transform="translate(15,15)"/>
+			<use xlink:href="#branch" transform="translate(48,34) scale(-1,1)"/>
+		</g>
+	</defs>
+	<use xlink:href="#figure" fill="none" stroke="#77250f" opacity="0.5"/>
+</svg>
