@@ -77,6 +77,12 @@ nav ul li a:hover
     color: #d0e7ad;
 }
 /* Content Styles. */
+section.banner img.responsive
+{
+	max-width: 100%;
+	height: auto;
+    border-bottom: 3px double #482400;
+}
 article
 {
     margin: 1em ;
