@@ -1,16 +1,16 @@
 #	The OSHB Hebrew Lexicon
 
-The Hebrew Lexicon is now established in its current format.  It is
-comprised of three separate files:
+The Hebrew Lexicon is established in a modular format.  It is comprised
+of three separate files:
 
 1.	BrownDriverBriggs.xml contains the current BDB content.  It remains
-	a work in progress.  Entries will be filled out over time, especially
+	a work in progress. Entries can be filled out over time, especially
 	in the area of completing the scripture references, and Hebrew words.
 
-2.	HebrewStrong.xml contains the content for Strong's Hebrew Dictionary.
+2.	HebrewStrong.xml contains the content for Strong’s Hebrew Dictionary.
 	Numerous corrections have been made, since the initial offering, in a
-	significantly different form.  The layout now follows the Hebrew Mesh,
-	with duplicated entries recombined.
+	significantly different form. The layout now has duplicated entries
+	recombined.
 
 3.	LexicalIndex.xml is now the meeting place of BDB, Strong and the
 	TWOT numbers, again significantly improved from the original Strong's
@@ -19,15 +19,15 @@ comprised of three separate files:
 
 The lexical index is meant to bridge the gap between the accessibility
 and ubiquity of Strong's Dictionary, and the comprehensiveness and
-accuracy of BDB.  For those versed in Hebrew, and wanting the depth of
-BDB, it can now be accessed on its own terms.  For those more familiar
+accuracy of BDB. For those versed in Hebrew, and wanting the depth of
+BDB, it can now be accessed on its own terms. For those more familiar
 with Strong numbers, or having current applications based on them, the
 lexical index provides access directly to entries via the Strong numbers.
 
 Additional files for the current iteration of the lexicon include:
 
-1.	AugIndex.xml to map the augmented Strong numbers of the OSHB to the IDs
-	of the lexical index.
+1.	AugIndex.xml to map the augmented Strong numbers of the OSHB to the
+	IDs of the lexical index.
 
 2.	BdbSchema.xsd the XML schema for BrownDriverBriggs.xml.
 
@@ -40,11 +40,14 @@ Additional files for the current iteration of the lexicon include:
 6.	index.html and its HomeFiles directory have been added to provide a
 	home page for the lexicon project.
 
+7.	HomeFiles has been significantly expanded to implement the Lexicon
+	App, for demonstrating the possibilities of the lexicon.
+
 TWOT numbers are included for reference purposes only.  We are in no way
 directly transcribing the Theological Wordbook of the Old Testament.
 
 Thanks to Daniel Owens, for much help, especially in transcribing the
-main entries, not listed in Strong's.
+main entries, not listed in Strong’s.
 
 These files are released under the 
 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
@@ -52,5 +55,6 @@ license. The actual text of Brown, Driver, Briggs and Strong’s Hebrew
 dictionary remain in the public domain.  For attribution purposes,
 credit the Open Scriptures Hebrew Bible Project. 
 
+Updated 8/27/2019  
 Updated 8/2/2019  
 7/5/2013

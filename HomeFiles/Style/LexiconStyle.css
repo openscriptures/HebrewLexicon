@@ -1,3 +1,8 @@
+/*
+ * Styles for the OSHB Lexicon app.
+ * @version 1.0
+ * @author David
+ */
 body
 {
     margin: 0;
@@ -35,8 +40,6 @@ h3
 {
     color: #482400;
     font-size: 1.2em;
-	/*text-align: right;*/
-    direction: initial;
 }
 /* Navigation styles. */
 nav
@@ -45,6 +48,10 @@ nav
     border-bottom: 3px double #482400;
     padding: 0.25ex 0.25em;
     color: #482400;
+}
+nav input
+{
+    font: 1em "Palatino Linotype", Palatino, serif;
 }
 nav ul
 {
@@ -76,6 +83,35 @@ nav ul li a:hover
 	background-color: #97452f;
     color: #d0e7ad;
 }
+/* Tab Bar Navigation styles. */
+nav#tabBar
+{
+	border-bottom: none;
+    padding: 0.25em 0.25em 0 0.25em;
+    border-radius: 1em 1em 0 0;
+}
+nav#tabBar button
+{
+	background-color: #77250f;
+	margin: 0 0.25em;
+	padding: 0.25em 1em;
+    color: #b0d76d;
+    font-family: "Palatino Linotype", Palatino, serif;
+    border-radius: 1em 1em 0 0;
+}
+nav#tabBar button:hover
+{
+	background-color: #97452f;
+    color: #d0e7ad;
+	cursor: pointer;
+}
+nav#tabBar button.current
+{
+    background-color: rgb(255, 254, 251);
+    color: #482400;
+	border: 2px solid rgb(255, 254, 251);
+	cursor: default;
+}
 /* Content Styles. */
 section.banner
 {
@@ -103,29 +139,37 @@ article
 	-webkit-hyphens: auto;
 	hyphens: auto;
 }
+section#display
+{
+    margin: 1em auto;
+    background-color: rgba(255, 254, 251, 0.6);
+    border-radius: 1em;
+    border: 3px double #77250f;
+    box-shadow: 4px 4px 2px #aaa;
+    width: 32em;
+	visibility: hidden;
+}
+section#display div.panel
+{
+	margin: 0 1em;
+	padding-bottom: 1em;
+    border-radius: 0 0 1em 1em;
+	min-height: 350px;
+	max-height: 450px;
+	overflow: auto;
+	display: none;
+}
+section#display div.current
+{
+	display: block;
+}
+section#display div.panel section
+{
+	padding-top: 1em;
+}
 div.license
 {
 	margin: 0 0 1em 1em;
-}
-/* Old styles. */
-nav select
-{
-    font-family: "Palatino Linotype", Palatino, serif;
-}
-/* Interface styles. */
-section#work
-{
-	margin: 0.5em;
-}
-section#work aside
-{
-    padding: 0 1em 0.5em 1em;
-    background-color: rgba(255, 251, 208, 0.7);
-    border: 3px double #217438;
-    width: intrinsic;           /* Safari/WebKit uses a non-standard name */
-    width: -moz-max-content;    /* Firefox/Gecko */
-    width: -webkit-max-content; /* Chrome */
-	margin-top: 0.5em;
 }
 /* Verse display. */
 span.Hebrew, span.punctuation
@@ -133,11 +177,12 @@ span.Hebrew, span.punctuation
     font: 1.5em/1.6em "SBL Hebrew", "Ezra SIL SR", "Ezra SIL", Cardo, "Times New Roman", David, serif;
     direction: rtl;
 }
+/*
 span.Hebrew:hover
 {
     cursor: pointer;
     background-color: rgb(242, 166, 153);
-}
+}*/
 span.qere
 {
     color: blue;
@@ -154,39 +199,43 @@ sup.note
     cursor: pointer;
     direction: ltr;
 }
-/* Popup Styles. */
-section#work div#popup
+div.selected
 {
-    position: absolute;
-    background-color: rgb(255, 253, 208);
-    padding: 0.5em;
-    border-radius: 4px;
-    border: 1px solid #77250f;
-    box-shadow: 2px 2px 2px rgba(64, 64, 64, 0.5);
-    display: none;
+    background-color: rgba(144, 207, 146, 0.6);
 }
-section#work div#popup ul
+/* BDB Styles */
+p
 {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	text-align: center;
+    margin-bottom: 0;
+    line-height: 1.5em;
 }
-section#work div#popup ul li.lemma
+p.root > span:first-child
 {
-	color: #b22234;
+    font-size: 1.8em;
 }
-section#work div#popup ul li.morph
+span.sense
 {
-	color: #3c3b6e;
+    display: block;
+    margin-left: 1em;
 }
-section#work div#popup ul li.accent
+span.ref
 {
-	color: #556b2f;
+    color: green;
+    cursor: pointer;
 }
-div.footer
+span.foreign
 {
-    margin: 20% auto 1em 1em;
-    width: 30em;
-	clear: left;
+    color: red;
+}
+.xlit, .pos, .stem
+{
+    font-weight: bold;
+}
+.xlit
+{
+    font-family: "SBL BibLit", "Gentium Plus", serif;
+}
+.pron, .def, .asp
+{
+    font-style: italic;
 }
